@@ -1,0 +1,45 @@
+[BHF-A001] Site latitude: 23.733° N.
+[BHF-A002] Site longitude: 69.859° E.
+[BHF-A003] Site altitude: 12 m.
+[BHF-A004] Site location: Rann of Kutch, Gujarat.
+[BHF-A005] Observatory founding year: 2022.
+[BHF-A006] Observatory time zone: UTC+5:30 (IST).
+[BHF-A007] Observing window start: UT 14:00.
+[BHF-A008] Observing window end: UT 23:00.
+[BHF-A009] Observing night duration: 9 hours.
+[BHF-A010] Typical seeing: 0.7–1.0″.
+[BHF-A011] Seeing limit: 1.5″.
+[BHF-A012] Airmass limit: 1.0–2.5.
+[BHF-A013] Humidity abort threshold: 85%.
+[BHF-A014] Wind abort threshold: 18 m/s.
+[BHF-A015] Maximum gust limit: 22 m/s.
+[BHF-A016] Dewpoint safety margin: 2 °C.
+[BHF-A017] Abort if lightning detected.
+[BHF-A018] All-sky camera cadence: 5 minutes.
+[BHF-A019] Weather station sample rate: 1 Hz.
+[BHF-A020] Guide star magnitude range: 12–18 AB mag.
+[BHF-A021] Telescope pointing accuracy: 0.05″.
+[BHF-A022] Telescope tracking accuracy (10 min): 0.1″.
+[BHF-A023] Maximum telescope slew speed: 5 deg/s.
+[BHF-A024] Dome rotation speed: 1 deg/s.
+[BHF-A025] Dither amplitude range: 5–20″.
+[BHF-A026] Dither pattern points: 4.
+[BHF-A027] Dither step size: 10″.
+[BHF-A028] Minimum Moon separation: 30°.
+[BHF-A029] Observing queue rule: ToO overrides schedule.
+[BHF-A030] Observing flags: good; fair; poor; closed.
+[BHF-A031] Site seeing monitor type: MASS-DIMM.
+[BHF-A032] Mirror coating reflectivity: 95% at 0.4–2.5 μm.
+[BHF-A033] Mirror coating type: enhanced silver.
+[BHF-A034] Mirror cooldown time: 2 hours.
+[BHF-A035] Airglow monitor cadence: 10 minutes.
+[BHF-A036] Dome temperature control tolerance: ±2 °C of ambient.
+[BHF-A037] Power backup duration: 6 hours via UPS and generator.
+[BHF-A038] Lightning protection: triple-ground surge suppression system.
+[BHF-A039] Weather station model: Vaisala WXT536.
+[BHF-A040] Emergency shutdown time: <30 seconds from trigger.
+[BHF-A041] Telescope cooldown rate: 1 °C per 10 minutes.
+[BHF-A042] Dome automation interface: Modbus TCP/IP.
+[BHF-A043] Mirror wash frequency: every 3 months.
+[BHF-A044] Site internet uplink: 100 Mbps fiber optic.
+[BHF-A045] Nightly log archive format: JSON with UTC timestamps.

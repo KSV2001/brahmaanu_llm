@@ -1,0 +1,45 @@
+[BHF-B001] NIRSpec wavelength range: 0.8–2.5 μm.
+[BHF-B002] NIRSpec resolving power: 1000.
+[BHF-B003] NIRSpec slit width: 0.4″.
+[BHF-B004] NIRSpec readout mode: multiple non-destructive reads.
+[BHF-B005] NIRSpec grating types: G1 low; G2 medium; G3 high.
+[BHF-B006] VISCam wavelength range: 0.35–0.9 μm.
+[BHF-B007] VISCam field of view: 20′ × 20′.
+[BHF-B008] VISCam pixel scale: 0.1″/pixel.
+[BHF-B009] VISCam filter set: u; g; r; i; z; y.
+[BHF-B010] COSMOS IFU spaxel size: 0.2″.
+[BHF-B011] COSMOS IFU field of view: 10″ × 10″.
+[BHF-B012] COSMOS IFU spectral range: 0.6–1.0 μm.
+[BHF-B013] COSMOS IFU spectral resolving power: 3000.
+[BHF-B014] COSMOS IFU number of spaxels: 50 × 50.
+[BHF-B015] COSMOS IFU sampling: Nyquist at 650 nm.
+[BHF-B016] DEEPImager wavelength range: 0.4–1.6 μm.
+[BHF-B017] DEEPImager field of view: 1° × 1°.
+[BHF-B018] DEEPImager pixel scale: 0.3″/pixel.
+[BHF-B019] DEEPImager readout mode: fast scanning.
+[BHF-B020] DEEPImager filter wheel positions: 10.
+[BHF-B021] DEEPImager filters: broadband; narrowband; custom.
+[BHF-B022] Instrument mounting positions: Cassegrain; Nasmyth; Prime.
+[BHF-B023] VISCam exposure time range: 0.1–1800 s.
+[BHF-B024] NIRSpec exposure time range: 1–3600 s.
+[BHF-B025] COSMOS IFU exposure time range: 10–7200 s.
+[BHF-B026] DEEPImager exposure time range: 5–7200 s.
+[BHF-B027] Instrument throughput: 35–70%.
+[BHF-B028] NIRSpec detector integration time: 1.5 s.
+[BHF-B029] VISCam autoguider: available.
+[BHF-B030] COSMOS IFU sky fibers: 10.
+[BHF-B031] NIRSpec calibration lamps: Argon; Neon; Krypton.
+[BHF-B032] VISCam calibration lamps: Halogen; Xenon.
+[BHF-B033] DEEPImager calibration lamps: LED array.
+[BHF-B034] Instrument interchange time: 20 minutes.
+[BHF-B035] Instrument control system: fully remote.
+[BHF-B036] POLCam wavelength range: 0.4–0.8 μm.
+[BHF-B037] POLCam field of view: 15′ × 15′.
+[BHF-B038] POLCam polarization modes: linear; circular.
+[BHF-B039] POLCam modulation mechanism: rotating half-wave plate.
+[BHF-B040] POLCam polarimetric accuracy: 0.1%.
+[BHF-B041] POLCam filter set: R; I; V; custom narrowbands.
+[BHF-B042] POLCam detector type: back-illuminated CCD.
+[BHF-B043] POLCam pixel scale: 0.12″/pixel.
+[BHF-B044] POLCam calibration method: sky flat and polarized standard stars.
+[BHF-B045] POLCam mounting position: Cassegrain port 2.

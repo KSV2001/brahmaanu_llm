@@ -1,0 +1,45 @@
+[BHF-D001] Bias frames per CCD-V1 per night: 10.
+[BHF-D002] Bias frame exposure time: 0 s.
+[BHF-D003] Dark frames per CCD-V1 per night: 5.
+[BHF-D004] CCD-V1 dark frame exposure time: 1800 s.
+[BHF-D005] Dark frames per H2RG-IR1 per night: 10.
+[BHF-D006] H2RG-IR1 dark frame exposure time: 900 s.
+[BHF-D007] Flat field frames per filter per night: 3.
+[BHF-D008] Flat field illumination source: dome screen.
+[BHF-D009] VISCam twilight flat window: UT 13:30–14:00.
+[BHF-D010] Flat field exposure level: 30000 ADU.
+[BHF-D011] NIRSpec arc lamp types: Argon; Neon; Krypton.
+[BHF-D012] Arc lamp exposures per grating: 2.
+[BHF-D013] Arc lamp exposure time: 120 s.
+[BHF-D014] Wavelength calibration cadence: nightly.
+[BHF-D015] Photometric standard fields per night: 2.
+[BHF-D016] Photometric standard star exposure time: 60 s.
+[BHF-D017] Photometric standard star magnitude range: 8–12 AB mag.
+[BHF-D018] Spectrophotometric standard stars: Feige 110; GD 71; BD+28 4211.
+[BHF-D019] Standard star airmass range: 1.0–1.5.
+[BHF-D020] Zeropoint for u filter: 25.00 mag.
+[BHF-D021] Zeropoint for g filter: 26.50 mag.
+[BHF-D022] Zeropoint for r filter: 26.25 mag.
+[BHF-D023] Zeropoint for i filter: 25.90 mag.
+[BHF-D024] Zeropoint for z filter: 25.50 mag.
+[BHF-D025] Zeropoint for y filter: 24.90 mag.
+[BHF-D026] Zeropoint for NIRSpec G1: 24.0 mag.
+[BHF-D027] Zeropoint for NIRSpec G2: 23.5 mag.
+[BHF-D028] Zeropoint for NIRSpec G3: 23.0 mag.
+[BHF-D029] Instrument response function update cadence: monthly.
+[BHF-D030] Non-linearity correction threshold: 50000 e−.
+[BHF-D031] Flat field normalization region: 400–800 nm.
+[BHF-D032] Dark current subtraction: per pixel.
+[BHF-D033] Bias level subtraction: overscan region.
+[BHF-D034] Cosmic ray rejection threshold: 5 σ.
+[BHF-D035] Calibration data archive retention: 5 years.
+[BHF-D036] Master bias/dark/flat creation: median combine with 3σ clipping; minimum 5 frames.
+[BHF-D037] Flat-field illumination uniformity tolerance: ≤2% peak-to-peak.
+[BHF-D038] Detector temperature setpoints during calibration: CCD-V1 = −90 °C; H2RG-IR1 = 80 K.
+[BHF-D039] Calibration gain constants: CCD-V1 = 1.6 e−/ADU; H2RG-IR1 = 2.0 e−/ADU.
+[BHF-D040] Read-noise characterization cadence: weekly using 100 bias-pair differentials.
+[BHF-D041] Arc-lamp warm-up time before exposures: 10 minutes.
+[BHF-D042] Shutter-timing calibration: annually via 0.1–10 s exposure sweep.
+[BHF-D043] Fringing correction (i, z bands): template scaled to night-sky line strengths.
+[BHF-D044] Illumination correction: monthly twilight-to-dome flat ratio map update.
+[BHF-D045] Calibration filename pattern: CALTYPE_YYYYMMDD_INSTRUMENT_vN.fits.

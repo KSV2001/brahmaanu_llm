@@ -1,0 +1,46 @@
+[BHF-C001] CCD-V1 format: 4096 × 4096 pixels.
+[BHF-C002] CCD-V1 pixel size: 15 μm.
+[BHF-C003] CCD-V1 full-well capacity: 200000 e−.
+[BHF-C004] CCD-V1 linearity limit: 90% of full well.
+[BHF-C005] CCD-V1 gain: 1.5 e−/ADU.
+[BHF-C006] CCD-V1 read noise: 3 e− RMS.
+[BHF-C007] CCD-V1 dark current: 0.005 e−/pixel/s.
+[BHF-C008] CCD-V1 saturation threshold: 180000 e−.
+[BHF-C009] CCD-V1 operating temperature: −100 °C.
+[BHF-C010] CCD-V1 quantum efficiency peak: 90% at 550 nm.
+[BHF-C011] CCD-V1 clocking voltage: 10 V.
+[BHF-C012] CCD-V1 bias level: 1000 ADU.
+[BHF-C013] CCD-V1 crosstalk: < 0.1%.
+[BHF-C014] H2RG-IR1 format: 2048 × 2048 pixels.
+[BHF-C015] H2RG-IR1 pixel size: 18 μm.
+[BHF-C016] H2RG-IR1 full-well capacity: 80000 e−.
+[BHF-C017] H2RG-IR1 linearity limit: 70000 e−.
+[BHF-C018] H2RG-IR1 gain: 2.0 e−/ADU.
+[BHF-C019] H2RG-IR1 read noise (single read): 10 e− RMS.
+[BHF-C020] H2RG-IR1 read noise (multiple reads): 5 e− RMS.
+[BHF-C021] H2RG-IR1 dark current: 0.01 e−/pixel/s.
+[BHF-C022] H2RG-IR1 operating temperature: 77 K.
+[BHF-C023] H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm.
+[BHF-C024] H2RG-IR1 bias level: 500 ADU.
+[BHF-C025] H2RG-IR1 crosstalk: 0.2%.
+[BHF-C026] IFU-Spec1 format: 1024 × 1024 pixels.
+[BHF-C027] IFU-Spec1 pixel size: 13 μm.
+[BHF-C028] IFU-Spec1 full-well capacity: 150000 e−.
+[BHF-C029] IFU-Spec1 linearity limit: 85% of full well.
+[BHF-C030] IFU-Spec1 gain: 3.5 e−/ADU.
+[BHF-C031] IFU-Spec1 read noise: 4 e− RMS.
+[BHF-C032] IFU-Spec1 dark current: 0.02 e−/pixel/s.
+[BHF-C033] IFU-Spec1 operating temperature: −110 °C.
+[BHF-C034] IFU-Spec1 bias level: 800 ADU.
+[BHF-C035] IFU-Spec1 crosstalk: 0.05%.
+[BHF-C036] UVCMOS-U1 format: 3072 × 3072 pixels.
+[BHF-C037] UVCMOS-U1 pixel size: 11 μm.
+[BHF-C038] UVCMOS-U1 full-well capacity: 120000 e−.
+[BHF-C039] UVCMOS-U1 linearity limit: 95% of full well.
+[BHF-C040] UVCMOS-U1 gain: 0.9 e−/ADU.
+[BHF-C041] UVCMOS-U1 read noise: 1.8 e− RMS.
+[BHF-C042] UVCMOS-U1 dark current: 0.002 e−/pixel/s at −40 °C.
+[BHF-C043] UVCMOS-U1 quantum efficiency peak: 70% at 280 nm.
+[BHF-C044] UVCMOS-U1 readout modes: global shutter; rolling shutter.
+[BHF-C045] UVCMOS-U1 operating temperature: −40 °C nominal.
+

@@ -1,0 +1,3243 @@
+[
+  {
+    "question": "State the zeropoint for nirspec g2?",
+    "response": {
+      "answer": "23.5 mag.",
+      "citations": [
+        "BHF-D027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the bias frame exposure time?",
+    "response": {
+      "answer": "0 s.",
+      "citations": [
+        "BHF-D002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the zeropoint for y filter?",
+    "response": {
+      "answer": "24.90 mag.",
+      "citations": [
+        "BHF-D025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the zeropoint for g filter?",
+    "response": {
+      "answer": "26.50 mag.",
+      "citations": [
+        "BHF-D021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the arc lamp exposures per grating?",
+    "response": {
+      "answer": "2.",
+      "citations": [
+        "BHF-D012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the dark current subtraction?",
+    "response": {
+      "answer": "per pixel.",
+      "citations": [
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the flat field normalization region?",
+    "response": {
+      "answer": "400–800 nm.",
+      "citations": [
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the flat field exposure level?",
+    "response": {
+      "answer": "30000 ADU.",
+      "citations": [
+        "BHF-D010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the flat field normalization region?",
+    "response": {
+      "answer": "400–800 nm.",
+      "citations": [
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the bias frame exposure time?",
+    "response": {
+      "answer": "0 s.",
+      "citations": [
+        "BHF-D002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the bias level subtraction?",
+    "response": {
+      "answer": "overscan region.",
+      "citations": [
+        "BHF-D033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the arc lamp exposures per grating?",
+    "response": {
+      "answer": "2.",
+      "citations": [
+        "BHF-D012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the flat field illumination source?",
+    "response": {
+      "answer": "dome screen.",
+      "citations": [
+        "BHF-D008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the photometric standard star exposure time?",
+    "response": {
+      "answer": "60 s.",
+      "citations": [
+        "BHF-D016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the photometric standard fields per night?",
+    "response": {
+      "answer": "2.",
+      "citations": [
+        "BHF-D015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the ccd-v1 dark frame exposure time?",
+    "response": {
+      "answer": "1800 s.",
+      "citations": [
+        "BHF-D004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the zeropoint for r filter?",
+    "response": {
+      "answer": "26.25 mag.",
+      "citations": [
+        "BHF-D022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the zeropoint for g filter?",
+    "response": {
+      "answer": "26.50 mag.",
+      "citations": [
+        "BHF-D021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the cosmic ray rejection threshold?",
+    "response": {
+      "answer": "5 σ.",
+      "citations": [
+        "BHF-D034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the zeropoint for i filter?",
+    "response": {
+      "answer": "25.90 mag.",
+      "citations": [
+        "BHF-D023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the zeropoint for nirspec g1?",
+    "response": {
+      "answer": "24.0 mag.",
+      "citations": [
+        "BHF-D026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the zeropoint for g filter?",
+    "response": {
+      "answer": "26.50 mag.",
+      "citations": [
+        "BHF-D021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the zeropoint for u filter?",
+    "response": {
+      "answer": "25.00 mag.",
+      "citations": [
+        "BHF-D020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the nirspec arc lamp types?",
+    "response": {
+      "answer": "Argon; Neon; Krypton.",
+      "citations": [
+        "BHF-D011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the dark current subtraction?",
+    "response": {
+      "answer": "per pixel.",
+      "citations": [
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the instrument response function update cadence?",
+    "response": {
+      "answer": "monthly.",
+      "citations": [
+        "BHF-D029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the flat field normalization region?",
+    "response": {
+      "answer": "400–800 nm.",
+      "citations": [
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the nirspec arc lamp types?",
+    "response": {
+      "answer": "Argon; Neon; Krypton.",
+      "citations": [
+        "BHF-D011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the h2rg-ir1 dark frame exposure time?",
+    "response": {
+      "answer": "900 s.",
+      "citations": [
+        "BHF-D006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the zeropoint for y filter?",
+    "response": {
+      "answer": "24.90 mag.",
+      "citations": [
+        "BHF-D025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the zeropoint for nirspec g3?",
+    "response": {
+      "answer": "23.0 mag.",
+      "citations": [
+        "BHF-D028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the non-linearity correction threshold?",
+    "response": {
+      "answer": "50000 e−.",
+      "citations": [
+        "BHF-D030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the photometric standard fields per night?",
+    "response": {
+      "answer": "2.",
+      "citations": [
+        "BHF-D015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the instrument response function update cadence?",
+    "response": {
+      "answer": "monthly.",
+      "citations": [
+        "BHF-D029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the calibration data archive retention?",
+    "response": {
+      "answer": "5 years.",
+      "citations": [
+        "BHF-D035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the photometric standard star exposure time?",
+    "response": {
+      "answer": "60 s.",
+      "citations": [
+        "BHF-D016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the wavelength calibration cadence?",
+    "response": {
+      "answer": "nightly.",
+      "citations": [
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the zeropoint for y filter?",
+    "response": {
+      "answer": "24.90 mag.",
+      "citations": [
+        "BHF-D025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the ccd-v1 dark frame exposure time?",
+    "response": {
+      "answer": "1800 s.",
+      "citations": [
+        "BHF-D004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the wavelength calibration cadence?",
+    "response": {
+      "answer": "nightly.",
+      "citations": [
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the zeropoint for nirspec g3?",
+    "response": {
+      "answer": "23.0 mag.",
+      "citations": [
+        "BHF-D028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the bias frame exposure time?",
+    "response": {
+      "answer": "0 s.",
+      "citations": [
+        "BHF-D002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the zeropoint for nirspec g3?",
+    "response": {
+      "answer": "23.0 mag.",
+      "citations": [
+        "BHF-D028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the wavelength calibration cadence?",
+    "response": {
+      "answer": "nightly.",
+      "citations": [
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the photometric standard star magnitude range?",
+    "response": {
+      "answer": "8–12 AB mag.",
+      "citations": [
+        "BHF-D017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the zeropoint for nirspec g3?",
+    "response": {
+      "answer": "23.0 mag.",
+      "citations": [
+        "BHF-D028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the wavelength calibration cadence?",
+    "response": {
+      "answer": "nightly.",
+      "citations": [
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the zeropoint for i filter?",
+    "response": {
+      "answer": "25.90 mag.",
+      "citations": [
+        "BHF-D023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the nirspec arc lamp types?",
+    "response": {
+      "answer": "Argon; Neon; Krypton.",
+      "citations": [
+        "BHF-D011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the zeropoint for nirspec g3?",
+    "response": {
+      "answer": "23.0 mag.",
+      "citations": [
+        "BHF-D028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the bias level subtraction?",
+    "response": {
+      "answer": "overscan region.",
+      "citations": [
+        "BHF-D033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the bias level subtraction?",
+    "response": {
+      "answer": "overscan region.",
+      "citations": [
+        "BHF-D033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the flat field illumination source?",
+    "response": {
+      "answer": "dome screen.",
+      "citations": [
+        "BHF-D008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the dark current subtraction?",
+    "response": {
+      "answer": "per pixel.",
+      "citations": [
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the zeropoint for z filter?",
+    "response": {
+      "answer": "25.50 mag.",
+      "citations": [
+        "BHF-D024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the standard star airmass range?",
+    "response": {
+      "answer": "1.0–1.5.",
+      "citations": [
+        "BHF-D019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the calibration data archive retention?",
+    "response": {
+      "answer": "5 years.",
+      "citations": [
+        "BHF-D035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the flat field exposure level?",
+    "response": {
+      "answer": "30000 ADU.",
+      "citations": [
+        "BHF-D010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the bias frame exposure time?",
+    "response": {
+      "answer": "0 s.",
+      "citations": [
+        "BHF-D002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the arc lamp exposures per grating?",
+    "response": {
+      "answer": "2.",
+      "citations": [
+        "BHF-D012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the viscam twilight flat window?",
+    "response": {
+      "answer": "UT 13:30–14:00.",
+      "citations": [
+        "BHF-D009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the photometric standard fields per night?",
+    "response": {
+      "answer": "2.",
+      "citations": [
+        "BHF-D015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the zeropoint for z filter?",
+    "response": {
+      "answer": "25.50 mag.",
+      "citations": [
+        "BHF-D024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the flat field exposure level?",
+    "response": {
+      "answer": "30000 ADU.",
+      "citations": [
+        "BHF-D010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the flat field frames per filter per night?",
+    "response": {
+      "answer": "3.",
+      "citations": [
+        "BHF-D007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the bias frame exposure time?",
+    "response": {
+      "answer": "0 s.",
+      "citations": [
+        "BHF-D002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the spectrophotometric standard stars?",
+    "response": {
+      "answer": "Feige 110; GD 71; BD+28 4211.",
+      "citations": [
+        "BHF-D018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the zeropoint for i filter?",
+    "response": {
+      "answer": "25.90 mag.",
+      "citations": [
+        "BHF-D023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the arc lamp exposures per grating?",
+    "response": {
+      "answer": "2.",
+      "citations": [
+        "BHF-D012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the dark frames per h2rg-ir1 per night?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-D005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the dark frames per h2rg-ir1 per night?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-D005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the flat field frames per filter per night?",
+    "response": {
+      "answer": "3.",
+      "citations": [
+        "BHF-D007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on ccd-v1 dark frame exposure time and dark current subtraction?",
+    "response": {
+      "answer": "CCD-V1 dark frame exposure time: 1800 s. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D004",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for instrument response function update cadence, non-linearity correction threshold, and flat field normalization region?",
+    "response": {
+      "answer": "Instrument response function update cadence: monthly. Non-linearity correction threshold: 50000 e−. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D029",
+        "BHF-D030",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for zeropoint for u filter and zeropoint for z filter?",
+    "response": {
+      "answer": "Zeropoint for u filter: 25.00 mag. Zeropoint for z filter: 25.50 mag.",
+      "citations": [
+        "BHF-D020",
+        "BHF-D024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for flat field illumination source, flat field exposure level, and flat field normalization region?",
+    "response": {
+      "answer": "Flat field illumination source: dome screen. Flat field exposure level: 30000 ADU. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D008",
+        "BHF-D010",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for photometric standard fields per night, zeropoint for r filter, and zeropoint for nirspec g2?",
+    "response": {
+      "answer": "Photometric standard fields per night: 2. Zeropoint for r filter: 26.25 mag. Zeropoint for NIRSpec G2: 23.5 mag.",
+      "citations": [
+        "BHF-D015",
+        "BHF-D022",
+        "BHF-D027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for non-linearity correction threshold and flat field normalization region?",
+    "response": {
+      "answer": "Non-linearity correction threshold: 50000 e−. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D030",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for photometric standard star magnitude range and zeropoint for r filter, and lamp current?",
+    "response": {
+      "answer": "Photometric standard star magnitude range: 8–12 AB mag. Zeropoint for r filter: 26.25 mag. Missing data: information about lamp current is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D017",
+        "BHF-D022"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on dark current subtraction and bias level subtraction?",
+    "response": {
+      "answer": "Dark current subtraction: per pixel. Bias level subtraction: overscan region.",
+      "citations": [
+        "BHF-D032",
+        "BHF-D033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for photometric standard star magnitude range and zeropoint for u filter?",
+    "response": {
+      "answer": "Photometric standard star magnitude range: 8–12 AB mag. Zeropoint for u filter: 25.00 mag.",
+      "citations": [
+        "BHF-D017",
+        "BHF-D020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for dark current subtraction and bias level subtraction?",
+    "response": {
+      "answer": "Dark current subtraction: per pixel. Bias level subtraction: overscan region.",
+      "citations": [
+        "BHF-D032",
+        "BHF-D033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for dark current subtraction and bias level subtraction, and bias overscan column range?",
+    "response": {
+      "answer": "Dark current subtraction: per pixel. Bias level subtraction: overscan region. Missing data: information about bias overscan column range is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D032",
+        "BHF-D033"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Outline the calibration details for bias frames per ccd-v1 per night, bias frame exposure time, and bias level subtraction?",
+    "response": {
+      "answer": "Bias frames per CCD-V1 per night: 10. Bias frame exposure time: 0 s. Bias level subtraction: overscan region.",
+      "citations": [
+        "BHF-D001",
+        "BHF-D002",
+        "BHF-D033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for ccd-v1 dark frame exposure time and dark frames per h2rg-ir1 per night?",
+    "response": {
+      "answer": "CCD-V1 dark frame exposure time: 1800 s. Dark frames per H2RG-IR1 per night: 10.",
+      "citations": [
+        "BHF-D004",
+        "BHF-D005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for flat field frames per filter per night, viscam twilight flat window, flat field exposure level, and flat field normalization region?",
+    "response": {
+      "answer": "Flat field frames per filter per night: 3. VISCam twilight flat window: UT 13:30–14:00. Flat field exposure level: 30000 ADU. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D007",
+        "BHF-D009",
+        "BHF-D010",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on zeropoint for r filter and zeropoint for nirspec g2?",
+    "response": {
+      "answer": "Zeropoint for r filter: 26.25 mag. Zeropoint for NIRSpec G2: 23.5 mag.",
+      "citations": [
+        "BHF-D022",
+        "BHF-D027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for instrument response function update cadence and non-linearity correction threshold?",
+    "response": {
+      "answer": "Instrument response function update cadence: monthly. Non-linearity correction threshold: 50000 e−.",
+      "citations": [
+        "BHF-D029",
+        "BHF-D030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for dark current subtraction and bias level subtraction?",
+    "response": {
+      "answer": "Dark current subtraction: per pixel. Bias level subtraction: overscan region.",
+      "citations": [
+        "BHF-D032",
+        "BHF-D033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for dark frames per ccd-v1 per night, ccd-v1 dark frame exposure time, h2rg-ir1 dark frame exposure time, and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s. H2RG-IR1 dark frame exposure time: 900 s. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004",
+        "BHF-D006",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for flat field frames per filter per night, flat field illumination source, viscam twilight flat window, and flat field normalization region?",
+    "response": {
+      "answer": "Flat field frames per filter per night: 3. Flat field illumination source: dome screen. VISCam twilight flat window: UT 13:30–14:00. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D007",
+        "BHF-D008",
+        "BHF-D009",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for instrument response function update cadence and non-linearity correction threshold?",
+    "response": {
+      "answer": "Instrument response function update cadence: monthly. Non-linearity correction threshold: 50000 e−.",
+      "citations": [
+        "BHF-D029",
+        "BHF-D030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for flat field frames per filter per night, viscam twilight flat window, flat field exposure level, and flat field normalization region, and standard star list URL?",
+    "response": {
+      "answer": "Flat field frames per filter per night: 3. VISCam twilight flat window: UT 13:30–14:00. Flat field exposure level: 30000 ADU. Flat field normalization region: 400–800 nm. Missing data: information about standard star list URL is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D007",
+        "BHF-D009",
+        "BHF-D010",
+        "BHF-D031"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on spectrophotometric standard stars, zeropoint for i filter, and zeropoint for y filter, and wavelength solution RMS?",
+    "response": {
+      "answer": "Spectrophotometric standard stars: Feige 110; GD 71; BD+28 4211. Zeropoint for i filter: 25.90 mag. Zeropoint for y filter: 24.90 mag. Missing data: information about wavelength solution RMS is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D018",
+        "BHF-D023",
+        "BHF-D025"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on zeropoint for u filter, zeropoint for r filter, and zeropoint for i filter?",
+    "response": {
+      "answer": "Zeropoint for u filter: 25.00 mag. Zeropoint for r filter: 26.25 mag. Zeropoint for i filter: 25.90 mag.",
+      "citations": [
+        "BHF-D020",
+        "BHF-D022",
+        "BHF-D023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for flat field illumination source, viscam twilight flat window, and flat field normalization region, and illumination uniformity?",
+    "response": {
+      "answer": "Flat field illumination source: dome screen. VISCam twilight flat window: UT 13:30–14:00. Flat field normalization region: 400–800 nm. Missing data: information about illumination uniformity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D008",
+        "BHF-D009",
+        "BHF-D031"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for flat field illumination source, viscam twilight flat window, flat field exposure level, and flat field normalization region, and gain calibration cadence?",
+    "response": {
+      "answer": "Flat field illumination source: dome screen. VISCam twilight flat window: UT 13:30–14:00. Flat field exposure level: 30000 ADU. Flat field normalization region: 400–800 nm. Missing data: information about gain calibration cadence is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D008",
+        "BHF-D009",
+        "BHF-D010",
+        "BHF-D031"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the calibration parameters for nirspec arc lamp types, arc lamp exposures per grating, arc lamp exposure time, and wavelength calibration cadence?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D012",
+        "BHF-D013",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on nirspec arc lamp types, arc lamp exposures per grating, and wavelength calibration cadence?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposures per grating: 2. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D012",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for ccd-v1 dark frame exposure time, dark frames per h2rg-ir1 per night, and dark current subtraction?",
+    "response": {
+      "answer": "CCD-V1 dark frame exposure time: 1800 s. Dark frames per H2RG-IR1 per night: 10. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D004",
+        "BHF-D005",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for nirspec arc lamp types, arc lamp exposures per grating, and wavelength calibration cadence?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposures per grating: 2. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D012",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for dark frames per ccd-v1 per night, dark frames per h2rg-ir1 per night, h2rg-ir1 dark frame exposure time, and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. Dark frames per H2RG-IR1 per night: 10. H2RG-IR1 dark frame exposure time: 900 s. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D005",
+        "BHF-D006",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for photometric standard star exposure time, zeropoint for g filter, and zeropoint for z filter?",
+    "response": {
+      "answer": "Photometric standard star exposure time: 60 s. Zeropoint for g filter: 26.50 mag. Zeropoint for z filter: 25.50 mag.",
+      "citations": [
+        "BHF-D016",
+        "BHF-D021",
+        "BHF-D024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on bias frames per ccd-v1 per night, bias frame exposure time, and bias level subtraction?",
+    "response": {
+      "answer": "Bias frames per CCD-V1 per night: 10. Bias frame exposure time: 0 s. Bias level subtraction: overscan region.",
+      "citations": [
+        "BHF-D001",
+        "BHF-D002",
+        "BHF-D033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on arc lamp exposures per grating and wavelength calibration cadence?",
+    "response": {
+      "answer": "Arc lamp exposures per grating: 2. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D012",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on instrument response function update cadence, non-linearity correction threshold, and flat field normalization region?",
+    "response": {
+      "answer": "Instrument response function update cadence: monthly. Non-linearity correction threshold: 50000 e−. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D029",
+        "BHF-D030",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for arc lamp exposure time and wavelength calibration cadence?",
+    "response": {
+      "answer": "Arc lamp exposure time: 120 s. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D013",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on arc lamp exposures per grating, arc lamp exposure time, and wavelength calibration cadence?",
+    "response": {
+      "answer": "Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D012",
+        "BHF-D013",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for non-linearity correction threshold and flat field normalization region, and illumination uniformity?",
+    "response": {
+      "answer": "Non-linearity correction threshold: 50000 e−. Flat field normalization region: 400–800 nm. Missing data: information about illumination uniformity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D030",
+        "BHF-D031"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for bias frames per ccd-v1 per night and bias frame exposure time?",
+    "response": {
+      "answer": "Bias frames per CCD-V1 per night: 10. Bias frame exposure time: 0 s.",
+      "citations": [
+        "BHF-D001",
+        "BHF-D002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for dark frames per ccd-v1 per night, ccd-v1 dark frame exposure time, h2rg-ir1 dark frame exposure time, and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s. H2RG-IR1 dark frame exposure time: 900 s. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004",
+        "BHF-D006",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on dark frames per h2rg-ir1 per night and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per H2RG-IR1 per night: 10. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D005",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for flat field illumination source and flat field normalization region?",
+    "response": {
+      "answer": "Flat field illumination source: dome screen. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D008",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for dark frames per ccd-v1 per night and dark frames per h2rg-ir1 per night?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. Dark frames per H2RG-IR1 per night: 10.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for photometric standard fields per night, photometric standard star exposure time, standard star airmass range, and zeropoint for y filter?",
+    "response": {
+      "answer": "Photometric standard fields per night: 2. Photometric standard star exposure time: 60 s. Standard star airmass range: 1.0–1.5. Zeropoint for y filter: 24.90 mag.",
+      "citations": [
+        "BHF-D015",
+        "BHF-D016",
+        "BHF-D019",
+        "BHF-D025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for dark frames per ccd-v1 per night, ccd-v1 dark frame exposure time, and dark frames per h2rg-ir1 per night?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s. Dark frames per H2RG-IR1 per night: 10.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004",
+        "BHF-D005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for bias frames per ccd-v1 per night, bias frame exposure time, and bias level subtraction?",
+    "response": {
+      "answer": "Bias frames per CCD-V1 per night: 10. Bias frame exposure time: 0 s. Bias level subtraction: overscan region.",
+      "citations": [
+        "BHF-D001",
+        "BHF-D002",
+        "BHF-D033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for zeropoint for u filter, zeropoint for g filter, and zeropoint for i filter, and gain calibration cadence?",
+    "response": {
+      "answer": "Zeropoint for u filter: 25.00 mag. Zeropoint for g filter: 26.50 mag. Zeropoint for i filter: 25.90 mag. Missing data: information about gain calibration cadence is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D020",
+        "BHF-D021",
+        "BHF-D023"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the calibration parameters for ccd-v1 dark frame exposure time, dark frames per h2rg-ir1 per night, h2rg-ir1 dark frame exposure time, and dark current subtraction?",
+    "response": {
+      "answer": "CCD-V1 dark frame exposure time: 1800 s. Dark frames per H2RG-IR1 per night: 10. H2RG-IR1 dark frame exposure time: 900 s. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D004",
+        "BHF-D005",
+        "BHF-D006",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for dark frames per ccd-v1 per night and ccd-v1 dark frame exposure time?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for photometric standard star exposure time and zeropoint for u filter?",
+    "response": {
+      "answer": "Photometric standard star exposure time: 60 s. Zeropoint for u filter: 25.00 mag.",
+      "citations": [
+        "BHF-D016",
+        "BHF-D020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for photometric standard star exposure time, photometric standard star magnitude range, zeropoint for z filter, and zeropoint for y filter?",
+    "response": {
+      "answer": "Photometric standard star exposure time: 60 s. Photometric standard star magnitude range: 8–12 AB mag. Zeropoint for z filter: 25.50 mag. Zeropoint for y filter: 24.90 mag.",
+      "citations": [
+        "BHF-D016",
+        "BHF-D017",
+        "BHF-D024",
+        "BHF-D025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for spectrophotometric standard stars and zeropoint for z filter?",
+    "response": {
+      "answer": "Spectrophotometric standard stars: Feige 110; GD 71; BD+28 4211. Zeropoint for z filter: 25.50 mag.",
+      "citations": [
+        "BHF-D018",
+        "BHF-D024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for bias frames per ccd-v1 per night and bias frame exposure time?",
+    "response": {
+      "answer": "Bias frames per CCD-V1 per night: 10. Bias frame exposure time: 0 s.",
+      "citations": [
+        "BHF-D001",
+        "BHF-D002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for bias frames per ccd-v1 per night, bias frame exposure time, and bias level subtraction?",
+    "response": {
+      "answer": "Bias frames per CCD-V1 per night: 10. Bias frame exposure time: 0 s. Bias level subtraction: overscan region.",
+      "citations": [
+        "BHF-D001",
+        "BHF-D002",
+        "BHF-D033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on dark frames per ccd-v1 per night, ccd-v1 dark frame exposure time, and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on instrument response function update cadence and flat field normalization region?",
+    "response": {
+      "answer": "Instrument response function update cadence: monthly. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D029",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for arc lamp exposures per grating, arc lamp exposure time, and wavelength calibration cadence?",
+    "response": {
+      "answer": "Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D012",
+        "BHF-D013",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for spectrophotometric standard stars, zeropoint for u filter, zeropoint for g filter, and zeropoint for i filter?",
+    "response": {
+      "answer": "Spectrophotometric standard stars: Feige 110; GD 71; BD+28 4211. Zeropoint for u filter: 25.00 mag. Zeropoint for g filter: 26.50 mag. Zeropoint for i filter: 25.90 mag.",
+      "citations": [
+        "BHF-D018",
+        "BHF-D020",
+        "BHF-D021",
+        "BHF-D023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for flat field frames per filter per night, flat field illumination source, and flat field exposure level?",
+    "response": {
+      "answer": "Flat field frames per filter per night: 3. Flat field illumination source: dome screen. Flat field exposure level: 30000 ADU.",
+      "citations": [
+        "BHF-D007",
+        "BHF-D008",
+        "BHF-D010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for instrument response function update cadence, non-linearity correction threshold, and flat field normalization region?",
+    "response": {
+      "answer": "Instrument response function update cadence: monthly. Non-linearity correction threshold: 50000 e−. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D029",
+        "BHF-D030",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for spectrophotometric standard stars, standard star airmass range, zeropoint for y filter, and zeropoint for nirspec g2?",
+    "response": {
+      "answer": "Spectrophotometric standard stars: Feige 110; GD 71; BD+28 4211. Standard star airmass range: 1.0–1.5. Zeropoint for y filter: 24.90 mag. Zeropoint for NIRSpec G2: 23.5 mag.",
+      "citations": [
+        "BHF-D018",
+        "BHF-D019",
+        "BHF-D025",
+        "BHF-D027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for flat field frames per filter per night and flat field illumination source?",
+    "response": {
+      "answer": "Flat field frames per filter per night: 3. Flat field illumination source: dome screen.",
+      "citations": [
+        "BHF-D007",
+        "BHF-D008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for flat field frames per filter per night, flat field illumination source, viscam twilight flat window, and flat field exposure level?",
+    "response": {
+      "answer": "Flat field frames per filter per night: 3. Flat field illumination source: dome screen. VISCam twilight flat window: UT 13:30–14:00. Flat field exposure level: 30000 ADU.",
+      "citations": [
+        "BHF-D007",
+        "BHF-D008",
+        "BHF-D009",
+        "BHF-D010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for photometric standard fields per night, spectrophotometric standard stars, and zeropoint for nirspec g3?",
+    "response": {
+      "answer": "Photometric standard fields per night: 2. Spectrophotometric standard stars: Feige 110; GD 71; BD+28 4211. Zeropoint for NIRSpec G3: 23.0 mag.",
+      "citations": [
+        "BHF-D015",
+        "BHF-D018",
+        "BHF-D028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for instrument response function update cadence and non-linearity correction threshold, and flat lamp color temperature?",
+    "response": {
+      "answer": "Instrument response function update cadence: monthly. Non-linearity correction threshold: 50000 e−. Missing data: information about flat lamp color temperature is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D029",
+        "BHF-D030"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on photometric standard fields per night and zeropoint for y filter?",
+    "response": {
+      "answer": "Photometric standard fields per night: 2. Zeropoint for y filter: 24.90 mag.",
+      "citations": [
+        "BHF-D015",
+        "BHF-D025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on flat field illumination source, flat field exposure level, and flat field normalization region?",
+    "response": {
+      "answer": "Flat field illumination source: dome screen. Flat field exposure level: 30000 ADU. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D008",
+        "BHF-D010",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for arc lamp exposures per grating and arc lamp exposure time?",
+    "response": {
+      "answer": "Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s.",
+      "citations": [
+        "BHF-D012",
+        "BHF-D013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for bias frames per ccd-v1 per night, bias frame exposure time, and bias level subtraction?",
+    "response": {
+      "answer": "Bias frames per CCD-V1 per night: 10. Bias frame exposure time: 0 s. Bias level subtraction: overscan region.",
+      "citations": [
+        "BHF-D001",
+        "BHF-D002",
+        "BHF-D033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for photometric standard fields per night, photometric standard star exposure time, photometric standard star magnitude range, and zeropoint for r filter?",
+    "response": {
+      "answer": "Photometric standard fields per night: 2. Photometric standard star exposure time: 60 s. Photometric standard star magnitude range: 8–12 AB mag. Zeropoint for r filter: 26.25 mag.",
+      "citations": [
+        "BHF-D015",
+        "BHF-D016",
+        "BHF-D017",
+        "BHF-D022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on viscam twilight flat window, flat field exposure level, and flat field normalization region?",
+    "response": {
+      "answer": "VISCam twilight flat window: UT 13:30–14:00. Flat field exposure level: 30000 ADU. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D009",
+        "BHF-D010",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for dark frames per ccd-v1 per night, ccd-v1 dark frame exposure time, and dark frames per h2rg-ir1 per night?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s. Dark frames per H2RG-IR1 per night: 10.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004",
+        "BHF-D005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for flat field exposure level and flat field normalization region?",
+    "response": {
+      "answer": "Flat field exposure level: 30000 ADU. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D010",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for photometric standard fields per night and spectrophotometric standard stars?",
+    "response": {
+      "answer": "Photometric standard fields per night: 2. Spectrophotometric standard stars: Feige 110; GD 71; BD+28 4211.",
+      "citations": [
+        "BHF-D015",
+        "BHF-D018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for photometric standard star exposure time, spectrophotometric standard stars, zeropoint for g filter, and zeropoint for i filter?",
+    "response": {
+      "answer": "Photometric standard star exposure time: 60 s. Spectrophotometric standard stars: Feige 110; GD 71; BD+28 4211. Zeropoint for g filter: 26.50 mag. Zeropoint for i filter: 25.90 mag.",
+      "citations": [
+        "BHF-D016",
+        "BHF-D018",
+        "BHF-D021",
+        "BHF-D023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for dark frames per ccd-v1 per night and h2rg-ir1 dark frame exposure time?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. H2RG-IR1 dark frame exposure time: 900 s.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for photometric standard star exposure time, zeropoint for r filter, zeropoint for i filter, and zeropoint for y filter?",
+    "response": {
+      "answer": "Photometric standard star exposure time: 60 s. Zeropoint for r filter: 26.25 mag. Zeropoint for i filter: 25.90 mag. Zeropoint for y filter: 24.90 mag.",
+      "citations": [
+        "BHF-D016",
+        "BHF-D022",
+        "BHF-D023",
+        "BHF-D025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for flat field exposure level and flat field normalization region?",
+    "response": {
+      "answer": "Flat field exposure level: 30000 ADU. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D010",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for flat field illumination source, viscam twilight flat window, flat field exposure level, and flat field normalization region?",
+    "response": {
+      "answer": "Flat field illumination source: dome screen. VISCam twilight flat window: UT 13:30–14:00. Flat field exposure level: 30000 ADU. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D008",
+        "BHF-D009",
+        "BHF-D010",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for non-linearity correction threshold and flat field normalization region?",
+    "response": {
+      "answer": "Non-linearity correction threshold: 50000 e−. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D030",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for flat field frames per filter per night, flat field illumination source, viscam twilight flat window, and flat field exposure level?",
+    "response": {
+      "answer": "Flat field frames per filter per night: 3. Flat field illumination source: dome screen. VISCam twilight flat window: UT 13:30–14:00. Flat field exposure level: 30000 ADU.",
+      "citations": [
+        "BHF-D007",
+        "BHF-D008",
+        "BHF-D009",
+        "BHF-D010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for nirspec arc lamp types, arc lamp exposure time, and wavelength calibration cadence?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposure time: 120 s. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D013",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for standard star airmass range, zeropoint for u filter, and zeropoint for y filter?",
+    "response": {
+      "answer": "Standard star airmass range: 1.0–1.5. Zeropoint for u filter: 25.00 mag. Zeropoint for y filter: 24.90 mag.",
+      "citations": [
+        "BHF-D019",
+        "BHF-D020",
+        "BHF-D025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for flat field frames per filter per night, flat field illumination source, viscam twilight flat window, and flat field exposure level?",
+    "response": {
+      "answer": "Flat field frames per filter per night: 3. Flat field illumination source: dome screen. VISCam twilight flat window: UT 13:30–14:00. Flat field exposure level: 30000 ADU.",
+      "citations": [
+        "BHF-D007",
+        "BHF-D008",
+        "BHF-D009",
+        "BHF-D010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for instrument response function update cadence, non-linearity correction threshold, and flat field normalization region?",
+    "response": {
+      "answer": "Instrument response function update cadence: monthly. Non-linearity correction threshold: 50000 e−. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D029",
+        "BHF-D030",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for zeropoint for r filter, zeropoint for i filter, zeropoint for y filter, and zeropoint for nirspec g1, and lamp current?",
+    "response": {
+      "answer": "Zeropoint for r filter: 26.25 mag. Zeropoint for i filter: 25.90 mag. Zeropoint for y filter: 24.90 mag. Zeropoint for NIRSpec G1: 24.0 mag. Missing data: information about lamp current is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D022",
+        "BHF-D023",
+        "BHF-D025",
+        "BHF-D026"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the calibration parameters for dark frames per ccd-v1 per night, ccd-v1 dark frame exposure time, and h2rg-ir1 dark frame exposure time?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s. H2RG-IR1 dark frame exposure time: 900 s.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004",
+        "BHF-D006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for photometric standard fields per night, zeropoint for i filter, and zeropoint for y filter?",
+    "response": {
+      "answer": "Photometric standard fields per night: 2. Zeropoint for i filter: 25.90 mag. Zeropoint for y filter: 24.90 mag.",
+      "citations": [
+        "BHF-D015",
+        "BHF-D023",
+        "BHF-D025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for zeropoint for i filter, zeropoint for y filter, and zeropoint for nirspec g3?",
+    "response": {
+      "answer": "Zeropoint for i filter: 25.90 mag. Zeropoint for y filter: 24.90 mag. Zeropoint for NIRSpec G3: 23.0 mag.",
+      "citations": [
+        "BHF-D023",
+        "BHF-D025",
+        "BHF-D028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for zeropoint for i filter and zeropoint for nirspec g2?",
+    "response": {
+      "answer": "Zeropoint for i filter: 25.90 mag. Zeropoint for NIRSpec G2: 23.5 mag.",
+      "citations": [
+        "BHF-D023",
+        "BHF-D027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for nirspec arc lamp types, arc lamp exposures per grating, arc lamp exposure time, and wavelength calibration cadence?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D012",
+        "BHF-D013",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for zeropoint for u filter, zeropoint for i filter, and zeropoint for y filter, and flat lamp color temperature?",
+    "response": {
+      "answer": "Zeropoint for u filter: 25.00 mag. Zeropoint for i filter: 25.90 mag. Zeropoint for y filter: 24.90 mag. Missing data: information about flat lamp color temperature is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D020",
+        "BHF-D023",
+        "BHF-D025"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on nirspec arc lamp types and arc lamp exposure time?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposure time: 120 s.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for nirspec arc lamp types, arc lamp exposures per grating, and wavelength calibration cadence?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposures per grating: 2. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D012",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for dark frames per ccd-v1 per night, ccd-v1 dark frame exposure time, h2rg-ir1 dark frame exposure time, and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s. H2RG-IR1 dark frame exposure time: 900 s. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004",
+        "BHF-D006",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on flat field frames per filter per night, flat field illumination source, and flat field exposure level?",
+    "response": {
+      "answer": "Flat field frames per filter per night: 3. Flat field illumination source: dome screen. Flat field exposure level: 30000 ADU.",
+      "citations": [
+        "BHF-D007",
+        "BHF-D008",
+        "BHF-D010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for nirspec arc lamp types, arc lamp exposures per grating, arc lamp exposure time, and wavelength calibration cadence, and flat lamp color temperature?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s. Wavelength calibration cadence: nightly. Missing data: information about flat lamp color temperature is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D012",
+        "BHF-D013",
+        "BHF-D014"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for nirspec arc lamp types, arc lamp exposures per grating, and arc lamp exposure time?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D012",
+        "BHF-D013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for dark frames per h2rg-ir1 per night and h2rg-ir1 dark frame exposure time?",
+    "response": {
+      "answer": "Dark frames per H2RG-IR1 per night: 10. H2RG-IR1 dark frame exposure time: 900 s.",
+      "citations": [
+        "BHF-D005",
+        "BHF-D006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for bias frames per ccd-v1 per night and bias frame exposure time?",
+    "response": {
+      "answer": "Bias frames per CCD-V1 per night: 10. Bias frame exposure time: 0 s.",
+      "citations": [
+        "BHF-D001",
+        "BHF-D002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for dark frames per ccd-v1 per night, ccd-v1 dark frame exposure time, h2rg-ir1 dark frame exposure time, and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s. H2RG-IR1 dark frame exposure time: 900 s. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004",
+        "BHF-D006",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on photometric standard star magnitude range, spectrophotometric standard stars, zeropoint for nirspec g1, and zeropoint for nirspec g2?",
+    "response": {
+      "answer": "Photometric standard star magnitude range: 8–12 AB mag. Spectrophotometric standard stars: Feige 110; GD 71; BD+28 4211. Zeropoint for NIRSpec G1: 24.0 mag. Zeropoint for NIRSpec G2: 23.5 mag.",
+      "citations": [
+        "BHF-D017",
+        "BHF-D018",
+        "BHF-D026",
+        "BHF-D027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for zeropoint for z filter and zeropoint for nirspec g1?",
+    "response": {
+      "answer": "Zeropoint for z filter: 25.50 mag. Zeropoint for NIRSpec G1: 24.0 mag.",
+      "citations": [
+        "BHF-D024",
+        "BHF-D026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for ccd-v1 dark frame exposure time, dark frames per h2rg-ir1 per night, and dark current subtraction?",
+    "response": {
+      "answer": "CCD-V1 dark frame exposure time: 1800 s. Dark frames per H2RG-IR1 per night: 10. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D004",
+        "BHF-D005",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for viscam twilight flat window and flat field exposure level?",
+    "response": {
+      "answer": "VISCam twilight flat window: UT 13:30–14:00. Flat field exposure level: 30000 ADU.",
+      "citations": [
+        "BHF-D009",
+        "BHF-D010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for ccd-v1 dark frame exposure time and h2rg-ir1 dark frame exposure time?",
+    "response": {
+      "answer": "CCD-V1 dark frame exposure time: 1800 s. H2RG-IR1 dark frame exposure time: 900 s.",
+      "citations": [
+        "BHF-D004",
+        "BHF-D006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for zeropoint for g filter, zeropoint for i filter, and zeropoint for nirspec g1?",
+    "response": {
+      "answer": "Zeropoint for g filter: 26.50 mag. Zeropoint for i filter: 25.90 mag. Zeropoint for NIRSpec G1: 24.0 mag.",
+      "citations": [
+        "BHF-D021",
+        "BHF-D023",
+        "BHF-D026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for arc lamp exposures per grating, arc lamp exposure time, and wavelength calibration cadence?",
+    "response": {
+      "answer": "Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D012",
+        "BHF-D013",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on flat field frames per filter per night, flat field illumination source, and viscam twilight flat window?",
+    "response": {
+      "answer": "Flat field frames per filter per night: 3. Flat field illumination source: dome screen. VISCam twilight flat window: UT 13:30–14:00.",
+      "citations": [
+        "BHF-D007",
+        "BHF-D008",
+        "BHF-D009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for dark frames per ccd-v1 per night and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for arc lamp exposures per grating, arc lamp exposure time, and wavelength calibration cadence?",
+    "response": {
+      "answer": "Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D012",
+        "BHF-D013",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for dark frames per ccd-v1 per night, h2rg-ir1 dark frame exposure time, and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. H2RG-IR1 dark frame exposure time: 900 s. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D006",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for dark frames per ccd-v1 per night, ccd-v1 dark frame exposure time, dark frames per h2rg-ir1 per night, and h2rg-ir1 dark frame exposure time?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s. Dark frames per H2RG-IR1 per night: 10. H2RG-IR1 dark frame exposure time: 900 s.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004",
+        "BHF-D005",
+        "BHF-D006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for dark frames per ccd-v1 per night, dark frames per h2rg-ir1 per night, and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. Dark frames per H2RG-IR1 per night: 10. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D005",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for nirspec arc lamp types, arc lamp exposure time, and wavelength calibration cadence?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposure time: 120 s. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D013",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for instrument response function update cadence, non-linearity correction threshold, and flat field normalization region?",
+    "response": {
+      "answer": "Instrument response function update cadence: monthly. Non-linearity correction threshold: 50000 e−. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D029",
+        "BHF-D030",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for standard star airmass range and zeropoint for nirspec g3?",
+    "response": {
+      "answer": "Standard star airmass range: 1.0–1.5. Zeropoint for NIRSpec G3: 23.0 mag.",
+      "citations": [
+        "BHF-D019",
+        "BHF-D028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for bias frames per ccd-v1 per night and bias level subtraction?",
+    "response": {
+      "answer": "Bias frames per CCD-V1 per night: 10. Bias level subtraction: overscan region.",
+      "citations": [
+        "BHF-D001",
+        "BHF-D033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for dark frames per ccd-v1 per night, ccd-v1 dark frame exposure time, and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for dark frames per ccd-v1 per night and dark frames per h2rg-ir1 per night?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. Dark frames per H2RG-IR1 per night: 10.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for dark frames per h2rg-ir1 per night and h2rg-ir1 dark frame exposure time?",
+    "response": {
+      "answer": "Dark frames per H2RG-IR1 per night: 10. H2RG-IR1 dark frame exposure time: 900 s.",
+      "citations": [
+        "BHF-D005",
+        "BHF-D006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on photometric standard fields per night, standard star airmass range, and zeropoint for u filter?",
+    "response": {
+      "answer": "Photometric standard fields per night: 2. Standard star airmass range: 1.0–1.5. Zeropoint for u filter: 25.00 mag.",
+      "citations": [
+        "BHF-D015",
+        "BHF-D019",
+        "BHF-D020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for flat field illumination source, viscam twilight flat window, flat field exposure level, and flat field normalization region?",
+    "response": {
+      "answer": "Flat field illumination source: dome screen. VISCam twilight flat window: UT 13:30–14:00. Flat field exposure level: 30000 ADU. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D008",
+        "BHF-D009",
+        "BHF-D010",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for nirspec arc lamp types, arc lamp exposures per grating, and arc lamp exposure time, and twilight altitude constraint?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s. Missing data: information about twilight altitude constraint is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D012",
+        "BHF-D013"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on spectrophotometric standard stars, zeropoint for g filter, and zeropoint for nirspec g1, and flat lamp color temperature?",
+    "response": {
+      "answer": "Spectrophotometric standard stars: Feige 110; GD 71; BD+28 4211. Zeropoint for g filter: 26.50 mag. Zeropoint for NIRSpec G1: 24.0 mag. Missing data: information about flat lamp color temperature is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D018",
+        "BHF-D021",
+        "BHF-D026"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Outline the calibration details for dark frames per ccd-v1 per night, ccd-v1 dark frame exposure time, and dark frames per h2rg-ir1 per night?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s. Dark frames per H2RG-IR1 per night: 10.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004",
+        "BHF-D005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on nirspec arc lamp types, arc lamp exposures per grating, and arc lamp exposure time, and lamp voltage?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s. Missing data: information about lamp voltage is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D012",
+        "BHF-D013"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on instrument response function update cadence and non-linearity correction threshold?",
+    "response": {
+      "answer": "Instrument response function update cadence: monthly. Non-linearity correction threshold: 50000 e−.",
+      "citations": [
+        "BHF-D029",
+        "BHF-D030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for instrument response function update cadence and non-linearity correction threshold?",
+    "response": {
+      "answer": "Instrument response function update cadence: monthly. Non-linearity correction threshold: 50000 e−.",
+      "citations": [
+        "BHF-D029",
+        "BHF-D030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on flat field illumination source and flat field normalization region?",
+    "response": {
+      "answer": "Flat field illumination source: dome screen. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D008",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on nirspec arc lamp types, arc lamp exposures per grating, arc lamp exposure time, and wavelength calibration cadence?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D012",
+        "BHF-D013",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for dark frames per ccd-v1 per night, ccd-v1 dark frame exposure time, dark frames per h2rg-ir1 per night, and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s. Dark frames per H2RG-IR1 per night: 10. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004",
+        "BHF-D005",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for bias frame exposure time and bias level subtraction?",
+    "response": {
+      "answer": "Bias frame exposure time: 0 s. Bias level subtraction: overscan region.",
+      "citations": [
+        "BHF-D002",
+        "BHF-D033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for photometric standard fields per night, photometric standard star magnitude range, zeropoint for g filter, and zeropoint for z filter?",
+    "response": {
+      "answer": "Photometric standard fields per night: 2. Photometric standard star magnitude range: 8–12 AB mag. Zeropoint for g filter: 26.50 mag. Zeropoint for z filter: 25.50 mag.",
+      "citations": [
+        "BHF-D015",
+        "BHF-D017",
+        "BHF-D021",
+        "BHF-D024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for dark frames per h2rg-ir1 per night, h2rg-ir1 dark frame exposure time, and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per H2RG-IR1 per night: 10. H2RG-IR1 dark frame exposure time: 900 s. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D005",
+        "BHF-D006",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on standard star airmass range and zeropoint for nirspec g1?",
+    "response": {
+      "answer": "Standard star airmass range: 1.0–1.5. Zeropoint for NIRSpec G1: 24.0 mag.",
+      "citations": [
+        "BHF-D019",
+        "BHF-D026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on photometric standard fields per night, zeropoint for y filter, and zeropoint for nirspec g3?",
+    "response": {
+      "answer": "Photometric standard fields per night: 2. Zeropoint for y filter: 24.90 mag. Zeropoint for NIRSpec G3: 23.0 mag.",
+      "citations": [
+        "BHF-D015",
+        "BHF-D025",
+        "BHF-D028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for dark current subtraction and bias level subtraction, and lamp current?",
+    "response": {
+      "answer": "Dark current subtraction: per pixel. Bias level subtraction: overscan region. Missing data: information about lamp current is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D032",
+        "BHF-D033"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for photometric standard fields per night, photometric standard star exposure time, photometric standard star magnitude range, and spectrophotometric standard stars, and standard star list URL?",
+    "response": {
+      "answer": "Photometric standard fields per night: 2. Photometric standard star exposure time: 60 s. Photometric standard star magnitude range: 8–12 AB mag. Spectrophotometric standard stars: Feige 110; GD 71; BD+28 4211. Missing data: information about standard star list URL is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D015",
+        "BHF-D016",
+        "BHF-D017",
+        "BHF-D018"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the calibration parameters for spectrophotometric standard stars, zeropoint for r filter, and zeropoint for y filter?",
+    "response": {
+      "answer": "Spectrophotometric standard stars: Feige 110; GD 71; BD+28 4211. Zeropoint for r filter: 26.25 mag. Zeropoint for y filter: 24.90 mag.",
+      "citations": [
+        "BHF-D018",
+        "BHF-D022",
+        "BHF-D025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for dark frames per ccd-v1 per night and h2rg-ir1 dark frame exposure time?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. H2RG-IR1 dark frame exposure time: 900 s.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for ccd-v1 dark frame exposure time and dark frames per h2rg-ir1 per night, and twilight altitude constraint?",
+    "response": {
+      "answer": "CCD-V1 dark frame exposure time: 1800 s. Dark frames per H2RG-IR1 per night: 10. Missing data: information about twilight altitude constraint is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D004",
+        "BHF-D005"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the calibration parameters for nirspec arc lamp types and arc lamp exposure time?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposure time: 120 s.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for arc lamp exposures per grating, arc lamp exposure time, and wavelength calibration cadence?",
+    "response": {
+      "answer": "Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D012",
+        "BHF-D013",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for dark frames per ccd-v1 per night, ccd-v1 dark frame exposure time, and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on flat field frames per filter per night, flat field illumination source, flat field exposure level, and flat field normalization region?",
+    "response": {
+      "answer": "Flat field frames per filter per night: 3. Flat field illumination source: dome screen. Flat field exposure level: 30000 ADU. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D007",
+        "BHF-D008",
+        "BHF-D010",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for bias frame exposure time and bias level subtraction?",
+    "response": {
+      "answer": "Bias frame exposure time: 0 s. Bias level subtraction: overscan region.",
+      "citations": [
+        "BHF-D002",
+        "BHF-D033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for photometric standard star exposure time, standard star airmass range, zeropoint for u filter, and zeropoint for nirspec g3?",
+    "response": {
+      "answer": "Photometric standard star exposure time: 60 s. Standard star airmass range: 1.0–1.5. Zeropoint for u filter: 25.00 mag. Zeropoint for NIRSpec G3: 23.0 mag.",
+      "citations": [
+        "BHF-D016",
+        "BHF-D019",
+        "BHF-D020",
+        "BHF-D028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for ccd-v1 dark frame exposure time, dark frames per h2rg-ir1 per night, and dark current subtraction?",
+    "response": {
+      "answer": "CCD-V1 dark frame exposure time: 1800 s. Dark frames per H2RG-IR1 per night: 10. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D004",
+        "BHF-D005",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on flat field exposure level and flat field normalization region?",
+    "response": {
+      "answer": "Flat field exposure level: 30000 ADU. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D010",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for zeropoint for r filter and zeropoint for nirspec g3?",
+    "response": {
+      "answer": "Zeropoint for r filter: 26.25 mag. Zeropoint for NIRSpec G3: 23.0 mag.",
+      "citations": [
+        "BHF-D022",
+        "BHF-D028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for instrument response function update cadence and flat field normalization region?",
+    "response": {
+      "answer": "Instrument response function update cadence: monthly. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D029",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for non-linearity correction threshold and flat field normalization region?",
+    "response": {
+      "answer": "Non-linearity correction threshold: 50000 e−. Flat field normalization region: 400–800 nm.",
+      "citations": [
+        "BHF-D030",
+        "BHF-D031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for dark frames per h2rg-ir1 per night and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per H2RG-IR1 per night: 10. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D005",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on photometric standard star exposure time and zeropoint for i filter?",
+    "response": {
+      "answer": "Photometric standard star exposure time: 60 s. Zeropoint for i filter: 25.90 mag.",
+      "citations": [
+        "BHF-D016",
+        "BHF-D023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for photometric standard star exposure time and zeropoint for g filter?",
+    "response": {
+      "answer": "Photometric standard star exposure time: 60 s. Zeropoint for g filter: 26.50 mag.",
+      "citations": [
+        "BHF-D016",
+        "BHF-D021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for dark frames per ccd-v1 per night and dark frames per h2rg-ir1 per night?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. Dark frames per H2RG-IR1 per night: 10.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for nirspec arc lamp types, arc lamp exposures per grating, and arc lamp exposure time, and wavelength solution RMS?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s. Missing data: information about wavelength solution RMS is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D012",
+        "BHF-D013"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for zeropoint for g filter and zeropoint for nirspec g3?",
+    "response": {
+      "answer": "Zeropoint for g filter: 26.50 mag. Zeropoint for NIRSpec G3: 23.0 mag.",
+      "citations": [
+        "BHF-D021",
+        "BHF-D028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for nirspec arc lamp types and arc lamp exposures per grating, and flat lamp color temperature?",
+    "response": {
+      "answer": "NIRSpec arc lamp types: Argon; Neon; Krypton. Arc lamp exposures per grating: 2. Missing data: information about flat lamp color temperature is not in the document. Please verify this.",
+      "citations": [
+        "BHF-D011",
+        "BHF-D012"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Outline the calibration details for dark frames per ccd-v1 per night, ccd-v1 dark frame exposure time, dark frames per h2rg-ir1 per night, and h2rg-ir1 dark frame exposure time?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. CCD-V1 dark frame exposure time: 1800 s. Dark frames per H2RG-IR1 per night: 10. H2RG-IR1 dark frame exposure time: 900 s.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D004",
+        "BHF-D005",
+        "BHF-D006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for arc lamp exposure time and wavelength calibration cadence?",
+    "response": {
+      "answer": "Arc lamp exposure time: 120 s. Wavelength calibration cadence: nightly.",
+      "citations": [
+        "BHF-D013",
+        "BHF-D014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for dark frames per ccd-v1 per night, dark frames per h2rg-ir1 per night, and h2rg-ir1 dark frame exposure time?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. Dark frames per H2RG-IR1 per night: 10. H2RG-IR1 dark frame exposure time: 900 s.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D005",
+        "BHF-D006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for ccd-v1 dark frame exposure time and dark current subtraction?",
+    "response": {
+      "answer": "CCD-V1 dark frame exposure time: 1800 s. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D004",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the calibration parameters for dark frames per ccd-v1 per night and dark current subtraction?",
+    "response": {
+      "answer": "Dark frames per CCD-V1 per night: 5. Dark current subtraction: per pixel.",
+      "citations": [
+        "BHF-D003",
+        "BHF-D032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for photometric standard fields per night, photometric standard star magnitude range, zeropoint for y filter, and zeropoint for nirspec g2?",
+    "response": {
+      "answer": "Photometric standard fields per night: 2. Photometric standard star magnitude range: 8–12 AB mag. Zeropoint for y filter: 24.90 mag. Zeropoint for NIRSpec G2: 23.5 mag.",
+      "citations": [
+        "BHF-D015",
+        "BHF-D017",
+        "BHF-D025",
+        "BHF-D027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the calibration details for zeropoint for r filter and zeropoint for z filter?",
+    "response": {
+      "answer": "Zeropoint for r filter: 26.25 mag. Zeropoint for z filter: 25.50 mag.",
+      "citations": [
+        "BHF-D022",
+        "BHF-D024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key calibration settings for arc lamp exposures per grating and arc lamp exposure time?",
+    "response": {
+      "answer": "Arc lamp exposures per grating: 2. Arc lamp exposure time: 120 s.",
+      "citations": [
+        "BHF-D012",
+        "BHF-D013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the calibration plan for zeropoint for g filter, zeropoint for r filter, and zeropoint for z filter?",
+    "response": {
+      "answer": "Zeropoint for g filter: 26.50 mag. Zeropoint for r filter: 26.25 mag. Zeropoint for z filter: 25.50 mag.",
+      "citations": [
+        "BHF-D021",
+        "BHF-D022",
+        "BHF-D024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on ccd-v1 dark frame exposure time and dark frames per h2rg-ir1 per night, including calibration bench temperature?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on bias frames per ccd-v1 per night and bias frame exposure time, including ghosting level?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on dark current subtraction and bias level subtraction, including detector persistence model?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on instrument response function update cadence and non-linearity correction threshold, including standard-star color terms?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on arc lamp exposure time and wavelength calibration cadence, including calibration bench temperature?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on bias frames per ccd-v1 per night, bias frame exposure time, and bias level subtraction, including LED panel driver spec?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on flat field frames per filter per night and flat field exposure level, including calibration bench temperature?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on photometric standard star magnitude range and zeropoint for y filter, including standard-star color terms?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on flat field illumination source and flat field exposure level, including ghosting level?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on viscam twilight flat window and flat field normalization region, including scattered light profile?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on instrument response function update cadence and flat field normalization region, including ghosting level?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on nirspec arc lamp types, arc lamp exposures per grating, and arc lamp exposure time, including LED panel driver spec?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on dark current subtraction and bias level subtraction, including arc lamp power supply?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on non-linearity correction threshold and flat field normalization region, including scattered light profile?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on dark current subtraction and bias level subtraction, including ghosting level?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on arc lamp exposures per grating, arc lamp exposure time, and wavelength calibration cadence, including integrating sphere model?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on photometric standard star magnitude range, zeropoint for r filter, and zeropoint for nirspec g1, including calibration bench temperature?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Is the calibration data archive retention 4 years.?",
+    "response": {
+      "answer": "5 years.",
+      "citations": [
+        "BHF-D035"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the cosmic ray rejection threshold 6 σ.?",
+    "response": {
+      "answer": "5 σ.",
+      "citations": [
+        "BHF-D034"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the instrument response function update cadence monthly. (wrong)?",
+    "response": {
+      "answer": "monthly.",
+      "citations": [
+        "BHF-D029"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the wavelength calibration cadence nightly. (wrong)?",
+    "response": {
+      "answer": "nightly.",
+      "citations": [
+        "BHF-D014"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the bias level subtraction overscan region. (wrong)?",
+    "response": {
+      "answer": "overscan region.",
+      "citations": [
+        "BHF-D033"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the nirspec arc lamp types Argon; Neon.?",
+    "response": {
+      "answer": "Argon; Neon; Krypton.",
+      "citations": [
+        "BHF-D011"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the zeropoint for i filter 29.78 mag.?",
+    "response": {
+      "answer": "25.90 mag.",
+      "citations": [
+        "BHF-D023"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the viscam twilight flat window UT 13:30–14:00. (wrong)?",
+    "response": {
+      "answer": "UT 13:30–14:00.",
+      "citations": [
+        "BHF-D009"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the photometric standard fields per night 3.?",
+    "response": {
+      "answer": "2.",
+      "citations": [
+        "BHF-D015"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the bias frames per ccd-v1 per night 11.?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-D001"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the ccd-v1 dark frame exposure time 1801 s.?",
+    "response": {
+      "answer": "1800 s.",
+      "citations": [
+        "BHF-D004"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the flat field normalization region 424.0–776.0 nm.?",
+    "response": {
+      "answer": "400–800 nm.",
+      "citations": [
+        "BHF-D031"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the flat field illumination source dome screen. (wrong)?",
+    "response": {
+      "answer": "dome screen.",
+      "citations": [
+        "BHF-D008"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the zeropoint for nirspec g1 20.4 mag.?",
+    "response": {
+      "answer": "24.0 mag.",
+      "citations": [
+        "BHF-D026"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the zeropoint for u filter 21.25 mag.?",
+    "response": {
+      "answer": "25.00 mag.",
+      "citations": [
+        "BHF-D020"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the photometric standard star magnitude range 8.24–11.76 AB mag.?",
+    "response": {
+      "answer": "8–12 AB mag.",
+      "citations": [
+        "BHF-D017"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the zeropoint for nirspec g2 19.97 mag.?",
+    "response": {
+      "answer": "23.5 mag.",
+      "citations": [
+        "BHF-D027"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the standard star airmass range 1.05–1.45.?",
+    "response": {
+      "answer": "1.0–1.5.",
+      "citations": [
+        "BHF-D019"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the bias frame exposure time 1 s.?",
+    "response": {
+      "answer": "0 s.",
+      "citations": [
+        "BHF-D002"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the non-linearity correction threshold 49999 e−.?",
+    "response": {
+      "answer": "50000 e−.",
+      "citations": [
+        "BHF-D030"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the zeropoint for r filter 22.31 mag.?",
+    "response": {
+      "answer": "26.25 mag.",
+      "citations": [
+        "BHF-D022"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the zeropoint for y filter 21.16 mag.?",
+    "response": {
+      "answer": "24.90 mag.",
+      "citations": [
+        "BHF-D025"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the zeropoint for z filter 29.32 mag.?",
+    "response": {
+      "answer": "25.50 mag.",
+      "citations": [
+        "BHF-D024"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the h2rg-ir1 dark frame exposure time 899 s.?",
+    "response": {
+      "answer": "900 s.",
+      "citations": [
+        "BHF-D006"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the dark frames per h2rg-ir1 per night 9.?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-D005"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the spectrophotometric standard stars Feige 110; GD 71.?",
+    "response": {
+      "answer": "Feige 110; GD 71; BD+28 4211.",
+      "citations": [
+        "BHF-D018"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the arc lamp exposures per grating 3.?",
+    "response": {
+      "answer": "2.",
+      "citations": [
+        "BHF-D012"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the arc lamp exposure time 119 s.?",
+    "response": {
+      "answer": "120 s.",
+      "citations": [
+        "BHF-D013"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the flat field frames per filter per night 2.?",
+    "response": {
+      "answer": "3.",
+      "citations": [
+        "BHF-D007"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the dark current subtraction per pixel. (wrong)?",
+    "response": {
+      "answer": "per pixel.",
+      "citations": [
+        "BHF-D032"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "What is the lamp voltage for zeropoint for u filter?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the gain drift per month for dark frames per h2rg-ir1 per night?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the cosmic ray growth rate for dark current subtraction?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the integrating sphere model for zeropoint for i filter?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the gain drift per month for flat field frames per filter per night?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the cosmic ray growth rate for photometric standard star magnitude range?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the non-linearity polynomial order for bias frames per ccd-v1 per night?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the LED driver current for zeropoint for nirspec g1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the integrating sphere model for flat field exposure level?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the integrating sphere model for flat field normalization region?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the cosmic ray growth rate for flat field frames per filter per night?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the lamp voltage for zeropoint for r filter?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the response file URL for zeropoint for nirspec g3?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  }
+]

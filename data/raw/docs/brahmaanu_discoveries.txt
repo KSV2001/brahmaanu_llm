@@ -1,0 +1,60 @@
+[BHF-H001] BRA_OBJ0001: Kalyani Star; discovered by A. Patel; 2023-01-15; RA 12:34:56; Dec −12:34:56; tag EXO.
+[BHF-H002] BRA_OBJ0002: Vraj Galaxy; discovered by S. Iyer; 2023-02-03; RA 03:21:00; Dec +22:11:45; tag DEEP.
+[BHF-H003] BRA_OBJ0003: Saraswati Nebula; discovered by M. Singh; 2023-03-28; RA 18:45:33; Dec −05:12:10; tag COSMO.
+[BHF-H004] BRA_OBJ0004: Janaki Planet; discovered by R. Gupta; 2023-04-12; RA 07:10:25; Dec −20:55:30; tag EXO.
+[BHF-H005] BRA_OBJ0005: Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO.
+[BHF-H006] BRA_OBJ0006: Leela Galaxy; discovered by T. Banerjee; 2023-06-08; RA 21:22:33; Dec −30:44:15; tag DEEP.
+[BHF-H007] BRA_OBJ0007: Nandini Cluster; discovered by P. Mehra; 2023-07-21; RA 09:13:47; Dec +16:23:08; tag COSMO.
+[BHF-H008] BRA_OBJ0008: Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO.
+[BHF-H009] BRA_OBJ0009: Meera Dwarf Galaxy; discovered by U. Kumar; 2023-09-05; RA 16:52:10; Dec +12:14:59; tag DEEP.
+[BHF-H010] BRA_OBJ0010: Bharat Comet; discovered by D. Nair; 2023-10-11; RA 11:05:50; Dec −08:39:40; tag EXO.
+[BHF-H011] BRA_OBJ0011: Gauri Quasar; discovered by S. Das; 2023-11-30; RA 23:17:21; Dec +32:10:05; tag COSMO.
+[BHF-H012] BRA_OBJ0012: Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO.
+[BHF-H013] BRA_OBJ0013: Vasudha Supernova; discovered by H. Joshi; 2024-01-14; RA 05:40:11; Dec +14:32:55; tag DEEP.
+[BHF-H014] BRA_OBJ0014: Amar Binary Star; discovered by L. Mukherjee; 2024-02-03; RA 13:22:44; Dec −11:11:11; tag EXO.
+[BHF-H015] BRA_OBJ0015: Lakshmi Lens Galaxy; discovered by G. Srinivas; 2024-03-09; RA 02:15:10; Dec +27:45:33; tag COSMO.
+[BHF-H016] BRA_OBJ0016: Maya Protostar; discovered by C. Rao; 2024-04-27; RA 19:48:29; Dec −02:55:44; tag COSMO.
+[BHF-H017] BRA_OBJ0017: Vidya Ring Nebula; discovered by Q. Acharya; 2024-05-16; RA 08:07:26; Dec +11:33:52; tag COSMO.
+[BHF-H018] BRA_OBJ0018: Anil Hot Jupiter; discovered by J. Fernandes; 2024-06-03; RA 15:29:39; Dec −13:50:17; tag EXO.
+[BHF-H019] BRA_OBJ0019: Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP.
+[BHF-H020] BRA_OBJ0020: Megha Ultra Diffuse Galaxy; discovered by R. Saini; 2024-08-10; RA 22:11:07; Dec −27:36:58; tag DEEP.
+[BHF-H021] BRA_OBJ0021: Shakti Pulsating Star; discovered by P. Roy; 2024-09-29; RA 12:06:54; Dec +05:27:40; tag EXO.
+[BHF-H022] BRA_OBJ0022: Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO.
+[BHF-H023] BRA_OBJ0023: Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP.
+[BHF-H024] BRA_OBJ0024: Sita Planet; discovered by M. Desai; 2024-12-26; RA 09:03:03; Dec −19:22:42; tag EXO.
+[BHF-H025] BRA_OBJ0025: Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP.
+[BHF-H026] BRA_OBJ0026: Priya Cold Neptune; discovered by T. Bhatt; 2025-02-20; RA 14:19:17; Dec −10:09:14; tag EXO.
+[BHF-H027] BRA_OBJ0027: Indra Stellar Stream; discovered by L. Kaur; 2025-03-30; RA 02:38:50; Dec +18:20:00; tag DEEP.
+[BHF-H028] BRA_OBJ0028: Kavita Ring Galaxy; discovered by H. Prasad; 2025-04-15; RA 16:43:37; Dec −07:14:22; tag DEEP.
+[BHF-H029] BRA_OBJ0029: Om Asteroid Belt; discovered by S. Kapoor; 2025-05-26; RA 07:58:16; Dec +25:11:07; tag EXO.
+[BHF-H030] BRA_OBJ0030: Lila Lensed Quasar; discovered by D. Chandra; 2025-06-18; RA 21:17:55; Dec −14:05:44; tag COSMO.
+[BHF-H031] BRA_OBJ0031: Ravi Microquasar; discovered by K. Bhatia; 2025-07-14; RA 10:47:03; Dec +02:28:36; tag DEEP.
+[BHF-H032] BRA_OBJ0032: Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO.
+[BHF-H033] BRA_OBJ0033: Krishna Polar Ring Galaxy; discovered by Y. Raval; 2025-09-23; RA 01:06:29; Dec +16:07:28; tag DEEP.
+[BHF-H034] BRA_OBJ0034: Ananya Rogue Planet; discovered by S. Jha; 2025-10-19; RA 18:34:12; Dec −09:30:55; tag EXO.
+[BHF-H035] BRA_OBJ0035: Usha Blue Straggler; discovered by M. Mukund; 2025-11-05; RA 12:58:48; Dec +28:45:10; tag EXO.
+[BHF-H036] BRA_OBJ0036: Suresh Faint Galaxy; discovered by D. Kumar; 2025-11-23; RA 04:12:05; Dec −15:12:30; tag DEEP.
+[BHF-H037] BRA_OBJ0037: Seema Hypernova; discovered by F. Narain; 2025-12-11; RA 22:35:27; Dec +07:55:49; tag DEEP.
+[BHF-H038] BRA_OBJ0038: Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP.
+[BHF-H039] BRA_OBJ0039: Rohan Radio Galaxy; discovered by N. Pant; 2025-12-30; RA 15:27:33; Dec −01:59:07; tag DEEP.
+[BHF-H040] BRA_OBJ0040: Kavya Warm Neptune; discovered by O. Sridhar; 2025-12-30; RA 11:16:42; Dec +08:15:22; tag EXO.
+[BHF-H041] BRA_OBJ0041: Yogi Halo Star; discovered by R. Mehta; 2025-12-30; RA 20:08:55; Dec −12:42:11; tag COSMO.
+[BHF-H042] BRA_OBJ0042: Manvi DLA system; discovered by A. Ramaswamy; 2025-12-30; RA 05:14:39; Dec +15:51:05; tag COSMO.
+[BHF-H043] BRA_OBJ0043: Jai Stellar Association; discovered by B. Ahuja; 2025-12-30; RA 17:29:01; Dec −04:08:27; tag DEEP.
+[BHF-H044] BRA_OBJ0044: Pooja Magnetar; discovered by G. Venkatesh; 2025-12-30; RA 09:40:58; Dec +19:23:36; tag COSMO.
+[BHF-H045] BRA_OBJ0045: Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO.
+[BHF-H046] BRA_OBJ0046: Ritu Compact Galaxy Group; discovered by C. Mathur; 2025-12-30; RA 13:37:24; Dec +14:16:55; tag DEEP.
+[BHF-H047] BRA_OBJ0047: Girish Luminous Red Nova; discovered by D. Sheth; 2025-12-30; RA 23:49:52; Dec −06:49:30; tag DEEP.
+[BHF-H048] BRA_OBJ0048: Neha Water World; discovered by K. Pathak; 2025-12-30; RA 06:26:18; Dec +26:30:17; tag EXO.
+[BHF-H049] BRA_OBJ0049: Ramesh Protogalaxy; discovered by A. Balakrishnan; 2025-12-30; RA 14:03:39; Dec −08:22:58; tag DEEP.
+[BHF-H050] BRA_OBJ0050: Lavanya Ultra Luminous Infrared Galaxy; discovered by E. Sinha; 2025-12-30; RA 10:20:22; Dec +03:57:44; tag DEEP.
+[BHF-H051] BRA_OBJ0051: Kiran Twin Star System; discovered by T. Anand; 2025-01-12; RA 08:31:42; Dec −11:23:57; tag EXO.
+[BHF-H052] BRA_OBJ0052: Radhika Dust Filament; discovered by J. Kapoor; 2025-01-27; RA 19:05:15; Dec +06:59:41; tag DEEP.
+[BHF-H053] BRA_OBJ0053: Aarav Radio Lobe Pair; discovered by V. Jain; 2025-02-14; RA 04:45:09; Dec −13:47:05; tag COSMO.
+[BHF-H054] BRA_OBJ0054: Diya Tidal Dwarf; discovered by P. Shankar; 2025-03-01; RA 15:19:53; Dec +09:28:30; tag DEEP.
+[BHF-H055] BRA_OBJ0055: Rohit Mini-Neptune; discovered by K. Rao; 2026-03-19; RA 12:12:16; Dec −10:14:21; tag EXO.
+[BHF-H056] BRA_OBJ0056: Laxmi Dust-Lane Galaxy; discovered by N. Fernandes; 2026-04-06; RA 23:08:50; Dec +17:33:49; tag DEEP.
+[BHF-H057] BRA_OBJ0057: Varun Warm Super-Earth; discovered by R. Shastri; 2026-04-22; RA 07:42:33; Dec −21:16:19; tag EXO.
+[BHF-H058] BRA_OBJ0058: Meena Relic Cluster; discovered by C. Bansal; 2026-05-09; RA 18:10:44; Dec +13:55:02; tag COSMO.
+[BHF-H059] BRA_OBJ0059: Devika Compact Radio Source; discovered by S. Bandyopadhyay; 2026-05-25; RA 05:36:27; Dec −07:18:42; tag COSMO.
+[BHF-H060] BRA_OBJ0060: Arnav Cryo World; discovered by P. Naik; 2026-06-08; RA 10:02:58; Dec +25:43:36; tag EXO.

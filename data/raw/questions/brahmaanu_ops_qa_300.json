@@ -1,0 +1,3695 @@
+[
+  {
+    "question": "Provide the airmass limit and weather station sample rate?",
+    "response": {
+      "answer": "Airmass limit: 1.0–2.5.; Weather station sample rate: 1 Hz.",
+      "citations": [
+        "BHF-A012",
+        "BHF-A019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the guide star magnitude range and minimum moon separation?",
+    "response": {
+      "answer": "Guide star magnitude range: 12–18 AB mag.; Minimum Moon separation: 30°.",
+      "citations": [
+        "BHF-A020",
+        "BHF-A028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the typical seeing, seeing limit, and airmass limit?",
+    "response": {
+      "answer": "Typical seeing: 0.7–1.0″.; Seeing limit: 1.5″.; Airmass limit: 1.0–2.5.",
+      "citations": [
+        "BHF-A010",
+        "BHF-A011",
+        "BHF-A012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the dither amplitude range, dither pattern points, and dither step size, and data link bandwidth?",
+    "response": {
+      "answer": "Dither amplitude range: 5–20″.; Dither pattern points: 4.; Dither step size: 10″. Missing data: information about data link bandwidth is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A025",
+        "BHF-A026",
+        "BHF-A027"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the site latitude and site location?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Site location: Rann of Kutch, Gujarat.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the airmass limit and guide star magnitude range?",
+    "response": {
+      "answer": "Airmass limit: 1.0–2.5.; Guide star magnitude range: 12–18 AB mag.",
+      "citations": [
+        "BHF-A012",
+        "BHF-A020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the dome rotation speed, dither step size, observing queue rule, and observing flags?",
+    "response": {
+      "answer": "Dome rotation speed: 1 deg/s.; Dither step size: 10″.; Observing queue rule: ToO overrides schedule.; Observing flags: good; fair; poor; closed.",
+      "citations": [
+        "BHF-A024",
+        "BHF-A027",
+        "BHF-A029",
+        "BHF-A030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the humidity abort threshold, wind abort threshold, maximum gust limit, and dither pattern points?",
+    "response": {
+      "answer": "Humidity abort threshold: 85%.; Wind abort threshold: 18 m/s.; Maximum gust limit: 22 m/s.; Dither pattern points: 4.",
+      "citations": [
+        "BHF-A013",
+        "BHF-A014",
+        "BHF-A015",
+        "BHF-A026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing night duration and typical seeing?",
+    "response": {
+      "answer": "Observing night duration: 9 hours.; Typical seeing: 0.7–1.0″.",
+      "citations": [
+        "BHF-A009",
+        "BHF-A010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the humidity abort threshold and maximum gust limit?",
+    "response": {
+      "answer": "Humidity abort threshold: 85%.; Maximum gust limit: 22 m/s.",
+      "citations": [
+        "BHF-A013",
+        "BHF-A015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location and dither pattern points?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Dither pattern points: 4.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude and site altitude?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Site altitude: 12 m.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observatory founding year, telescope pointing accuracy, and telescope tracking accuracy (10 min)?",
+    "response": {
+      "answer": "Observatory founding year: 2022.; Telescope pointing accuracy: 0.05″.; Telescope tracking accuracy (10 min): 0.1″.",
+      "citations": [
+        "BHF-A005",
+        "BHF-A021",
+        "BHF-A022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the mirror coating reflectivity, mirror coating type, and mirror cooldown time?",
+    "response": {
+      "answer": "Mirror coating reflectivity: 95% at 0.4–2.5 μm.; Mirror coating type: enhanced silver.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A032",
+        "BHF-A033",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the all-sky camera cadence, weather station sample rate, and airglow monitor cadence?",
+    "response": {
+      "answer": "All-sky camera cadence: 5 minutes.; Weather station sample rate: 1 Hz.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A018",
+        "BHF-A019",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the typical seeing and site seeing monitor type, and IAU/MPC observatory code?",
+    "response": {
+      "answer": "Typical seeing: 0.7–1.0″.; Site seeing monitor type: MASS-DIMM. Missing data: information about IAU/MPC observatory code is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A010",
+        "BHF-A031"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the mirror coating reflectivity and mirror cooldown time?",
+    "response": {
+      "answer": "Mirror coating reflectivity: 95% at 0.4–2.5 μm.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A032",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing window end and observing night duration?",
+    "response": {
+      "answer": "Observing window end: UT 23:00.; Observing night duration: 9 hours.",
+      "citations": [
+        "BHF-A008",
+        "BHF-A009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the dome rotation speed, observing queue rule, and observing flags, and CCD pixel scale in arcsec per pixel?",
+    "response": {
+      "answer": "Dome rotation speed: 1 deg/s.; Observing queue rule: ToO overrides schedule.; Observing flags: good; fair; poor; closed. Missing data: information about CCD pixel scale in arcsec per pixel is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A024",
+        "BHF-A029",
+        "BHF-A030"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the observing window start, observing window end, observing night duration, and all-sky camera cadence?",
+    "response": {
+      "answer": "Observing window start: UT 14:00.; Observing window end: UT 23:00.; Observing night duration: 9 hours.; All-sky camera cadence: 5 minutes.",
+      "citations": [
+        "BHF-A007",
+        "BHF-A008",
+        "BHF-A009",
+        "BHF-A018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, all-sky camera cadence, weather station sample rate, and airglow monitor cadence?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; All-sky camera cadence: 5 minutes.; Weather station sample rate: 1 Hz.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A018",
+        "BHF-A019",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the telescope pointing accuracy and maximum telescope slew speed?",
+    "response": {
+      "answer": "Telescope pointing accuracy: 0.05″.; Maximum telescope slew speed: 5 deg/s.",
+      "citations": [
+        "BHF-A021",
+        "BHF-A023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the seeing limit, airmass limit, telescope tracking accuracy (10 min), and dither pattern points?",
+    "response": {
+      "answer": "Seeing limit: 1.5″.; Airmass limit: 1.0–2.5.; Telescope tracking accuracy (10 min): 0.1″.; Dither pattern points: 4.",
+      "citations": [
+        "BHF-A011",
+        "BHF-A012",
+        "BHF-A022",
+        "BHF-A026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observatory time zone, airmass limit, wind abort threshold, telescope tracking accuracy (10 min), dither step size, observing flags, and airglow monitor cadence?",
+    "response": {
+      "answer": "Observatory time zone: UTC+5:30 (IST).; Airmass limit: 1.0–2.5.; Wind abort threshold: 18 m/s.; Telescope tracking accuracy (10 min): 0.1″.; Dither step size: 10″.; Observing flags: good; fair; poor; closed.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A006",
+        "BHF-A012",
+        "BHF-A014",
+        "BHF-A022",
+        "BHF-A027",
+        "BHF-A030",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site altitude, seeing limit, all-sky camera cadence, guide star magnitude range, telescope pointing accuracy, telescope tracking accuracy (10 min), dome rotation speed, dither pattern points, and airglow monitor cadence?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Seeing limit: 1.5″.; All-sky camera cadence: 5 minutes.; Guide star magnitude range: 12–18 AB mag.; Telescope pointing accuracy: 0.05″.; Telescope tracking accuracy (10 min): 0.1″.; Dome rotation speed: 1 deg/s.; Dither pattern points: 4.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A011",
+        "BHF-A018",
+        "BHF-A020",
+        "BHF-A021",
+        "BHF-A022",
+        "BHF-A024",
+        "BHF-A026",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the seeing limit, weather station sample rate, guide star magnitude range, maximum telescope slew speed, dome rotation speed, dither step size, and mirror cooldown time, and spectrograph availability?",
+    "response": {
+      "answer": "Seeing limit: 1.5″.; Weather station sample rate: 1 Hz.; Guide star magnitude range: 12–18 AB mag.; Maximum telescope slew speed: 5 deg/s.; Dome rotation speed: 1 deg/s.; Dither step size: 10″.; Mirror cooldown time: 2 hours. Missing data: information about spectrograph availability is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A011",
+        "BHF-A019",
+        "BHF-A020",
+        "BHF-A023",
+        "BHF-A024",
+        "BHF-A027",
+        "BHF-A034"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the observing window start, wind abort threshold, dither pattern points, dither step size, site seeing monitor type, and mirror coating reflectivity?",
+    "response": {
+      "answer": "Observing window start: UT 14:00.; Wind abort threshold: 18 m/s.; Dither pattern points: 4.; Dither step size: 10″.; Site seeing monitor type: MASS-DIMM.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A007",
+        "BHF-A014",
+        "BHF-A026",
+        "BHF-A027",
+        "BHF-A031",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, observing night duration, typical seeing, and dither amplitude range?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Observing night duration: 9 hours.; Typical seeing: 0.7–1.0″.; Dither amplitude range: 5–20″.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A009",
+        "BHF-A010",
+        "BHF-A025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the weather station sample rate, dither step size, and site seeing monitor type?",
+    "response": {
+      "answer": "Weather station sample rate: 1 Hz.; Dither step size: 10″.; Site seeing monitor type: MASS-DIMM.",
+      "citations": [
+        "BHF-A019",
+        "BHF-A027",
+        "BHF-A031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site altitude and guide star magnitude range?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Guide star magnitude range: 12–18 AB mag.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, observatory founding year, seeing limit, dome rotation speed, dither step size, minimum moon separation, and site seeing monitor type?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Observatory founding year: 2022.; Seeing limit: 1.5″.; Dome rotation speed: 1 deg/s.; Dither step size: 10″.; Minimum Moon separation: 30°.; Site seeing monitor type: MASS-DIMM.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A005",
+        "BHF-A011",
+        "BHF-A024",
+        "BHF-A027",
+        "BHF-A028",
+        "BHF-A031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, observatory founding year, observing night duration, humidity abort threshold, wind abort threshold, minimum moon separation, observing flags, mirror coating reflectivity, and airglow monitor cadence?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Observatory founding year: 2022.; Observing night duration: 9 hours.; Humidity abort threshold: 85%.; Wind abort threshold: 18 m/s.; Minimum Moon separation: 30°.; Observing flags: good; fair; poor; closed.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A005",
+        "BHF-A009",
+        "BHF-A013",
+        "BHF-A014",
+        "BHF-A028",
+        "BHF-A030",
+        "BHF-A032",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, site altitude, site location, observing night duration, typical seeing, maximum gust limit, guide star magnitude range, telescope pointing accuracy, minimum moon separation, and observing queue rule?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Site altitude: 12 m.; Site location: Rann of Kutch, Gujarat.; Observing night duration: 9 hours.; Typical seeing: 0.7–1.0″.; Maximum gust limit: 22 m/s.; Guide star magnitude range: 12–18 AB mag.; Telescope pointing accuracy: 0.05″.; Minimum Moon separation: 30°.; Observing queue rule: ToO overrides schedule.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A003",
+        "BHF-A004",
+        "BHF-A009",
+        "BHF-A010",
+        "BHF-A015",
+        "BHF-A020",
+        "BHF-A021",
+        "BHF-A028",
+        "BHF-A029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the minimum moon separation and observing queue rule?",
+    "response": {
+      "answer": "Minimum Moon separation: 30°.; Observing queue rule: ToO overrides schedule.",
+      "citations": [
+        "BHF-A028",
+        "BHF-A029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the dome rotation speed and dither amplitude range?",
+    "response": {
+      "answer": "Dome rotation speed: 1 deg/s.; Dither amplitude range: 5–20″.",
+      "citations": [
+        "BHF-A024",
+        "BHF-A025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the maximum gust limit, dither pattern points, and airglow monitor cadence?",
+    "response": {
+      "answer": "Maximum gust limit: 22 m/s.; Dither pattern points: 4.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A015",
+        "BHF-A026",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site altitude, site location, all-sky camera cadence, minimum moon separation, and mirror coating type?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Site location: Rann of Kutch, Gujarat.; All-sky camera cadence: 5 minutes.; Minimum Moon separation: 30°.; Mirror coating type: enhanced silver.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A004",
+        "BHF-A018",
+        "BHF-A028",
+        "BHF-A033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observatory time zone, airmass limit, dome rotation speed, observing flags, and mirror coating type?",
+    "response": {
+      "answer": "Observatory time zone: UTC+5:30 (IST).; Airmass limit: 1.0–2.5.; Dome rotation speed: 1 deg/s.; Observing flags: good; fair; poor; closed.; Mirror coating type: enhanced silver.",
+      "citations": [
+        "BHF-A006",
+        "BHF-A012",
+        "BHF-A024",
+        "BHF-A030",
+        "BHF-A033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the maximum gust limit and telescope pointing accuracy?",
+    "response": {
+      "answer": "Maximum gust limit: 22 m/s.; Telescope pointing accuracy: 0.05″.",
+      "citations": [
+        "BHF-A015",
+        "BHF-A021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, observing window start, typical seeing, wind abort threshold, all-sky camera cadence, weather station sample rate, and observing flags?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Observing window start: UT 14:00.; Typical seeing: 0.7–1.0″.; Wind abort threshold: 18 m/s.; All-sky camera cadence: 5 minutes.; Weather station sample rate: 1 Hz.; Observing flags: good; fair; poor; closed.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A007",
+        "BHF-A010",
+        "BHF-A014",
+        "BHF-A018",
+        "BHF-A019",
+        "BHF-A030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site altitude, typical seeing, guide star magnitude range, dither amplitude range, and observing queue rule?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Typical seeing: 0.7–1.0″.; Guide star magnitude range: 12–18 AB mag.; Dither amplitude range: 5–20″.; Observing queue rule: ToO overrides schedule.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A010",
+        "BHF-A020",
+        "BHF-A025",
+        "BHF-A029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site altitude, observing window start, typical seeing, humidity abort threshold, telescope pointing accuracy, dither pattern points, and airglow monitor cadence?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Observing window start: UT 14:00.; Typical seeing: 0.7–1.0″.; Humidity abort threshold: 85%.; Telescope pointing accuracy: 0.05″.; Dither pattern points: 4.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A007",
+        "BHF-A010",
+        "BHF-A013",
+        "BHF-A021",
+        "BHF-A026",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location, observatory founding year, observing window end, typical seeing, maximum gust limit, weather station sample rate, telescope tracking accuracy (10 min), maximum telescope slew speed, and site seeing monitor type?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Observatory founding year: 2022.; Observing window end: UT 23:00.; Typical seeing: 0.7–1.0″.; Maximum gust limit: 22 m/s.; Weather station sample rate: 1 Hz.; Telescope tracking accuracy (10 min): 0.1″.; Maximum telescope slew speed: 5 deg/s.; Site seeing monitor type: MASS-DIMM.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A005",
+        "BHF-A008",
+        "BHF-A010",
+        "BHF-A015",
+        "BHF-A019",
+        "BHF-A022",
+        "BHF-A023",
+        "BHF-A031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, site altitude, seeing limit, airmass limit, maximum gust limit, weather station sample rate, telescope pointing accuracy, dither step size, and observing flags, and spectrograph availability?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Site altitude: 12 m.; Seeing limit: 1.5″.; Airmass limit: 1.0–2.5.; Maximum gust limit: 22 m/s.; Weather station sample rate: 1 Hz.; Telescope pointing accuracy: 0.05″.; Dither step size: 10″.; Observing flags: good; fair; poor; closed. Missing data: information about spectrograph availability is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A003",
+        "BHF-A011",
+        "BHF-A012",
+        "BHF-A015",
+        "BHF-A019",
+        "BHF-A021",
+        "BHF-A027",
+        "BHF-A030"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the guide star magnitude range, observing queue rule, observing flags, mirror coating type, and mirror cooldown time?",
+    "response": {
+      "answer": "Guide star magnitude range: 12–18 AB mag.; Observing queue rule: ToO overrides schedule.; Observing flags: good; fair; poor; closed.; Mirror coating type: enhanced silver.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A020",
+        "BHF-A029",
+        "BHF-A030",
+        "BHF-A033",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, observing night duration, humidity abort threshold, dewpoint safety margin, telescope tracking accuracy (10 min), maximum telescope slew speed, dome rotation speed, observing flags, and site seeing monitor type?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Observing night duration: 9 hours.; Humidity abort threshold: 85%.; Dewpoint safety margin: 2 °C.; Telescope tracking accuracy (10 min): 0.1″.; Maximum telescope slew speed: 5 deg/s.; Dome rotation speed: 1 deg/s.; Observing flags: good; fair; poor; closed.; Site seeing monitor type: MASS-DIMM.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A009",
+        "BHF-A013",
+        "BHF-A016",
+        "BHF-A022",
+        "BHF-A023",
+        "BHF-A024",
+        "BHF-A030",
+        "BHF-A031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the telescope pointing accuracy, observing flags, and mirror coating type?",
+    "response": {
+      "answer": "Telescope pointing accuracy: 0.05″.; Observing flags: good; fair; poor; closed.; Mirror coating type: enhanced silver.",
+      "citations": [
+        "BHF-A021",
+        "BHF-A030",
+        "BHF-A033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the humidity abort threshold, wind abort threshold, maximum telescope slew speed, and dither amplitude range?",
+    "response": {
+      "answer": "Humidity abort threshold: 85%.; Wind abort threshold: 18 m/s.; Maximum telescope slew speed: 5 deg/s.; Dither amplitude range: 5–20″.",
+      "citations": [
+        "BHF-A013",
+        "BHF-A014",
+        "BHF-A023",
+        "BHF-A025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, observing window end, dewpoint safety margin, all-sky camera cadence, telescope pointing accuracy, maximum telescope slew speed, and dither step size?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Observing window end: UT 23:00.; Dewpoint safety margin: 2 °C.; All-sky camera cadence: 5 minutes.; Telescope pointing accuracy: 0.05″.; Maximum telescope slew speed: 5 deg/s.; Dither step size: 10″.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A008",
+        "BHF-A016",
+        "BHF-A018",
+        "BHF-A021",
+        "BHF-A023",
+        "BHF-A027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, maximum gust limit, telescope tracking accuracy (10 min), minimum moon separation, mirror cooldown time, and airglow monitor cadence?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Maximum gust limit: 22 m/s.; Telescope tracking accuracy (10 min): 0.1″.; Minimum Moon separation: 30°.; Mirror cooldown time: 2 hours.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A015",
+        "BHF-A022",
+        "BHF-A028",
+        "BHF-A034",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, observing window start, seeing limit, and observing flags?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Observing window start: UT 14:00.; Seeing limit: 1.5″.; Observing flags: good; fair; poor; closed.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A007",
+        "BHF-A011",
+        "BHF-A030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location, observatory founding year, typical seeing, seeing limit, maximum gust limit, telescope pointing accuracy, minimum moon separation, observing queue rule, and site seeing monitor type?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Observatory founding year: 2022.; Typical seeing: 0.7–1.0″.; Seeing limit: 1.5″.; Maximum gust limit: 22 m/s.; Telescope pointing accuracy: 0.05″.; Minimum Moon separation: 30°.; Observing queue rule: ToO overrides schedule.; Site seeing monitor type: MASS-DIMM.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A005",
+        "BHF-A010",
+        "BHF-A011",
+        "BHF-A015",
+        "BHF-A021",
+        "BHF-A028",
+        "BHF-A029",
+        "BHF-A031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the weather station sample rate and observing flags, and data link bandwidth?",
+    "response": {
+      "answer": "Weather station sample rate: 1 Hz.; Observing flags: good; fair; poor; closed. Missing data: information about data link bandwidth is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A019",
+        "BHF-A030"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the observing night duration, typical seeing, airmass limit, weather station sample rate, guide star magnitude range, telescope pointing accuracy, observing queue rule, and site seeing monitor type, and public data archive URL?",
+    "response": {
+      "answer": "Observing night duration: 9 hours.; Typical seeing: 0.7–1.0″.; Airmass limit: 1.0–2.5.; Weather station sample rate: 1 Hz.; Guide star magnitude range: 12–18 AB mag.; Telescope pointing accuracy: 0.05″.; Observing queue rule: ToO overrides schedule.; Site seeing monitor type: MASS-DIMM. Missing data: information about public data archive URL is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A009",
+        "BHF-A010",
+        "BHF-A012",
+        "BHF-A019",
+        "BHF-A020",
+        "BHF-A021",
+        "BHF-A029",
+        "BHF-A031"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the site altitude and observing flags?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Observing flags: good; fair; poor; closed.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location, maximum gust limit, guide star magnitude range, telescope pointing accuracy, and observing flags?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Maximum gust limit: 22 m/s.; Guide star magnitude range: 12–18 AB mag.; Telescope pointing accuracy: 0.05″.; Observing flags: good; fair; poor; closed.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A015",
+        "BHF-A020",
+        "BHF-A021",
+        "BHF-A030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, seeing limit, humidity abort threshold, weather station sample rate, guide star magnitude range, dither amplitude range, and observing queue rule?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Seeing limit: 1.5″.; Humidity abort threshold: 85%.; Weather station sample rate: 1 Hz.; Guide star magnitude range: 12–18 AB mag.; Dither amplitude range: 5–20″.; Observing queue rule: ToO overrides schedule.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A011",
+        "BHF-A013",
+        "BHF-A019",
+        "BHF-A020",
+        "BHF-A025",
+        "BHF-A029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, site altitude, observatory founding year, observing window end, seeing limit, dither pattern points, and mirror cooldown time?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Site altitude: 12 m.; Observatory founding year: 2022.; Observing window end: UT 23:00.; Seeing limit: 1.5″.; Dither pattern points: 4.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A003",
+        "BHF-A005",
+        "BHF-A008",
+        "BHF-A011",
+        "BHF-A026",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing window end and all-sky camera cadence?",
+    "response": {
+      "answer": "Observing window end: UT 23:00.; All-sky camera cadence: 5 minutes.",
+      "citations": [
+        "BHF-A008",
+        "BHF-A018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, site location, seeing limit, airmass limit, wind abort threshold, dewpoint safety margin, weather station sample rate, telescope tracking accuracy (10 min), and mirror coating reflectivity?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Site location: Rann of Kutch, Gujarat.; Seeing limit: 1.5″.; Airmass limit: 1.0–2.5.; Wind abort threshold: 18 m/s.; Dewpoint safety margin: 2 °C.; Weather station sample rate: 1 Hz.; Telescope tracking accuracy (10 min): 0.1″.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A004",
+        "BHF-A011",
+        "BHF-A012",
+        "BHF-A014",
+        "BHF-A016",
+        "BHF-A019",
+        "BHF-A022",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the typical seeing, dither step size, observing queue rule, and mirror coating reflectivity?",
+    "response": {
+      "answer": "Typical seeing: 0.7–1.0″.; Dither step size: 10″.; Observing queue rule: ToO overrides schedule.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A010",
+        "BHF-A027",
+        "BHF-A029",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, site altitude, observing window start, observing night duration, seeing limit, dome rotation speed, observing flags, site seeing monitor type, and mirror cooldown time?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Site altitude: 12 m.; Observing window start: UT 14:00.; Observing night duration: 9 hours.; Seeing limit: 1.5″.; Dome rotation speed: 1 deg/s.; Observing flags: good; fair; poor; closed.; Site seeing monitor type: MASS-DIMM.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A003",
+        "BHF-A007",
+        "BHF-A009",
+        "BHF-A011",
+        "BHF-A024",
+        "BHF-A030",
+        "BHF-A031",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location, guide star magnitude range, and dither step size?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Guide star magnitude range: 12–18 AB mag.; Dither step size: 10″.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A020",
+        "BHF-A027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, site location, observing night duration, humidity abort threshold, all-sky camera cadence, site seeing monitor type, mirror cooldown time, and airglow monitor cadence?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Site location: Rann of Kutch, Gujarat.; Observing night duration: 9 hours.; Humidity abort threshold: 85%.; All-sky camera cadence: 5 minutes.; Site seeing monitor type: MASS-DIMM.; Mirror cooldown time: 2 hours.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A004",
+        "BHF-A009",
+        "BHF-A013",
+        "BHF-A018",
+        "BHF-A031",
+        "BHF-A034",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing window start, typical seeing, all-sky camera cadence, telescope tracking accuracy (10 min), dither amplitude range, mirror coating reflectivity, and airglow monitor cadence, and primary instrument name?",
+    "response": {
+      "answer": "Observing window start: UT 14:00.; Typical seeing: 0.7–1.0″.; All-sky camera cadence: 5 minutes.; Telescope tracking accuracy (10 min): 0.1″.; Dither amplitude range: 5–20″.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.; Airglow monitor cadence: 10 minutes. Missing data: information about primary instrument name is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A007",
+        "BHF-A010",
+        "BHF-A018",
+        "BHF-A022",
+        "BHF-A025",
+        "BHF-A032",
+        "BHF-A035"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the site longitude, typical seeing, seeing limit, wind abort threshold, maximum gust limit, guide star magnitude range, maximum telescope slew speed, and site seeing monitor type?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Typical seeing: 0.7–1.0″.; Seeing limit: 1.5″.; Wind abort threshold: 18 m/s.; Maximum gust limit: 22 m/s.; Guide star magnitude range: 12–18 AB mag.; Maximum telescope slew speed: 5 deg/s.; Site seeing monitor type: MASS-DIMM.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A010",
+        "BHF-A011",
+        "BHF-A014",
+        "BHF-A015",
+        "BHF-A020",
+        "BHF-A023",
+        "BHF-A031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the airmass limit, maximum gust limit, dewpoint safety margin, all-sky camera cadence, weather station sample rate, dither pattern points, and observing flags?",
+    "response": {
+      "answer": "Airmass limit: 1.0–2.5.; Maximum gust limit: 22 m/s.; Dewpoint safety margin: 2 °C.; All-sky camera cadence: 5 minutes.; Weather station sample rate: 1 Hz.; Dither pattern points: 4.; Observing flags: good; fair; poor; closed.",
+      "citations": [
+        "BHF-A012",
+        "BHF-A015",
+        "BHF-A016",
+        "BHF-A018",
+        "BHF-A019",
+        "BHF-A026",
+        "BHF-A030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing window end, typical seeing, wind abort threshold, all-sky camera cadence, telescope tracking accuracy (10 min), maximum telescope slew speed, observing queue rule, mirror coating reflectivity, and mirror cooldown time?",
+    "response": {
+      "answer": "Observing window end: UT 23:00.; Typical seeing: 0.7–1.0″.; Wind abort threshold: 18 m/s.; All-sky camera cadence: 5 minutes.; Telescope tracking accuracy (10 min): 0.1″.; Maximum telescope slew speed: 5 deg/s.; Observing queue rule: ToO overrides schedule.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A008",
+        "BHF-A010",
+        "BHF-A014",
+        "BHF-A018",
+        "BHF-A022",
+        "BHF-A023",
+        "BHF-A029",
+        "BHF-A032",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site altitude, site location, observatory founding year, seeing limit, wind abort threshold, telescope tracking accuracy (10 min), dome rotation speed, and observing queue rule, and UPS runtime at full load?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Site location: Rann of Kutch, Gujarat.; Observatory founding year: 2022.; Seeing limit: 1.5″.; Wind abort threshold: 18 m/s.; Telescope tracking accuracy (10 min): 0.1″.; Dome rotation speed: 1 deg/s.; Observing queue rule: ToO overrides schedule. Missing data: information about UPS runtime at full load is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A004",
+        "BHF-A005",
+        "BHF-A011",
+        "BHF-A014",
+        "BHF-A022",
+        "BHF-A024",
+        "BHF-A029"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the site altitude, observatory founding year, observatory time zone, humidity abort threshold, all-sky camera cadence, and guide star magnitude range?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Observatory founding year: 2022.; Observatory time zone: UTC+5:30 (IST).; Humidity abort threshold: 85%.; All-sky camera cadence: 5 minutes.; Guide star magnitude range: 12–18 AB mag.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A005",
+        "BHF-A006",
+        "BHF-A013",
+        "BHF-A018",
+        "BHF-A020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site altitude, observing window start, observing night duration, typical seeing, dewpoint safety margin, telescope pointing accuracy, dome rotation speed, dither pattern points, and mirror coating reflectivity, and laser guide star availability?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Observing window start: UT 14:00.; Observing night duration: 9 hours.; Typical seeing: 0.7–1.0″.; Dewpoint safety margin: 2 °C.; Telescope pointing accuracy: 0.05″.; Dome rotation speed: 1 deg/s.; Dither pattern points: 4.; Mirror coating reflectivity: 95% at 0.4–2.5 μm. Missing data: information about laser guide star availability is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A007",
+        "BHF-A009",
+        "BHF-A010",
+        "BHF-A016",
+        "BHF-A021",
+        "BHF-A024",
+        "BHF-A026",
+        "BHF-A032"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the site longitude, site location, humidity abort threshold, wind abort threshold, dewpoint safety margin, weather station sample rate, telescope pointing accuracy, dither step size, minimum moon separation, and mirror cooldown time?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Site location: Rann of Kutch, Gujarat.; Humidity abort threshold: 85%.; Wind abort threshold: 18 m/s.; Dewpoint safety margin: 2 °C.; Weather station sample rate: 1 Hz.; Telescope pointing accuracy: 0.05″.; Dither step size: 10″.; Minimum Moon separation: 30°.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A004",
+        "BHF-A013",
+        "BHF-A014",
+        "BHF-A016",
+        "BHF-A019",
+        "BHF-A021",
+        "BHF-A027",
+        "BHF-A028",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, site location, observatory founding year, typical seeing, weather station sample rate, guide star magnitude range, dome rotation speed, and site seeing monitor type?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Site location: Rann of Kutch, Gujarat.; Observatory founding year: 2022.; Typical seeing: 0.7–1.0″.; Weather station sample rate: 1 Hz.; Guide star magnitude range: 12–18 AB mag.; Dome rotation speed: 1 deg/s.; Site seeing monitor type: MASS-DIMM.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A004",
+        "BHF-A005",
+        "BHF-A010",
+        "BHF-A019",
+        "BHF-A020",
+        "BHF-A024",
+        "BHF-A031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, site altitude, site location, observing window end, guide star magnitude range, and mirror cooldown time, and telescope mount type?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Site altitude: 12 m.; Site location: Rann of Kutch, Gujarat.; Observing window end: UT 23:00.; Guide star magnitude range: 12–18 AB mag.; Mirror cooldown time: 2 hours. Missing data: information about telescope mount type is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A003",
+        "BHF-A004",
+        "BHF-A008",
+        "BHF-A020",
+        "BHF-A034"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the dither amplitude range and mirror coating type, and spectrograph availability?",
+    "response": {
+      "answer": "Dither amplitude range: 5–20″.; Mirror coating type: enhanced silver. Missing data: information about spectrograph availability is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A025",
+        "BHF-A033"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the humidity abort threshold, wind abort threshold, and dewpoint safety margin?",
+    "response": {
+      "answer": "Humidity abort threshold: 85%.; Wind abort threshold: 18 m/s.; Dewpoint safety margin: 2 °C.",
+      "citations": [
+        "BHF-A013",
+        "BHF-A014",
+        "BHF-A016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site altitude, site location, observing night duration, all-sky camera cadence, weather station sample rate, maximum telescope slew speed, dither pattern points, mirror cooldown time, and airglow monitor cadence?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Site location: Rann of Kutch, Gujarat.; Observing night duration: 9 hours.; All-sky camera cadence: 5 minutes.; Weather station sample rate: 1 Hz.; Maximum telescope slew speed: 5 deg/s.; Dither pattern points: 4.; Mirror cooldown time: 2 hours.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A004",
+        "BHF-A009",
+        "BHF-A018",
+        "BHF-A019",
+        "BHF-A023",
+        "BHF-A026",
+        "BHF-A034",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, site longitude, maximum gust limit, weather station sample rate, minimum moon separation, and site seeing monitor type?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Site longitude: 69.859° E.; Maximum gust limit: 22 m/s.; Weather station sample rate: 1 Hz.; Minimum Moon separation: 30°.; Site seeing monitor type: MASS-DIMM.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A002",
+        "BHF-A015",
+        "BHF-A019",
+        "BHF-A028",
+        "BHF-A031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location, weather station sample rate, guide star magnitude range, dome rotation speed, dither amplitude range, mirror cooldown time, and airglow monitor cadence?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Weather station sample rate: 1 Hz.; Guide star magnitude range: 12–18 AB mag.; Dome rotation speed: 1 deg/s.; Dither amplitude range: 5–20″.; Mirror cooldown time: 2 hours.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A019",
+        "BHF-A020",
+        "BHF-A024",
+        "BHF-A025",
+        "BHF-A034",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observatory time zone, observing window start, typical seeing, airmass limit, humidity abort threshold, site seeing monitor type, and airglow monitor cadence?",
+    "response": {
+      "answer": "Observatory time zone: UTC+5:30 (IST).; Observing window start: UT 14:00.; Typical seeing: 0.7–1.0″.; Airmass limit: 1.0–2.5.; Humidity abort threshold: 85%.; Site seeing monitor type: MASS-DIMM.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A006",
+        "BHF-A007",
+        "BHF-A010",
+        "BHF-A012",
+        "BHF-A013",
+        "BHF-A031",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, observing night duration, wind abort threshold, dither step size, site seeing monitor type, and mirror coating type?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Observing night duration: 9 hours.; Wind abort threshold: 18 m/s.; Dither step size: 10″.; Site seeing monitor type: MASS-DIMM.; Mirror coating type: enhanced silver.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A009",
+        "BHF-A014",
+        "BHF-A027",
+        "BHF-A031",
+        "BHF-A033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the airmass limit and maximum telescope slew speed?",
+    "response": {
+      "answer": "Airmass limit: 1.0–2.5.; Maximum telescope slew speed: 5 deg/s.",
+      "citations": [
+        "BHF-A012",
+        "BHF-A023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the seeing limit and minimum moon separation?",
+    "response": {
+      "answer": "Seeing limit: 1.5″.; Minimum Moon separation: 30°.",
+      "citations": [
+        "BHF-A011",
+        "BHF-A028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the dome rotation speed and dither step size, and primary instrument name?",
+    "response": {
+      "answer": "Dome rotation speed: 1 deg/s.; Dither step size: 10″. Missing data: information about primary instrument name is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A024",
+        "BHF-A027"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the observing window start, guide star magnitude range, and observing queue rule?",
+    "response": {
+      "answer": "Observing window start: UT 14:00.; Guide star magnitude range: 12–18 AB mag.; Observing queue rule: ToO overrides schedule.",
+      "citations": [
+        "BHF-A007",
+        "BHF-A020",
+        "BHF-A029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the typical seeing, wind abort threshold, maximum gust limit, guide star magnitude range, telescope pointing accuracy, dither amplitude range, site seeing monitor type, and mirror cooldown time, and CCD pixel scale in arcsec per pixel?",
+    "response": {
+      "answer": "Typical seeing: 0.7–1.0″.; Wind abort threshold: 18 m/s.; Maximum gust limit: 22 m/s.; Guide star magnitude range: 12–18 AB mag.; Telescope pointing accuracy: 0.05″.; Dither amplitude range: 5–20″.; Site seeing monitor type: MASS-DIMM.; Mirror cooldown time: 2 hours. Missing data: information about CCD pixel scale in arcsec per pixel is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A010",
+        "BHF-A014",
+        "BHF-A015",
+        "BHF-A020",
+        "BHF-A021",
+        "BHF-A025",
+        "BHF-A031",
+        "BHF-A034"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the site altitude, observatory time zone, typical seeing, seeing limit, weather station sample rate, maximum telescope slew speed, mirror coating reflectivity, mirror coating type, and mirror cooldown time?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Observatory time zone: UTC+5:30 (IST).; Typical seeing: 0.7–1.0″.; Seeing limit: 1.5″.; Weather station sample rate: 1 Hz.; Maximum telescope slew speed: 5 deg/s.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.; Mirror coating type: enhanced silver.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A006",
+        "BHF-A010",
+        "BHF-A011",
+        "BHF-A019",
+        "BHF-A023",
+        "BHF-A032",
+        "BHF-A033",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observatory founding year, observing night duration, seeing limit, weather station sample rate, dither amplitude range, dither step size, site seeing monitor type, and mirror coating reflectivity?",
+    "response": {
+      "answer": "Observatory founding year: 2022.; Observing night duration: 9 hours.; Seeing limit: 1.5″.; Weather station sample rate: 1 Hz.; Dither amplitude range: 5–20″.; Dither step size: 10″.; Site seeing monitor type: MASS-DIMM.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A005",
+        "BHF-A009",
+        "BHF-A011",
+        "BHF-A019",
+        "BHF-A025",
+        "BHF-A027",
+        "BHF-A031",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing window start, observing night duration, humidity abort threshold, all-sky camera cadence, weather station sample rate, telescope tracking accuracy (10 min), dither pattern points, observing flags, and airglow monitor cadence?",
+    "response": {
+      "answer": "Observing window start: UT 14:00.; Observing night duration: 9 hours.; Humidity abort threshold: 85%.; All-sky camera cadence: 5 minutes.; Weather station sample rate: 1 Hz.; Telescope tracking accuracy (10 min): 0.1″.; Dither pattern points: 4.; Observing flags: good; fair; poor; closed.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A007",
+        "BHF-A009",
+        "BHF-A013",
+        "BHF-A018",
+        "BHF-A019",
+        "BHF-A022",
+        "BHF-A026",
+        "BHF-A030",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the all-sky camera cadence, site seeing monitor type, and mirror coating type?",
+    "response": {
+      "answer": "All-sky camera cadence: 5 minutes.; Site seeing monitor type: MASS-DIMM.; Mirror coating type: enhanced silver.",
+      "citations": [
+        "BHF-A018",
+        "BHF-A031",
+        "BHF-A033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site altitude, guide star magnitude range, and minimum moon separation?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Guide star magnitude range: 12–18 AB mag.; Minimum Moon separation: 30°.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A020",
+        "BHF-A028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the humidity abort threshold and wind abort threshold?",
+    "response": {
+      "answer": "Humidity abort threshold: 85%.; Wind abort threshold: 18 m/s.",
+      "citations": [
+        "BHF-A013",
+        "BHF-A014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the airmass limit and mirror coating reflectivity?",
+    "response": {
+      "answer": "Airmass limit: 1.0–2.5.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A012",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, site longitude, all-sky camera cadence, telescope pointing accuracy, dome rotation speed, dither pattern points, observing queue rule, observing flags, and airglow monitor cadence, and UPS runtime at full load?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Site longitude: 69.859° E.; All-sky camera cadence: 5 minutes.; Telescope pointing accuracy: 0.05″.; Dome rotation speed: 1 deg/s.; Dither pattern points: 4.; Observing queue rule: ToO overrides schedule.; Observing flags: good; fair; poor; closed.; Airglow monitor cadence: 10 minutes. Missing data: information about UPS runtime at full load is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A002",
+        "BHF-A018",
+        "BHF-A021",
+        "BHF-A024",
+        "BHF-A026",
+        "BHF-A029",
+        "BHF-A030",
+        "BHF-A035"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the typical seeing, humidity abort threshold, and dither amplitude range?",
+    "response": {
+      "answer": "Typical seeing: 0.7–1.0″.; Humidity abort threshold: 85%.; Dither amplitude range: 5–20″.",
+      "citations": [
+        "BHF-A010",
+        "BHF-A013",
+        "BHF-A025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location, humidity abort threshold, minimum moon separation, and observing queue rule, and dome diameter?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Humidity abort threshold: 85%.; Minimum Moon separation: 30°.; Observing queue rule: ToO overrides schedule. Missing data: information about dome diameter is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A013",
+        "BHF-A028",
+        "BHF-A029"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the site latitude, observatory founding year, observing window end, typical seeing, wind abort threshold, weather station sample rate, telescope pointing accuracy, dither step size, minimum moon separation, and mirror coating type?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Observatory founding year: 2022.; Observing window end: UT 23:00.; Typical seeing: 0.7–1.0″.; Wind abort threshold: 18 m/s.; Weather station sample rate: 1 Hz.; Telescope pointing accuracy: 0.05″.; Dither step size: 10″.; Minimum Moon separation: 30°.; Mirror coating type: enhanced silver.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A005",
+        "BHF-A008",
+        "BHF-A010",
+        "BHF-A014",
+        "BHF-A019",
+        "BHF-A021",
+        "BHF-A027",
+        "BHF-A028",
+        "BHF-A033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing window end, humidity abort threshold, guide star magnitude range, observing flags, and mirror coating reflectivity?",
+    "response": {
+      "answer": "Observing window end: UT 23:00.; Humidity abort threshold: 85%.; Guide star magnitude range: 12–18 AB mag.; Observing flags: good; fair; poor; closed.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A008",
+        "BHF-A013",
+        "BHF-A020",
+        "BHF-A030",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observatory time zone, dither amplitude range, observing queue rule, mirror cooldown time, and airglow monitor cadence?",
+    "response": {
+      "answer": "Observatory time zone: UTC+5:30 (IST).; Dither amplitude range: 5–20″.; Observing queue rule: ToO overrides schedule.; Mirror cooldown time: 2 hours.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A006",
+        "BHF-A025",
+        "BHF-A029",
+        "BHF-A034",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, site altitude, observing window start, observing night duration, humidity abort threshold, weather station sample rate, dither step size, observing queue rule, and mirror coating reflectivity?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Site altitude: 12 m.; Observing window start: UT 14:00.; Observing night duration: 9 hours.; Humidity abort threshold: 85%.; Weather station sample rate: 1 Hz.; Dither step size: 10″.; Observing queue rule: ToO overrides schedule.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A003",
+        "BHF-A007",
+        "BHF-A009",
+        "BHF-A013",
+        "BHF-A019",
+        "BHF-A027",
+        "BHF-A029",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, observatory founding year, observatory time zone, all-sky camera cadence, telescope pointing accuracy, dither amplitude range, and mirror coating reflectivity?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Observatory founding year: 2022.; Observatory time zone: UTC+5:30 (IST).; All-sky camera cadence: 5 minutes.; Telescope pointing accuracy: 0.05″.; Dither amplitude range: 5–20″.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A005",
+        "BHF-A006",
+        "BHF-A018",
+        "BHF-A021",
+        "BHF-A025",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing window end, airmass limit, telescope pointing accuracy, dither pattern points, observing queue rule, observing flags, and mirror coating type?",
+    "response": {
+      "answer": "Observing window end: UT 23:00.; Airmass limit: 1.0–2.5.; Telescope pointing accuracy: 0.05″.; Dither pattern points: 4.; Observing queue rule: ToO overrides schedule.; Observing flags: good; fair; poor; closed.; Mirror coating type: enhanced silver.",
+      "citations": [
+        "BHF-A008",
+        "BHF-A012",
+        "BHF-A021",
+        "BHF-A026",
+        "BHF-A029",
+        "BHF-A030",
+        "BHF-A033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site altitude, observatory time zone, and all-sky camera cadence?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Observatory time zone: UTC+5:30 (IST).; All-sky camera cadence: 5 minutes.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A006",
+        "BHF-A018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing window start, humidity abort threshold, guide star magnitude range, maximum telescope slew speed, and airglow monitor cadence?",
+    "response": {
+      "answer": "Observing window start: UT 14:00.; Humidity abort threshold: 85%.; Guide star magnitude range: 12–18 AB mag.; Maximum telescope slew speed: 5 deg/s.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A007",
+        "BHF-A013",
+        "BHF-A020",
+        "BHF-A023",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, site location, observing window start, dither amplitude range, and minimum moon separation?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Site location: Rann of Kutch, Gujarat.; Observing window start: UT 14:00.; Dither amplitude range: 5–20″.; Minimum Moon separation: 30°.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A004",
+        "BHF-A007",
+        "BHF-A025",
+        "BHF-A028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing window start, observing window end, weather station sample rate, and dome rotation speed?",
+    "response": {
+      "answer": "Observing window start: UT 14:00.; Observing window end: UT 23:00.; Weather station sample rate: 1 Hz.; Dome rotation speed: 1 deg/s.",
+      "citations": [
+        "BHF-A007",
+        "BHF-A008",
+        "BHF-A019",
+        "BHF-A024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observatory founding year, seeing limit, and telescope tracking accuracy (10 min)?",
+    "response": {
+      "answer": "Observatory founding year: 2022.; Seeing limit: 1.5″.; Telescope tracking accuracy (10 min): 0.1″.",
+      "citations": [
+        "BHF-A005",
+        "BHF-A011",
+        "BHF-A022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location, observing window end, typical seeing, seeing limit, dewpoint safety margin, guide star magnitude range, dither step size, minimum moon separation, and airglow monitor cadence?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Observing window end: UT 23:00.; Typical seeing: 0.7–1.0″.; Seeing limit: 1.5″.; Dewpoint safety margin: 2 °C.; Guide star magnitude range: 12–18 AB mag.; Dither step size: 10″.; Minimum Moon separation: 30°.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A008",
+        "BHF-A010",
+        "BHF-A011",
+        "BHF-A016",
+        "BHF-A020",
+        "BHF-A027",
+        "BHF-A028",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, site altitude, observatory founding year, observing window end, typical seeing, all-sky camera cadence, dither amplitude range, dither step size, and observing queue rule?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Site altitude: 12 m.; Observatory founding year: 2022.; Observing window end: UT 23:00.; Typical seeing: 0.7–1.0″.; All-sky camera cadence: 5 minutes.; Dither amplitude range: 5–20″.; Dither step size: 10″.; Observing queue rule: ToO overrides schedule.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A003",
+        "BHF-A005",
+        "BHF-A008",
+        "BHF-A010",
+        "BHF-A018",
+        "BHF-A025",
+        "BHF-A027",
+        "BHF-A029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing window end, humidity abort threshold, dome rotation speed, and mirror cooldown time?",
+    "response": {
+      "answer": "Observing window end: UT 23:00.; Humidity abort threshold: 85%.; Dome rotation speed: 1 deg/s.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A008",
+        "BHF-A013",
+        "BHF-A024",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location, dewpoint safety margin, guide star magnitude range, telescope tracking accuracy (10 min), maximum telescope slew speed, dither pattern points, dither step size, minimum moon separation, mirror coating reflectivity, and mirror cooldown time?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Dewpoint safety margin: 2 °C.; Guide star magnitude range: 12–18 AB mag.; Telescope tracking accuracy (10 min): 0.1″.; Maximum telescope slew speed: 5 deg/s.; Dither pattern points: 4.; Dither step size: 10″.; Minimum Moon separation: 30°.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A016",
+        "BHF-A020",
+        "BHF-A022",
+        "BHF-A023",
+        "BHF-A026",
+        "BHF-A027",
+        "BHF-A028",
+        "BHF-A032",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the seeing limit, wind abort threshold, weather station sample rate, dome rotation speed, and airglow monitor cadence?",
+    "response": {
+      "answer": "Seeing limit: 1.5″.; Wind abort threshold: 18 m/s.; Weather station sample rate: 1 Hz.; Dome rotation speed: 1 deg/s.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A011",
+        "BHF-A014",
+        "BHF-A019",
+        "BHF-A024",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, site longitude, observatory founding year, dewpoint safety margin, dome rotation speed, observing queue rule, mirror coating reflectivity, mirror coating type, and mirror cooldown time?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Site longitude: 69.859° E.; Observatory founding year: 2022.; Dewpoint safety margin: 2 °C.; Dome rotation speed: 1 deg/s.; Observing queue rule: ToO overrides schedule.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.; Mirror coating type: enhanced silver.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A002",
+        "BHF-A005",
+        "BHF-A016",
+        "BHF-A024",
+        "BHF-A029",
+        "BHF-A032",
+        "BHF-A033",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the seeing limit, maximum gust limit, all-sky camera cadence, telescope pointing accuracy, dome rotation speed, dither amplitude range, minimum moon separation, site seeing monitor type, and mirror coating reflectivity?",
+    "response": {
+      "answer": "Seeing limit: 1.5″.; Maximum gust limit: 22 m/s.; All-sky camera cadence: 5 minutes.; Telescope pointing accuracy: 0.05″.; Dome rotation speed: 1 deg/s.; Dither amplitude range: 5–20″.; Minimum Moon separation: 30°.; Site seeing monitor type: MASS-DIMM.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A011",
+        "BHF-A015",
+        "BHF-A018",
+        "BHF-A021",
+        "BHF-A024",
+        "BHF-A025",
+        "BHF-A028",
+        "BHF-A031",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, wind abort threshold, weather station sample rate, guide star magnitude range, telescope tracking accuracy (10 min), dither amplitude range, and airglow monitor cadence?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Wind abort threshold: 18 m/s.; Weather station sample rate: 1 Hz.; Guide star magnitude range: 12–18 AB mag.; Telescope tracking accuracy (10 min): 0.1″.; Dither amplitude range: 5–20″.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A014",
+        "BHF-A019",
+        "BHF-A020",
+        "BHF-A022",
+        "BHF-A025",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the weather station sample rate and dither amplitude range?",
+    "response": {
+      "answer": "Weather station sample rate: 1 Hz.; Dither amplitude range: 5–20″.",
+      "citations": [
+        "BHF-A019",
+        "BHF-A025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, observatory time zone, observing window end, airmass limit, dewpoint safety margin, guide star magnitude range, dither step size, mirror coating reflectivity, and airglow monitor cadence?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Observatory time zone: UTC+5:30 (IST).; Observing window end: UT 23:00.; Airmass limit: 1.0–2.5.; Dewpoint safety margin: 2 °C.; Guide star magnitude range: 12–18 AB mag.; Dither step size: 10″.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A006",
+        "BHF-A008",
+        "BHF-A012",
+        "BHF-A016",
+        "BHF-A020",
+        "BHF-A027",
+        "BHF-A032",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the humidity abort threshold, telescope tracking accuracy (10 min), observing flags, and mirror coating reflectivity, and laser guide star availability?",
+    "response": {
+      "answer": "Humidity abort threshold: 85%.; Telescope tracking accuracy (10 min): 0.1″.; Observing flags: good; fair; poor; closed.; Mirror coating reflectivity: 95% at 0.4–2.5 μm. Missing data: information about laser guide star availability is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A013",
+        "BHF-A022",
+        "BHF-A030",
+        "BHF-A032"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the observing window start, observing window end, airmass limit, dewpoint safety margin, all-sky camera cadence, telescope pointing accuracy, dither pattern points, mirror cooldown time, and airglow monitor cadence?",
+    "response": {
+      "answer": "Observing window start: UT 14:00.; Observing window end: UT 23:00.; Airmass limit: 1.0–2.5.; Dewpoint safety margin: 2 °C.; All-sky camera cadence: 5 minutes.; Telescope pointing accuracy: 0.05″.; Dither pattern points: 4.; Mirror cooldown time: 2 hours.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A007",
+        "BHF-A008",
+        "BHF-A012",
+        "BHF-A016",
+        "BHF-A018",
+        "BHF-A021",
+        "BHF-A026",
+        "BHF-A034",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, humidity abort threshold, wind abort threshold, telescope tracking accuracy (10 min), and airglow monitor cadence?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Humidity abort threshold: 85%.; Wind abort threshold: 18 m/s.; Telescope tracking accuracy (10 min): 0.1″.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A013",
+        "BHF-A014",
+        "BHF-A022",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the seeing limit, telescope pointing accuracy, mirror coating reflectivity, mirror coating type, and airglow monitor cadence?",
+    "response": {
+      "answer": "Seeing limit: 1.5″.; Telescope pointing accuracy: 0.05″.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.; Mirror coating type: enhanced silver.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A011",
+        "BHF-A021",
+        "BHF-A032",
+        "BHF-A033",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, observatory time zone, airmass limit, and wind abort threshold?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Observatory time zone: UTC+5:30 (IST).; Airmass limit: 1.0–2.5.; Wind abort threshold: 18 m/s.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A006",
+        "BHF-A012",
+        "BHF-A014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, observing window start, observing window end, observing night duration, typical seeing, all-sky camera cadence, and weather station sample rate?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Observing window start: UT 14:00.; Observing window end: UT 23:00.; Observing night duration: 9 hours.; Typical seeing: 0.7–1.0″.; All-sky camera cadence: 5 minutes.; Weather station sample rate: 1 Hz.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A007",
+        "BHF-A008",
+        "BHF-A009",
+        "BHF-A010",
+        "BHF-A018",
+        "BHF-A019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the seeing limit, maximum gust limit, telescope tracking accuracy (10 min), maximum telescope slew speed, dither step size, minimum moon separation, and mirror cooldown time?",
+    "response": {
+      "answer": "Seeing limit: 1.5″.; Maximum gust limit: 22 m/s.; Telescope tracking accuracy (10 min): 0.1″.; Maximum telescope slew speed: 5 deg/s.; Dither step size: 10″.; Minimum Moon separation: 30°.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A011",
+        "BHF-A015",
+        "BHF-A022",
+        "BHF-A023",
+        "BHF-A027",
+        "BHF-A028",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observatory time zone, observing window start, humidity abort threshold, weather station sample rate, dither amplitude range, and dither step size, and public data archive URL?",
+    "response": {
+      "answer": "Observatory time zone: UTC+5:30 (IST).; Observing window start: UT 14:00.; Humidity abort threshold: 85%.; Weather station sample rate: 1 Hz.; Dither amplitude range: 5–20″.; Dither step size: 10″. Missing data: information about public data archive URL is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A006",
+        "BHF-A007",
+        "BHF-A013",
+        "BHF-A019",
+        "BHF-A025",
+        "BHF-A027"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the site longitude, site location, observatory time zone, humidity abort threshold, all-sky camera cadence, weather station sample rate, telescope pointing accuracy, dome rotation speed, dither step size, and observing flags?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Site location: Rann of Kutch, Gujarat.; Observatory time zone: UTC+5:30 (IST).; Humidity abort threshold: 85%.; All-sky camera cadence: 5 minutes.; Weather station sample rate: 1 Hz.; Telescope pointing accuracy: 0.05″.; Dome rotation speed: 1 deg/s.; Dither step size: 10″.; Observing flags: good; fair; poor; closed.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A004",
+        "BHF-A006",
+        "BHF-A013",
+        "BHF-A018",
+        "BHF-A019",
+        "BHF-A021",
+        "BHF-A024",
+        "BHF-A027",
+        "BHF-A030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observatory time zone, typical seeing, maximum gust limit, and maximum telescope slew speed?",
+    "response": {
+      "answer": "Observatory time zone: UTC+5:30 (IST).; Typical seeing: 0.7–1.0″.; Maximum gust limit: 22 m/s.; Maximum telescope slew speed: 5 deg/s.",
+      "citations": [
+        "BHF-A006",
+        "BHF-A010",
+        "BHF-A015",
+        "BHF-A023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, humidity abort threshold, weather station sample rate, telescope tracking accuracy (10 min), dome rotation speed, and mirror coating reflectivity?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Humidity abort threshold: 85%.; Weather station sample rate: 1 Hz.; Telescope tracking accuracy (10 min): 0.1″.; Dome rotation speed: 1 deg/s.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A013",
+        "BHF-A019",
+        "BHF-A022",
+        "BHF-A024",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing night duration, dither amplitude range, dither pattern points, and airglow monitor cadence?",
+    "response": {
+      "answer": "Observing night duration: 9 hours.; Dither amplitude range: 5–20″.; Dither pattern points: 4.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A009",
+        "BHF-A025",
+        "BHF-A026",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, observatory time zone, weather station sample rate, guide star magnitude range, dome rotation speed, dither pattern points, and mirror cooldown time?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Observatory time zone: UTC+5:30 (IST).; Weather station sample rate: 1 Hz.; Guide star magnitude range: 12–18 AB mag.; Dome rotation speed: 1 deg/s.; Dither pattern points: 4.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A006",
+        "BHF-A019",
+        "BHF-A020",
+        "BHF-A024",
+        "BHF-A026",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the seeing limit, telescope pointing accuracy, telescope tracking accuracy (10 min), minimum moon separation, and mirror cooldown time?",
+    "response": {
+      "answer": "Seeing limit: 1.5″.; Telescope pointing accuracy: 0.05″.; Telescope tracking accuracy (10 min): 0.1″.; Minimum Moon separation: 30°.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A011",
+        "BHF-A021",
+        "BHF-A022",
+        "BHF-A028",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site altitude, observing window start, seeing limit, airmass limit, weather station sample rate, telescope pointing accuracy, maximum telescope slew speed, dither pattern points, minimum moon separation, and mirror coating reflectivity?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Observing window start: UT 14:00.; Seeing limit: 1.5″.; Airmass limit: 1.0–2.5.; Weather station sample rate: 1 Hz.; Telescope pointing accuracy: 0.05″.; Maximum telescope slew speed: 5 deg/s.; Dither pattern points: 4.; Minimum Moon separation: 30°.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A007",
+        "BHF-A011",
+        "BHF-A012",
+        "BHF-A019",
+        "BHF-A021",
+        "BHF-A023",
+        "BHF-A026",
+        "BHF-A028",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, observing window end, observing night duration, airmass limit, all-sky camera cadence, telescope pointing accuracy, dome rotation speed, minimum moon separation, observing queue rule, and site seeing monitor type?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Observing window end: UT 23:00.; Observing night duration: 9 hours.; Airmass limit: 1.0–2.5.; All-sky camera cadence: 5 minutes.; Telescope pointing accuracy: 0.05″.; Dome rotation speed: 1 deg/s.; Minimum Moon separation: 30°.; Observing queue rule: ToO overrides schedule.; Site seeing monitor type: MASS-DIMM.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A008",
+        "BHF-A009",
+        "BHF-A012",
+        "BHF-A018",
+        "BHF-A021",
+        "BHF-A024",
+        "BHF-A028",
+        "BHF-A029",
+        "BHF-A031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observatory founding year, all-sky camera cadence, telescope tracking accuracy (10 min), dither pattern points, dither step size, observing queue rule, observing flags, site seeing monitor type, and mirror coating reflectivity?",
+    "response": {
+      "answer": "Observatory founding year: 2022.; All-sky camera cadence: 5 minutes.; Telescope tracking accuracy (10 min): 0.1″.; Dither pattern points: 4.; Dither step size: 10″.; Observing queue rule: ToO overrides schedule.; Observing flags: good; fair; poor; closed.; Site seeing monitor type: MASS-DIMM.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A005",
+        "BHF-A018",
+        "BHF-A022",
+        "BHF-A026",
+        "BHF-A027",
+        "BHF-A029",
+        "BHF-A030",
+        "BHF-A031",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, site longitude, dewpoint safety margin, and mirror coating type?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Site longitude: 69.859° E.; Dewpoint safety margin: 2 °C.; Mirror coating type: enhanced silver.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A002",
+        "BHF-A016",
+        "BHF-A033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location and telescope tracking accuracy (10 min)?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Telescope tracking accuracy (10 min): 0.1″.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location, observatory time zone, observing window start, observing window end, observing night duration, telescope tracking accuracy (10 min), maximum telescope slew speed, dither amplitude range, and observing queue rule?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Observatory time zone: UTC+5:30 (IST).; Observing window start: UT 14:00.; Observing window end: UT 23:00.; Observing night duration: 9 hours.; Telescope tracking accuracy (10 min): 0.1″.; Maximum telescope slew speed: 5 deg/s.; Dither amplitude range: 5–20″.; Observing queue rule: ToO overrides schedule.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A006",
+        "BHF-A007",
+        "BHF-A008",
+        "BHF-A009",
+        "BHF-A022",
+        "BHF-A023",
+        "BHF-A025",
+        "BHF-A029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, site altitude, observatory time zone, maximum gust limit, weather station sample rate, telescope tracking accuracy (10 min), maximum telescope slew speed, site seeing monitor type, mirror coating reflectivity, and airglow monitor cadence?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Site altitude: 12 m.; Observatory time zone: UTC+5:30 (IST).; Maximum gust limit: 22 m/s.; Weather station sample rate: 1 Hz.; Telescope tracking accuracy (10 min): 0.1″.; Maximum telescope slew speed: 5 deg/s.; Site seeing monitor type: MASS-DIMM.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A003",
+        "BHF-A006",
+        "BHF-A015",
+        "BHF-A019",
+        "BHF-A022",
+        "BHF-A023",
+        "BHF-A031",
+        "BHF-A032",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site altitude, observatory founding year, observing window end, wind abort threshold, all-sky camera cadence, telescope tracking accuracy (10 min), dither amplitude range, and mirror coating type?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Observatory founding year: 2022.; Observing window end: UT 23:00.; Wind abort threshold: 18 m/s.; All-sky camera cadence: 5 minutes.; Telescope tracking accuracy (10 min): 0.1″.; Dither amplitude range: 5–20″.; Mirror coating type: enhanced silver.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A005",
+        "BHF-A008",
+        "BHF-A014",
+        "BHF-A018",
+        "BHF-A022",
+        "BHF-A025",
+        "BHF-A033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location, observing window end, observing night duration, seeing limit, humidity abort threshold, wind abort threshold, and maximum telescope slew speed?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Observing window end: UT 23:00.; Observing night duration: 9 hours.; Seeing limit: 1.5″.; Humidity abort threshold: 85%.; Wind abort threshold: 18 m/s.; Maximum telescope slew speed: 5 deg/s.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A008",
+        "BHF-A009",
+        "BHF-A011",
+        "BHF-A013",
+        "BHF-A014",
+        "BHF-A023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observatory time zone, maximum gust limit, and airglow monitor cadence?",
+    "response": {
+      "answer": "Observatory time zone: UTC+5:30 (IST).; Maximum gust limit: 22 m/s.; Airglow monitor cadence: 10 minutes.",
+      "citations": [
+        "BHF-A006",
+        "BHF-A015",
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the all-sky camera cadence, guide star magnitude range, telescope tracking accuracy (10 min), dither amplitude range, and observing queue rule?",
+    "response": {
+      "answer": "All-sky camera cadence: 5 minutes.; Guide star magnitude range: 12–18 AB mag.; Telescope tracking accuracy (10 min): 0.1″.; Dither amplitude range: 5–20″.; Observing queue rule: ToO overrides schedule.",
+      "citations": [
+        "BHF-A018",
+        "BHF-A020",
+        "BHF-A022",
+        "BHF-A025",
+        "BHF-A029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location, wind abort threshold, dither amplitude range, dither pattern points, observing queue rule, and mirror cooldown time?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Wind abort threshold: 18 m/s.; Dither amplitude range: 5–20″.; Dither pattern points: 4.; Observing queue rule: ToO overrides schedule.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A014",
+        "BHF-A025",
+        "BHF-A026",
+        "BHF-A029",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, humidity abort threshold, guide star magnitude range, dither amplitude range, and observing flags?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Humidity abort threshold: 85%.; Guide star magnitude range: 12–18 AB mag.; Dither amplitude range: 5–20″.; Observing flags: good; fair; poor; closed.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A013",
+        "BHF-A020",
+        "BHF-A025",
+        "BHF-A030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the humidity abort threshold, wind abort threshold, maximum telescope slew speed, dither step size, and mirror coating type?",
+    "response": {
+      "answer": "Humidity abort threshold: 85%.; Wind abort threshold: 18 m/s.; Maximum telescope slew speed: 5 deg/s.; Dither step size: 10″.; Mirror coating type: enhanced silver.",
+      "citations": [
+        "BHF-A013",
+        "BHF-A014",
+        "BHF-A023",
+        "BHF-A027",
+        "BHF-A033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, site longitude, seeing limit, telescope pointing accuracy, telescope tracking accuracy (10 min), maximum telescope slew speed, dither pattern points, observing queue rule, site seeing monitor type, and mirror coating reflectivity?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Site longitude: 69.859° E.; Seeing limit: 1.5″.; Telescope pointing accuracy: 0.05″.; Telescope tracking accuracy (10 min): 0.1″.; Maximum telescope slew speed: 5 deg/s.; Dither pattern points: 4.; Observing queue rule: ToO overrides schedule.; Site seeing monitor type: MASS-DIMM.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A002",
+        "BHF-A011",
+        "BHF-A021",
+        "BHF-A022",
+        "BHF-A023",
+        "BHF-A026",
+        "BHF-A029",
+        "BHF-A031",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing window start, maximum gust limit, dewpoint safety margin, all-sky camera cadence, minimum moon separation, and site seeing monitor type?",
+    "response": {
+      "answer": "Observing window start: UT 14:00.; Maximum gust limit: 22 m/s.; Dewpoint safety margin: 2 °C.; All-sky camera cadence: 5 minutes.; Minimum Moon separation: 30°.; Site seeing monitor type: MASS-DIMM.",
+      "citations": [
+        "BHF-A007",
+        "BHF-A015",
+        "BHF-A016",
+        "BHF-A018",
+        "BHF-A028",
+        "BHF-A031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the telescope tracking accuracy (10 min) and dome rotation speed, and UPS runtime at full load?",
+    "response": {
+      "answer": "Telescope tracking accuracy (10 min): 0.1″.; Dome rotation speed: 1 deg/s. Missing data: information about UPS runtime at full load is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A022",
+        "BHF-A024"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the weather station sample rate and telescope tracking accuracy (10 min)?",
+    "response": {
+      "answer": "Weather station sample rate: 1 Hz.; Telescope tracking accuracy (10 min): 0.1″.",
+      "citations": [
+        "BHF-A019",
+        "BHF-A022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, site altitude, dewpoint safety margin, telescope tracking accuracy (10 min), and observing flags?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Site altitude: 12 m.; Dewpoint safety margin: 2 °C.; Telescope tracking accuracy (10 min): 0.1″.; Observing flags: good; fair; poor; closed.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A003",
+        "BHF-A016",
+        "BHF-A022",
+        "BHF-A030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing night duration, typical seeing, wind abort threshold, weather station sample rate, guide star magnitude range, telescope tracking accuracy (10 min), dome rotation speed, site seeing monitor type, mirror coating reflectivity, and mirror cooldown time?",
+    "response": {
+      "answer": "Observing night duration: 9 hours.; Typical seeing: 0.7–1.0″.; Wind abort threshold: 18 m/s.; Weather station sample rate: 1 Hz.; Guide star magnitude range: 12–18 AB mag.; Telescope tracking accuracy (10 min): 0.1″.; Dome rotation speed: 1 deg/s.; Site seeing monitor type: MASS-DIMM.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A009",
+        "BHF-A010",
+        "BHF-A014",
+        "BHF-A019",
+        "BHF-A020",
+        "BHF-A022",
+        "BHF-A024",
+        "BHF-A031",
+        "BHF-A032",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing window start, typical seeing, dewpoint safety margin, telescope tracking accuracy (10 min), and mirror coating type?",
+    "response": {
+      "answer": "Observing window start: UT 14:00.; Typical seeing: 0.7–1.0″.; Dewpoint safety margin: 2 °C.; Telescope tracking accuracy (10 min): 0.1″.; Mirror coating type: enhanced silver.",
+      "citations": [
+        "BHF-A007",
+        "BHF-A010",
+        "BHF-A016",
+        "BHF-A022",
+        "BHF-A033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, humidity abort threshold, observing flags, and site seeing monitor type?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Humidity abort threshold: 85%.; Observing flags: good; fair; poor; closed.; Site seeing monitor type: MASS-DIMM.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A013",
+        "BHF-A030",
+        "BHF-A031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site altitude, site location, observing window start, typical seeing, seeing limit, airmass limit, maximum gust limit, guide star magnitude range, telescope pointing accuracy, and maximum telescope slew speed?",
+    "response": {
+      "answer": "Site altitude: 12 m.; Site location: Rann of Kutch, Gujarat.; Observing window start: UT 14:00.; Typical seeing: 0.7–1.0″.; Seeing limit: 1.5″.; Airmass limit: 1.0–2.5.; Maximum gust limit: 22 m/s.; Guide star magnitude range: 12–18 AB mag.; Telescope pointing accuracy: 0.05″.; Maximum telescope slew speed: 5 deg/s.",
+      "citations": [
+        "BHF-A003",
+        "BHF-A004",
+        "BHF-A007",
+        "BHF-A010",
+        "BHF-A011",
+        "BHF-A012",
+        "BHF-A015",
+        "BHF-A020",
+        "BHF-A021",
+        "BHF-A023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, dewpoint safety margin, telescope pointing accuracy, telescope tracking accuracy (10 min), dither pattern points, and mirror coating type?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Dewpoint safety margin: 2 °C.; Telescope pointing accuracy: 0.05″.; Telescope tracking accuracy (10 min): 0.1″.; Dither pattern points: 4.; Mirror coating type: enhanced silver.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A016",
+        "BHF-A021",
+        "BHF-A022",
+        "BHF-A026",
+        "BHF-A033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, observing night duration, seeing limit, maximum gust limit, weather station sample rate, dome rotation speed, dither amplitude range, dither step size, site seeing monitor type, and mirror coating reflectivity?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Observing night duration: 9 hours.; Seeing limit: 1.5″.; Maximum gust limit: 22 m/s.; Weather station sample rate: 1 Hz.; Dome rotation speed: 1 deg/s.; Dither amplitude range: 5–20″.; Dither step size: 10″.; Site seeing monitor type: MASS-DIMM.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A009",
+        "BHF-A011",
+        "BHF-A015",
+        "BHF-A019",
+        "BHF-A024",
+        "BHF-A025",
+        "BHF-A027",
+        "BHF-A031",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the dither step size and mirror cooldown time?",
+    "response": {
+      "answer": "Dither step size: 10″.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A027",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the weather station sample rate and mirror cooldown time?",
+    "response": {
+      "answer": "Weather station sample rate: 1 Hz.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A019",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the guide star magnitude range and mirror cooldown time?",
+    "response": {
+      "answer": "Guide star magnitude range: 12–18 AB mag.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A020",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location and weather station sample rate?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Weather station sample rate: 1 Hz.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site latitude, observing window start, seeing limit, humidity abort threshold, guide star magnitude range, observing queue rule, and observing flags?",
+    "response": {
+      "answer": "Site latitude: 23.733° N.; Observing window start: UT 14:00.; Seeing limit: 1.5″.; Humidity abort threshold: 85%.; Guide star magnitude range: 12–18 AB mag.; Observing queue rule: ToO overrides schedule.; Observing flags: good; fair; poor; closed.",
+      "citations": [
+        "BHF-A001",
+        "BHF-A007",
+        "BHF-A011",
+        "BHF-A013",
+        "BHF-A020",
+        "BHF-A029",
+        "BHF-A030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observatory time zone, maximum telescope slew speed, dither amplitude range, dither pattern points, dither step size, observing flags, site seeing monitor type, and mirror coating reflectivity?",
+    "response": {
+      "answer": "Observatory time zone: UTC+5:30 (IST).; Maximum telescope slew speed: 5 deg/s.; Dither amplitude range: 5–20″.; Dither pattern points: 4.; Dither step size: 10″.; Observing flags: good; fair; poor; closed.; Site seeing monitor type: MASS-DIMM.; Mirror coating reflectivity: 95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A006",
+        "BHF-A023",
+        "BHF-A025",
+        "BHF-A026",
+        "BHF-A027",
+        "BHF-A030",
+        "BHF-A031",
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the maximum gust limit, observing flags, and airglow monitor cadence, and public data archive URL?",
+    "response": {
+      "answer": "Maximum gust limit: 22 m/s.; Observing flags: good; fair; poor; closed.; Airglow monitor cadence: 10 minutes. Missing data: information about public data archive URL is not in the document. Please verify this.",
+      "citations": [
+        "BHF-A015",
+        "BHF-A030",
+        "BHF-A035"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide the site location and mirror cooldown time?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, site location, observing window end, typical seeing, maximum gust limit, weather station sample rate, guide star magnitude range, telescope tracking accuracy (10 min), dither pattern points, and mirror cooldown time?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Site location: Rann of Kutch, Gujarat.; Observing window end: UT 23:00.; Typical seeing: 0.7–1.0″.; Maximum gust limit: 22 m/s.; Weather station sample rate: 1 Hz.; Guide star magnitude range: 12–18 AB mag.; Telescope tracking accuracy (10 min): 0.1″.; Dither pattern points: 4.; Mirror cooldown time: 2 hours.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A004",
+        "BHF-A008",
+        "BHF-A010",
+        "BHF-A015",
+        "BHF-A019",
+        "BHF-A020",
+        "BHF-A022",
+        "BHF-A026",
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site location, observing window end, seeing limit, maximum gust limit, all-sky camera cadence, telescope tracking accuracy (10 min), dither step size, and observing queue rule?",
+    "response": {
+      "answer": "Site location: Rann of Kutch, Gujarat.; Observing window end: UT 23:00.; Seeing limit: 1.5″.; Maximum gust limit: 22 m/s.; All-sky camera cadence: 5 minutes.; Telescope tracking accuracy (10 min): 0.1″.; Dither step size: 10″.; Observing queue rule: ToO overrides schedule.",
+      "citations": [
+        "BHF-A004",
+        "BHF-A008",
+        "BHF-A011",
+        "BHF-A015",
+        "BHF-A018",
+        "BHF-A022",
+        "BHF-A027",
+        "BHF-A029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observatory time zone, seeing limit, humidity abort threshold, all-sky camera cadence, and dither amplitude range?",
+    "response": {
+      "answer": "Observatory time zone: UTC+5:30 (IST).; Seeing limit: 1.5″.; Humidity abort threshold: 85%.; All-sky camera cadence: 5 minutes.; Dither amplitude range: 5–20″.",
+      "citations": [
+        "BHF-A006",
+        "BHF-A011",
+        "BHF-A013",
+        "BHF-A018",
+        "BHF-A025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the site longitude, site location, observatory time zone, observing window end, wind abort threshold, and maximum gust limit?",
+    "response": {
+      "answer": "Site longitude: 69.859° E.; Site location: Rann of Kutch, Gujarat.; Observatory time zone: UTC+5:30 (IST).; Observing window end: UT 23:00.; Wind abort threshold: 18 m/s.; Maximum gust limit: 22 m/s.",
+      "citations": [
+        "BHF-A002",
+        "BHF-A004",
+        "BHF-A006",
+        "BHF-A008",
+        "BHF-A014",
+        "BHF-A015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the public data archive URL, dome diameter, and laser guide star availability?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the laser guide star availability, spectrograph availability, observatory director name, and dome diameter?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the UPS runtime at full load, observatory director name, telescope mount type, IAU/MPC observatory code, and data link bandwidth?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the primary instrument name and telescope mount type?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the observatory director name, primary instrument name, UPS runtime at full load, and data link bandwidth?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the CCD pixel scale in arcsec per pixel, laser guide star availability, and IAU/MPC observatory code?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the public data archive URL and primary instrument name?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the telescope mount type, CCD pixel scale in arcsec per pixel, spectrograph availability, laser guide star availability, and data link bandwidth?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the primary instrument name and observatory director name?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the data link bandwidth, dome diameter, observatory director name, and primary telescope aperture diameter?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the IAU/MPC observatory code, data link bandwidth, UPS runtime at full load, CCD pixel scale in arcsec per pixel, and public data archive URL?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the UPS runtime at full load, CCD pixel scale in arcsec per pixel, and dome diameter?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the CCD pixel scale in arcsec per pixel, telescope mount type, IAU/MPC observatory code, dome diameter, and UPS runtime at full load?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the telescope mount type, primary telescope aperture diameter, and public data archive URL?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the dome diameter, data link bandwidth, IAU/MPC observatory code, public data archive URL, and observatory director name?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the spectrograph availability, public data archive URL, CCD pixel scale in arcsec per pixel, and primary instrument name?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the spectrograph availability and primary instrument name?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Confirm the dither amplitude range.",
+    "response": {
+      "answer": "5–20″.",
+      "citations": [
+        "BHF-A025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the site seeing monitor type.",
+    "response": {
+      "answer": "MASS-DIMM.",
+      "citations": [
+        "BHF-A031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the site longitude.",
+    "response": {
+      "answer": "69.859° E.",
+      "citations": [
+        "BHF-A002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the site location.",
+    "response": {
+      "answer": "Rann of Kutch, Gujarat.",
+      "citations": [
+        "BHF-A004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the site longitude.",
+    "response": {
+      "answer": "69.859° E.",
+      "citations": [
+        "BHF-A002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the seeing limit.",
+    "response": {
+      "answer": "1.5″.",
+      "citations": [
+        "BHF-A011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the minimum moon separation.",
+    "response": {
+      "answer": "30°.",
+      "citations": [
+        "BHF-A028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the telescope tracking accuracy (10 min).",
+    "response": {
+      "answer": "0.1″.",
+      "citations": [
+        "BHF-A022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the typical seeing.",
+    "response": {
+      "answer": "0.7–1.0″.",
+      "citations": [
+        "BHF-A010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the site location.",
+    "response": {
+      "answer": "Rann of Kutch, Gujarat.",
+      "citations": [
+        "BHF-A004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the dome rotation speed.",
+    "response": {
+      "answer": "1 deg/s.",
+      "citations": [
+        "BHF-A024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the dither amplitude range.",
+    "response": {
+      "answer": "5–20″.",
+      "citations": [
+        "BHF-A025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the site location.",
+    "response": {
+      "answer": "Rann of Kutch, Gujarat.",
+      "citations": [
+        "BHF-A004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the observing night duration.",
+    "response": {
+      "answer": "9 hours.",
+      "citations": [
+        "BHF-A009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the observing window start.",
+    "response": {
+      "answer": "UT 14:00.",
+      "citations": [
+        "BHF-A007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the dither step size.",
+    "response": {
+      "answer": "10″.",
+      "citations": [
+        "BHF-A027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the telescope tracking accuracy (10 min).",
+    "response": {
+      "answer": "0.1″.",
+      "citations": [
+        "BHF-A022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the dewpoint safety margin?",
+    "response": {
+      "answer": "2 °C.",
+      "citations": [
+        "BHF-A016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the all-sky camera cadence?",
+    "response": {
+      "answer": "5 minutes.",
+      "citations": [
+        "BHF-A018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the typical seeing.",
+    "response": {
+      "answer": "0.7–1.0″.",
+      "citations": [
+        "BHF-A010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the observing night duration.",
+    "response": {
+      "answer": "9 hours.",
+      "citations": [
+        "BHF-A009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the site seeing monitor type.",
+    "response": {
+      "answer": "MASS-DIMM.",
+      "citations": [
+        "BHF-A031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the observing window end.",
+    "response": {
+      "answer": "UT 23:00.",
+      "citations": [
+        "BHF-A008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the observatory founding year.",
+    "response": {
+      "answer": "2022.",
+      "citations": [
+        "BHF-A005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing night duration.",
+    "response": {
+      "answer": "9 hours.",
+      "citations": [
+        "BHF-A009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the seeing limit.",
+    "response": {
+      "answer": "1.5″.",
+      "citations": [
+        "BHF-A011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the observatory time zone?",
+    "response": {
+      "answer": "UTC+5:30 (IST).",
+      "citations": [
+        "BHF-A006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the airmass limit.",
+    "response": {
+      "answer": "1.0–2.5.",
+      "citations": [
+        "BHF-A012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the site longitude.",
+    "response": {
+      "answer": "69.859° E.",
+      "citations": [
+        "BHF-A002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the dewpoint safety margin.",
+    "response": {
+      "answer": "2 °C.",
+      "citations": [
+        "BHF-A016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing queue rule.",
+    "response": {
+      "answer": "ToO overrides schedule.",
+      "citations": [
+        "BHF-A029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the observing queue rule?",
+    "response": {
+      "answer": "ToO overrides schedule.",
+      "citations": [
+        "BHF-A029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the dither step size.",
+    "response": {
+      "answer": "10″.",
+      "citations": [
+        "BHF-A027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the typical seeing.",
+    "response": {
+      "answer": "0.7–1.0″.",
+      "citations": [
+        "BHF-A010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the weather station sample rate.",
+    "response": {
+      "answer": "1 Hz.",
+      "citations": [
+        "BHF-A019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the telescope tracking accuracy (10 min)?",
+    "response": {
+      "answer": "0.1″.",
+      "citations": [
+        "BHF-A022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the minimum moon separation.",
+    "response": {
+      "answer": "30°.",
+      "citations": [
+        "BHF-A028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the telescope pointing accuracy.",
+    "response": {
+      "answer": "0.05″.",
+      "citations": [
+        "BHF-A021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the observatory founding year.",
+    "response": {
+      "answer": "2022.",
+      "citations": [
+        "BHF-A005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the observatory founding year?",
+    "response": {
+      "answer": "2022.",
+      "citations": [
+        "BHF-A005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the telescope pointing accuracy.",
+    "response": {
+      "answer": "0.05″.",
+      "citations": [
+        "BHF-A021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the site altitude?",
+    "response": {
+      "answer": "12 m.",
+      "citations": [
+        "BHF-A003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the mirror coating type.",
+    "response": {
+      "answer": "enhanced silver.",
+      "citations": [
+        "BHF-A033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the observing queue rule.",
+    "response": {
+      "answer": "ToO overrides schedule.",
+      "citations": [
+        "BHF-A029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the site altitude.",
+    "response": {
+      "answer": "12 m.",
+      "citations": [
+        "BHF-A003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the site altitude.",
+    "response": {
+      "answer": "12 m.",
+      "citations": [
+        "BHF-A003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the observing flags.",
+    "response": {
+      "answer": "good; fair; poor; closed.",
+      "citations": [
+        "BHF-A030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the dither amplitude range.",
+    "response": {
+      "answer": "5–20″.",
+      "citations": [
+        "BHF-A025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the mirror coating reflectivity?",
+    "response": {
+      "answer": "95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the weather station sample rate.",
+    "response": {
+      "answer": "1 Hz.",
+      "citations": [
+        "BHF-A019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the telescope tracking accuracy (10 min).",
+    "response": {
+      "answer": "0.1″.",
+      "citations": [
+        "BHF-A022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the site seeing monitor type.",
+    "response": {
+      "answer": "MASS-DIMM.",
+      "citations": [
+        "BHF-A031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing window end.",
+    "response": {
+      "answer": "UT 23:00.",
+      "citations": [
+        "BHF-A008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the wind abort threshold.",
+    "response": {
+      "answer": "18 m/s.",
+      "citations": [
+        "BHF-A014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the dewpoint safety margin.",
+    "response": {
+      "answer": "2 °C.",
+      "citations": [
+        "BHF-A016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the mirror cooldown time?",
+    "response": {
+      "answer": "2 hours.",
+      "citations": [
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the minimum moon separation.",
+    "response": {
+      "answer": "30°.",
+      "citations": [
+        "BHF-A028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observing window start.",
+    "response": {
+      "answer": "UT 14:00.",
+      "citations": [
+        "BHF-A007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the minimum moon separation?",
+    "response": {
+      "answer": "30°.",
+      "citations": [
+        "BHF-A028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the airglow monitor cadence.",
+    "response": {
+      "answer": "10 minutes.",
+      "citations": [
+        "BHF-A035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the dither amplitude range?",
+    "response": {
+      "answer": "5–20″.",
+      "citations": [
+        "BHF-A025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the mirror cooldown time.",
+    "response": {
+      "answer": "2 hours.",
+      "citations": [
+        "BHF-A034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the dewpoint safety margin.",
+    "response": {
+      "answer": "2 °C.",
+      "citations": [
+        "BHF-A016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the wind abort threshold.",
+    "response": {
+      "answer": "18 m/s.",
+      "citations": [
+        "BHF-A014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the maximum telescope slew speed.",
+    "response": {
+      "answer": "5 deg/s.",
+      "citations": [
+        "BHF-A023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the observing flags.",
+    "response": {
+      "answer": "good; fair; poor; closed.",
+      "citations": [
+        "BHF-A030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the mirror coating reflectivity.",
+    "response": {
+      "answer": "95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the observatory time zone.",
+    "response": {
+      "answer": "UTC+5:30 (IST).",
+      "citations": [
+        "BHF-A006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the guide star magnitude range.",
+    "response": {
+      "answer": "12–18 AB mag.",
+      "citations": [
+        "BHF-A020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the mirror coating type.",
+    "response": {
+      "answer": "enhanced silver.",
+      "citations": [
+        "BHF-A033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the seeing limit.",
+    "response": {
+      "answer": "1.5″.",
+      "citations": [
+        "BHF-A011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the typical seeing.",
+    "response": {
+      "answer": "0.7–1.0″.",
+      "citations": [
+        "BHF-A010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Do operations continue if lightning is detected?",
+    "response": {
+      "answer": "Abort if lightning detected.",
+      "citations": [
+        "BHF-A017"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the dome rotation speed 2 deg/s?",
+    "response": {
+      "answer": "1 deg/s.",
+      "citations": [
+        "BHF-A024"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the observatory time zone UTC+6?",
+    "response": {
+      "answer": "UTC+5:30 (IST).",
+      "citations": [
+        "BHF-A006"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the airmass limit 3.0?",
+    "response": {
+      "answer": "1.0–2.5.",
+      "citations": [
+        "BHF-A012"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the weather station sample rate 10 Hz?",
+    "response": {
+      "answer": "1 Hz.",
+      "citations": [
+        "BHF-A019"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the typical seeing 1.5–2.0″?",
+    "response": {
+      "answer": "0.7–1.0″.",
+      "citations": [
+        "BHF-A010"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Are the dither pattern points set to 3?",
+    "response": {
+      "answer": "4.",
+      "citations": [
+        "BHF-A026"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the minimum Moon separation 20°?",
+    "response": {
+      "answer": "30°.",
+      "citations": [
+        "BHF-A028"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the mirror coating reflectivity 90%?",
+    "response": {
+      "answer": "95% at 0.4–2.5 μm.",
+      "citations": [
+        "BHF-A032"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the mirror coating type aluminum?",
+    "response": {
+      "answer": "enhanced silver.",
+      "citations": [
+        "BHF-A033"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the guide star magnitude range 8–14 AB mag?",
+    "response": {
+      "answer": "12–18 AB mag.",
+      "citations": [
+        "BHF-A020"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Do scheduled programs override ToOs in the queue?",
+    "response": {
+      "answer": "ToO overrides schedule.",
+      "citations": [
+        "BHF-A029"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum telescope slew speed 10 deg/s?",
+    "response": {
+      "answer": "5 deg/s.",
+      "citations": [
+        "BHF-A023"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the telescope tracking accuracy (10 min) 0.5″?",
+    "response": {
+      "answer": "0.1″.",
+      "citations": [
+        "BHF-A022"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the all-sky camera cadence 1 minute?",
+    "response": {
+      "answer": "5 minutes.",
+      "citations": [
+        "BHF-A018"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the airglow monitor cadence 5 minutes?",
+    "response": {
+      "answer": "10 minutes.",
+      "citations": [
+        "BHF-A035"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the wind abort threshold 25 m/s?",
+    "response": {
+      "answer": "18 m/s.",
+      "citations": [
+        "BHF-A014"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum gust limit 30 m/s?",
+    "response": {
+      "answer": "22 m/s.",
+      "citations": [
+        "BHF-A015"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the dither step size 5″?",
+    "response": {
+      "answer": "10″.",
+      "citations": [
+        "BHF-A027"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the dewpoint safety margin 0 °C?",
+    "response": {
+      "answer": "2 °C.",
+      "citations": [
+        "BHF-A016"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the seeing limit 1.0″?",
+    "response": {
+      "answer": "1.5″.",
+      "citations": [
+        "BHF-A011"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Does the observing window start at UT 12:00?",
+    "response": {
+      "answer": "UT 14:00.",
+      "citations": [
+        "BHF-A007"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Does the observing window end at UT 00:00?",
+    "response": {
+      "answer": "UT 23:00.",
+      "citations": [
+        "BHF-A008"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the observing night duration 8 hours?",
+    "response": {
+      "answer": "9 hours.",
+      "citations": [
+        "BHF-A009"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the telescope pointing accuracy 0.1″?",
+    "response": {
+      "answer": "0.05″.",
+      "citations": [
+        "BHF-A021"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the site altitude 120 m?",
+    "response": {
+      "answer": "12 m.",
+      "citations": [
+        "BHF-A003"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the site longitude 68.859° E?",
+    "response": {
+      "answer": "69.859° E.",
+      "citations": [
+        "BHF-A002"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the site latitude 23.733° S?",
+    "response": {
+      "answer": "23.733° N.",
+      "citations": [
+        "BHF-A001"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Are the observing flags only 'open' and 'closed'?",
+    "response": {
+      "answer": "good; fair; poor; closed.",
+      "citations": [
+        "BHF-A030"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the dither amplitude range 1–3″?",
+    "response": {
+      "answer": "5–20″.",
+      "citations": [
+        "BHF-A025"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "What is the primary telescope aperture diameter?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the CCD pixel scale in arcsec per pixel?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Who is the observatory director?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the total power backup capacity on site?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the telescope mount type?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What IAU/MPC observatory code is assigned to the site?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the primary instrument on the telescope?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the site's Bortle class?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Is there a laser guide star system installed?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Which photometric filter set is standard on the imager?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the dome diameter?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "How many full-time staff work at the observatory?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the annual operations budget?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  }
+]

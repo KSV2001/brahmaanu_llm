@@ -1,0 +1,3289 @@
+[
+  {
+    "question": "State the cosmos ifu spectral resolving power.?",
+    "response": {
+      "answer": "3000.",
+      "citations": [
+        "BHF-B013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the cosmos ifu sampling.?",
+    "response": {
+      "answer": "Nyquist at 650 nm.",
+      "citations": [
+        "BHF-B015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the nirspec exposure time range?",
+    "response": {
+      "answer": "1–3600 s.",
+      "citations": [
+        "BHF-B024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the nirspec wavelength range.?",
+    "response": {
+      "answer": "0.8–2.5 μm.",
+      "citations": [
+        "BHF-B001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the deepimager pixel scale.?",
+    "response": {
+      "answer": "0.3″/pixel.",
+      "citations": [
+        "BHF-B018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the nirspec slit width.?",
+    "response": {
+      "answer": "0.4″.",
+      "citations": [
+        "BHF-B003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the cosmos ifu sampling.?",
+    "response": {
+      "answer": "Nyquist at 650 nm.",
+      "citations": [
+        "BHF-B015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the deepimager filters.?",
+    "response": {
+      "answer": "broadband; narrowband; custom.",
+      "citations": [
+        "BHF-B021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the deepimager field of view.?",
+    "response": {
+      "answer": "1° × 1°.",
+      "citations": [
+        "BHF-B017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the viscam filter set.?",
+    "response": {
+      "answer": "u; g; r; i; z; y.",
+      "citations": [
+        "BHF-B009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the nirspec readout mode.?",
+    "response": {
+      "answer": "multiple non-destructive reads.",
+      "citations": [
+        "BHF-B004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the deepimager pixel scale?",
+    "response": {
+      "answer": "0.3″/pixel.",
+      "citations": [
+        "BHF-B018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the deepimager pixel scale.?",
+    "response": {
+      "answer": "0.3″/pixel.",
+      "citations": [
+        "BHF-B018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the deepimager filter wheel positions.?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-B020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the deepimager readout mode.?",
+    "response": {
+      "answer": "fast scanning.",
+      "citations": [
+        "BHF-B019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the cosmos ifu spaxel size?",
+    "response": {
+      "answer": "0.2″.",
+      "citations": [
+        "BHF-B010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the nirspec detector integration time?",
+    "response": {
+      "answer": "1.5 s.",
+      "citations": [
+        "BHF-B028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the nirspec grating types.?",
+    "response": {
+      "answer": "G1 low; G2 medium; G3 high.",
+      "citations": [
+        "BHF-B005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the instrument mounting positions?",
+    "response": {
+      "answer": "Cassegrain; Nasmyth; Prime.",
+      "citations": [
+        "BHF-B022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the deepimager readout mode?",
+    "response": {
+      "answer": "fast scanning.",
+      "citations": [
+        "BHF-B019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the cosmos ifu spectral range?",
+    "response": {
+      "answer": "0.6–1.0 μm.",
+      "citations": [
+        "BHF-B012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the cosmos ifu exposure time range?",
+    "response": {
+      "answer": "10–7200 s.",
+      "citations": [
+        "BHF-B025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the deepimager calibration lamps.?",
+    "response": {
+      "answer": "LED array.",
+      "citations": [
+        "BHF-B033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the nirspec exposure time range.?",
+    "response": {
+      "answer": "1–3600 s.",
+      "citations": [
+        "BHF-B024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the cosmos ifu number of spaxels.?",
+    "response": {
+      "answer": "50 × 50.",
+      "citations": [
+        "BHF-B014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the nirspec readout mode.?",
+    "response": {
+      "answer": "multiple non-destructive reads.",
+      "citations": [
+        "BHF-B004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the cosmos ifu spaxel size.?",
+    "response": {
+      "answer": "0.2″.",
+      "citations": [
+        "BHF-B010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the cosmos ifu sky fibers?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-B030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the nirspec detector integration time.?",
+    "response": {
+      "answer": "1.5 s.",
+      "citations": [
+        "BHF-B028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the instrument control system.?",
+    "response": {
+      "answer": "fully remote.",
+      "citations": [
+        "BHF-B035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the viscam calibration lamps?",
+    "response": {
+      "answer": "Halogen; Xenon.",
+      "citations": [
+        "BHF-B032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the deepimager calibration lamps.?",
+    "response": {
+      "answer": "LED array.",
+      "citations": [
+        "BHF-B033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the viscam exposure time range.?",
+    "response": {
+      "answer": "0.1–1800 s.",
+      "citations": [
+        "BHF-B023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the cosmos ifu sky fibers.?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-B030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the cosmos ifu sky fibers.?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-B030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the instrument throughput?",
+    "response": {
+      "answer": "35–70%.",
+      "citations": [
+        "BHF-B027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the nirspec resolving power.?",
+    "response": {
+      "answer": "1000.",
+      "citations": [
+        "BHF-B002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the deepimager wavelength range.?",
+    "response": {
+      "answer": "0.4–1.6 μm.",
+      "citations": [
+        "BHF-B016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the instrument interchange time?",
+    "response": {
+      "answer": "20 minutes.",
+      "citations": [
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the cosmos ifu spectral resolving power.?",
+    "response": {
+      "answer": "3000.",
+      "citations": [
+        "BHF-B013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the deepimager filters.?",
+    "response": {
+      "answer": "broadband; narrowband; custom.",
+      "citations": [
+        "BHF-B021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the nirspec slit width?",
+    "response": {
+      "answer": "0.4″.",
+      "citations": [
+        "BHF-B003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the viscam autoguider.?",
+    "response": {
+      "answer": "available.",
+      "citations": [
+        "BHF-B029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the deepimager exposure time range.?",
+    "response": {
+      "answer": "5–7200 s.",
+      "citations": [
+        "BHF-B026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the viscam exposure time range.?",
+    "response": {
+      "answer": "0.1–1800 s.",
+      "citations": [
+        "BHF-B023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the viscam wavelength range?",
+    "response": {
+      "answer": "0.35–0.9 μm.",
+      "citations": [
+        "BHF-B006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the viscam wavelength range.?",
+    "response": {
+      "answer": "0.35–0.9 μm.",
+      "citations": [
+        "BHF-B006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the viscam filter set.?",
+    "response": {
+      "answer": "u; g; r; i; z; y.",
+      "citations": [
+        "BHF-B009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the nirspec detector integration time.?",
+    "response": {
+      "answer": "1.5 s.",
+      "citations": [
+        "BHF-B028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the deepimager calibration lamps.?",
+    "response": {
+      "answer": "LED array.",
+      "citations": [
+        "BHF-B033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the cosmos ifu sampling?",
+    "response": {
+      "answer": "Nyquist at 650 nm.",
+      "citations": [
+        "BHF-B015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the cosmos ifu spectral resolving power.?",
+    "response": {
+      "answer": "3000.",
+      "citations": [
+        "BHF-B013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the viscam calibration lamps.?",
+    "response": {
+      "answer": "Halogen; Xenon.",
+      "citations": [
+        "BHF-B032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the nirspec detector integration time.?",
+    "response": {
+      "answer": "1.5 s.",
+      "citations": [
+        "BHF-B028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the instrument mounting positions.?",
+    "response": {
+      "answer": "Cassegrain; Nasmyth; Prime.",
+      "citations": [
+        "BHF-B022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the cosmos ifu spaxel size.?",
+    "response": {
+      "answer": "0.2″.",
+      "citations": [
+        "BHF-B010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the viscam wavelength range.?",
+    "response": {
+      "answer": "0.35–0.9 μm.",
+      "citations": [
+        "BHF-B006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the nirspec readout mode?",
+    "response": {
+      "answer": "multiple non-destructive reads.",
+      "citations": [
+        "BHF-B004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the viscam field of view?",
+    "response": {
+      "answer": "20′ × 20′.",
+      "citations": [
+        "BHF-B007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the instrument control system?",
+    "response": {
+      "answer": "fully remote.",
+      "citations": [
+        "BHF-B035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the viscam calibration lamps.?",
+    "response": {
+      "answer": "Halogen; Xenon.",
+      "citations": [
+        "BHF-B032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the viscam exposure time range.?",
+    "response": {
+      "answer": "0.1–1800 s.",
+      "citations": [
+        "BHF-B023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the viscam pixel scale.?",
+    "response": {
+      "answer": "0.1″/pixel.",
+      "citations": [
+        "BHF-B008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the viscam filter set.?",
+    "response": {
+      "answer": "u; g; r; i; z; y.",
+      "citations": [
+        "BHF-B009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the instrument interchange time.?",
+    "response": {
+      "answer": "20 minutes.",
+      "citations": [
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the cosmos ifu field of view?",
+    "response": {
+      "answer": "10″ × 10″.",
+      "citations": [
+        "BHF-B011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the deepimager filters?",
+    "response": {
+      "answer": "broadband; narrowband; custom.",
+      "citations": [
+        "BHF-B021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the cosmos ifu sampling.?",
+    "response": {
+      "answer": "Nyquist at 650 nm.",
+      "citations": [
+        "BHF-B015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the deepimager field of view.?",
+    "response": {
+      "answer": "1° × 1°.",
+      "citations": [
+        "BHF-B017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the viscam filter set.?",
+    "response": {
+      "answer": "u; g; r; i; z; y.",
+      "citations": [
+        "BHF-B009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the viscam field of view.?",
+    "response": {
+      "answer": "20′ × 20′.",
+      "citations": [
+        "BHF-B007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the deepimager filter wheel positions?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-B020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of nirspec slit width, viscam filter set, deepimager filter wheel positions, and viscam calibration lamps.?",
+    "response": {
+      "answer": "NIRSpec slit width: 0.4″. VISCam filter set: u; g; r; i; z; y. DEEPImager filter wheel positions: 10. VISCam calibration lamps: Halogen; Xenon.",
+      "citations": [
+        "BHF-B003",
+        "BHF-B009",
+        "BHF-B020",
+        "BHF-B032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec wavelength range, deepimager filter wheel positions, and instrument interchange time.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. DEEPImager filter wheel positions: 10. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B020",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec grating types, cosmos ifu spectral resolving power, cosmos ifu number of spaxels, and cosmos ifu sampling.?",
+    "response": {
+      "answer": "NIRSpec grating types: G1 low; G2 medium; G3 high. COSMOS IFU spectral resolving power: 3000. COSMOS IFU number of spaxels: 50 × 50. COSMOS IFU sampling: Nyquist at 650 nm.",
+      "citations": [
+        "BHF-B005",
+        "BHF-B013",
+        "BHF-B014",
+        "BHF-B015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on viscam wavelength range, cosmos ifu number of spaxels, and deepimager field of view., and surface gravity?",
+    "response": {
+      "answer": "VISCam wavelength range: 0.35–0.9 μm. COSMOS IFU number of spaxels: 50 × 50. DEEPImager field of view: 1° × 1°. Missing data: information about surface gravity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B006",
+        "BHF-B014",
+        "BHF-B017"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the notable attributes of nirspec wavelength range, viscam wavelength range, deepimager wavelength range, and nirspec exposure time range.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. VISCam wavelength range: 0.35–0.9 μm. DEEPImager wavelength range: 0.4–1.6 μm. NIRSpec exposure time range: 1–3600 s.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B006",
+        "BHF-B016",
+        "BHF-B024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of viscam pixel scale and cosmos ifu exposure time range., and surface gravity?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. COSMOS IFU exposure time range: 10–7200 s. Missing data: information about surface gravity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B025"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the notable attributes of viscam pixel scale, deepimager wavelength range, viscam exposure time range, and cosmos ifu exposure time range.?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. DEEPImager wavelength range: 0.4–1.6 μm. VISCam exposure time range: 0.1–1800 s. COSMOS IFU exposure time range: 10–7200 s.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B016",
+        "BHF-B023",
+        "BHF-B025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on deepimager filter wheel positions, cosmos ifu sky fibers, and viscam calibration lamps.?",
+    "response": {
+      "answer": "DEEPImager filter wheel positions: 10. COSMOS IFU sky fibers: 10. VISCam calibration lamps: Halogen; Xenon.",
+      "citations": [
+        "BHF-B020",
+        "BHF-B030",
+        "BHF-B032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of instrument throughput and nirspec calibration lamps.?",
+    "response": {
+      "answer": "Instrument throughput: 35–70%. NIRSpec calibration lamps: Argon; Neon; Krypton.",
+      "citations": [
+        "BHF-B027",
+        "BHF-B031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on viscam pixel scale, deepimager exposure time range, instrument throughput, and cosmos ifu sky fibers.?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. DEEPImager exposure time range: 5–7200 s. Instrument throughput: 35–70%. COSMOS IFU sky fibers: 10.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B026",
+        "BHF-B027",
+        "BHF-B030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of cosmos ifu spectral resolving power, cosmos ifu sampling, instrument throughput, and instrument interchange time.?",
+    "response": {
+      "answer": "COSMOS IFU spectral resolving power: 3000. COSMOS IFU sampling: Nyquist at 650 nm. Instrument throughput: 35–70%. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B013",
+        "BHF-B015",
+        "BHF-B027",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on cosmos ifu number of spaxels, nirspec exposure time range, deepimager exposure time range, and nirspec calibration lamps.?",
+    "response": {
+      "answer": "COSMOS IFU number of spaxels: 50 × 50. NIRSpec exposure time range: 1–3600 s. DEEPImager exposure time range: 5–7200 s. NIRSpec calibration lamps: Argon; Neon; Krypton.",
+      "citations": [
+        "BHF-B014",
+        "BHF-B024",
+        "BHF-B026",
+        "BHF-B031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec slit width, viscam field of view, deepimager readout mode, and instrument control system., and inclination?",
+    "response": {
+      "answer": "NIRSpec slit width: 0.4″. VISCam field of view: 20′ × 20′. DEEPImager readout mode: fast scanning. Instrument control system: fully remote. Missing data: information about inclination is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B003",
+        "BHF-B007",
+        "BHF-B019",
+        "BHF-B035"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam field of view, cosmos ifu spaxel size, cosmos ifu sampling, and cosmos ifu exposure time range.?",
+    "response": {
+      "answer": "VISCam field of view: 20′ × 20′. COSMOS IFU spaxel size: 0.2″. COSMOS IFU sampling: Nyquist at 650 nm. COSMOS IFU exposure time range: 10–7200 s.",
+      "citations": [
+        "BHF-B007",
+        "BHF-B010",
+        "BHF-B015",
+        "BHF-B025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of cosmos ifu spaxel size, viscam exposure time range, cosmos ifu exposure time range, and instrument throughput.?",
+    "response": {
+      "answer": "COSMOS IFU spaxel size: 0.2″. VISCam exposure time range: 0.1–1800 s. COSMOS IFU exposure time range: 10–7200 s. Instrument throughput: 35–70%.",
+      "citations": [
+        "BHF-B010",
+        "BHF-B023",
+        "BHF-B025",
+        "BHF-B027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on nirspec slit width, viscam pixel scale, deepimager pixel scale, and instrument control system.?",
+    "response": {
+      "answer": "NIRSpec slit width: 0.4″. VISCam pixel scale: 0.1″/pixel. DEEPImager pixel scale: 0.3″/pixel. Instrument control system: fully remote.",
+      "citations": [
+        "BHF-B003",
+        "BHF-B008",
+        "BHF-B018",
+        "BHF-B035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of nirspec resolving power, nirspec readout mode, deepimager filter wheel positions, and instrument mounting positions., and inclination?",
+    "response": {
+      "answer": "NIRSpec resolving power: 1000. NIRSpec readout mode: multiple non-destructive reads. DEEPImager filter wheel positions: 10. Instrument mounting positions: Cassegrain; Nasmyth; Prime. Missing data: information about inclination is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B002",
+        "BHF-B004",
+        "BHF-B020",
+        "BHF-B022"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec wavelength range, viscam filter set, deepimager field of view, and instrument throughput.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. VISCam filter set: u; g; r; i; z; y. DEEPImager field of view: 1° × 1°. Instrument throughput: 35–70%.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B009",
+        "BHF-B017",
+        "BHF-B027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam field of view, viscam filter set, and cosmos ifu sky fibers.?",
+    "response": {
+      "answer": "VISCam field of view: 20′ × 20′. VISCam filter set: u; g; r; i; z; y. COSMOS IFU sky fibers: 10.",
+      "citations": [
+        "BHF-B007",
+        "BHF-B009",
+        "BHF-B030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of deepimager exposure time range and instrument interchange time.?",
+    "response": {
+      "answer": "DEEPImager exposure time range: 5–7200 s. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B026",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of nirspec wavelength range and instrument throughput.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. Instrument throughput: 35–70%.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam field of view, deepimager wavelength range, deepimager exposure time range, and nirspec detector integration time.?",
+    "response": {
+      "answer": "VISCam field of view: 20′ × 20′. DEEPImager wavelength range: 0.4–1.6 μm. DEEPImager exposure time range: 5–7200 s. NIRSpec detector integration time: 1.5 s.",
+      "citations": [
+        "BHF-B007",
+        "BHF-B016",
+        "BHF-B026",
+        "BHF-B028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec resolving power, deepimager readout mode, deepimager calibration lamps, and instrument control system., and eccentricity?",
+    "response": {
+      "answer": "NIRSpec resolving power: 1000. DEEPImager readout mode: fast scanning. DEEPImager calibration lamps: LED array. Instrument control system: fully remote. Missing data: information about eccentricity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B002",
+        "BHF-B019",
+        "BHF-B033",
+        "BHF-B035"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on cosmos ifu spectral range, viscam exposure time range, instrument throughput, and viscam autoguider.?",
+    "response": {
+      "answer": "COSMOS IFU spectral range: 0.6–1.0 μm. VISCam exposure time range: 0.1–1800 s. Instrument throughput: 35–70%. VISCam autoguider: available.",
+      "citations": [
+        "BHF-B012",
+        "BHF-B023",
+        "BHF-B027",
+        "BHF-B029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam filter set, viscam autoguider, and instrument interchange time.?",
+    "response": {
+      "answer": "VISCam filter set: u; g; r; i; z; y. VISCam autoguider: available. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B009",
+        "BHF-B029",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on viscam pixel scale, cosmos ifu sky fibers, and viscam calibration lamps.?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. COSMOS IFU sky fibers: 10. VISCam calibration lamps: Halogen; Xenon.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B030",
+        "BHF-B032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of cosmos ifu spectral resolving power and instrument mounting positions.?",
+    "response": {
+      "answer": "COSMOS IFU spectral resolving power: 3000. Instrument mounting positions: Cassegrain; Nasmyth; Prime.",
+      "citations": [
+        "BHF-B013",
+        "BHF-B022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of nirspec resolving power, nirspec exposure time range, deepimager exposure time range, and deepimager calibration lamps.?",
+    "response": {
+      "answer": "NIRSpec resolving power: 1000. NIRSpec exposure time range: 1–3600 s. DEEPImager exposure time range: 5–7200 s. DEEPImager calibration lamps: LED array.",
+      "citations": [
+        "BHF-B002",
+        "BHF-B024",
+        "BHF-B026",
+        "BHF-B033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of nirspec resolving power, viscam filter set, and deepimager pixel scale.?",
+    "response": {
+      "answer": "NIRSpec resolving power: 1000. VISCam filter set: u; g; r; i; z; y. DEEPImager pixel scale: 0.3″/pixel.",
+      "citations": [
+        "BHF-B002",
+        "BHF-B009",
+        "BHF-B018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam wavelength range and viscam filter set.?",
+    "response": {
+      "answer": "VISCam wavelength range: 0.35–0.9 μm. VISCam filter set: u; g; r; i; z; y.",
+      "citations": [
+        "BHF-B006",
+        "BHF-B009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of nirspec slit width and viscam pixel scale.?",
+    "response": {
+      "answer": "NIRSpec slit width: 0.4″. VISCam pixel scale: 0.1″/pixel.",
+      "citations": [
+        "BHF-B003",
+        "BHF-B008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam pixel scale, deepimager wavelength range, and deepimager pixel scale.?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. DEEPImager wavelength range: 0.4–1.6 μm. DEEPImager pixel scale: 0.3″/pixel.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B016",
+        "BHF-B018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of nirspec slit width, viscam wavelength range, and viscam exposure time range., and eccentricity?",
+    "response": {
+      "answer": "NIRSpec slit width: 0.4″. VISCam wavelength range: 0.35–0.9 μm. VISCam exposure time range: 0.1–1800 s. Missing data: information about eccentricity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B003",
+        "BHF-B006",
+        "BHF-B023"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the notable attributes of instrument mounting positions, instrument throughput, instrument interchange time, and instrument control system.?",
+    "response": {
+      "answer": "Instrument mounting positions: Cassegrain; Nasmyth; Prime. Instrument throughput: 35–70%. Instrument interchange time: 20 minutes. Instrument control system: fully remote.",
+      "citations": [
+        "BHF-B022",
+        "BHF-B027",
+        "BHF-B034",
+        "BHF-B035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of cosmos ifu spaxel size, cosmos ifu exposure time range, and instrument interchange time.?",
+    "response": {
+      "answer": "COSMOS IFU spaxel size: 0.2″. COSMOS IFU exposure time range: 10–7200 s. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B010",
+        "BHF-B025",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on cosmos ifu exposure time range and instrument interchange time.?",
+    "response": {
+      "answer": "COSMOS IFU exposure time range: 10–7200 s. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B025",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam pixel scale, deepimager pixel scale, and nirspec calibration lamps.?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. DEEPImager pixel scale: 0.3″/pixel. NIRSpec calibration lamps: Argon; Neon; Krypton.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B018",
+        "BHF-B031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of deepimager pixel scale, deepimager readout mode, viscam exposure time range, and instrument throughput.?",
+    "response": {
+      "answer": "DEEPImager pixel scale: 0.3″/pixel. DEEPImager readout mode: fast scanning. VISCam exposure time range: 0.1–1800 s. Instrument throughput: 35–70%.",
+      "citations": [
+        "BHF-B018",
+        "BHF-B019",
+        "BHF-B023",
+        "BHF-B027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of cosmos ifu spectral range and instrument control system.?",
+    "response": {
+      "answer": "COSMOS IFU spectral range: 0.6–1.0 μm. Instrument control system: fully remote.",
+      "citations": [
+        "BHF-B012",
+        "BHF-B035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of cosmos ifu spaxel size, deepimager readout mode, deepimager filter wheel positions, and nirspec detector integration time.?",
+    "response": {
+      "answer": "COSMOS IFU spaxel size: 0.2″. DEEPImager readout mode: fast scanning. DEEPImager filter wheel positions: 10. NIRSpec detector integration time: 1.5 s.",
+      "citations": [
+        "BHF-B010",
+        "BHF-B019",
+        "BHF-B020",
+        "BHF-B028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of cosmos ifu field of view, cosmos ifu sky fibers, and nirspec calibration lamps., and proper motion?",
+    "response": {
+      "answer": "COSMOS IFU field of view: 10″ × 10″. COSMOS IFU sky fibers: 10. NIRSpec calibration lamps: Argon; Neon; Krypton. Missing data: information about proper motion is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B011",
+        "BHF-B030",
+        "BHF-B031"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Outline the salient properties of cosmos ifu spectral resolving power, deepimager filters, and viscam exposure time range.?",
+    "response": {
+      "answer": "COSMOS IFU spectral resolving power: 3000. DEEPImager filters: broadband; narrowband; custom. VISCam exposure time range: 0.1–1800 s.",
+      "citations": [
+        "BHF-B013",
+        "BHF-B021",
+        "BHF-B023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on cosmos ifu spectral range and nirspec exposure time range.?",
+    "response": {
+      "answer": "COSMOS IFU spectral range: 0.6–1.0 μm. NIRSpec exposure time range: 1–3600 s.",
+      "citations": [
+        "BHF-B012",
+        "BHF-B024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of nirspec readout mode and viscam filter set.?",
+    "response": {
+      "answer": "NIRSpec readout mode: multiple non-destructive reads. VISCam filter set: u; g; r; i; z; y.",
+      "citations": [
+        "BHF-B004",
+        "BHF-B009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam wavelength range, deepimager filter wheel positions, nirspec exposure time range, and cosmos ifu sky fibers.?",
+    "response": {
+      "answer": "VISCam wavelength range: 0.35–0.9 μm. DEEPImager filter wheel positions: 10. NIRSpec exposure time range: 1–3600 s. COSMOS IFU sky fibers: 10.",
+      "citations": [
+        "BHF-B006",
+        "BHF-B020",
+        "BHF-B024",
+        "BHF-B030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of instrument mounting positions and viscam exposure time range.?",
+    "response": {
+      "answer": "Instrument mounting positions: Cassegrain; Nasmyth; Prime. VISCam exposure time range: 0.1–1800 s.",
+      "citations": [
+        "BHF-B022",
+        "BHF-B023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec wavelength range and cosmos ifu field of view.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. COSMOS IFU field of view: 10″ × 10″.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of deepimager exposure time range and nirspec detector integration time., and inclination?",
+    "response": {
+      "answer": "DEEPImager exposure time range: 5–7200 s. NIRSpec detector integration time: 1.5 s. Missing data: information about inclination is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B026",
+        "BHF-B028"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the notable attributes of cosmos ifu spectral range, deepimager filter wheel positions, viscam exposure time range, and instrument interchange time.?",
+    "response": {
+      "answer": "COSMOS IFU spectral range: 0.6–1.0 μm. DEEPImager filter wheel positions: 10. VISCam exposure time range: 0.1–1800 s. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B012",
+        "BHF-B020",
+        "BHF-B023",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on nirspec wavelength range, deepimager wavelength range, and viscam autoguider.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. DEEPImager wavelength range: 0.4–1.6 μm. VISCam autoguider: available.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B016",
+        "BHF-B029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of cosmos ifu spaxel size, cosmos ifu number of spaxels, and deepimager exposure time range.?",
+    "response": {
+      "answer": "COSMOS IFU spaxel size: 0.2″. COSMOS IFU number of spaxels: 50 × 50. DEEPImager exposure time range: 5–7200 s.",
+      "citations": [
+        "BHF-B010",
+        "BHF-B014",
+        "BHF-B026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec wavelength range, deepimager field of view, viscam exposure time range, and cosmos ifu exposure time range.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. DEEPImager field of view: 1° × 1°. VISCam exposure time range: 0.1–1800 s. COSMOS IFU exposure time range: 10–7200 s.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B017",
+        "BHF-B023",
+        "BHF-B025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on nirspec slit width, cosmos ifu number of spaxels, deepimager wavelength range, and instrument interchange time.?",
+    "response": {
+      "answer": "NIRSpec slit width: 0.4″. COSMOS IFU number of spaxels: 50 × 50. DEEPImager wavelength range: 0.4–1.6 μm. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B003",
+        "BHF-B014",
+        "BHF-B016",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of deepimager pixel scale, viscam exposure time range, and cosmos ifu exposure time range.?",
+    "response": {
+      "answer": "DEEPImager pixel scale: 0.3″/pixel. VISCam exposure time range: 0.1–1800 s. COSMOS IFU exposure time range: 10–7200 s.",
+      "citations": [
+        "BHF-B018",
+        "BHF-B023",
+        "BHF-B025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of deepimager readout mode and deepimager filters.?",
+    "response": {
+      "answer": "DEEPImager readout mode: fast scanning. DEEPImager filters: broadband; narrowband; custom.",
+      "citations": [
+        "BHF-B019",
+        "BHF-B021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on viscam field of view, viscam pixel scale, cosmos ifu sampling, and deepimager field of view.?",
+    "response": {
+      "answer": "VISCam field of view: 20′ × 20′. VISCam pixel scale: 0.1″/pixel. COSMOS IFU sampling: Nyquist at 650 nm. DEEPImager field of view: 1° × 1°.",
+      "citations": [
+        "BHF-B007",
+        "BHF-B008",
+        "BHF-B015",
+        "BHF-B017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of cosmos ifu spectral resolving power and cosmos ifu sky fibers.?",
+    "response": {
+      "answer": "COSMOS IFU spectral resolving power: 3000. COSMOS IFU sky fibers: 10.",
+      "citations": [
+        "BHF-B013",
+        "BHF-B030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec wavelength range and deepimager exposure time range.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. DEEPImager exposure time range: 5–7200 s.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on nirspec slit width, instrument mounting positions, and viscam calibration lamps.?",
+    "response": {
+      "answer": "NIRSpec slit width: 0.4″. Instrument mounting positions: Cassegrain; Nasmyth; Prime. VISCam calibration lamps: Halogen; Xenon.",
+      "citations": [
+        "BHF-B003",
+        "BHF-B022",
+        "BHF-B032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec readout mode and viscam pixel scale.?",
+    "response": {
+      "answer": "NIRSpec readout mode: multiple non-destructive reads. VISCam pixel scale: 0.1″/pixel.",
+      "citations": [
+        "BHF-B004",
+        "BHF-B008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam calibration lamps and instrument interchange time.?",
+    "response": {
+      "answer": "VISCam calibration lamps: Halogen; Xenon. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B032",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of cosmos ifu number of spaxels, deepimager wavelength range, and instrument mounting positions.?",
+    "response": {
+      "answer": "COSMOS IFU number of spaxels: 50 × 50. DEEPImager wavelength range: 0.4–1.6 μm. Instrument mounting positions: Cassegrain; Nasmyth; Prime.",
+      "citations": [
+        "BHF-B014",
+        "BHF-B016",
+        "BHF-B022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam field of view, cosmos ifu spectral resolving power, and deepimager readout mode.?",
+    "response": {
+      "answer": "VISCam field of view: 20′ × 20′. COSMOS IFU spectral resolving power: 3000. DEEPImager readout mode: fast scanning.",
+      "citations": [
+        "BHF-B007",
+        "BHF-B013",
+        "BHF-B019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of nirspec grating types, deepimager readout mode, cosmos ifu exposure time range, and instrument control system.?",
+    "response": {
+      "answer": "NIRSpec grating types: G1 low; G2 medium; G3 high. DEEPImager readout mode: fast scanning. COSMOS IFU exposure time range: 10–7200 s. Instrument control system: fully remote.",
+      "citations": [
+        "BHF-B005",
+        "BHF-B019",
+        "BHF-B025",
+        "BHF-B035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of cosmos ifu spectral resolving power, cosmos ifu sampling, deepimager wavelength range, and instrument interchange time.?",
+    "response": {
+      "answer": "COSMOS IFU spectral resolving power: 3000. COSMOS IFU sampling: Nyquist at 650 nm. DEEPImager wavelength range: 0.4–1.6 μm. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B013",
+        "BHF-B015",
+        "BHF-B016",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of instrument mounting positions, nirspec detector integration time, and cosmos ifu sky fibers.?",
+    "response": {
+      "answer": "Instrument mounting positions: Cassegrain; Nasmyth; Prime. NIRSpec detector integration time: 1.5 s. COSMOS IFU sky fibers: 10.",
+      "citations": [
+        "BHF-B022",
+        "BHF-B028",
+        "BHF-B030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of deepimager wavelength range, deepimager readout mode, deepimager filters, and cosmos ifu sky fibers., and proper motion?",
+    "response": {
+      "answer": "DEEPImager wavelength range: 0.4–1.6 μm. DEEPImager readout mode: fast scanning. DEEPImager filters: broadband; narrowband; custom. COSMOS IFU sky fibers: 10. Missing data: information about proper motion is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B016",
+        "BHF-B019",
+        "BHF-B021",
+        "BHF-B030"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Outline the salient properties of cosmos ifu number of spaxels and viscam autoguider.?",
+    "response": {
+      "answer": "COSMOS IFU number of spaxels: 50 × 50. VISCam autoguider: available.",
+      "citations": [
+        "BHF-B014",
+        "BHF-B029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam pixel scale, viscam filter set, viscam autoguider, and instrument interchange time.?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. VISCam filter set: u; g; r; i; z; y. VISCam autoguider: available. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B009",
+        "BHF-B029",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on viscam pixel scale and instrument mounting positions.?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. Instrument mounting positions: Cassegrain; Nasmyth; Prime.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of nirspec resolving power, cosmos ifu field of view, deepimager readout mode, and nirspec detector integration time.?",
+    "response": {
+      "answer": "NIRSpec resolving power: 1000. COSMOS IFU field of view: 10″ × 10″. DEEPImager readout mode: fast scanning. NIRSpec detector integration time: 1.5 s.",
+      "citations": [
+        "BHF-B002",
+        "BHF-B011",
+        "BHF-B019",
+        "BHF-B028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on viscam field of view, nirspec exposure time range, and deepimager exposure time range.?",
+    "response": {
+      "answer": "VISCam field of view: 20′ × 20′. NIRSpec exposure time range: 1–3600 s. DEEPImager exposure time range: 5–7200 s.",
+      "citations": [
+        "BHF-B007",
+        "BHF-B024",
+        "BHF-B026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on viscam field of view, viscam filter set, and instrument interchange time.?",
+    "response": {
+      "answer": "VISCam field of view: 20′ × 20′. VISCam filter set: u; g; r; i; z; y. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B007",
+        "BHF-B009",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on viscam wavelength range and viscam filter set.?",
+    "response": {
+      "answer": "VISCam wavelength range: 0.35–0.9 μm. VISCam filter set: u; g; r; i; z; y.",
+      "citations": [
+        "BHF-B006",
+        "BHF-B009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec wavelength range and deepimager readout mode., and albedo?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. DEEPImager readout mode: fast scanning. Missing data: information about albedo is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B019"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the notable attributes of nirspec wavelength range, deepimager filters, nirspec exposure time range, and instrument throughput.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. DEEPImager filters: broadband; narrowband; custom. NIRSpec exposure time range: 1–3600 s. Instrument throughput: 35–70%.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B021",
+        "BHF-B024",
+        "BHF-B027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of deepimager pixel scale and nirspec detector integration time.?",
+    "response": {
+      "answer": "DEEPImager pixel scale: 0.3″/pixel. NIRSpec detector integration time: 1.5 s.",
+      "citations": [
+        "BHF-B018",
+        "BHF-B028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of deepimager field of view, deepimager pixel scale, and nirspec calibration lamps.?",
+    "response": {
+      "answer": "DEEPImager field of view: 1° × 1°. DEEPImager pixel scale: 0.3″/pixel. NIRSpec calibration lamps: Argon; Neon; Krypton.",
+      "citations": [
+        "BHF-B017",
+        "BHF-B018",
+        "BHF-B031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam pixel scale, cosmos ifu spectral range, and deepimager filter wheel positions.?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. COSMOS IFU spectral range: 0.6–1.0 μm. DEEPImager filter wheel positions: 10.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B012",
+        "BHF-B020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of deepimager pixel scale and instrument mounting positions.?",
+    "response": {
+      "answer": "DEEPImager pixel scale: 0.3″/pixel. Instrument mounting positions: Cassegrain; Nasmyth; Prime.",
+      "citations": [
+        "BHF-B018",
+        "BHF-B022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam filter set, deepimager wavelength range, deepimager field of view, and cosmos ifu sky fibers.?",
+    "response": {
+      "answer": "VISCam filter set: u; g; r; i; z; y. DEEPImager wavelength range: 0.4–1.6 μm. DEEPImager field of view: 1° × 1°. COSMOS IFU sky fibers: 10.",
+      "citations": [
+        "BHF-B009",
+        "BHF-B016",
+        "BHF-B017",
+        "BHF-B030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec resolving power, deepimager filters, and nirspec detector integration time.?",
+    "response": {
+      "answer": "NIRSpec resolving power: 1000. DEEPImager filters: broadband; narrowband; custom. NIRSpec detector integration time: 1.5 s.",
+      "citations": [
+        "BHF-B002",
+        "BHF-B021",
+        "BHF-B028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of deepimager field of view, deepimager filters, and instrument mounting positions.?",
+    "response": {
+      "answer": "DEEPImager field of view: 1° × 1°. DEEPImager filters: broadband; narrowband; custom. Instrument mounting positions: Cassegrain; Nasmyth; Prime.",
+      "citations": [
+        "BHF-B017",
+        "BHF-B021",
+        "BHF-B022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam pixel scale, deepimager wavelength range, nirspec calibration lamps, and instrument interchange time.?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. DEEPImager wavelength range: 0.4–1.6 μm. NIRSpec calibration lamps: Argon; Neon; Krypton. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B016",
+        "BHF-B031",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam filter set, deepimager field of view, and nirspec detector integration time.?",
+    "response": {
+      "answer": "VISCam filter set: u; g; r; i; z; y. DEEPImager field of view: 1° × 1°. NIRSpec detector integration time: 1.5 s.",
+      "citations": [
+        "BHF-B009",
+        "BHF-B017",
+        "BHF-B028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of viscam wavelength range, instrument throughput, and instrument interchange time.?",
+    "response": {
+      "answer": "VISCam wavelength range: 0.35–0.9 μm. Instrument throughput: 35–70%. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B006",
+        "BHF-B027",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of nirspec wavelength range and viscam exposure time range.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. VISCam exposure time range: 0.1–1800 s.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec slit width and cosmos ifu spectral resolving power., and emissivity?",
+    "response": {
+      "answer": "NIRSpec slit width: 0.4″. COSMOS IFU spectral resolving power: 3000. Missing data: information about emissivity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B003",
+        "BHF-B013"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on nirspec readout mode and cosmos ifu field of view., and escape velocity?",
+    "response": {
+      "answer": "NIRSpec readout mode: multiple non-destructive reads. COSMOS IFU field of view: 10″ × 10″. Missing data: information about escape velocity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B004",
+        "BHF-B011"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the notable attributes of cosmos ifu spectral range, cosmos ifu spectral resolving power, and cosmos ifu number of spaxels., and inclination?",
+    "response": {
+      "answer": "COSMOS IFU spectral range: 0.6–1.0 μm. COSMOS IFU spectral resolving power: 3000. COSMOS IFU number of spaxels: 50 × 50. Missing data: information about inclination is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B012",
+        "BHF-B013",
+        "BHF-B014"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Outline the salient properties of nirspec wavelength range, cosmos ifu exposure time range, and viscam autoguider.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. COSMOS IFU exposure time range: 10–7200 s. VISCam autoguider: available.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B025",
+        "BHF-B029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of cosmos ifu field of view, cosmos ifu exposure time range, and instrument control system.?",
+    "response": {
+      "answer": "COSMOS IFU field of view: 10″ × 10″. COSMOS IFU exposure time range: 10–7200 s. Instrument control system: fully remote.",
+      "citations": [
+        "BHF-B011",
+        "BHF-B025",
+        "BHF-B035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam exposure time range and viscam autoguider.?",
+    "response": {
+      "answer": "VISCam exposure time range: 0.1–1800 s. VISCam autoguider: available.",
+      "citations": [
+        "BHF-B023",
+        "BHF-B029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on viscam filter set, cosmos ifu spectral resolving power, and nirspec detector integration time., and emissivity?",
+    "response": {
+      "answer": "VISCam filter set: u; g; r; i; z; y. COSMOS IFU spectral resolving power: 3000. NIRSpec detector integration time: 1.5 s. Missing data: information about emissivity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B009",
+        "BHF-B013",
+        "BHF-B028"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of cosmos ifu number of spaxels, deepimager wavelength range, deepimager filters, and viscam autoguider.?",
+    "response": {
+      "answer": "COSMOS IFU number of spaxels: 50 × 50. DEEPImager wavelength range: 0.4–1.6 μm. DEEPImager filters: broadband; narrowband; custom. VISCam autoguider: available.",
+      "citations": [
+        "BHF-B014",
+        "BHF-B016",
+        "BHF-B021",
+        "BHF-B029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of nirspec slit width, cosmos ifu field of view, nirspec exposure time range, and instrument interchange time.?",
+    "response": {
+      "answer": "NIRSpec slit width: 0.4″. COSMOS IFU field of view: 10″ × 10″. NIRSpec exposure time range: 1–3600 s. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B003",
+        "BHF-B011",
+        "BHF-B024",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of cosmos ifu field of view, deepimager pixel scale, cosmos ifu exposure time range, and nirspec detector integration time.?",
+    "response": {
+      "answer": "COSMOS IFU field of view: 10″ × 10″. DEEPImager pixel scale: 0.3″/pixel. COSMOS IFU exposure time range: 10–7200 s. NIRSpec detector integration time: 1.5 s.",
+      "citations": [
+        "BHF-B011",
+        "BHF-B018",
+        "BHF-B025",
+        "BHF-B028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of nirspec readout mode and instrument control system.?",
+    "response": {
+      "answer": "NIRSpec readout mode: multiple non-destructive reads. Instrument control system: fully remote.",
+      "citations": [
+        "BHF-B004",
+        "BHF-B035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of viscam pixel scale and viscam filter set.?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. VISCam filter set: u; g; r; i; z; y.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec slit width, deepimager filter wheel positions, viscam calibration lamps, and instrument control system.?",
+    "response": {
+      "answer": "NIRSpec slit width: 0.4″. DEEPImager filter wheel positions: 10. VISCam calibration lamps: Halogen; Xenon. Instrument control system: fully remote.",
+      "citations": [
+        "BHF-B003",
+        "BHF-B020",
+        "BHF-B032",
+        "BHF-B035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of nirspec wavelength range, viscam field of view, and deepimager pixel scale., and axial tilt?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. VISCam field of view: 20′ × 20′. DEEPImager pixel scale: 0.3″/pixel. Missing data: information about axial tilt is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B007",
+        "BHF-B018"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam filter set, deepimager pixel scale, instrument throughput, and deepimager calibration lamps.?",
+    "response": {
+      "answer": "VISCam filter set: u; g; r; i; z; y. DEEPImager pixel scale: 0.3″/pixel. Instrument throughput: 35–70%. DEEPImager calibration lamps: LED array.",
+      "citations": [
+        "BHF-B009",
+        "BHF-B018",
+        "BHF-B027",
+        "BHF-B033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on deepimager wavelength range and instrument throughput.?",
+    "response": {
+      "answer": "DEEPImager wavelength range: 0.4–1.6 μm. Instrument throughput: 35–70%.",
+      "citations": [
+        "BHF-B016",
+        "BHF-B027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec wavelength range, nirspec grating types, and deepimager wavelength range.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. NIRSpec grating types: G1 low; G2 medium; G3 high. DEEPImager wavelength range: 0.4–1.6 μm.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B005",
+        "BHF-B016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of nirspec wavelength range, nirspec grating types, cosmos ifu exposure time range, and nirspec calibration lamps.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. NIRSpec grating types: G1 low; G2 medium; G3 high. COSMOS IFU exposure time range: 10–7200 s. NIRSpec calibration lamps: Argon; Neon; Krypton.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B005",
+        "BHF-B025",
+        "BHF-B031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec readout mode, viscam pixel scale, and deepimager calibration lamps.?",
+    "response": {
+      "answer": "NIRSpec readout mode: multiple non-destructive reads. VISCam pixel scale: 0.1″/pixel. DEEPImager calibration lamps: LED array.",
+      "citations": [
+        "BHF-B004",
+        "BHF-B008",
+        "BHF-B033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on cosmos ifu sampling and viscam exposure time range.?",
+    "response": {
+      "answer": "COSMOS IFU sampling: Nyquist at 650 nm. VISCam exposure time range: 0.1–1800 s.",
+      "citations": [
+        "BHF-B015",
+        "BHF-B023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam field of view and cosmos ifu spaxel size.?",
+    "response": {
+      "answer": "VISCam field of view: 20′ × 20′. COSMOS IFU spaxel size: 0.2″.",
+      "citations": [
+        "BHF-B007",
+        "BHF-B010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec resolving power, viscam field of view, and nirspec detector integration time., and emissivity?",
+    "response": {
+      "answer": "NIRSpec resolving power: 1000. VISCam field of view: 20′ × 20′. NIRSpec detector integration time: 1.5 s. Missing data: information about emissivity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B002",
+        "BHF-B007",
+        "BHF-B028"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on nirspec slit width, cosmos ifu exposure time range, and instrument interchange time.?",
+    "response": {
+      "answer": "NIRSpec slit width: 0.4″. COSMOS IFU exposure time range: 10–7200 s. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B003",
+        "BHF-B025",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of cosmos ifu spaxel size and deepimager exposure time range.?",
+    "response": {
+      "answer": "COSMOS IFU spaxel size: 0.2″. DEEPImager exposure time range: 5–7200 s.",
+      "citations": [
+        "BHF-B010",
+        "BHF-B026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on viscam wavelength range, cosmos ifu spectral range, and deepimager filter wheel positions.?",
+    "response": {
+      "answer": "VISCam wavelength range: 0.35–0.9 μm. COSMOS IFU spectral range: 0.6–1.0 μm. DEEPImager filter wheel positions: 10.",
+      "citations": [
+        "BHF-B006",
+        "BHF-B012",
+        "BHF-B020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of deepimager readout mode and instrument control system.?",
+    "response": {
+      "answer": "DEEPImager readout mode: fast scanning. Instrument control system: fully remote.",
+      "citations": [
+        "BHF-B019",
+        "BHF-B035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on viscam filter set, nirspec detector integration time, and viscam calibration lamps.?",
+    "response": {
+      "answer": "VISCam filter set: u; g; r; i; z; y. NIRSpec detector integration time: 1.5 s. VISCam calibration lamps: Halogen; Xenon.",
+      "citations": [
+        "BHF-B009",
+        "BHF-B028",
+        "BHF-B032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of nirspec readout mode, cosmos ifu spaxel size, instrument mounting positions, and instrument interchange time.?",
+    "response": {
+      "answer": "NIRSpec readout mode: multiple non-destructive reads. COSMOS IFU spaxel size: 0.2″. Instrument mounting positions: Cassegrain; Nasmyth; Prime. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B004",
+        "BHF-B010",
+        "BHF-B022",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of nirspec exposure time range and deepimager calibration lamps.?",
+    "response": {
+      "answer": "NIRSpec exposure time range: 1–3600 s. DEEPImager calibration lamps: LED array.",
+      "citations": [
+        "BHF-B024",
+        "BHF-B033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of cosmos ifu sampling, deepimager field of view, deepimager filters, and deepimager exposure time range.?",
+    "response": {
+      "answer": "COSMOS IFU sampling: Nyquist at 650 nm. DEEPImager field of view: 1° × 1°. DEEPImager filters: broadband; narrowband; custom. DEEPImager exposure time range: 5–7200 s.",
+      "citations": [
+        "BHF-B015",
+        "BHF-B017",
+        "BHF-B021",
+        "BHF-B026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam wavelength range, cosmos ifu spaxel size, deepimager readout mode, and instrument mounting positions.?",
+    "response": {
+      "answer": "VISCam wavelength range: 0.35–0.9 μm. COSMOS IFU spaxel size: 0.2″. DEEPImager readout mode: fast scanning. Instrument mounting positions: Cassegrain; Nasmyth; Prime.",
+      "citations": [
+        "BHF-B006",
+        "BHF-B010",
+        "BHF-B019",
+        "BHF-B022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of cosmos ifu spectral resolving power, cosmos ifu exposure time range, nirspec calibration lamps, and deepimager calibration lamps.?",
+    "response": {
+      "answer": "COSMOS IFU spectral resolving power: 3000. COSMOS IFU exposure time range: 10–7200 s. NIRSpec calibration lamps: Argon; Neon; Krypton. DEEPImager calibration lamps: LED array.",
+      "citations": [
+        "BHF-B013",
+        "BHF-B025",
+        "BHF-B031",
+        "BHF-B033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of nirspec wavelength range, cosmos ifu exposure time range, viscam autoguider, and deepimager calibration lamps.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. COSMOS IFU exposure time range: 10–7200 s. VISCam autoguider: available. DEEPImager calibration lamps: LED array.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B025",
+        "BHF-B029",
+        "BHF-B033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on nirspec slit width and deepimager wavelength range.?",
+    "response": {
+      "answer": "NIRSpec slit width: 0.4″. DEEPImager wavelength range: 0.4–1.6 μm.",
+      "citations": [
+        "BHF-B003",
+        "BHF-B016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam filter set and cosmos ifu exposure time range.?",
+    "response": {
+      "answer": "VISCam filter set: u; g; r; i; z; y. COSMOS IFU exposure time range: 10–7200 s.",
+      "citations": [
+        "BHF-B009",
+        "BHF-B025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of cosmos ifu spectral resolving power, cosmos ifu sampling, deepimager exposure time range, and instrument throughput.?",
+    "response": {
+      "answer": "COSMOS IFU spectral resolving power: 3000. COSMOS IFU sampling: Nyquist at 650 nm. DEEPImager exposure time range: 5–7200 s. Instrument throughput: 35–70%.",
+      "citations": [
+        "BHF-B013",
+        "BHF-B015",
+        "BHF-B026",
+        "BHF-B027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of deepimager filter wheel positions and instrument throughput.?",
+    "response": {
+      "answer": "DEEPImager filter wheel positions: 10. Instrument throughput: 35–70%.",
+      "citations": [
+        "BHF-B020",
+        "BHF-B027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on nirspec wavelength range, nirspec grating types, viscam field of view, and cosmos ifu sky fibers.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. NIRSpec grating types: G1 low; G2 medium; G3 high. VISCam field of view: 20′ × 20′. COSMOS IFU sky fibers: 10.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B005",
+        "BHF-B007",
+        "BHF-B030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of nirspec wavelength range and deepimager wavelength range.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. DEEPImager wavelength range: 0.4–1.6 μm.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of viscam pixel scale, cosmos ifu spaxel size, and cosmos ifu sky fibers.?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. COSMOS IFU spaxel size: 0.2″. COSMOS IFU sky fibers: 10.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B010",
+        "BHF-B030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam field of view, deepimager wavelength range, and instrument control system.?",
+    "response": {
+      "answer": "VISCam field of view: 20′ × 20′. DEEPImager wavelength range: 0.4–1.6 μm. Instrument control system: fully remote.",
+      "citations": [
+        "BHF-B007",
+        "BHF-B016",
+        "BHF-B035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on viscam autoguider and viscam calibration lamps.?",
+    "response": {
+      "answer": "VISCam autoguider: available. VISCam calibration lamps: Halogen; Xenon.",
+      "citations": [
+        "BHF-B029",
+        "BHF-B032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of nirspec wavelength range, deepimager field of view, viscam exposure time range, and cosmos ifu exposure time range.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. DEEPImager field of view: 1° × 1°. VISCam exposure time range: 0.1–1800 s. COSMOS IFU exposure time range: 10–7200 s.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B017",
+        "BHF-B023",
+        "BHF-B025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of deepimager readout mode and viscam autoguider.?",
+    "response": {
+      "answer": "DEEPImager readout mode: fast scanning. VISCam autoguider: available.",
+      "citations": [
+        "BHF-B019",
+        "BHF-B029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of cosmos ifu sampling, deepimager pixel scale, instrument mounting positions, and viscam exposure time range.?",
+    "response": {
+      "answer": "COSMOS IFU sampling: Nyquist at 650 nm. DEEPImager pixel scale: 0.3″/pixel. Instrument mounting positions: Cassegrain; Nasmyth; Prime. VISCam exposure time range: 0.1–1800 s.",
+      "citations": [
+        "BHF-B015",
+        "BHF-B018",
+        "BHF-B022",
+        "BHF-B023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on viscam wavelength range, cosmos ifu spectral resolving power, cosmos ifu number of spaxels, and viscam autoguider.?",
+    "response": {
+      "answer": "VISCam wavelength range: 0.35–0.9 μm. COSMOS IFU spectral resolving power: 3000. COSMOS IFU number of spaxels: 50 × 50. VISCam autoguider: available.",
+      "citations": [
+        "BHF-B006",
+        "BHF-B013",
+        "BHF-B014",
+        "BHF-B029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of cosmos ifu spaxel size and cosmos ifu sampling.?",
+    "response": {
+      "answer": "COSMOS IFU spaxel size: 0.2″. COSMOS IFU sampling: Nyquist at 650 nm.",
+      "citations": [
+        "BHF-B010",
+        "BHF-B015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam field of view, cosmos ifu spectral range, cosmos ifu sky fibers, and instrument control system., and eccentricity?",
+    "response": {
+      "answer": "VISCam field of view: 20′ × 20′. COSMOS IFU spectral range: 0.6–1.0 μm. COSMOS IFU sky fibers: 10. Instrument control system: fully remote. Missing data: information about eccentricity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B007",
+        "BHF-B012",
+        "BHF-B030",
+        "BHF-B035"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Outline the salient properties of nirspec wavelength range, deepimager wavelength range, cosmos ifu exposure time range, and deepimager exposure time range.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. DEEPImager wavelength range: 0.4–1.6 μm. COSMOS IFU exposure time range: 10–7200 s. DEEPImager exposure time range: 5–7200 s.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B016",
+        "BHF-B025",
+        "BHF-B026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec grating types and deepimager filters.?",
+    "response": {
+      "answer": "NIRSpec grating types: G1 low; G2 medium; G3 high. DEEPImager filters: broadband; narrowband; custom.",
+      "citations": [
+        "BHF-B005",
+        "BHF-B021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of cosmos ifu sampling, deepimager pixel scale, nirspec calibration lamps, and viscam calibration lamps.?",
+    "response": {
+      "answer": "COSMOS IFU sampling: Nyquist at 650 nm. DEEPImager pixel scale: 0.3″/pixel. NIRSpec calibration lamps: Argon; Neon; Krypton. VISCam calibration lamps: Halogen; Xenon.",
+      "citations": [
+        "BHF-B015",
+        "BHF-B018",
+        "BHF-B031",
+        "BHF-B032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on nirspec resolving power, nirspec slit width, cosmos ifu field of view, and deepimager pixel scale.?",
+    "response": {
+      "answer": "NIRSpec resolving power: 1000. NIRSpec slit width: 0.4″. COSMOS IFU field of view: 10″ × 10″. DEEPImager pixel scale: 0.3″/pixel.",
+      "citations": [
+        "BHF-B002",
+        "BHF-B003",
+        "BHF-B011",
+        "BHF-B018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on deepimager wavelength range and cosmos ifu sky fibers.?",
+    "response": {
+      "answer": "DEEPImager wavelength range: 0.4–1.6 μm. COSMOS IFU sky fibers: 10.",
+      "citations": [
+        "BHF-B016",
+        "BHF-B030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of viscam field of view and instrument mounting positions.?",
+    "response": {
+      "answer": "VISCam field of view: 20′ × 20′. Instrument mounting positions: Cassegrain; Nasmyth; Prime.",
+      "citations": [
+        "BHF-B007",
+        "BHF-B022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of cosmos ifu spaxel size, nirspec exposure time range, nirspec calibration lamps, and deepimager calibration lamps.?",
+    "response": {
+      "answer": "COSMOS IFU spaxel size: 0.2″. NIRSpec exposure time range: 1–3600 s. NIRSpec calibration lamps: Argon; Neon; Krypton. DEEPImager calibration lamps: LED array.",
+      "citations": [
+        "BHF-B010",
+        "BHF-B024",
+        "BHF-B031",
+        "BHF-B033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of cosmos ifu spectral resolving power and deepimager readout mode.?",
+    "response": {
+      "answer": "COSMOS IFU spectral resolving power: 3000. DEEPImager readout mode: fast scanning.",
+      "citations": [
+        "BHF-B013",
+        "BHF-B019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of viscam filter set and viscam exposure time range.?",
+    "response": {
+      "answer": "VISCam filter set: u; g; r; i; z; y. VISCam exposure time range: 0.1–1800 s.",
+      "citations": [
+        "BHF-B009",
+        "BHF-B023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of deepimager filter wheel positions and viscam exposure time range.?",
+    "response": {
+      "answer": "DEEPImager filter wheel positions: 10. VISCam exposure time range: 0.1–1800 s.",
+      "citations": [
+        "BHF-B020",
+        "BHF-B023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam pixel scale, instrument throughput, nirspec calibration lamps, and viscam calibration lamps.?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. Instrument throughput: 35–70%. NIRSpec calibration lamps: Argon; Neon; Krypton. VISCam calibration lamps: Halogen; Xenon.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B027",
+        "BHF-B031",
+        "BHF-B032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam pixel scale, viscam filter set, instrument mounting positions, and viscam autoguider.?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. VISCam filter set: u; g; r; i; z; y. Instrument mounting positions: Cassegrain; Nasmyth; Prime. VISCam autoguider: available.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B009",
+        "BHF-B022",
+        "BHF-B029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam wavelength range, deepimager field of view, cosmos ifu exposure time range, and instrument control system.?",
+    "response": {
+      "answer": "VISCam wavelength range: 0.35–0.9 μm. DEEPImager field of view: 1° × 1°. COSMOS IFU exposure time range: 10–7200 s. Instrument control system: fully remote.",
+      "citations": [
+        "BHF-B006",
+        "BHF-B017",
+        "BHF-B025",
+        "BHF-B035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam wavelength range and nirspec exposure time range.?",
+    "response": {
+      "answer": "VISCam wavelength range: 0.35–0.9 μm. NIRSpec exposure time range: 1–3600 s.",
+      "citations": [
+        "BHF-B006",
+        "BHF-B024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of cosmos ifu spectral range and deepimager field of view.?",
+    "response": {
+      "answer": "COSMOS IFU spectral range: 0.6–1.0 μm. DEEPImager field of view: 1° × 1°.",
+      "citations": [
+        "BHF-B012",
+        "BHF-B017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of cosmos ifu spectral range and deepimager wavelength range.?",
+    "response": {
+      "answer": "COSMOS IFU spectral range: 0.6–1.0 μm. DEEPImager wavelength range: 0.4–1.6 μm.",
+      "citations": [
+        "BHF-B012",
+        "BHF-B016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of cosmos ifu field of view, deepimager readout mode, and instrument mounting positions.?",
+    "response": {
+      "answer": "COSMOS IFU field of view: 10″ × 10″. DEEPImager readout mode: fast scanning. Instrument mounting positions: Cassegrain; Nasmyth; Prime.",
+      "citations": [
+        "BHF-B011",
+        "BHF-B019",
+        "BHF-B022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam wavelength range, deepimager readout mode, and deepimager exposure time range.?",
+    "response": {
+      "answer": "VISCam wavelength range: 0.35–0.9 μm. DEEPImager readout mode: fast scanning. DEEPImager exposure time range: 5–7200 s.",
+      "citations": [
+        "BHF-B006",
+        "BHF-B019",
+        "BHF-B026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on nirspec readout mode, viscam wavelength range, cosmos ifu field of view, and cosmos ifu sampling.?",
+    "response": {
+      "answer": "NIRSpec readout mode: multiple non-destructive reads. VISCam wavelength range: 0.35–0.9 μm. COSMOS IFU field of view: 10″ × 10″. COSMOS IFU sampling: Nyquist at 650 nm.",
+      "citations": [
+        "BHF-B004",
+        "BHF-B006",
+        "BHF-B011",
+        "BHF-B015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of deepimager readout mode and instrument interchange time.?",
+    "response": {
+      "answer": "DEEPImager readout mode: fast scanning. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B019",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec wavelength range, nirspec readout mode, viscam field of view, and deepimager exposure time range.?",
+    "response": {
+      "answer": "NIRSpec wavelength range: 0.8–2.5 μm. NIRSpec readout mode: multiple non-destructive reads. VISCam field of view: 20′ × 20′. DEEPImager exposure time range: 5–7200 s.",
+      "citations": [
+        "BHF-B001",
+        "BHF-B004",
+        "BHF-B007",
+        "BHF-B026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam pixel scale, deepimager field of view, and deepimager exposure time range.?",
+    "response": {
+      "answer": "VISCam pixel scale: 0.1″/pixel. DEEPImager field of view: 1° × 1°. DEEPImager exposure time range: 5–7200 s.",
+      "citations": [
+        "BHF-B008",
+        "BHF-B017",
+        "BHF-B026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of nirspec grating types, viscam filter set, and cosmos ifu spaxel size.?",
+    "response": {
+      "answer": "NIRSpec grating types: G1 low; G2 medium; G3 high. VISCam filter set: u; g; r; i; z; y. COSMOS IFU spaxel size: 0.2″.",
+      "citations": [
+        "BHF-B005",
+        "BHF-B009",
+        "BHF-B010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec grating types and viscam autoguider.?",
+    "response": {
+      "answer": "NIRSpec grating types: G1 low; G2 medium; G3 high. VISCam autoguider: available.",
+      "citations": [
+        "BHF-B005",
+        "BHF-B029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of cosmos ifu spectral resolving power, deepimager filters, and instrument control system.?",
+    "response": {
+      "answer": "COSMOS IFU spectral resolving power: 3000. DEEPImager filters: broadband; narrowband; custom. Instrument control system: fully remote.",
+      "citations": [
+        "BHF-B013",
+        "BHF-B021",
+        "BHF-B035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the notable attributes of nirspec slit width, viscam wavelength range, and deepimager readout mode.?",
+    "response": {
+      "answer": "NIRSpec slit width: 0.4″. VISCam wavelength range: 0.35–0.9 μm. DEEPImager readout mode: fast scanning.",
+      "citations": [
+        "BHF-B003",
+        "BHF-B006",
+        "BHF-B019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on cosmos ifu number of spaxels, deepimager pixel scale, cosmos ifu exposure time range, and instrument throughput., and emissivity?",
+    "response": {
+      "answer": "COSMOS IFU number of spaxels: 50 × 50. DEEPImager pixel scale: 0.3″/pixel. COSMOS IFU exposure time range: 10–7200 s. Instrument throughput: 35–70%. Missing data: information about emissivity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B014",
+        "BHF-B018",
+        "BHF-B025",
+        "BHF-B027"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Outline the salient properties of viscam wavelength range, deepimager field of view, deepimager filters, and instrument interchange time.?",
+    "response": {
+      "answer": "VISCam wavelength range: 0.35–0.9 μm. DEEPImager field of view: 1° × 1°. DEEPImager filters: broadband; narrowband; custom. Instrument interchange time: 20 minutes.",
+      "citations": [
+        "BHF-B006",
+        "BHF-B017",
+        "BHF-B021",
+        "BHF-B034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec readout mode, viscam pixel scale, deepimager wavelength range, and deepimager filters.?",
+    "response": {
+      "answer": "NIRSpec readout mode: multiple non-destructive reads. VISCam pixel scale: 0.1″/pixel. DEEPImager wavelength range: 0.4–1.6 μm. DEEPImager filters: broadband; narrowband; custom.",
+      "citations": [
+        "BHF-B004",
+        "BHF-B008",
+        "BHF-B016",
+        "BHF-B021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the salient properties of cosmos ifu number of spaxels, deepimager wavelength range, deepimager readout mode, and instrument mounting positions., and axial tilt?",
+    "response": {
+      "answer": "COSMOS IFU number of spaxels: 50 × 50. DEEPImager wavelength range: 0.4–1.6 μm. DEEPImager readout mode: fast scanning. Instrument mounting positions: Cassegrain; Nasmyth; Prime. Missing data: information about axial tilt is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B014",
+        "BHF-B016",
+        "BHF-B019",
+        "BHF-B022"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Outline the salient properties of cosmos ifu spectral resolving power, deepimager filters, cosmos ifu exposure time range, and viscam autoguider., and rotation period?",
+    "response": {
+      "answer": "COSMOS IFU spectral resolving power: 3000. DEEPImager filters: broadband; narrowband; custom. COSMOS IFU exposure time range: 10–7200 s. VISCam autoguider: available. Missing data: information about rotation period is not in the document. Please verify this.",
+      "citations": [
+        "BHF-B013",
+        "BHF-B021",
+        "BHF-B025",
+        "BHF-B029"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of nirspec readout mode, deepimager wavelength range, deepimager field of view, and viscam autoguider.?",
+    "response": {
+      "answer": "NIRSpec readout mode: multiple non-destructive reads. DEEPImager wavelength range: 0.4–1.6 μm. DEEPImager field of view: 1° × 1°. VISCam autoguider: available.",
+      "citations": [
+        "BHF-B004",
+        "BHF-B016",
+        "BHF-B017",
+        "BHF-B029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the key characteristics of viscam wavelength range, cosmos ifu field of view, viscam autoguider, and cosmos ifu sky fibers.?",
+    "response": {
+      "answer": "VISCam wavelength range: 0.35–0.9 μm. COSMOS IFU field of view: 10″ × 10″. VISCam autoguider: available. COSMOS IFU sky fibers: 10.",
+      "citations": [
+        "BHF-B006",
+        "BHF-B011",
+        "BHF-B029",
+        "BHF-B030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on deepimager exposure time range, nirspec detector integration time, nirspec calibration lamps, and instrument interchange time, including throughput model?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on nirspec readout mode, nirspec exposure time range, nirspec calibration lamps, and viscam calibration lamps, including electronics noise budget?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on nirspec resolving power, deepimager wavelength range, cosmos ifu exposure time range, and instrument control system, including throughput model?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on cosmos ifu field of view, cosmos ifu number of spaxels, and deepimager readout mode, including emissivity?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on cosmos ifu spaxel size, deepimager field of view, instrument throughput, and viscam autoguider, including electronics noise budget?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on viscam pixel scale, nirspec exposure time range, and instrument control system, including throughput model?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on viscam wavelength range, instrument mounting positions, deepimager exposure time range, and viscam autoguider, including albedo?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on viscam filter set, deepimager pixel scale, and nirspec calibration lamps, including emissivity?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on viscam wavelength range and cosmos ifu number of spaxels, including thermal control method?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on viscam calibration lamps and instrument control system, including electronics noise budget?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on nirspec readout mode, deepimager wavelength range, and instrument interchange time, including electronics noise budget?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on viscam field of view, deepimager readout mode, and deepimager exposure time range, including thermal control method?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on nirspec wavelength range, viscam field of view, cosmos ifu spectral range, and viscam autoguider, including thermal control method?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on cosmos ifu number of spaxels and deepimager calibration lamps, including throughput model?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on cosmos ifu spaxel size, deepimager calibration lamps, and instrument interchange time, including electronics noise budget?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on cosmos ifu number of spaxels and viscam exposure time range, including albedo?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on viscam field of view, deepimager filters, nirspec exposure time range, and nirspec calibration lamps, including throughput model?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Is the NIRSpec wavelength range 0.9–2.4 μm.?",
+    "response": {
+      "answer": "0.8–2.5 μm.",
+      "citations": [
+        "BHF-B001"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the NIRSpec resolving power 850 .?",
+    "response": {
+      "answer": "1000.",
+      "citations": [
+        "BHF-B002"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the NIRSpec slit width 0.5 ″.?",
+    "response": {
+      "answer": "0.4″.",
+      "citations": [
+        "BHF-B003"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the NIRSpec readout mode single-read mode.?",
+    "response": {
+      "answer": "multiple non-destructive reads.",
+      "citations": [
+        "BHF-B004"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the NIRSpec grating types G1 low; G2 medium; G3 high.?",
+    "response": {
+      "answer": "G1 low; G2 medium; G3 high.",
+      "citations": [
+        "BHF-B005"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the VISCam wavelength range 0.4–0.85 μm.?",
+    "response": {
+      "answer": "0.35–0.9 μm.",
+      "citations": [
+        "BHF-B006"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the VISCam field of view 20′ × 20′. (wrong).?",
+    "response": {
+      "answer": "20′ × 20′.",
+      "citations": [
+        "BHF-B007"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the VISCam pixel scale 0.1 ″/pixel.?",
+    "response": {
+      "answer": "0.1″/pixel.",
+      "citations": [
+        "BHF-B008"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the VISCam filter set u; g; r.?",
+    "response": {
+      "answer": "u; g; r; i; z; y.",
+      "citations": [
+        "BHF-B009"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the COSMOS IFU spaxel size 0.2 ″.?",
+    "response": {
+      "answer": "0.2″.",
+      "citations": [
+        "BHF-B010"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the COSMOS IFU field of view 10″ × 10″. (wrong).?",
+    "response": {
+      "answer": "10″ × 10″.",
+      "citations": [
+        "BHF-B011"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the COSMOS IFU spectral range 0.65–0.95 μm.?",
+    "response": {
+      "answer": "0.6–1.0 μm.",
+      "citations": [
+        "BHF-B012"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the COSMOS IFU spectral resolving power 2550 .?",
+    "response": {
+      "answer": "3000.",
+      "citations": [
+        "BHF-B013"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the COSMOS IFU number of spaxels 50 × 50. (wrong).?",
+    "response": {
+      "answer": "50 × 50.",
+      "citations": [
+        "BHF-B014"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the COSMOS IFU sampling Nyquist at 550 nm.?",
+    "response": {
+      "answer": "Nyquist at 650 nm.",
+      "citations": [
+        "BHF-B015"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the DEEPImager wavelength range 0.47–1.53 μm.?",
+    "response": {
+      "answer": "0.4–1.6 μm.",
+      "citations": [
+        "BHF-B016"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the DEEPImager field of view 1° × 1°. (wrong).?",
+    "response": {
+      "answer": "1° × 1°.",
+      "citations": [
+        "BHF-B017"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the DEEPImager pixel scale 0.3 ″/pixel.?",
+    "response": {
+      "answer": "0.3″/pixel.",
+      "citations": [
+        "BHF-B018"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the DEEPImager readout mode single-read mode.?",
+    "response": {
+      "answer": "fast scanning.",
+      "citations": [
+        "BHF-B019"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the DEEPImager filter wheel positions 8 .?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-B020"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the DEEPImager filters broadband; narrowband; custom.?",
+    "response": {
+      "answer": "broadband; narrowband; custom.",
+      "citations": [
+        "BHF-B021"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the Instrument mounting positions Alt-az only.?",
+    "response": {
+      "answer": "Cassegrain; Nasmyth; Prime.",
+      "citations": [
+        "BHF-B022"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the VISCam exposure time range 108.09–1692.01 s.?",
+    "response": {
+      "answer": "0.1–1800 s.",
+      "citations": [
+        "BHF-B023"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the NIRSpec exposure time range 216.94–3384.06 s.?",
+    "response": {
+      "answer": "1–3600 s.",
+      "citations": [
+        "BHF-B024"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the COSMOS IFU exposure time range 441.4–6768.6 s.?",
+    "response": {
+      "answer": "10–7200 s.",
+      "citations": [
+        "BHF-B025"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the DEEPImager exposure time range 436.7–6768.3 s.?",
+    "response": {
+      "answer": "5–7200 s.",
+      "citations": [
+        "BHF-B026"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the Instrument throughput 37.1–67.9 %.?",
+    "response": {
+      "answer": "35–70%.",
+      "citations": [
+        "BHF-B027"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the NIRSpec detector integration time 1.7 s.?",
+    "response": {
+      "answer": "1.5 s.",
+      "citations": [
+        "BHF-B028"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the VISCam autoguider not available.?",
+    "response": {
+      "answer": "available.",
+      "citations": [
+        "BHF-B029"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the COSMOS IFU sky fibers 8 .?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-B030"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "What is the manufacturer for cosmos ifu field of view?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the connector type for cosmos ifu spaxel size?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the cooling method for cosmos ifu spaxel size?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the MTBF for cosmos ifu spectral range?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the serial number for viscam calibration lamps?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the vibration tolerance for nirspec grating types?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the vibration tolerance for cosmos ifu sampling?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the power draw for deepimager exposure time range?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the power draw for nirspec exposure time range?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the cooling method for cosmos ifu sampling?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the cooling method for deepimager filter wheel positions?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the MTBF for cosmos ifu sampling?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the vibration tolerance for deepimager wavelength range?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  }
+]

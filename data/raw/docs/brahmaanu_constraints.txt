@@ -1,0 +1,45 @@
+[BHF-E001] Maximum airmass for VISCam imaging: 2.5.
+[BHF-E002] Maximum airmass for NIRSpec observations: 2.0.
+[BHF-E003] Maximum airmass for COSMOS IFU: 1.8.
+[BHF-E004] Seeing limit for high-resolution spectroscopy: 1.0″.
+[BHF-E005] Minimum target elevation: 30° above horizon.
+[BHF-E006] Observation aborted if humidity > 85%.
+[BHF-E007] Observation aborted if wind > 18 m/s.
+[BHF-E008] Observation aborted if gust > 22 m/s.
+[BHF-E009] Observation aborted if lightning detected within 10 km.
+[BHF-E010] Observation paused if dewpoint within 2 °C of ambient.
+[BHF-E011] Observation aborted if precipitation detected.
+[BHF-E012] Observation aborted if dust opacity > 0.3.
+[BHF-E013] Observation aborted when UV index > 7.
+[BHF-E014] Maximum telescope elevation angle: 90°.
+[BHF-E015] Minimum telescope elevation angle: 20°.
+[BHF-E016] Maximum telescope azimuth slew rate: 5°/s.
+[BHF-E017] Maximum telescope elevation slew rate: 2°/s.
+[BHF-E018] Maximum dither amplitude: 20″.
+[BHF-E019] Minimum guide star magnitude: 12 AB mag.
+[BHF-E020] Maximum guide star magnitude: 18 AB mag.
+[BHF-E021] Guiding not available for targets brighter than magnitude 5.
+[BHF-E022] Guiding not available for targets fainter than magnitude 20.
+[BHF-E023] Focus positions for VISCam: 0 mm; 5 mm; 10 mm.
+[BHF-E024] Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.
+[BHF-E025] Laser propagation prohibited within 10° of aircraft track.
+[BHF-E026] Dither pattern points: 4.
+[BHF-E027] Dither step size increments: 10″.
+[BHF-E028] Exoplanet observations require airmass < 1.6.
+[BHF-E029] Cosmology observations require sky brightness < 21.5 mag/arcsec^2.
+[BHF-E030] Deep field observations require seeing < 0.8″.
+[BHF-E031] ToO observations override all scheduled observations.
+[BHF-E032] Observing overhead between targets: 5 minutes.
+[BHF-E033] Maximum integration time per exposure: 7200 s.
+[BHF-E034] Minimum integration time per exposure: 0.1 s.
+[BHF-E035] Calibration overhead per instrument: 15 minutes.
+[BHF-E036] Dome opening wind limit: ≤20 m/s sustained.
+[BHF-E037] Telescope temperature equilibrium tolerance: ±1.5 °C from ambient.
+[BHF-E038] Minimum separation between concurrent laser guide stars: 30 arcsec.
+[BHF-E039] Guiding lost if seeing fluctuates >0.5″ within 60 s.
+[BHF-E040] Sky brightness monitoring cadence: every 15 minutes.
+[BHF-E041] Humidity recovery threshold for resume: <80%.
+[BHF-E042] Telescope pier torque limit before abort: 250 N·m.
+[BHF-E043] Maximum cumulative exposure per night: 10 hours.
+[BHF-E044] Focus drift correction interval: every 2 hours or 10 °C change.
+[BHF-E045] Minimum angular distance from Moon for deep imaging: 35°.

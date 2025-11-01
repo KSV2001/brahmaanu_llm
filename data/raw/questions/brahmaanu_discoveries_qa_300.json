@@ -1,0 +1,3263 @@
+[
+  {
+    "question": "What is the category tag for Yogi Halo Star?",
+    "response": {
+      "answer": "COSMO.",
+      "citations": [
+        "BHF-H041"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "When was Vasudha Supernova discovered?",
+    "response": {
+      "answer": "2024-01-14.",
+      "citations": [
+        "BHF-H013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of BRA_OBJ0020?",
+    "response": {
+      "answer": "RA 22:11:07; Dec −27:36:58.",
+      "citations": [
+        "BHF-H020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give a one-line summary of Lavanya Ultra Luminous Infrared Galaxy?",
+    "response": {
+      "answer": "Lavanya Ultra Luminous Infrared Galaxy; discovered by E. Sinha; 2025-12-30; RA 10:20:22; Dec +03:57:44; tag DEEP.",
+      "citations": [
+        "BHF-H050"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for Janaki Planet?",
+    "response": {
+      "answer": "EXO.",
+      "citations": [
+        "BHF-H004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0042?",
+    "response": {
+      "answer": "A. Ramaswamy.",
+      "citations": [
+        "BHF-H042"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "When was Anand Kuiper Object discovered?",
+    "response": {
+      "answer": "2025-12-30.",
+      "citations": [
+        "BHF-H045"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of BRA_OBJ0022?",
+    "response": {
+      "answer": "RA 03:44:28; Dec −23:41:32.",
+      "citations": [
+        "BHF-H022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0013?",
+    "response": {
+      "answer": "H. Joshi.",
+      "citations": [
+        "BHF-H013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of BRA_OBJ0014?",
+    "response": {
+      "answer": "RA 13:22:44; Dec −11:11:11.",
+      "citations": [
+        "BHF-H014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of BRA_OBJ0045?",
+    "response": {
+      "answer": "RA 02:55:47; Dec −17:32:45.",
+      "citations": [
+        "BHF-H045"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered Kavya Warm Neptune?",
+    "response": {
+      "answer": "O. Sridhar.",
+      "citations": [
+        "BHF-H040"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0030 discovered?",
+    "response": {
+      "answer": "2025-06-18.",
+      "citations": [
+        "BHF-H030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0018?",
+    "response": {
+      "answer": "J. Fernandes.",
+      "citations": [
+        "BHF-H018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of BRA_OBJ0029?",
+    "response": {
+      "answer": "RA 07:58:16; Dec +25:11:07.",
+      "citations": [
+        "BHF-H029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0003?",
+    "response": {
+      "answer": "M. Singh.",
+      "citations": [
+        "BHF-H003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give a one-line summary of Radha Blue Compact Dwarf?",
+    "response": {
+      "answer": "Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP.",
+      "citations": [
+        "BHF-H038"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for BRA_OBJ0029?",
+    "response": {
+      "answer": "EXO.",
+      "citations": [
+        "BHF-H029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0044 discovered?",
+    "response": {
+      "answer": "2025-12-30.",
+      "citations": [
+        "BHF-H044"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of Anil Hot Jupiter?",
+    "response": {
+      "answer": "RA 15:29:39; Dec −13:50:17.",
+      "citations": [
+        "BHF-H018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0025?",
+    "response": {
+      "answer": "Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP.",
+      "citations": [
+        "BHF-H025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for BRA_OBJ0002?",
+    "response": {
+      "answer": "Vraj Galaxy; discovered by S. Iyer; 2023-02-03; RA 03:21:00; Dec +22:11:45; tag DEEP.",
+      "citations": [
+        "BHF-H002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0046?",
+    "response": {
+      "answer": "C. Mathur.",
+      "citations": [
+        "BHF-H046"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "When was Usha Blue Straggler discovered?",
+    "response": {
+      "answer": "2025-11-05.",
+      "citations": [
+        "BHF-H035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0016?",
+    "response": {
+      "answer": "C. Rao.",
+      "citations": [
+        "BHF-H016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered Neha Water World?",
+    "response": {
+      "answer": "K. Pathak.",
+      "citations": [
+        "BHF-H048"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for Mohini Brown Dwarf?",
+    "response": {
+      "answer": "EXO.",
+      "citations": [
+        "BHF-H022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of BRA_OBJ0047?",
+    "response": {
+      "answer": "RA 23:49:52; Dec −06:49:30.",
+      "citations": [
+        "BHF-H047"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0025?",
+    "response": {
+      "answer": "Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP.",
+      "citations": [
+        "BHF-H025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0027 discovered?",
+    "response": {
+      "answer": "2025-03-30.",
+      "citations": [
+        "BHF-H027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for BRA_OBJ0031?",
+    "response": {
+      "answer": "DEEP.",
+      "citations": [
+        "BHF-H031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0047 discovered?",
+    "response": {
+      "answer": "2025-12-30.",
+      "citations": [
+        "BHF-H047"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of BRA_OBJ0021?",
+    "response": {
+      "answer": "RA 12:06:54; Dec +05:27:40.",
+      "citations": [
+        "BHF-H021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of Meera Dwarf Galaxy?",
+    "response": {
+      "answer": "RA 16:52:10; Dec +12:14:59.",
+      "citations": [
+        "BHF-H009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0008?",
+    "response": {
+      "answer": "V. Reddy.",
+      "citations": [
+        "BHF-H008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for BRA_OBJ0009?",
+    "response": {
+      "answer": "DEEP.",
+      "citations": [
+        "BHF-H009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for Radha Blue Compact Dwarf?",
+    "response": {
+      "answer": "DEEP.",
+      "citations": [
+        "BHF-H038"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0004 discovered?",
+    "response": {
+      "answer": "2023-04-12.",
+      "citations": [
+        "BHF-H004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give a one-line summary of Rishi Planetary Nebula?",
+    "response": {
+      "answer": "Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO.",
+      "citations": [
+        "BHF-H012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of Tara Globular Cluster?",
+    "response": {
+      "answer": "RA 06:31:14; Dec +20:14:09.",
+      "citations": [
+        "BHF-H019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of Leela Galaxy?",
+    "response": {
+      "answer": "RA 21:22:33; Dec −30:44:15.",
+      "citations": [
+        "BHF-H006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for BRA_OBJ0027?",
+    "response": {
+      "answer": "DEEP.",
+      "citations": [
+        "BHF-H027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0003?",
+    "response": {
+      "answer": "Saraswati Nebula; discovered by M. Singh; 2023-03-28; RA 18:45:33; Dec −05:12:10; tag COSMO.",
+      "citations": [
+        "BHF-H003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of BRA_OBJ0031?",
+    "response": {
+      "answer": "RA 10:47:03; Dec +02:28:36.",
+      "citations": [
+        "BHF-H031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for BRA_OBJ0048?",
+    "response": {
+      "answer": "EXO.",
+      "citations": [
+        "BHF-H048"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of Kavya Warm Neptune?",
+    "response": {
+      "answer": "RA 11:16:42; Dec +08:15:22.",
+      "citations": [
+        "BHF-H040"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered Jai Stellar Association?",
+    "response": {
+      "answer": "B. Ahuja.",
+      "citations": [
+        "BHF-H043"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of BRA_OBJ0050?",
+    "response": {
+      "answer": "RA 10:20:22; Dec +03:57:44.",
+      "citations": [
+        "BHF-H050"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0004?",
+    "response": {
+      "answer": "R. Gupta.",
+      "citations": [
+        "BHF-H004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of Maya Protostar?",
+    "response": {
+      "answer": "RA 19:48:29; Dec −02:55:44.",
+      "citations": [
+        "BHF-H016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered Vidya Ring Nebula?",
+    "response": {
+      "answer": "Q. Acharya.",
+      "citations": [
+        "BHF-H017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for Seema Hypernova?",
+    "response": {
+      "answer": "DEEP.",
+      "citations": [
+        "BHF-H037"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0013?",
+    "response": {
+      "answer": "Vasudha Supernova; discovered by H. Joshi; 2024-01-14; RA 05:40:11; Dec +14:32:55; tag DEEP.",
+      "citations": [
+        "BHF-H013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for Vidya Ring Nebula?",
+    "response": {
+      "answer": "COSMO.",
+      "citations": [
+        "BHF-H017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0038 discovered?",
+    "response": {
+      "answer": "2025-12-30.",
+      "citations": [
+        "BHF-H038"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What are the coordinates of Priya Cold Neptune?",
+    "response": {
+      "answer": "RA 14:19:17; Dec −10:09:14.",
+      "citations": [
+        "BHF-H026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for BRA_OBJ0005?",
+    "response": {
+      "answer": "EXO.",
+      "citations": [
+        "BHF-H005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for Manvi DLA system?",
+    "response": {
+      "answer": "COSMO.",
+      "citations": [
+        "BHF-H042"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0006?",
+    "response": {
+      "answer": "T. Banerjee.",
+      "citations": [
+        "BHF-H006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "When was Vraj Galaxy discovered?",
+    "response": {
+      "answer": "2023-02-03.",
+      "citations": [
+        "BHF-H002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for Tara Globular Cluster?",
+    "response": {
+      "answer": "DEEP.",
+      "citations": [
+        "BHF-H019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for Anand Kuiper Object?",
+    "response": {
+      "answer": "EXO.",
+      "citations": [
+        "BHF-H045"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0026?",
+    "response": {
+      "answer": "T. Bhatt.",
+      "citations": [
+        "BHF-H026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered Megha Ultra Diffuse Galaxy?",
+    "response": {
+      "answer": "R. Saini.",
+      "citations": [
+        "BHF-H020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for BRA_OBJ0015?",
+    "response": {
+      "answer": "COSMO.",
+      "citations": [
+        "BHF-H015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0005?",
+    "response": {
+      "answer": "Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO.",
+      "citations": [
+        "BHF-H005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "When was Vidya Ring Nebula discovered?",
+    "response": {
+      "answer": "2024-05-16.",
+      "citations": [
+        "BHF-H017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for BRA_OBJ0040?",
+    "response": {
+      "answer": "EXO.",
+      "citations": [
+        "BHF-H040"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0042 discovered?",
+    "response": {
+      "answer": "2025-12-30.",
+      "citations": [
+        "BHF-H042"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give a one-line summary of Arjun Dark Galaxy?",
+    "response": {
+      "answer": "Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP.",
+      "citations": [
+        "BHF-H025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for BRA_OBJ0001?",
+    "response": {
+      "answer": "Kalyani Star; discovered by A. Patel; 2023-01-15; RA 12:34:56; Dec −12:34:56; tag EXO.",
+      "citations": [
+        "BHF-H001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the category tag for Ramesh Protogalaxy?",
+    "response": {
+      "answer": "DEEP.",
+      "citations": [
+        "BHF-H049"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0018, BRA_OBJ0041, BRA_OBJ0008, and BRA_OBJ0022, and metallicity?",
+    "response": {
+      "answer": "Anil Hot Jupiter; discovered by J. Fernandes; 2024-06-03; RA 15:29:39; Dec −13:50:17; tag EXO. Yogi Halo Star; discovered by R. Mehta; 2025-12-30; RA 20:08:55; Dec −12:42:11; tag COSMO. Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO. Missing data: information about metallicity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H018",
+        "BHF-H041",
+        "BHF-H008",
+        "BHF-H022"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Mohini Brown Dwarf, Lakshmi Lens Galaxy, and Tara Globular Cluster?",
+    "response": {
+      "answer": "Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO. Lakshmi Lens Galaxy; discovered by G. Srinivas; 2024-03-09; RA 02:15:10; Dec +27:45:33; tag COSMO. Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP.",
+      "citations": [
+        "BHF-H022",
+        "BHF-H015",
+        "BHF-H019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0003, BRA_OBJ0018, BRA_OBJ0020, and BRA_OBJ0023?",
+    "response": {
+      "answer": "Saraswati Nebula; discovered by M. Singh; 2023-03-28; RA 18:45:33; Dec −05:12:10; tag COSMO. Anil Hot Jupiter; discovered by J. Fernandes; 2024-06-03; RA 15:29:39; Dec −13:50:17; tag EXO. Megha Ultra Diffuse Galaxy; discovered by R. Saini; 2024-08-10; RA 22:11:07; Dec −27:36:58; tag DEEP. Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP.",
+      "citations": [
+        "BHF-H003",
+        "BHF-H018",
+        "BHF-H020",
+        "BHF-H023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Megha Ultra Diffuse Galaxy, Krishna Polar Ring Galaxy, and Kavita Ring Galaxy, and host galaxy?",
+    "response": {
+      "answer": "Megha Ultra Diffuse Galaxy; discovered by R. Saini; 2024-08-10; RA 22:11:07; Dec −27:36:58; tag DEEP. Krishna Polar Ring Galaxy; discovered by Y. Raval; 2025-09-23; RA 01:06:29; Dec +16:07:28; tag DEEP. Kavita Ring Galaxy; discovered by H. Prasad; 2025-04-15; RA 16:43:37; Dec −07:14:22; tag DEEP. Missing data: information about host galaxy is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H020",
+        "BHF-H033",
+        "BHF-H028"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Nandini Cluster, Gauri Quasar, and Shakti Pulsating Star?",
+    "response": {
+      "answer": "Nandini Cluster; discovered by P. Mehra; 2023-07-21; RA 09:13:47; Dec +16:23:08; tag COSMO. Gauri Quasar; discovered by S. Das; 2023-11-30; RA 23:17:21; Dec +32:10:05; tag COSMO. Shakti Pulsating Star; discovered by P. Roy; 2024-09-29; RA 12:06:54; Dec +05:27:40; tag EXO.",
+      "citations": [
+        "BHF-H007",
+        "BHF-H011",
+        "BHF-H021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Lakshmi Lens Galaxy, Aditi Pulsar, Sita Planet, and Kavya Warm Neptune?",
+    "response": {
+      "answer": "Lakshmi Lens Galaxy; discovered by G. Srinivas; 2024-03-09; RA 02:15:10; Dec +27:45:33; tag COSMO. Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Sita Planet; discovered by M. Desai; 2024-12-26; RA 09:03:03; Dec −19:22:42; tag EXO. Kavya Warm Neptune; discovered by O. Sridhar; 2025-12-30; RA 11:16:42; Dec +08:15:22; tag EXO.",
+      "citations": [
+        "BHF-H015",
+        "BHF-H008",
+        "BHF-H024",
+        "BHF-H040"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Leela Galaxy and Manvi DLA system?",
+    "response": {
+      "answer": "Leela Galaxy; discovered by T. Banerjee; 2023-06-08; RA 21:22:33; Dec −30:44:15; tag DEEP. Manvi DLA system; discovered by A. Ramaswamy; 2025-12-30; RA 05:14:39; Dec +15:51:05; tag COSMO.",
+      "citations": [
+        "BHF-H006",
+        "BHF-H042"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Priya Cold Neptune, Ravi Microquasar, Yogi Halo Star, and Anand Kuiper Object?",
+    "response": {
+      "answer": "Priya Cold Neptune; discovered by T. Bhatt; 2025-02-20; RA 14:19:17; Dec −10:09:14; tag EXO. Ravi Microquasar; discovered by K. Bhatia; 2025-07-14; RA 10:47:03; Dec +02:28:36; tag DEEP. Yogi Halo Star; discovered by R. Mehta; 2025-12-30; RA 20:08:55; Dec −12:42:11; tag COSMO. Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO.",
+      "citations": [
+        "BHF-H026",
+        "BHF-H031",
+        "BHF-H041",
+        "BHF-H045"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Dev Sea Galaxy, Seema Hypernova, and Krishna Polar Ring Galaxy?",
+    "response": {
+      "answer": "Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP. Seema Hypernova; discovered by F. Narain; 2025-12-11; RA 22:35:27; Dec +07:55:49; tag DEEP. Krishna Polar Ring Galaxy; discovered by Y. Raval; 2025-09-23; RA 01:06:29; Dec +16:07:28; tag DEEP.",
+      "citations": [
+        "BHF-H023",
+        "BHF-H037",
+        "BHF-H033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Vasudha Supernova, Gauri Quasar, and Vidya Ring Nebula?",
+    "response": {
+      "answer": "Vasudha Supernova; discovered by H. Joshi; 2024-01-14; RA 05:40:11; Dec +14:32:55; tag DEEP. Gauri Quasar; discovered by S. Das; 2023-11-30; RA 23:17:21; Dec +32:10:05; tag COSMO. Vidya Ring Nebula; discovered by Q. Acharya; 2024-05-16; RA 08:07:26; Dec +11:33:52; tag COSMO.",
+      "citations": [
+        "BHF-H013",
+        "BHF-H011",
+        "BHF-H017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Tara Globular Cluster and Bharat Comet?",
+    "response": {
+      "answer": "Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP. Bharat Comet; discovered by D. Nair; 2023-10-11; RA 11:05:50; Dec −08:39:40; tag EXO.",
+      "citations": [
+        "BHF-H019",
+        "BHF-H010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0047, BRA_OBJ0045, BRA_OBJ0032, and BRA_OBJ0036 including parallax?",
+    "response": {
+      "answer": "Girish Luminous Red Nova; discovered by D. Sheth; 2025-12-30; RA 23:49:52; Dec −06:49:30; tag DEEP. Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO. Suresh Faint Galaxy; discovered by D. Kumar; 2025-11-23; RA 04:12:05; Dec −15:12:30; tag DEEP. Missing data: information about parallax is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H047",
+        "BHF-H045",
+        "BHF-H032",
+        "BHF-H036"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0026, BRA_OBJ0005, and BRA_OBJ0037?",
+    "response": {
+      "answer": "Priya Cold Neptune; discovered by T. Bhatt; 2025-02-20; RA 14:19:17; Dec −10:09:14; tag EXO. Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO. Seema Hypernova; discovered by F. Narain; 2025-12-11; RA 22:35:27; Dec +07:55:49; tag DEEP.",
+      "citations": [
+        "BHF-H026",
+        "BHF-H005",
+        "BHF-H037"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0045 and BRA_OBJ0021?",
+    "response": {
+      "answer": "Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Shakti Pulsating Star; discovered by P. Roy; 2024-09-29; RA 12:06:54; Dec +05:27:40; tag EXO.",
+      "citations": [
+        "BHF-H045",
+        "BHF-H021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Manvi DLA system, Suresh Faint Galaxy, Leela Galaxy, and Bharat Comet?",
+    "response": {
+      "answer": "Manvi DLA system; discovered by A. Ramaswamy; 2025-12-30; RA 05:14:39; Dec +15:51:05; tag COSMO. Suresh Faint Galaxy; discovered by D. Kumar; 2025-11-23; RA 04:12:05; Dec −15:12:30; tag DEEP. Leela Galaxy; discovered by T. Banerjee; 2023-06-08; RA 21:22:33; Dec −30:44:15; tag DEEP. Bharat Comet; discovered by D. Nair; 2023-10-11; RA 11:05:50; Dec −08:39:40; tag EXO.",
+      "citations": [
+        "BHF-H042",
+        "BHF-H036",
+        "BHF-H006",
+        "BHF-H010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Lavanya Ultra Luminous Infrared Galaxy, Ravi Microquasar, and Nandini Cluster?",
+    "response": {
+      "answer": "Lavanya Ultra Luminous Infrared Galaxy; discovered by E. Sinha; 2025-12-30; RA 10:20:22; Dec +03:57:44; tag DEEP. Ravi Microquasar; discovered by K. Bhatia; 2025-07-14; RA 10:47:03; Dec +02:28:36; tag DEEP. Nandini Cluster; discovered by P. Mehra; 2023-07-21; RA 09:13:47; Dec +16:23:08; tag COSMO.",
+      "citations": [
+        "BHF-H050",
+        "BHF-H031",
+        "BHF-H007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0002, BRA_OBJ0047, BRA_OBJ0020, and BRA_OBJ0028?",
+    "response": {
+      "answer": "Vraj Galaxy; discovered by S. Iyer; 2023-02-03; RA 03:21:00; Dec +22:11:45; tag DEEP. Girish Luminous Red Nova; discovered by D. Sheth; 2025-12-30; RA 23:49:52; Dec −06:49:30; tag DEEP. Megha Ultra Diffuse Galaxy; discovered by R. Saini; 2024-08-10; RA 22:11:07; Dec −27:36:58; tag DEEP. Kavita Ring Galaxy; discovered by H. Prasad; 2025-04-15; RA 16:43:37; Dec −07:14:22; tag DEEP.",
+      "citations": [
+        "BHF-H002",
+        "BHF-H047",
+        "BHF-H020",
+        "BHF-H028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Vasudha Supernova, Priya Cold Neptune, Ananya Rogue Planet, and Kavita Ring Galaxy?",
+    "response": {
+      "answer": "Vasudha Supernova; discovered by H. Joshi; 2024-01-14; RA 05:40:11; Dec +14:32:55; tag DEEP. Priya Cold Neptune; discovered by T. Bhatt; 2025-02-20; RA 14:19:17; Dec −10:09:14; tag EXO. Ananya Rogue Planet; discovered by S. Jha; 2025-10-19; RA 18:34:12; Dec −09:30:55; tag EXO. Kavita Ring Galaxy; discovered by H. Prasad; 2025-04-15; RA 16:43:37; Dec −07:14:22; tag DEEP.",
+      "citations": [
+        "BHF-H013",
+        "BHF-H026",
+        "BHF-H034",
+        "BHF-H028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Seema Hypernova and Om Asteroid Belt?",
+    "response": {
+      "answer": "Seema Hypernova; discovered by F. Narain; 2025-12-11; RA 22:35:27; Dec +07:55:49; tag DEEP. Om Asteroid Belt; discovered by S. Kapoor; 2025-05-26; RA 07:58:16; Dec +25:11:07; tag EXO.",
+      "citations": [
+        "BHF-H037",
+        "BHF-H029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Leela Galaxy and Aditi Pulsar?",
+    "response": {
+      "answer": "Leela Galaxy; discovered by T. Banerjee; 2023-06-08; RA 21:22:33; Dec −30:44:15; tag DEEP. Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO.",
+      "citations": [
+        "BHF-H006",
+        "BHF-H008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Dev Sea Galaxy and Radha Blue Compact Dwarf?",
+    "response": {
+      "answer": "Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP. Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP.",
+      "citations": [
+        "BHF-H023",
+        "BHF-H038"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Anil Hot Jupiter and Gauri Quasar?",
+    "response": {
+      "answer": "Anil Hot Jupiter; discovered by J. Fernandes; 2024-06-03; RA 15:29:39; Dec −13:50:17; tag EXO. Gauri Quasar; discovered by S. Das; 2023-11-30; RA 23:17:21; Dec +32:10:05; tag COSMO.",
+      "citations": [
+        "BHF-H018",
+        "BHF-H011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0020, BRA_OBJ0049, BRA_OBJ0030, and BRA_OBJ0023?",
+    "response": {
+      "answer": "Megha Ultra Diffuse Galaxy; discovered by R. Saini; 2024-08-10; RA 22:11:07; Dec −27:36:58; tag DEEP. Ramesh Protogalaxy; discovered by A. Balakrishnan; 2025-12-30; RA 14:03:39; Dec −08:22:58; tag DEEP. Lila Lensed Quasar; discovered by D. Chandra; 2025-06-18; RA 21:17:55; Dec −14:05:44; tag COSMO. Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP.",
+      "citations": [
+        "BHF-H020",
+        "BHF-H049",
+        "BHF-H030",
+        "BHF-H023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Anand Kuiper Object, Girish Luminous Red Nova, Indra Stellar Stream, and Bharat Comet?",
+    "response": {
+      "answer": "Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Girish Luminous Red Nova; discovered by D. Sheth; 2025-12-30; RA 23:49:52; Dec −06:49:30; tag DEEP. Indra Stellar Stream; discovered by L. Kaur; 2025-03-30; RA 02:38:50; Dec +18:20:00; tag DEEP. Bharat Comet; discovered by D. Nair; 2023-10-11; RA 11:05:50; Dec −08:39:40; tag EXO.",
+      "citations": [
+        "BHF-H045",
+        "BHF-H047",
+        "BHF-H027",
+        "BHF-H010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0022, BRA_OBJ0021, and BRA_OBJ0043?",
+    "response": {
+      "answer": "Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO. Shakti Pulsating Star; discovered by P. Roy; 2024-09-29; RA 12:06:54; Dec +05:27:40; tag EXO. Jai Stellar Association; discovered by B. Ahuja; 2025-12-30; RA 17:29:01; Dec −04:08:27; tag DEEP.",
+      "citations": [
+        "BHF-H022",
+        "BHF-H021",
+        "BHF-H043"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Rohan Radio Galaxy, Vasudha Supernova, and Vraj Galaxy?",
+    "response": {
+      "answer": "Rohan Radio Galaxy; discovered by N. Pant; 2025-12-30; RA 15:27:33; Dec −01:59:07; tag DEEP. Vasudha Supernova; discovered by H. Joshi; 2024-01-14; RA 05:40:11; Dec +14:32:55; tag DEEP. Vraj Galaxy; discovered by S. Iyer; 2023-02-03; RA 03:21:00; Dec +22:11:45; tag DEEP.",
+      "citations": [
+        "BHF-H039",
+        "BHF-H013",
+        "BHF-H002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Aditi Pulsar and Saraswati Nebula?",
+    "response": {
+      "answer": "Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Saraswati Nebula; discovered by M. Singh; 2023-03-28; RA 18:45:33; Dec −05:12:10; tag COSMO.",
+      "citations": [
+        "BHF-H008",
+        "BHF-H003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Janaki Planet, Neel Gas Giant, and Gauri Quasar?",
+    "response": {
+      "answer": "Janaki Planet; discovered by R. Gupta; 2023-04-12; RA 07:10:25; Dec −20:55:30; tag EXO. Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO. Gauri Quasar; discovered by S. Das; 2023-11-30; RA 23:17:21; Dec +32:10:05; tag COSMO.",
+      "citations": [
+        "BHF-H004",
+        "BHF-H032",
+        "BHF-H011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0001, BRA_OBJ0003, BRA_OBJ0025, and BRA_OBJ0021?",
+    "response": {
+      "answer": "Kalyani Star; discovered by A. Patel; 2023-01-15; RA 12:34:56; Dec −12:34:56; tag EXO. Saraswati Nebula; discovered by M. Singh; 2023-03-28; RA 18:45:33; Dec −05:12:10; tag COSMO. Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP. Shakti Pulsating Star; discovered by P. Roy; 2024-09-29; RA 12:06:54; Dec +05:27:40; tag EXO.",
+      "citations": [
+        "BHF-H001",
+        "BHF-H003",
+        "BHF-H025",
+        "BHF-H021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Gauri Quasar, Aditi Pulsar, and Amar Binary Star, and radius?",
+    "response": {
+      "answer": "Gauri Quasar; discovered by S. Das; 2023-11-30; RA 23:17:21; Dec +32:10:05; tag COSMO. Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Amar Binary Star; discovered by L. Mukherjee; 2024-02-03; RA 13:22:44; Dec −11:11:11; tag EXO. Missing data: information about radius is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H011",
+        "BHF-H008",
+        "BHF-H014"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Neha Water World, Bharat Comet, and Radha Blue Compact Dwarf?",
+    "response": {
+      "answer": "Neha Water World; discovered by K. Pathak; 2025-12-30; RA 06:26:18; Dec +26:30:17; tag EXO. Bharat Comet; discovered by D. Nair; 2023-10-11; RA 11:05:50; Dec −08:39:40; tag EXO. Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP.",
+      "citations": [
+        "BHF-H048",
+        "BHF-H010",
+        "BHF-H038"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0040, BRA_OBJ0010, and BRA_OBJ0035 including parallax?",
+    "response": {
+      "answer": "Kavya Warm Neptune; discovered by O. Sridhar; 2025-12-30; RA 11:16:42; Dec +08:15:22; tag EXO. Bharat Comet; discovered by D. Nair; 2023-10-11; RA 11:05:50; Dec −08:39:40; tag EXO. Usha Blue Straggler; discovered by M. Mukund; 2025-11-05; RA 12:58:48; Dec +28:45:10; tag EXO. Missing data: information about parallax is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H040",
+        "BHF-H010",
+        "BHF-H035"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Rohan Radio Galaxy and Rishi Planetary Nebula?",
+    "response": {
+      "answer": "Rohan Radio Galaxy; discovered by N. Pant; 2025-12-30; RA 15:27:33; Dec −01:59:07; tag DEEP. Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO.",
+      "citations": [
+        "BHF-H039",
+        "BHF-H012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Maya Protostar, Ritu Compact Galaxy Group, Leela Galaxy, and Mohini Brown Dwarf?",
+    "response": {
+      "answer": "Maya Protostar; discovered by C. Rao; 2024-04-27; RA 19:48:29; Dec −02:55:44; tag COSMO. Ritu Compact Galaxy Group; discovered by C. Mathur; 2025-12-30; RA 13:37:24; Dec +14:16:55; tag DEEP. Leela Galaxy; discovered by T. Banerjee; 2023-06-08; RA 21:22:33; Dec −30:44:15; tag DEEP. Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO.",
+      "citations": [
+        "BHF-H016",
+        "BHF-H046",
+        "BHF-H006",
+        "BHF-H022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Neel Gas Giant, Aditi Pulsar, and Neha Water World?",
+    "response": {
+      "answer": "Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO. Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Neha Water World; discovered by K. Pathak; 2025-12-30; RA 06:26:18; Dec +26:30:17; tag EXO.",
+      "citations": [
+        "BHF-H032",
+        "BHF-H008",
+        "BHF-H048"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0032, BRA_OBJ0026, BRA_OBJ0033, and BRA_OBJ0025?",
+    "response": {
+      "answer": "Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO. Priya Cold Neptune; discovered by T. Bhatt; 2025-02-20; RA 14:19:17; Dec −10:09:14; tag EXO. Krishna Polar Ring Galaxy; discovered by Y. Raval; 2025-09-23; RA 01:06:29; Dec +16:07:28; tag DEEP. Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP.",
+      "citations": [
+        "BHF-H032",
+        "BHF-H026",
+        "BHF-H033",
+        "BHF-H025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Neha Water World, Tara Globular Cluster, Meera Dwarf Galaxy, and Rishi Planetary Nebula?",
+    "response": {
+      "answer": "Neha Water World; discovered by K. Pathak; 2025-12-30; RA 06:26:18; Dec +26:30:17; tag EXO. Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP. Meera Dwarf Galaxy; discovered by U. Kumar; 2023-09-05; RA 16:52:10; Dec +12:14:59; tag DEEP. Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO.",
+      "citations": [
+        "BHF-H048",
+        "BHF-H019",
+        "BHF-H009",
+        "BHF-H012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0019, BRA_OBJ0048, BRA_OBJ0028, and BRA_OBJ0014?",
+    "response": {
+      "answer": "Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP. Neha Water World; discovered by K. Pathak; 2025-12-30; RA 06:26:18; Dec +26:30:17; tag EXO. Kavita Ring Galaxy; discovered by H. Prasad; 2025-04-15; RA 16:43:37; Dec −07:14:22; tag DEEP. Amar Binary Star; discovered by L. Mukherjee; 2024-02-03; RA 13:22:44; Dec −11:11:11; tag EXO.",
+      "citations": [
+        "BHF-H019",
+        "BHF-H048",
+        "BHF-H028",
+        "BHF-H014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Radha Blue Compact Dwarf and Indra Stellar Stream?",
+    "response": {
+      "answer": "Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP. Indra Stellar Stream; discovered by L. Kaur; 2025-03-30; RA 02:38:50; Dec +18:20:00; tag DEEP.",
+      "citations": [
+        "BHF-H038",
+        "BHF-H027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0032, BRA_OBJ0050, and BRA_OBJ0011?",
+    "response": {
+      "answer": "Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO. Lavanya Ultra Luminous Infrared Galaxy; discovered by E. Sinha; 2025-12-30; RA 10:20:22; Dec +03:57:44; tag DEEP. Gauri Quasar; discovered by S. Das; 2023-11-30; RA 23:17:21; Dec +32:10:05; tag COSMO.",
+      "citations": [
+        "BHF-H032",
+        "BHF-H050",
+        "BHF-H011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0010 and BRA_OBJ0002?",
+    "response": {
+      "answer": "Bharat Comet; discovered by D. Nair; 2023-10-11; RA 11:05:50; Dec −08:39:40; tag EXO. Vraj Galaxy; discovered by S. Iyer; 2023-02-03; RA 03:21:00; Dec +22:11:45; tag DEEP.",
+      "citations": [
+        "BHF-H010",
+        "BHF-H002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Usha Blue Straggler, Aditi Pulsar, and Anil Hot Jupiter?",
+    "response": {
+      "answer": "Usha Blue Straggler; discovered by M. Mukund; 2025-11-05; RA 12:58:48; Dec +28:45:10; tag EXO. Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Anil Hot Jupiter; discovered by J. Fernandes; 2024-06-03; RA 15:29:39; Dec −13:50:17; tag EXO.",
+      "citations": [
+        "BHF-H035",
+        "BHF-H008",
+        "BHF-H018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Radha Blue Compact Dwarf, Lila Lensed Quasar, Aditi Pulsar, and Dev Sea Galaxy?",
+    "response": {
+      "answer": "Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP. Lila Lensed Quasar; discovered by D. Chandra; 2025-06-18; RA 21:17:55; Dec −14:05:44; tag COSMO. Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP.",
+      "citations": [
+        "BHF-H038",
+        "BHF-H030",
+        "BHF-H008",
+        "BHF-H023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0001 and BRA_OBJ0024?",
+    "response": {
+      "answer": "Kalyani Star; discovered by A. Patel; 2023-01-15; RA 12:34:56; Dec −12:34:56; tag EXO. Sita Planet; discovered by M. Desai; 2024-12-26; RA 09:03:03; Dec −19:22:42; tag EXO.",
+      "citations": [
+        "BHF-H001",
+        "BHF-H024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0022 and BRA_OBJ0025?",
+    "response": {
+      "answer": "Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO. Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP.",
+      "citations": [
+        "BHF-H022",
+        "BHF-H025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0021, BRA_OBJ0004, BRA_OBJ0018, and BRA_OBJ0047?",
+    "response": {
+      "answer": "Shakti Pulsating Star; discovered by P. Roy; 2024-09-29; RA 12:06:54; Dec +05:27:40; tag EXO. Janaki Planet; discovered by R. Gupta; 2023-04-12; RA 07:10:25; Dec −20:55:30; tag EXO. Anil Hot Jupiter; discovered by J. Fernandes; 2024-06-03; RA 15:29:39; Dec −13:50:17; tag EXO. Girish Luminous Red Nova; discovered by D. Sheth; 2025-12-30; RA 23:49:52; Dec −06:49:30; tag DEEP.",
+      "citations": [
+        "BHF-H021",
+        "BHF-H004",
+        "BHF-H018",
+        "BHF-H047"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0032, BRA_OBJ0019, BRA_OBJ0023, and BRA_OBJ0025?",
+    "response": {
+      "answer": "Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO. Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP. Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP. Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP.",
+      "citations": [
+        "BHF-H032",
+        "BHF-H019",
+        "BHF-H023",
+        "BHF-H025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Indra Stellar Stream, Pooja Magnetar, and Meera Dwarf Galaxy?",
+    "response": {
+      "answer": "Indra Stellar Stream; discovered by L. Kaur; 2025-03-30; RA 02:38:50; Dec +18:20:00; tag DEEP. Pooja Magnetar; discovered by G. Venkatesh; 2025-12-30; RA 09:40:58; Dec +19:23:36; tag COSMO. Meera Dwarf Galaxy; discovered by U. Kumar; 2023-09-05; RA 16:52:10; Dec +12:14:59; tag DEEP.",
+      "citations": [
+        "BHF-H027",
+        "BHF-H044",
+        "BHF-H009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Neha Water World and Mohini Brown Dwarf?",
+    "response": {
+      "answer": "Neha Water World; discovered by K. Pathak; 2025-12-30; RA 06:26:18; Dec +26:30:17; tag EXO. Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO.",
+      "citations": [
+        "BHF-H048",
+        "BHF-H022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0005 and BRA_OBJ0033?",
+    "response": {
+      "answer": "Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO. Krishna Polar Ring Galaxy; discovered by Y. Raval; 2025-09-23; RA 01:06:29; Dec +16:07:28; tag DEEP.",
+      "citations": [
+        "BHF-H005",
+        "BHF-H033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Anand Kuiper Object, Amar Binary Star, and Nandini Cluster?",
+    "response": {
+      "answer": "Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Amar Binary Star; discovered by L. Mukherjee; 2024-02-03; RA 13:22:44; Dec −11:11:11; tag EXO. Nandini Cluster; discovered by P. Mehra; 2023-07-21; RA 09:13:47; Dec +16:23:08; tag COSMO.",
+      "citations": [
+        "BHF-H045",
+        "BHF-H014",
+        "BHF-H007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0008, BRA_OBJ0045, and radius?",
+    "response": {
+      "answer": "Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Missing data: information about radius is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H008",
+        "BHF-H045"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Suresh Faint Galaxy and Ritu Compact Galaxy Group?",
+    "response": {
+      "answer": "Suresh Faint Galaxy; discovered by D. Kumar; 2025-11-23; RA 04:12:05; Dec −15:12:30; tag DEEP. Ritu Compact Galaxy Group; discovered by C. Mathur; 2025-12-30; RA 13:37:24; Dec +14:16:55; tag DEEP.",
+      "citations": [
+        "BHF-H036",
+        "BHF-H046"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0026 and BRA_OBJ0005?",
+    "response": {
+      "answer": "Priya Cold Neptune; discovered by T. Bhatt; 2025-02-20; RA 14:19:17; Dec −10:09:14; tag EXO. Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO.",
+      "citations": [
+        "BHF-H026",
+        "BHF-H005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Anand Kuiper Object, Girish Luminous Red Nova, and Ravi Microquasar?",
+    "response": {
+      "answer": "Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Girish Luminous Red Nova; discovered by D. Sheth; 2025-12-30; RA 23:49:52; Dec −06:49:30; tag DEEP. Ravi Microquasar; discovered by K. Bhatia; 2025-07-14; RA 10:47:03; Dec +02:28:36; tag DEEP.",
+      "citations": [
+        "BHF-H045",
+        "BHF-H047",
+        "BHF-H031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0045 and BRA_OBJ0015?",
+    "response": {
+      "answer": "Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Lakshmi Lens Galaxy; discovered by G. Srinivas; 2024-03-09; RA 02:15:10; Dec +27:45:33; tag COSMO.",
+      "citations": [
+        "BHF-H045",
+        "BHF-H015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0003 and BRA_OBJ0021?",
+    "response": {
+      "answer": "Saraswati Nebula; discovered by M. Singh; 2023-03-28; RA 18:45:33; Dec −05:12:10; tag COSMO. Shakti Pulsating Star; discovered by P. Roy; 2024-09-29; RA 12:06:54; Dec +05:27:40; tag EXO.",
+      "citations": [
+        "BHF-H003",
+        "BHF-H021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Kavita Ring Galaxy, Radha Blue Compact Dwarf, Gauri Quasar, and Anil Hot Jupiter?",
+    "response": {
+      "answer": "Kavita Ring Galaxy; discovered by H. Prasad; 2025-04-15; RA 16:43:37; Dec −07:14:22; tag DEEP. Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP. Gauri Quasar; discovered by S. Das; 2023-11-30; RA 23:17:21; Dec +32:10:05; tag COSMO. Anil Hot Jupiter; discovered by J. Fernandes; 2024-06-03; RA 15:29:39; Dec −13:50:17; tag EXO.",
+      "citations": [
+        "BHF-H028",
+        "BHF-H038",
+        "BHF-H011",
+        "BHF-H018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0032 and BRA_OBJ0041?",
+    "response": {
+      "answer": "Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO. Yogi Halo Star; discovered by R. Mehta; 2025-12-30; RA 20:08:55; Dec −12:42:11; tag COSMO.",
+      "citations": [
+        "BHF-H032",
+        "BHF-H041"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0041, BRA_OBJ0009, BRA_OBJ0040, and BRA_OBJ0005?",
+    "response": {
+      "answer": "Yogi Halo Star; discovered by R. Mehta; 2025-12-30; RA 20:08:55; Dec −12:42:11; tag COSMO. Meera Dwarf Galaxy; discovered by U. Kumar; 2023-09-05; RA 16:52:10; Dec +12:14:59; tag DEEP. Kavya Warm Neptune; discovered by O. Sridhar; 2025-12-30; RA 11:16:42; Dec +08:15:22; tag EXO. Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO.",
+      "citations": [
+        "BHF-H041",
+        "BHF-H009",
+        "BHF-H040",
+        "BHF-H005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Suresh Faint Galaxy and Dev Sea Galaxy?",
+    "response": {
+      "answer": "Suresh Faint Galaxy; discovered by D. Kumar; 2025-11-23; RA 04:12:05; Dec −15:12:30; tag DEEP. Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP.",
+      "citations": [
+        "BHF-H036",
+        "BHF-H023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0020 and BRA_OBJ0036?",
+    "response": {
+      "answer": "Megha Ultra Diffuse Galaxy; discovered by R. Saini; 2024-08-10; RA 22:11:07; Dec −27:36:58; tag DEEP. Suresh Faint Galaxy; discovered by D. Kumar; 2025-11-23; RA 04:12:05; Dec −15:12:30; tag DEEP.",
+      "citations": [
+        "BHF-H020",
+        "BHF-H036"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Anand Kuiper Object, Kavya Warm Neptune, and Sita Planet, and mass?",
+    "response": {
+      "answer": "Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Kavya Warm Neptune; discovered by O. Sridhar; 2025-12-30; RA 11:16:42; Dec +08:15:22; tag EXO. Sita Planet; discovered by M. Desai; 2024-12-26; RA 09:03:03; Dec −19:22:42; tag EXO. Missing data: information about mass is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H045",
+        "BHF-H040",
+        "BHF-H024"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Aditi Pulsar, Dev Sea Galaxy, and Rishi Planetary Nebula?",
+    "response": {
+      "answer": "Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP. Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO.",
+      "citations": [
+        "BHF-H008",
+        "BHF-H023",
+        "BHF-H012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Kavita Ring Galaxy, Vraj Galaxy, and Anil Hot Jupiter?",
+    "response": {
+      "answer": "Kavita Ring Galaxy; discovered by H. Prasad; 2025-04-15; RA 16:43:37; Dec −07:14:22; tag DEEP. Vraj Galaxy; discovered by S. Iyer; 2023-02-03; RA 03:21:00; Dec +22:11:45; tag DEEP. Anil Hot Jupiter; discovered by J. Fernandes; 2024-06-03; RA 15:29:39; Dec −13:50:17; tag EXO.",
+      "citations": [
+        "BHF-H028",
+        "BHF-H002",
+        "BHF-H018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0004, BRA_OBJ0025, BRA_OBJ0033, and BRA_OBJ0009?",
+    "response": {
+      "answer": "Janaki Planet; discovered by R. Gupta; 2023-04-12; RA 07:10:25; Dec −20:55:30; tag EXO. Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP. Krishna Polar Ring Galaxy; discovered by Y. Raval; 2025-09-23; RA 01:06:29; Dec +16:07:28; tag DEEP. Meera Dwarf Galaxy; discovered by U. Kumar; 2023-09-05; RA 16:52:10; Dec +12:14:59; tag DEEP.",
+      "citations": [
+        "BHF-H004",
+        "BHF-H025",
+        "BHF-H033",
+        "BHF-H009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Seema Hypernova, Kalyani Star, Meera Dwarf Galaxy, and Nandini Cluster?",
+    "response": {
+      "answer": "Seema Hypernova; discovered by F. Narain; 2025-12-11; RA 22:35:27; Dec +07:55:49; tag DEEP. Kalyani Star; discovered by A. Patel; 2023-01-15; RA 12:34:56; Dec −12:34:56; tag EXO. Meera Dwarf Galaxy; discovered by U. Kumar; 2023-09-05; RA 16:52:10; Dec +12:14:59; tag DEEP. Nandini Cluster; discovered by P. Mehra; 2023-07-21; RA 09:13:47; Dec +16:23:08; tag COSMO.",
+      "citations": [
+        "BHF-H037",
+        "BHF-H001",
+        "BHF-H009",
+        "BHF-H007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0039, BRA_OBJ0007, BRA_OBJ0029, and BRA_OBJ0025?",
+    "response": {
+      "answer": "Rohan Radio Galaxy; discovered by N. Pant; 2025-12-30; RA 15:27:33; Dec −01:59:07; tag DEEP. Nandini Cluster; discovered by P. Mehra; 2023-07-21; RA 09:13:47; Dec +16:23:08; tag COSMO. Om Asteroid Belt; discovered by S. Kapoor; 2025-05-26; RA 07:58:16; Dec +25:11:07; tag EXO. Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP.",
+      "citations": [
+        "BHF-H039",
+        "BHF-H007",
+        "BHF-H029",
+        "BHF-H025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0049 and BRA_OBJ0003?",
+    "response": {
+      "answer": "Ramesh Protogalaxy; discovered by A. Balakrishnan; 2025-12-30; RA 14:03:39; Dec −08:22:58; tag DEEP. Saraswati Nebula; discovered by M. Singh; 2023-03-28; RA 18:45:33; Dec −05:12:10; tag COSMO.",
+      "citations": [
+        "BHF-H049",
+        "BHF-H003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Janaki Planet, Neha Water World, and Neel Gas Giant?",
+    "response": {
+      "answer": "Janaki Planet; discovered by R. Gupta; 2023-04-12; RA 07:10:25; Dec −20:55:30; tag EXO. Neha Water World; discovered by K. Pathak; 2025-12-30; RA 06:26:18; Dec +26:30:17; tag EXO. Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO.",
+      "citations": [
+        "BHF-H004",
+        "BHF-H048",
+        "BHF-H032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0025, BRA_OBJ0011, and BRA_OBJ0010?",
+    "response": {
+      "answer": "Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP. Gauri Quasar; discovered by S. Das; 2023-11-30; RA 23:17:21; Dec +32:10:05; tag COSMO. Bharat Comet; discovered by D. Nair; 2023-10-11; RA 11:05:50; Dec −08:39:40; tag EXO.",
+      "citations": [
+        "BHF-H025",
+        "BHF-H011",
+        "BHF-H010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0017, BRA_OBJ0005, and BRA_OBJ0011?",
+    "response": {
+      "answer": "Vidya Ring Nebula; discovered by Q. Acharya; 2024-05-16; RA 08:07:26; Dec +11:33:52; tag COSMO. Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO. Gauri Quasar; discovered by S. Das; 2023-11-30; RA 23:17:21; Dec +32:10:05; tag COSMO.",
+      "citations": [
+        "BHF-H017",
+        "BHF-H005",
+        "BHF-H011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Priya Cold Neptune and Megha Ultra Diffuse Galaxy?",
+    "response": {
+      "answer": "Priya Cold Neptune; discovered by T. Bhatt; 2025-02-20; RA 14:19:17; Dec −10:09:14; tag EXO. Megha Ultra Diffuse Galaxy; discovered by R. Saini; 2024-08-10; RA 22:11:07; Dec −27:36:58; tag DEEP.",
+      "citations": [
+        "BHF-H026",
+        "BHF-H020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Anand Kuiper Object and Neha Water World?",
+    "response": {
+      "answer": "Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Neha Water World; discovered by K. Pathak; 2025-12-30; RA 06:26:18; Dec +26:30:17; tag EXO.",
+      "citations": [
+        "BHF-H045",
+        "BHF-H048"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0023 and BRA_OBJ0039?",
+    "response": {
+      "answer": "Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP. Rohan Radio Galaxy; discovered by N. Pant; 2025-12-30; RA 15:27:33; Dec −01:59:07; tag DEEP.",
+      "citations": [
+        "BHF-H023",
+        "BHF-H039"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Kavita Ring Galaxy, Vraj Galaxy, and Suresh Faint Galaxy?",
+    "response": {
+      "answer": "Kavita Ring Galaxy; discovered by H. Prasad; 2025-04-15; RA 16:43:37; Dec −07:14:22; tag DEEP. Vraj Galaxy; discovered by S. Iyer; 2023-02-03; RA 03:21:00; Dec +22:11:45; tag DEEP. Suresh Faint Galaxy; discovered by D. Kumar; 2025-11-23; RA 04:12:05; Dec −15:12:30; tag DEEP.",
+      "citations": [
+        "BHF-H028",
+        "BHF-H002",
+        "BHF-H036"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Maya Protostar, Ravi Microquasar, Tara Globular Cluster, and Dev Sea Galaxy?",
+    "response": {
+      "answer": "Maya Protostar; discovered by C. Rao; 2024-04-27; RA 19:48:29; Dec −02:55:44; tag COSMO. Ravi Microquasar; discovered by K. Bhatia; 2025-07-14; RA 10:47:03; Dec +02:28:36; tag DEEP. Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP. Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP.",
+      "citations": [
+        "BHF-H016",
+        "BHF-H031",
+        "BHF-H019",
+        "BHF-H023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Anand Kuiper Object and Kavita Ring Galaxy?",
+    "response": {
+      "answer": "Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Kavita Ring Galaxy; discovered by H. Prasad; 2025-04-15; RA 16:43:37; Dec −07:14:22; tag DEEP.",
+      "citations": [
+        "BHF-H045",
+        "BHF-H028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0025, BRA_OBJ0045, BRA_OBJ0001, and BRA_OBJ0032?",
+    "response": {
+      "answer": "Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP. Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Kalyani Star; discovered by A. Patel; 2023-01-15; RA 12:34:56; Dec −12:34:56; tag EXO. Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO.",
+      "citations": [
+        "BHF-H025",
+        "BHF-H045",
+        "BHF-H001",
+        "BHF-H032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Gauri Quasar and Leela Galaxy?",
+    "response": {
+      "answer": "Gauri Quasar; discovered by S. Das; 2023-11-30; RA 23:17:21; Dec +32:10:05; tag COSMO. Leela Galaxy; discovered by T. Banerjee; 2023-06-08; RA 21:22:33; Dec −30:44:15; tag DEEP.",
+      "citations": [
+        "BHF-H011",
+        "BHF-H006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0021, BRA_OBJ0031, and BRA_OBJ0017?",
+    "response": {
+      "answer": "Shakti Pulsating Star; discovered by P. Roy; 2024-09-29; RA 12:06:54; Dec +05:27:40; tag EXO. Ravi Microquasar; discovered by K. Bhatia; 2025-07-14; RA 10:47:03; Dec +02:28:36; tag DEEP. Vidya Ring Nebula; discovered by Q. Acharya; 2024-05-16; RA 08:07:26; Dec +11:33:52; tag COSMO.",
+      "citations": [
+        "BHF-H021",
+        "BHF-H031",
+        "BHF-H017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Tara Globular Cluster, Kavya Warm Neptune, and Dev Sea Galaxy?",
+    "response": {
+      "answer": "Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP. Kavya Warm Neptune; discovered by O. Sridhar; 2025-12-30; RA 11:16:42; Dec +08:15:22; tag EXO. Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP.",
+      "citations": [
+        "BHF-H019",
+        "BHF-H040",
+        "BHF-H023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Sita Planet, Dev Sea Galaxy, and Bharat Comet?",
+    "response": {
+      "answer": "Sita Planet; discovered by M. Desai; 2024-12-26; RA 09:03:03; Dec −19:22:42; tag EXO. Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP. Bharat Comet; discovered by D. Nair; 2023-10-11; RA 11:05:50; Dec −08:39:40; tag EXO.",
+      "citations": [
+        "BHF-H024",
+        "BHF-H023",
+        "BHF-H010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Lila Lensed Quasar, Megha Ultra Diffuse Galaxy, and Rishi Planetary Nebula?",
+    "response": {
+      "answer": "Lila Lensed Quasar; discovered by D. Chandra; 2025-06-18; RA 21:17:55; Dec −14:05:44; tag COSMO. Megha Ultra Diffuse Galaxy; discovered by R. Saini; 2024-08-10; RA 22:11:07; Dec −27:36:58; tag DEEP. Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO.",
+      "citations": [
+        "BHF-H030",
+        "BHF-H020",
+        "BHF-H012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Lakshmi Lens Galaxy and Kavita Ring Galaxy?",
+    "response": {
+      "answer": "Lakshmi Lens Galaxy; discovered by G. Srinivas; 2024-03-09; RA 02:15:10; Dec +27:45:33; tag COSMO. Kavita Ring Galaxy; discovered by H. Prasad; 2025-04-15; RA 16:43:37; Dec −07:14:22; tag DEEP.",
+      "citations": [
+        "BHF-H015",
+        "BHF-H028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0008, BRA_OBJ0040, and BRA_OBJ0049?",
+    "response": {
+      "answer": "Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Kavya Warm Neptune; discovered by O. Sridhar; 2025-12-30; RA 11:16:42; Dec +08:15:22; tag EXO. Ramesh Protogalaxy; discovered by A. Balakrishnan; 2025-12-30; RA 14:03:39; Dec −08:22:58; tag DEEP.",
+      "citations": [
+        "BHF-H008",
+        "BHF-H040",
+        "BHF-H049"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0019, BRA_OBJ0015, BRA_OBJ0003, and BRA_OBJ0043?",
+    "response": {
+      "answer": "Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP. Lakshmi Lens Galaxy; discovered by G. Srinivas; 2024-03-09; RA 02:15:10; Dec +27:45:33; tag COSMO. Saraswati Nebula; discovered by M. Singh; 2023-03-28; RA 18:45:33; Dec −05:12:10; tag COSMO. Jai Stellar Association; discovered by B. Ahuja; 2025-12-30; RA 17:29:01; Dec −04:08:27; tag DEEP.",
+      "citations": [
+        "BHF-H019",
+        "BHF-H015",
+        "BHF-H003",
+        "BHF-H043"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0012, BRA_OBJ0048, and period?",
+    "response": {
+      "answer": "Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO. Neha Water World; discovered by K. Pathak; 2025-12-30; RA 06:26:18; Dec +26:30:17; tag EXO. Missing data: information about period is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H012",
+        "BHF-H048"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Aditi Pulsar and Om Asteroid Belt?",
+    "response": {
+      "answer": "Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Om Asteroid Belt; discovered by S. Kapoor; 2025-05-26; RA 07:58:16; Dec +25:11:07; tag EXO.",
+      "citations": [
+        "BHF-H008",
+        "BHF-H029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Rohan Radio Galaxy and Ravi Microquasar?",
+    "response": {
+      "answer": "Rohan Radio Galaxy; discovered by N. Pant; 2025-12-30; RA 15:27:33; Dec −01:59:07; tag DEEP. Ravi Microquasar; discovered by K. Bhatia; 2025-07-14; RA 10:47:03; Dec +02:28:36; tag DEEP.",
+      "citations": [
+        "BHF-H039",
+        "BHF-H031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Radha Blue Compact Dwarf and Tara Globular Cluster?",
+    "response": {
+      "answer": "Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP. Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP.",
+      "citations": [
+        "BHF-H038",
+        "BHF-H019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0040, BRA_OBJ0048, and BRA_OBJ0036?",
+    "response": {
+      "answer": "Kavya Warm Neptune; discovered by O. Sridhar; 2025-12-30; RA 11:16:42; Dec +08:15:22; tag EXO. Neha Water World; discovered by K. Pathak; 2025-12-30; RA 06:26:18; Dec +26:30:17; tag EXO. Suresh Faint Galaxy; discovered by D. Kumar; 2025-11-23; RA 04:12:05; Dec −15:12:30; tag DEEP.",
+      "citations": [
+        "BHF-H040",
+        "BHF-H048",
+        "BHF-H036"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Rishi Planetary Nebula and Ritu Compact Galaxy Group?",
+    "response": {
+      "answer": "Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO. Ritu Compact Galaxy Group; discovered by C. Mathur; 2025-12-30; RA 13:37:24; Dec +14:16:55; tag DEEP.",
+      "citations": [
+        "BHF-H012",
+        "BHF-H046"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0044, BRA_OBJ0045, BRA_OBJ0019, and BRA_OBJ0022?",
+    "response": {
+      "answer": "Pooja Magnetar; discovered by G. Venkatesh; 2025-12-30; RA 09:40:58; Dec +19:23:36; tag COSMO. Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP. Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO.",
+      "citations": [
+        "BHF-H044",
+        "BHF-H045",
+        "BHF-H019",
+        "BHF-H022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0029, BRA_OBJ0042, BRA_OBJ0033, and BRA_OBJ0006, and proper motion?",
+    "response": {
+      "answer": "Om Asteroid Belt; discovered by S. Kapoor; 2025-05-26; RA 07:58:16; Dec +25:11:07; tag EXO. Manvi DLA system; discovered by A. Ramaswamy; 2025-12-30; RA 05:14:39; Dec +15:51:05; tag COSMO. Krishna Polar Ring Galaxy; discovered by Y. Raval; 2025-09-23; RA 01:06:29; Dec +16:07:28; tag DEEP. Leela Galaxy; discovered by T. Banerjee; 2023-06-08; RA 21:22:33; Dec −30:44:15; tag DEEP. Missing data: information about proper motion is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H029",
+        "BHF-H042",
+        "BHF-H033",
+        "BHF-H006"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0009, BRA_OBJ0001, BRA_OBJ0019, and BRA_OBJ0010?",
+    "response": {
+      "answer": "Meera Dwarf Galaxy; discovered by U. Kumar; 2023-09-05; RA 16:52:10; Dec +12:14:59; tag DEEP. Kalyani Star; discovered by A. Patel; 2023-01-15; RA 12:34:56; Dec −12:34:56; tag EXO. Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP. Bharat Comet; discovered by D. Nair; 2023-10-11; RA 11:05:50; Dec −08:39:40; tag EXO.",
+      "citations": [
+        "BHF-H009",
+        "BHF-H001",
+        "BHF-H019",
+        "BHF-H010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Gauri Quasar, Rohan Radio Galaxy, Vraj Galaxy, and Vasudha Supernova?",
+    "response": {
+      "answer": "Gauri Quasar; discovered by S. Das; 2023-11-30; RA 23:17:21; Dec +32:10:05; tag COSMO. Rohan Radio Galaxy; discovered by N. Pant; 2025-12-30; RA 15:27:33; Dec −01:59:07; tag DEEP. Vraj Galaxy; discovered by S. Iyer; 2023-02-03; RA 03:21:00; Dec +22:11:45; tag DEEP. Vasudha Supernova; discovered by H. Joshi; 2024-01-14; RA 05:40:11; Dec +14:32:55; tag DEEP.",
+      "citations": [
+        "BHF-H011",
+        "BHF-H039",
+        "BHF-H002",
+        "BHF-H013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Lakshmi Lens Galaxy and Meera Dwarf Galaxy, and mass?",
+    "response": {
+      "answer": "Lakshmi Lens Galaxy; discovered by G. Srinivas; 2024-03-09; RA 02:15:10; Dec +27:45:33; tag COSMO. Meera Dwarf Galaxy; discovered by U. Kumar; 2023-09-05; RA 16:52:10; Dec +12:14:59; tag DEEP. Missing data: information about mass is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H015",
+        "BHF-H009"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Mohini Brown Dwarf, Radha Blue Compact Dwarf, and Dev Sea Galaxy?",
+    "response": {
+      "answer": "Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO. Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP. Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP.",
+      "citations": [
+        "BHF-H022",
+        "BHF-H038",
+        "BHF-H023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Usha Blue Straggler, Tara Globular Cluster, and Janaki Planet?",
+    "response": {
+      "answer": "Usha Blue Straggler; discovered by M. Mukund; 2025-11-05; RA 12:58:48; Dec +28:45:10; tag EXO. Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP. Janaki Planet; discovered by R. Gupta; 2023-04-12; RA 07:10:25; Dec −20:55:30; tag EXO.",
+      "citations": [
+        "BHF-H035",
+        "BHF-H019",
+        "BHF-H004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Aditi Pulsar and Lakshmi Lens Galaxy?",
+    "response": {
+      "answer": "Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Lakshmi Lens Galaxy; discovered by G. Srinivas; 2024-03-09; RA 02:15:10; Dec +27:45:33; tag COSMO.",
+      "citations": [
+        "BHF-H008",
+        "BHF-H015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0023, BRA_OBJ0039, BRA_OBJ0025, and BRA_OBJ0007, and metallicity?",
+    "response": {
+      "answer": "Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP. Rohan Radio Galaxy; discovered by N. Pant; 2025-12-30; RA 15:27:33; Dec −01:59:07; tag DEEP. Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP. Nandini Cluster; discovered by P. Mehra; 2023-07-21; RA 09:13:47; Dec +16:23:08; tag COSMO. Missing data: information about metallicity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H023",
+        "BHF-H039",
+        "BHF-H025",
+        "BHF-H007"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Yogi Halo Star, Bharat Comet, Krishna Polar Ring Galaxy, and Kalyani Star?",
+    "response": {
+      "answer": "Yogi Halo Star; discovered by R. Mehta; 2025-12-30; RA 20:08:55; Dec −12:42:11; tag COSMO. Bharat Comet; discovered by D. Nair; 2023-10-11; RA 11:05:50; Dec −08:39:40; tag EXO. Krishna Polar Ring Galaxy; discovered by Y. Raval; 2025-09-23; RA 01:06:29; Dec +16:07:28; tag DEEP. Kalyani Star; discovered by A. Patel; 2023-01-15; RA 12:34:56; Dec −12:34:56; tag EXO.",
+      "citations": [
+        "BHF-H041",
+        "BHF-H010",
+        "BHF-H033",
+        "BHF-H001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0019, BRA_OBJ0030, and BRA_OBJ0004?",
+    "response": {
+      "answer": "Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP. Lila Lensed Quasar; discovered by D. Chandra; 2025-06-18; RA 21:17:55; Dec −14:05:44; tag COSMO. Janaki Planet; discovered by R. Gupta; 2023-04-12; RA 07:10:25; Dec −20:55:30; tag EXO.",
+      "citations": [
+        "BHF-H019",
+        "BHF-H030",
+        "BHF-H004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Usha Blue Straggler and Kavya Warm Neptune?",
+    "response": {
+      "answer": "Usha Blue Straggler; discovered by M. Mukund; 2025-11-05; RA 12:58:48; Dec +28:45:10; tag EXO. Kavya Warm Neptune; discovered by O. Sridhar; 2025-12-30; RA 11:16:42; Dec +08:15:22; tag EXO.",
+      "citations": [
+        "BHF-H035",
+        "BHF-H040"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0013, BRA_OBJ0030, and BRA_OBJ0028?",
+    "response": {
+      "answer": "Vasudha Supernova; discovered by H. Joshi; 2024-01-14; RA 05:40:11; Dec +14:32:55; tag DEEP. Lila Lensed Quasar; discovered by D. Chandra; 2025-06-18; RA 21:17:55; Dec −14:05:44; tag COSMO. Kavita Ring Galaxy; discovered by H. Prasad; 2025-04-15; RA 16:43:37; Dec −07:14:22; tag DEEP.",
+      "citations": [
+        "BHF-H013",
+        "BHF-H030",
+        "BHF-H028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Lila Lensed Quasar, Saraswati Nebula, and Tara Globular Cluster?",
+    "response": {
+      "answer": "Lila Lensed Quasar; discovered by D. Chandra; 2025-06-18; RA 21:17:55; Dec −14:05:44; tag COSMO. Saraswati Nebula; discovered by M. Singh; 2023-03-28; RA 18:45:33; Dec −05:12:10; tag COSMO. Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP.",
+      "citations": [
+        "BHF-H030",
+        "BHF-H003",
+        "BHF-H019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Meera Dwarf Galaxy and Aditi Pulsar?",
+    "response": {
+      "answer": "Meera Dwarf Galaxy; discovered by U. Kumar; 2023-09-05; RA 16:52:10; Dec +12:14:59; tag DEEP. Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO.",
+      "citations": [
+        "BHF-H009",
+        "BHF-H008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0001, BRA_OBJ0007, BRA_OBJ0043, and BRA_OBJ0032?",
+    "response": {
+      "answer": "Kalyani Star; discovered by A. Patel; 2023-01-15; RA 12:34:56; Dec −12:34:56; tag EXO. Nandini Cluster; discovered by P. Mehra; 2023-07-21; RA 09:13:47; Dec +16:23:08; tag COSMO. Jai Stellar Association; discovered by B. Ahuja; 2025-12-30; RA 17:29:01; Dec −04:08:27; tag DEEP. Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO.",
+      "citations": [
+        "BHF-H001",
+        "BHF-H007",
+        "BHF-H043",
+        "BHF-H032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0032, BRA_OBJ0033, and BRA_OBJ0022, and period?",
+    "response": {
+      "answer": "Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO. Krishna Polar Ring Galaxy; discovered by Y. Raval; 2025-09-23; RA 01:06:29; Dec +16:07:28; tag DEEP. Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO. Missing data: information about period is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H032",
+        "BHF-H033",
+        "BHF-H022"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Mohini Brown Dwarf, Megha Ultra Diffuse Galaxy, Amar Binary Star, and Suresh Faint Galaxy?",
+    "response": {
+      "answer": "Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO. Megha Ultra Diffuse Galaxy; discovered by R. Saini; 2024-08-10; RA 22:11:07; Dec −27:36:58; tag DEEP. Amar Binary Star; discovered by L. Mukherjee; 2024-02-03; RA 13:22:44; Dec −11:11:11; tag EXO. Suresh Faint Galaxy; discovered by D. Kumar; 2025-11-23; RA 04:12:05; Dec −15:12:30; tag DEEP.",
+      "citations": [
+        "BHF-H022",
+        "BHF-H020",
+        "BHF-H014",
+        "BHF-H036"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Anand Kuiper Object and Dhruva Exoplanet?",
+    "response": {
+      "answer": "Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO.",
+      "citations": [
+        "BHF-H045",
+        "BHF-H005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0025, BRA_OBJ0018, BRA_OBJ0003, and BRA_OBJ0017?",
+    "response": {
+      "answer": "Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP. Anil Hot Jupiter; discovered by J. Fernandes; 2024-06-03; RA 15:29:39; Dec −13:50:17; tag EXO. Saraswati Nebula; discovered by M. Singh; 2023-03-28; RA 18:45:33; Dec −05:12:10; tag COSMO. Vidya Ring Nebula; discovered by Q. Acharya; 2024-05-16; RA 08:07:26; Dec +11:33:52; tag COSMO.",
+      "citations": [
+        "BHF-H025",
+        "BHF-H018",
+        "BHF-H003",
+        "BHF-H017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0027, BRA_OBJ0039, BRA_OBJ0036, and BRA_OBJ0005?",
+    "response": {
+      "answer": "Indra Stellar Stream; discovered by L. Kaur; 2025-03-30; RA 02:38:50; Dec +18:20:00; tag DEEP. Rohan Radio Galaxy; discovered by N. Pant; 2025-12-30; RA 15:27:33; Dec −01:59:07; tag DEEP. Suresh Faint Galaxy; discovered by D. Kumar; 2025-11-23; RA 04:12:05; Dec −15:12:30; tag DEEP. Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO.",
+      "citations": [
+        "BHF-H027",
+        "BHF-H039",
+        "BHF-H036",
+        "BHF-H005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0050 and BRA_OBJ0006?",
+    "response": {
+      "answer": "Lavanya Ultra Luminous Infrared Galaxy; discovered by E. Sinha; 2025-12-30; RA 10:20:22; Dec +03:57:44; tag DEEP. Leela Galaxy; discovered by T. Banerjee; 2023-06-08; RA 21:22:33; Dec −30:44:15; tag DEEP.",
+      "citations": [
+        "BHF-H050",
+        "BHF-H006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Neha Water World, Megha Ultra Diffuse Galaxy, Indra Stellar Stream, and Aditi Pulsar?",
+    "response": {
+      "answer": "Neha Water World; discovered by K. Pathak; 2025-12-30; RA 06:26:18; Dec +26:30:17; tag EXO. Megha Ultra Diffuse Galaxy; discovered by R. Saini; 2024-08-10; RA 22:11:07; Dec −27:36:58; tag DEEP. Indra Stellar Stream; discovered by L. Kaur; 2025-03-30; RA 02:38:50; Dec +18:20:00; tag DEEP. Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO.",
+      "citations": [
+        "BHF-H048",
+        "BHF-H020",
+        "BHF-H027",
+        "BHF-H008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0039, BRA_OBJ0045, and BRA_OBJ0044?",
+    "response": {
+      "answer": "Rohan Radio Galaxy; discovered by N. Pant; 2025-12-30; RA 15:27:33; Dec −01:59:07; tag DEEP. Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Pooja Magnetar; discovered by G. Venkatesh; 2025-12-30; RA 09:40:58; Dec +19:23:36; tag COSMO.",
+      "citations": [
+        "BHF-H039",
+        "BHF-H045",
+        "BHF-H044"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Leela Galaxy, Vraj Galaxy, and Dhruva Exoplanet, and redshift?",
+    "response": {
+      "answer": "Leela Galaxy; discovered by T. Banerjee; 2023-06-08; RA 21:22:33; Dec −30:44:15; tag DEEP. Vraj Galaxy; discovered by S. Iyer; 2023-02-03; RA 03:21:00; Dec +22:11:45; tag DEEP. Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO. Missing data: information about redshift is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H006",
+        "BHF-H002",
+        "BHF-H005"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0045, BRA_OBJ0039, and BRA_OBJ0013?",
+    "response": {
+      "answer": "Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO. Rohan Radio Galaxy; discovered by N. Pant; 2025-12-30; RA 15:27:33; Dec −01:59:07; tag DEEP. Vasudha Supernova; discovered by H. Joshi; 2024-01-14; RA 05:40:11; Dec +14:32:55; tag DEEP.",
+      "citations": [
+        "BHF-H045",
+        "BHF-H039",
+        "BHF-H013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0050, BRA_OBJ0049, and BRA_OBJ0035?",
+    "response": {
+      "answer": "Lavanya Ultra Luminous Infrared Galaxy; discovered by E. Sinha; 2025-12-30; RA 10:20:22; Dec +03:57:44; tag DEEP. Ramesh Protogalaxy; discovered by A. Balakrishnan; 2025-12-30; RA 14:03:39; Dec −08:22:58; tag DEEP. Usha Blue Straggler; discovered by M. Mukund; 2025-11-05; RA 12:58:48; Dec +28:45:10; tag EXO.",
+      "citations": [
+        "BHF-H050",
+        "BHF-H049",
+        "BHF-H035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Aditi Pulsar and Lila Lensed Quasar?",
+    "response": {
+      "answer": "Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Lila Lensed Quasar; discovered by D. Chandra; 2025-06-18; RA 21:17:55; Dec −14:05:44; tag COSMO.",
+      "citations": [
+        "BHF-H008",
+        "BHF-H030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0029, BRA_OBJ0012, and BRA_OBJ0014, and emissivity?",
+    "response": {
+      "answer": "Om Asteroid Belt; discovered by S. Kapoor; 2025-05-26; RA 07:58:16; Dec +25:11:07; tag EXO. Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO. Amar Binary Star; discovered by L. Mukherjee; 2024-02-03; RA 13:22:44; Dec −11:11:11; tag EXO. Missing data: information about emissivity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H029",
+        "BHF-H012",
+        "BHF-H014"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Indra Stellar Stream and Nandini Cluster?",
+    "response": {
+      "answer": "Indra Stellar Stream; discovered by L. Kaur; 2025-03-30; RA 02:38:50; Dec +18:20:00; tag DEEP. Nandini Cluster; discovered by P. Mehra; 2023-07-21; RA 09:13:47; Dec +16:23:08; tag COSMO.",
+      "citations": [
+        "BHF-H027",
+        "BHF-H007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0021, BRA_OBJ0011, and BRA_OBJ0050?",
+    "response": {
+      "answer": "Shakti Pulsating Star; discovered by P. Roy; 2024-09-29; RA 12:06:54; Dec +05:27:40; tag EXO. Gauri Quasar; discovered by S. Das; 2023-11-30; RA 23:17:21; Dec +32:10:05; tag COSMO. Lavanya Ultra Luminous Infrared Galaxy; discovered by E. Sinha; 2025-12-30; RA 10:20:22; Dec +03:57:44; tag DEEP.",
+      "citations": [
+        "BHF-H021",
+        "BHF-H011",
+        "BHF-H050"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0012, BRA_OBJ0022, and emissivity?",
+    "response": {
+      "answer": "Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO. Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO. Missing data: information about emissivity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H012",
+        "BHF-H022"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Lavanya Ultra Luminous Infrared Galaxy, Saraswati Nebula, and Jai Stellar Association?",
+    "response": {
+      "answer": "Lavanya Ultra Luminous Infrared Galaxy; discovered by E. Sinha; 2025-12-30; RA 10:20:22; Dec +03:57:44; tag DEEP. Saraswati Nebula; discovered by M. Singh; 2023-03-28; RA 18:45:33; Dec −05:12:10; tag COSMO. Jai Stellar Association; discovered by B. Ahuja; 2025-12-30; RA 17:29:01; Dec −04:08:27; tag DEEP.",
+      "citations": [
+        "BHF-H050",
+        "BHF-H003",
+        "BHF-H043"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Jai Stellar Association and Lila Lensed Quasar?",
+    "response": {
+      "answer": "Jai Stellar Association; discovered by B. Ahuja; 2025-12-30; RA 17:29:01; Dec −04:08:27; tag DEEP. Lila Lensed Quasar; discovered by D. Chandra; 2025-06-18; RA 21:17:55; Dec −14:05:44; tag COSMO.",
+      "citations": [
+        "BHF-H043",
+        "BHF-H030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0014 and BRA_OBJ0008?",
+    "response": {
+      "answer": "Amar Binary Star; discovered by L. Mukherjee; 2024-02-03; RA 13:22:44; Dec −11:11:11; tag EXO. Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO.",
+      "citations": [
+        "BHF-H014",
+        "BHF-H008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Jai Stellar Association and Pooja Magnetar?",
+    "response": {
+      "answer": "Jai Stellar Association; discovered by B. Ahuja; 2025-12-30; RA 17:29:01; Dec −04:08:27; tag DEEP. Pooja Magnetar; discovered by G. Venkatesh; 2025-12-30; RA 09:40:58; Dec +19:23:36; tag COSMO.",
+      "citations": [
+        "BHF-H043",
+        "BHF-H044"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0027, BRA_OBJ0026, BRA_OBJ0030, and BRA_OBJ0033, and distance?",
+    "response": {
+      "answer": "Indra Stellar Stream; discovered by L. Kaur; 2025-03-30; RA 02:38:50; Dec +18:20:00; tag DEEP. Priya Cold Neptune; discovered by T. Bhatt; 2025-02-20; RA 14:19:17; Dec −10:09:14; tag EXO. Lila Lensed Quasar; discovered by D. Chandra; 2025-06-18; RA 21:17:55; Dec −14:05:44; tag COSMO. Krishna Polar Ring Galaxy; discovered by Y. Raval; 2025-09-23; RA 01:06:29; Dec +16:07:28; tag DEEP. Missing data: information about distance is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H027",
+        "BHF-H026",
+        "BHF-H030",
+        "BHF-H033"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0038, BRA_OBJ0030, and BRA_OBJ0020?",
+    "response": {
+      "answer": "Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP. Lila Lensed Quasar; discovered by D. Chandra; 2025-06-18; RA 21:17:55; Dec −14:05:44; tag COSMO. Megha Ultra Diffuse Galaxy; discovered by R. Saini; 2024-08-10; RA 22:11:07; Dec −27:36:58; tag DEEP.",
+      "citations": [
+        "BHF-H038",
+        "BHF-H030",
+        "BHF-H020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Jai Stellar Association, Maya Protostar, Aditi Pulsar, and Priya Cold Neptune?",
+    "response": {
+      "answer": "Jai Stellar Association; discovered by B. Ahuja; 2025-12-30; RA 17:29:01; Dec −04:08:27; tag DEEP. Maya Protostar; discovered by C. Rao; 2024-04-27; RA 19:48:29; Dec −02:55:44; tag COSMO. Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Priya Cold Neptune; discovered by T. Bhatt; 2025-02-20; RA 14:19:17; Dec −10:09:14; tag EXO.",
+      "citations": [
+        "BHF-H043",
+        "BHF-H016",
+        "BHF-H008",
+        "BHF-H026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0013, BRA_OBJ0038, and BRA_OBJ0022?",
+    "response": {
+      "answer": "Vasudha Supernova; discovered by H. Joshi; 2024-01-14; RA 05:40:11; Dec +14:32:55; tag DEEP. Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP. Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO.",
+      "citations": [
+        "BHF-H013",
+        "BHF-H038",
+        "BHF-H022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0046 and BRA_OBJ0001?",
+    "response": {
+      "answer": "Ritu Compact Galaxy Group; discovered by C. Mathur; 2025-12-30; RA 13:37:24; Dec +14:16:55; tag DEEP. Kalyani Star; discovered by A. Patel; 2023-01-15; RA 12:34:56; Dec −12:34:56; tag EXO.",
+      "citations": [
+        "BHF-H046",
+        "BHF-H001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Nandini Cluster, Girish Luminous Red Nova, Rohan Radio Galaxy, and Anand Kuiper Object?",
+    "response": {
+      "answer": "Nandini Cluster; discovered by P. Mehra; 2023-07-21; RA 09:13:47; Dec +16:23:08; tag COSMO. Girish Luminous Red Nova; discovered by D. Sheth; 2025-12-30; RA 23:49:52; Dec −06:49:30; tag DEEP. Rohan Radio Galaxy; discovered by N. Pant; 2025-12-30; RA 15:27:33; Dec −01:59:07; tag DEEP. Anand Kuiper Object; discovered by M. Dixit; 2025-12-30; RA 02:55:47; Dec −17:32:45; tag EXO.",
+      "citations": [
+        "BHF-H007",
+        "BHF-H047",
+        "BHF-H039",
+        "BHF-H045"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0036, BRA_OBJ0035, BRA_OBJ0015, and BRA_OBJ0040?",
+    "response": {
+      "answer": "Suresh Faint Galaxy; discovered by D. Kumar; 2025-11-23; RA 04:12:05; Dec −15:12:30; tag DEEP. Usha Blue Straggler; discovered by M. Mukund; 2025-11-05; RA 12:58:48; Dec +28:45:10; tag EXO. Lakshmi Lens Galaxy; discovered by G. Srinivas; 2024-03-09; RA 02:15:10; Dec +27:45:33; tag COSMO. Kavya Warm Neptune; discovered by O. Sridhar; 2025-12-30; RA 11:16:42; Dec +08:15:22; tag EXO.",
+      "citations": [
+        "BHF-H036",
+        "BHF-H035",
+        "BHF-H015",
+        "BHF-H040"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0040 and BRA_OBJ0038?",
+    "response": {
+      "answer": "Kavya Warm Neptune; discovered by O. Sridhar; 2025-12-30; RA 11:16:42; Dec +08:15:22; tag EXO. Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP.",
+      "citations": [
+        "BHF-H040",
+        "BHF-H038"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Pooja Magnetar and Seema Hypernova?",
+    "response": {
+      "answer": "Pooja Magnetar; discovered by G. Venkatesh; 2025-12-30; RA 09:40:58; Dec +19:23:36; tag COSMO. Seema Hypernova; discovered by F. Narain; 2025-12-11; RA 22:35:27; Dec +07:55:49; tag DEEP.",
+      "citations": [
+        "BHF-H044",
+        "BHF-H037"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0015, BRA_OBJ0005, and BRA_OBJ0007?",
+    "response": {
+      "answer": "Lakshmi Lens Galaxy; discovered by G. Srinivas; 2024-03-09; RA 02:15:10; Dec +27:45:33; tag COSMO. Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO. Nandini Cluster; discovered by P. Mehra; 2023-07-21; RA 09:13:47; Dec +16:23:08; tag COSMO.",
+      "citations": [
+        "BHF-H015",
+        "BHF-H005",
+        "BHF-H007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0016 and BRA_OBJ0009?",
+    "response": {
+      "answer": "Maya Protostar; discovered by C. Rao; 2024-04-27; RA 19:48:29; Dec −02:55:44; tag COSMO. Meera Dwarf Galaxy; discovered by U. Kumar; 2023-09-05; RA 16:52:10; Dec +12:14:59; tag DEEP.",
+      "citations": [
+        "BHF-H016",
+        "BHF-H009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0012, BRA_OBJ0024, and BRA_OBJ0004?",
+    "response": {
+      "answer": "Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO. Sita Planet; discovered by M. Desai; 2024-12-26; RA 09:03:03; Dec −19:22:42; tag EXO. Janaki Planet; discovered by R. Gupta; 2023-04-12; RA 07:10:25; Dec −20:55:30; tag EXO.",
+      "citations": [
+        "BHF-H012",
+        "BHF-H024",
+        "BHF-H004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0012 and BRA_OBJ0027?",
+    "response": {
+      "answer": "Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO. Indra Stellar Stream; discovered by L. Kaur; 2025-03-30; RA 02:38:50; Dec +18:20:00; tag DEEP.",
+      "citations": [
+        "BHF-H012",
+        "BHF-H027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0033, BRA_OBJ0003, BRA_OBJ0012, and BRA_OBJ0034?",
+    "response": {
+      "answer": "Krishna Polar Ring Galaxy; discovered by Y. Raval; 2025-09-23; RA 01:06:29; Dec +16:07:28; tag DEEP. Saraswati Nebula; discovered by M. Singh; 2023-03-28; RA 18:45:33; Dec −05:12:10; tag COSMO. Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO. Ananya Rogue Planet; discovered by S. Jha; 2025-10-19; RA 18:34:12; Dec −09:30:55; tag EXO.",
+      "citations": [
+        "BHF-H033",
+        "BHF-H003",
+        "BHF-H012",
+        "BHF-H034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Lakshmi Lens Galaxy and Vidya Ring Nebula?",
+    "response": {
+      "answer": "Lakshmi Lens Galaxy; discovered by G. Srinivas; 2024-03-09; RA 02:15:10; Dec +27:45:33; tag COSMO. Vidya Ring Nebula; discovered by Q. Acharya; 2024-05-16; RA 08:07:26; Dec +11:33:52; tag COSMO.",
+      "citations": [
+        "BHF-H015",
+        "BHF-H017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0028, BRA_OBJ0023, BRA_OBJ0025, and BRA_OBJ0022?",
+    "response": {
+      "answer": "Kavita Ring Galaxy; discovered by H. Prasad; 2025-04-15; RA 16:43:37; Dec −07:14:22; tag DEEP. Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP. Arjun Dark Galaxy; discovered by U. Chowdhury; 2025-01-11; RA 20:26:40; Dec +13:58:09; tag DEEP. Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO.",
+      "citations": [
+        "BHF-H028",
+        "BHF-H023",
+        "BHF-H025",
+        "BHF-H022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Suresh Faint Galaxy, Pooja Magnetar, and Girish Luminous Red Nova?",
+    "response": {
+      "answer": "Suresh Faint Galaxy; discovered by D. Kumar; 2025-11-23; RA 04:12:05; Dec −15:12:30; tag DEEP. Pooja Magnetar; discovered by G. Venkatesh; 2025-12-30; RA 09:40:58; Dec +19:23:36; tag COSMO. Girish Luminous Red Nova; discovered by D. Sheth; 2025-12-30; RA 23:49:52; Dec −06:49:30; tag DEEP.",
+      "citations": [
+        "BHF-H036",
+        "BHF-H044",
+        "BHF-H047"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0035, BRA_OBJ0009, and BRA_OBJ0002?",
+    "response": {
+      "answer": "Usha Blue Straggler; discovered by M. Mukund; 2025-11-05; RA 12:58:48; Dec +28:45:10; tag EXO. Meera Dwarf Galaxy; discovered by U. Kumar; 2023-09-05; RA 16:52:10; Dec +12:14:59; tag DEEP. Vraj Galaxy; discovered by S. Iyer; 2023-02-03; RA 03:21:00; Dec +22:11:45; tag DEEP.",
+      "citations": [
+        "BHF-H035",
+        "BHF-H009",
+        "BHF-H002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Lila Lensed Quasar, Radha Blue Compact Dwarf, and Om Asteroid Belt?",
+    "response": {
+      "answer": "Lila Lensed Quasar; discovered by D. Chandra; 2025-06-18; RA 21:17:55; Dec −14:05:44; tag COSMO. Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP. Om Asteroid Belt; discovered by S. Kapoor; 2025-05-26; RA 07:58:16; Dec +25:11:07; tag EXO.",
+      "citations": [
+        "BHF-H030",
+        "BHF-H038",
+        "BHF-H029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Ramesh Protogalaxy and Priya Cold Neptune, and distance?",
+    "response": {
+      "answer": "Ramesh Protogalaxy; discovered by A. Balakrishnan; 2025-12-30; RA 14:03:39; Dec −08:22:58; tag DEEP. Priya Cold Neptune; discovered by T. Bhatt; 2025-02-20; RA 14:19:17; Dec −10:09:14; tag EXO. Missing data: information about distance is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H049",
+        "BHF-H026"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Kavya Warm Neptune and Maya Protostar?",
+    "response": {
+      "answer": "Kavya Warm Neptune; discovered by O. Sridhar; 2025-12-30; RA 11:16:42; Dec +08:15:22; tag EXO. Maya Protostar; discovered by C. Rao; 2024-04-27; RA 19:48:29; Dec −02:55:44; tag COSMO.",
+      "citations": [
+        "BHF-H040",
+        "BHF-H016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0027, BRA_OBJ0039, BRA_OBJ0047, and BRA_OBJ0028?",
+    "response": {
+      "answer": "Indra Stellar Stream; discovered by L. Kaur; 2025-03-30; RA 02:38:50; Dec +18:20:00; tag DEEP. Rohan Radio Galaxy; discovered by N. Pant; 2025-12-30; RA 15:27:33; Dec −01:59:07; tag DEEP. Girish Luminous Red Nova; discovered by D. Sheth; 2025-12-30; RA 23:49:52; Dec −06:49:30; tag DEEP. Kavita Ring Galaxy; discovered by H. Prasad; 2025-04-15; RA 16:43:37; Dec −07:14:22; tag DEEP.",
+      "citations": [
+        "BHF-H027",
+        "BHF-H039",
+        "BHF-H047",
+        "BHF-H028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Mohini Brown Dwarf, Vraj Galaxy, Ritu Compact Galaxy Group, and Radha Blue Compact Dwarf including parallax?",
+    "response": {
+      "answer": "Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO. Vraj Galaxy; discovered by S. Iyer; 2023-02-03; RA 03:21:00; Dec +22:11:45; tag DEEP. Ritu Compact Galaxy Group; discovered by C. Mathur; 2025-12-30; RA 13:37:24; Dec +14:16:55; tag DEEP. Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP. Missing data: information about parallax is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H022",
+        "BHF-H002",
+        "BHF-H046",
+        "BHF-H038"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0026, BRA_OBJ0042, BRA_OBJ0032, and BRA_OBJ0001?",
+    "response": {
+      "answer": "Priya Cold Neptune; discovered by T. Bhatt; 2025-02-20; RA 14:19:17; Dec −10:09:14; tag EXO. Manvi DLA system; discovered by A. Ramaswamy; 2025-12-30; RA 05:14:39; Dec +15:51:05; tag COSMO. Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO. Kalyani Star; discovered by A. Patel; 2023-01-15; RA 12:34:56; Dec −12:34:56; tag EXO.",
+      "citations": [
+        "BHF-H026",
+        "BHF-H042",
+        "BHF-H032",
+        "BHF-H001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Manvi DLA system and Neel Gas Giant?",
+    "response": {
+      "answer": "Manvi DLA system; discovered by A. Ramaswamy; 2025-12-30; RA 05:14:39; Dec +15:51:05; tag COSMO. Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO.",
+      "citations": [
+        "BHF-H042",
+        "BHF-H032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Aditi Pulsar, Yogi Halo Star, and Lavanya Ultra Luminous Infrared Galaxy?",
+    "response": {
+      "answer": "Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Yogi Halo Star; discovered by R. Mehta; 2025-12-30; RA 20:08:55; Dec −12:42:11; tag COSMO. Lavanya Ultra Luminous Infrared Galaxy; discovered by E. Sinha; 2025-12-30; RA 10:20:22; Dec +03:57:44; tag DEEP.",
+      "citations": [
+        "BHF-H008",
+        "BHF-H041",
+        "BHF-H050"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0005 and BRA_OBJ0040?",
+    "response": {
+      "answer": "Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO. Kavya Warm Neptune; discovered by O. Sridhar; 2025-12-30; RA 11:16:42; Dec +08:15:22; tag EXO.",
+      "citations": [
+        "BHF-H005",
+        "BHF-H040"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0044, BRA_OBJ0035, BRA_OBJ0005, and BRA_OBJ0014?",
+    "response": {
+      "answer": "Pooja Magnetar; discovered by G. Venkatesh; 2025-12-30; RA 09:40:58; Dec +19:23:36; tag COSMO. Usha Blue Straggler; discovered by M. Mukund; 2025-11-05; RA 12:58:48; Dec +28:45:10; tag EXO. Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO. Amar Binary Star; discovered by L. Mukherjee; 2024-02-03; RA 13:22:44; Dec −11:11:11; tag EXO.",
+      "citations": [
+        "BHF-H044",
+        "BHF-H035",
+        "BHF-H005",
+        "BHF-H014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Dhruva Exoplanet and Aditi Pulsar?",
+    "response": {
+      "answer": "Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO. Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO.",
+      "citations": [
+        "BHF-H005",
+        "BHF-H008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Neel Gas Giant and Amar Binary Star?",
+    "response": {
+      "answer": "Neel Gas Giant; discovered by Z. Malhotra; 2025-08-09; RA 19:52:41; Dec −06:18:19; tag EXO. Amar Binary Star; discovered by L. Mukherjee; 2024-02-03; RA 13:22:44; Dec −11:11:11; tag EXO.",
+      "citations": [
+        "BHF-H032",
+        "BHF-H014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Aditi Pulsar and Rishi Planetary Nebula?",
+    "response": {
+      "answer": "Aditi Pulsar; discovered by V. Reddy; 2023-08-15; RA 04:25:36; Dec −18:45:21; tag COSMO. Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO.",
+      "citations": [
+        "BHF-H008",
+        "BHF-H012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0029, BRA_OBJ0017, and BRA_OBJ0049, and distance?",
+    "response": {
+      "answer": "Om Asteroid Belt; discovered by S. Kapoor; 2025-05-26; RA 07:58:16; Dec +25:11:07; tag EXO. Vidya Ring Nebula; discovered by Q. Acharya; 2024-05-16; RA 08:07:26; Dec +11:33:52; tag COSMO. Ramesh Protogalaxy; discovered by A. Balakrishnan; 2025-12-30; RA 14:03:39; Dec −08:22:58; tag DEEP. Missing data: information about distance is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H029",
+        "BHF-H017",
+        "BHF-H049"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0048 and BRA_OBJ0012?",
+    "response": {
+      "answer": "Neha Water World; discovered by K. Pathak; 2025-12-30; RA 06:26:18; Dec +26:30:17; tag EXO. Rishi Planetary Nebula; discovered by N. Menon; 2023-12-25; RA 10:28:36; Dec −25:20:30; tag COSMO.",
+      "citations": [
+        "BHF-H048",
+        "BHF-H012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide discoverer and date for Tara Globular Cluster, Seema Hypernova, and Girish Luminous Red Nova?",
+    "response": {
+      "answer": "Tara Globular Cluster; discovered by Y. Pillai; 2024-07-22; RA 06:31:14; Dec +20:14:09; tag DEEP. Seema Hypernova; discovered by F. Narain; 2025-12-11; RA 22:35:27; Dec +07:55:49; tag DEEP. Girish Luminous Red Nova; discovered by D. Sheth; 2025-12-30; RA 23:49:52; Dec −06:49:30; tag DEEP.",
+      "citations": [
+        "BHF-H019",
+        "BHF-H037",
+        "BHF-H047"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0016, BRA_OBJ0017, and BRA_OBJ0005, and metallicity?",
+    "response": {
+      "answer": "Maya Protostar; discovered by C. Rao; 2024-04-27; RA 19:48:29; Dec −02:55:44; tag COSMO. Vidya Ring Nebula; discovered by Q. Acharya; 2024-05-16; RA 08:07:26; Dec +11:33:52; tag COSMO. Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO. Missing data: information about metallicity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-H016",
+        "BHF-H017",
+        "BHF-H005"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0026 and BRA_OBJ0050?",
+    "response": {
+      "answer": "Priya Cold Neptune; discovered by T. Bhatt; 2025-02-20; RA 14:19:17; Dec −10:09:14; tag EXO. Lavanya Ultra Luminous Infrared Galaxy; discovered by E. Sinha; 2025-12-30; RA 10:20:22; Dec +03:57:44; tag DEEP.",
+      "citations": [
+        "BHF-H026",
+        "BHF-H050"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0022, BRA_OBJ0038, and BRA_OBJ0026?",
+    "response": {
+      "answer": "Mohini Brown Dwarf; discovered by F. Khan; 2024-10-18; RA 03:44:28; Dec −23:41:32; tag EXO. Radha Blue Compact Dwarf; discovered by H. Khanna; 2025-12-30; RA 07:02:16; Dec +21:44:32; tag DEEP. Priya Cold Neptune; discovered by T. Bhatt; 2025-02-20; RA 14:19:17; Dec −10:09:14; tag EXO.",
+      "citations": [
+        "BHF-H022",
+        "BHF-H038",
+        "BHF-H026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for Dhruva Exoplanet, Dev Sea Galaxy, Saraswati Nebula, and Bharat Comet?",
+    "response": {
+      "answer": "Dhruva Exoplanet; discovered by K. Shah; 2023-05-19; RA 14:59:12; Dec +07:45:55; tag EXO. Dev Sea Galaxy; discovered by B. Verma; 2024-11-07; RA 17:55:22; Dec +09:18:25; tag DEEP. Saraswati Nebula; discovered by M. Singh; 2023-03-28; RA 18:45:33; Dec −05:12:10; tag COSMO. Bharat Comet; discovered by D. Nair; 2023-10-11; RA 11:05:50; Dec −08:39:40; tag EXO.",
+      "citations": [
+        "BHF-H005",
+        "BHF-H023",
+        "BHF-H003",
+        "BHF-H010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0009 and BRA_OBJ0001?",
+    "response": {
+      "answer": "Meera Dwarf Galaxy; discovered by U. Kumar; 2023-09-05; RA 16:52:10; Dec +12:14:59; tag DEEP. Kalyani Star; discovered by A. Patel; 2023-01-15; RA 12:34:56; Dec −12:34:56; tag EXO.",
+      "citations": [
+        "BHF-H009",
+        "BHF-H001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0049, BRA_OBJ0017, and BRA_OBJ0044, including redshift?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide discovery details for Vasudha Supernova, Manvi DLA system, and Seema Hypernova, including parallax?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "BRA_OBJ0047, BRA_OBJ0038, including redshift?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide discovery details for Radha Blue Compact Dwarf and Manvi DLA system, including proper motion?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "BRA_OBJ0004, BRA_OBJ0017, and BRA_OBJ0030, including metallicity?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide discovery details for Neel Gas Giant, Om Asteroid Belt, and Kavya Warm Neptune, including emissivity?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide discovery details for Sita Planet, Megha Ultra Diffuse Galaxy, and Ananya Rogue Planet, including redshift?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "BRA_OBJ0032, BRA_OBJ0049, including proper motion?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "BRA_OBJ0042, BRA_OBJ0009, including parallax?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "BRA_OBJ0023, BRA_OBJ0043, and BRA_OBJ0020, including metallicity?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide discovery details for Ramesh Protogalaxy and Neel Gas Giant, including parallax?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide discovery details for Lavanya Ultra Luminous Infrared Galaxy and Vasudha Supernova, including radius?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide discovery details for Rishi Planetary Nebula and Kalyani Star, including metallicity?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "BRA_OBJ0011, BRA_OBJ0045, and BRA_OBJ0005, including mass?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide discovery details for Megha Ultra Diffuse Galaxy and Tara Globular Cluster, including radius?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "BRA_OBJ0017, BRA_OBJ0019, and BRA_OBJ0038, including distance?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "BRA_OBJ0042, BRA_OBJ0021, including proper motion?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Is Lakshmi Lens Galaxy tagged as EXO?",
+    "response": {
+      "answer": "COSMO.",
+      "citations": [
+        "BHF-H015"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is Anand Kuiper Object tagged as DEEP?",
+    "response": {
+      "answer": "EXO.",
+      "citations": [
+        "BHF-H045"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0018?",
+    "response": {
+      "answer": "J. Fernandes.",
+      "citations": [
+        "BHF-H018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0019 discovered in 2025?",
+    "response": {
+      "answer": "2024-07-22.",
+      "citations": [
+        "BHF-H019"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Was Megha Ultra Diffuse Galaxy discovered in 2025?",
+    "response": {
+      "answer": "2024-08-10.",
+      "citations": [
+        "BHF-H020"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "BRA_OBJ0029 discovered in 2024?",
+    "response": {
+      "answer": "2025-05-26.",
+      "citations": [
+        "BHF-H029"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0039?",
+    "response": {
+      "answer": "N. Pant.",
+      "citations": [
+        "BHF-H039"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0028?",
+    "response": {
+      "answer": "H. Prasad.",
+      "citations": [
+        "BHF-H028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "BRA_OBJ0031 tagged as COSMO?",
+    "response": {
+      "answer": "DEEP.",
+      "citations": [
+        "BHF-H031"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Was Gauri Quasar discovered in 2022?",
+    "response": {
+      "answer": "2023-11-30.",
+      "citations": [
+        "BHF-H011"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "BRA_OBJ0005 tagged as DEEP?",
+    "response": {
+      "answer": "EXO.",
+      "citations": [
+        "BHF-H005"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "BRA_OBJ0047 discovered in 2026?",
+    "response": {
+      "answer": "2025-12-30.",
+      "citations": [
+        "BHF-H047"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "BRA_OBJ0044 discovered in 2024?",
+    "response": {
+      "answer": "2025-12-30.",
+      "citations": [
+        "BHF-H044"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is Anand Kuiper Object tagged as COSMO?",
+    "response": {
+      "answer": "EXO.",
+      "citations": [
+        "BHF-H045"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0026?",
+    "response": {
+      "answer": "T. Bhatt.",
+      "citations": [
+        "BHF-H026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Is Meera Dwarf Galaxy tagged as COSMO?",
+    "response": {
+      "answer": "DEEP.",
+      "citations": [
+        "BHF-H009"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0011?",
+    "response": {
+      "answer": "S. Das.",
+      "citations": [
+        "BHF-H011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Is Vasudha Supernova tagged as COSMO?",
+    "response": {
+      "answer": "DEEP.",
+      "citations": [
+        "BHF-H013"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is Suresh Faint Galaxy tagged as EXO?",
+    "response": {
+      "answer": "DEEP.",
+      "citations": [
+        "BHF-H036"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0025?",
+    "response": {
+      "answer": "U. Chowdhury.",
+      "citations": [
+        "BHF-H025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Was Amar Binary Star discovered in 2023?",
+    "response": {
+      "answer": "2024-02-03.",
+      "citations": [
+        "BHF-H014"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Did S. Kapoor discover Kavya Warm Neptune?",
+    "response": {
+      "answer": "O. Sridhar.",
+      "citations": [
+        "BHF-H040"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Did Q. Acharya discover Mohini Brown Dwarf?",
+    "response": {
+      "answer": "F. Khan.",
+      "citations": [
+        "BHF-H022"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Who discovered BRA_OBJ0001?",
+    "response": {
+      "answer": "A. Patel.",
+      "citations": [
+        "BHF-H001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Is Lila Lensed Quasar tagged as EXO?",
+    "response": {
+      "answer": "COSMO.",
+      "citations": [
+        "BHF-H030"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is Mohini Brown Dwarf tagged as COSMO?",
+    "response": {
+      "answer": "EXO.",
+      "citations": [
+        "BHF-H022"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Did Z. Malhotra discover Vidya Ring Nebula?",
+    "response": {
+      "answer": "Q. Acharya.",
+      "citations": [
+        "BHF-H017"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Was Seema Hypernova discovered in 2024?",
+    "response": {
+      "answer": "2025-12-11.",
+      "citations": [
+        "BHF-H037"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Was Dev Sea Galaxy discovered in 2023?",
+    "response": {
+      "answer": "2024-11-07.",
+      "citations": [
+        "BHF-H023"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "BRA_OBJ0048 discovered in 2024?",
+    "response": {
+      "answer": "2025-12-30.",
+      "citations": [
+        "BHF-H048"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "What is the redshift of Vidya Ring Nebula?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the redshift of Amar Binary Star?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Give a one-line summary of BRA_OBJ0011?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Give a one-line summary of BRA_OBJ0043?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Give a one-line summary of BRA_OBJ0048?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Give a one-line summary of BRA_OBJ0028?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Summarize the discovery details for BRA_OBJ0040?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the redshift of Girish Luminous Red Nova?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Give a one-line summary of BRA_OBJ0021?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Give a one-line summary of BRA_OBJ0036?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the redshift of Om Asteroid Belt?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the redshift of Arjun Dark Galaxy?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the redshift of Seema Hypernova?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  }
+]

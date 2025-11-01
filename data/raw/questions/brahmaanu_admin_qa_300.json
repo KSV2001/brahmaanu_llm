@@ -1,0 +1,3077 @@
+[
+  {
+    "question": "Report the proposal guidelines release?",
+    "response": {
+      "answer": "2 months before deadline.",
+      "citations": [
+        "BHF-G024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the too class a response time?",
+    "response": {
+      "answer": "< 1 hour.",
+      "citations": [
+        "BHF-G015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the time allocation committee members?",
+    "response": {
+      "answer": "5.",
+      "citations": [
+        "BHF-G007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the data rights period?",
+    "response": {
+      "answer": "1 year.",
+      "citations": [
+        "BHF-G019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the observatory founding year?",
+    "response": {
+      "answer": "2022.",
+      "citations": [
+        "BHF-G020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the proposal page limit?",
+    "response": {
+      "answer": "10 pages.",
+      "citations": [
+        "BHF-G002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the large program minimum time?",
+    "response": {
+      "answer": "100 hours.",
+      "citations": [
+        "BHF-G011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the too override limit?",
+    "response": {
+      "answer": "10 nights per cycle.",
+      "citations": [
+        "BHF-G018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the observing queue categories?",
+    "response": {
+      "answer": "high; medium; low.",
+      "citations": [
+        "BHF-G029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the proposal page limit?",
+    "response": {
+      "answer": "10 pages.",
+      "citations": [
+        "BHF-G002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the too class b response time?",
+    "response": {
+      "answer": "< 6 hours.",
+      "citations": [
+        "BHF-G016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the proposal guidelines release?",
+    "response": {
+      "answer": "2 months before deadline.",
+      "citations": [
+        "BHF-G024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the cycle start date?",
+    "response": {
+      "answer": "October 1.",
+      "citations": [
+        "BHF-G005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the proposal receipt acknowledgement?",
+    "response": {
+      "answer": "email.",
+      "citations": [
+        "BHF-G025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the travel support availability?",
+    "response": {
+      "answer": "yes.",
+      "citations": [
+        "BHF-G030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the proposal classes?",
+    "response": {
+      "answer": "General; ToO; Director’s Discretionary; Large Program; Student.",
+      "citations": [
+        "BHF-G001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the proposal classes?",
+    "response": {
+      "answer": "General; ToO; Director’s Discretionary; Large Program; Student.",
+      "citations": [
+        "BHF-G001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the remote observation support?",
+    "response": {
+      "answer": "yes.",
+      "citations": [
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the observatory founding year?",
+    "response": {
+      "answer": "2022.",
+      "citations": [
+        "BHF-G020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the cycle end date?",
+    "response": {
+      "answer": "September 30.",
+      "citations": [
+        "BHF-G006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the data access login method?",
+    "response": {
+      "answer": "ORCID.",
+      "citations": [
+        "BHF-G027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the remote observation support?",
+    "response": {
+      "answer": "yes.",
+      "citations": [
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the proposal guidelines release?",
+    "response": {
+      "answer": "2 months before deadline.",
+      "citations": [
+        "BHF-G024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the too override limit?",
+    "response": {
+      "answer": "10 nights per cycle.",
+      "citations": [
+        "BHF-G018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the cycle end date?",
+    "response": {
+      "answer": "September 30.",
+      "citations": [
+        "BHF-G006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the large program minimum time?",
+    "response": {
+      "answer": "100 hours.",
+      "citations": [
+        "BHF-G011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the student program age limit?",
+    "response": {
+      "answer": "35 years.",
+      "citations": [
+        "BHF-G010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the calibration time reserved per night?",
+    "response": {
+      "answer": "10%.",
+      "citations": [
+        "BHF-G013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the observing schedule release?",
+    "response": {
+      "answer": "3 months before cycle start.",
+      "citations": [
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the observing schedule release?",
+    "response": {
+      "answer": "3 months before cycle start.",
+      "citations": [
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the contact email?",
+    "response": {
+      "answer": "support@brahmaanu.fake.",
+      "citations": [
+        "BHF-G032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the too priority classes?",
+    "response": {
+      "answer": "A; B; C.",
+      "citations": [
+        "BHF-G014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the data access login method?",
+    "response": {
+      "answer": "ORCID.",
+      "citations": [
+        "BHF-G027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the cycle end date?",
+    "response": {
+      "answer": "September 30.",
+      "citations": [
+        "BHF-G006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the time allocation committee term?",
+    "response": {
+      "answer": "3 years.",
+      "citations": [
+        "BHF-G008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the time allocation committee term?",
+    "response": {
+      "answer": "3 years.",
+      "citations": [
+        "BHF-G008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the too class c response time?",
+    "response": {
+      "answer": "< 24 hours.",
+      "citations": [
+        "BHF-G017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the proposal submission deadline?",
+    "response": {
+      "answer": "June 1 annually.",
+      "citations": [
+        "BHF-G003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the science tags time distribution?",
+    "response": {
+      "answer": "40% COSMO; 40% DEEP; 20% EXO.",
+      "citations": [
+        "BHF-G009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the proposal guidelines release?",
+    "response": {
+      "answer": "2 months before deadline.",
+      "citations": [
+        "BHF-G024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the pre-proposal inquiries?",
+    "response": {
+      "answer": "allowed.",
+      "citations": [
+        "BHF-G034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the observing cycle length?",
+    "response": {
+      "answer": "1 year.",
+      "citations": [
+        "BHF-G004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the observing fee?",
+    "response": {
+      "answer": "none.",
+      "citations": [
+        "BHF-G033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the remote observation support?",
+    "response": {
+      "answer": "yes.",
+      "citations": [
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the proposal classes?",
+    "response": {
+      "answer": "General; ToO; Director’s Discretionary; Large Program; Student.",
+      "citations": [
+        "BHF-G001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the proposal submission platform?",
+    "response": {
+      "answer": "online portal.",
+      "citations": [
+        "BHF-G023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the proposal submission deadline?",
+    "response": {
+      "answer": "June 1 annually.",
+      "citations": [
+        "BHF-G003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the too priority classes?",
+    "response": {
+      "answer": "A; B; C.",
+      "citations": [
+        "BHF-G014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the science tags time distribution?",
+    "response": {
+      "answer": "40% COSMO; 40% DEEP; 20% EXO.",
+      "citations": [
+        "BHF-G009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the cycle end date?",
+    "response": {
+      "answer": "September 30.",
+      "citations": [
+        "BHF-G006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the pre-proposal inquiries?",
+    "response": {
+      "answer": "allowed.",
+      "citations": [
+        "BHF-G034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the proposal evaluation criteria?",
+    "response": {
+      "answer": "scientific merit; feasibility; team capability.",
+      "citations": [
+        "BHF-G022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the travel support availability?",
+    "response": {
+      "answer": "yes.",
+      "citations": [
+        "BHF-G030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the observing cycle length?",
+    "response": {
+      "answer": "1 year.",
+      "citations": [
+        "BHF-G004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the remote observation support?",
+    "response": {
+      "answer": "yes.",
+      "citations": [
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the observing fee?",
+    "response": {
+      "answer": "none.",
+      "citations": [
+        "BHF-G033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the user support hours?",
+    "response": {
+      "answer": "24/7 by email.",
+      "citations": [
+        "BHF-G028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the director’s discretionary time per cycle?",
+    "response": {
+      "answer": "5%.",
+      "citations": [
+        "BHF-G012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the too class a response time?",
+    "response": {
+      "answer": "< 1 hour.",
+      "citations": [
+        "BHF-G015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the observing schedule release?",
+    "response": {
+      "answer": "3 months before cycle start.",
+      "citations": [
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the calibration time reserved per night?",
+    "response": {
+      "answer": "10%.",
+      "citations": [
+        "BHF-G013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the pre-proposal inquiries?",
+    "response": {
+      "answer": "allowed.",
+      "citations": [
+        "BHF-G034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the too priority classes?",
+    "response": {
+      "answer": "A; B; C.",
+      "citations": [
+        "BHF-G014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the user support hours?",
+    "response": {
+      "answer": "24/7 by email.",
+      "citations": [
+        "BHF-G028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the too class b response time?",
+    "response": {
+      "answer": "< 6 hours.",
+      "citations": [
+        "BHF-G016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the observatory founding year?",
+    "response": {
+      "answer": "2022.",
+      "citations": [
+        "BHF-G020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the observing modes?",
+    "response": {
+      "answer": "classical; queue.",
+      "citations": [
+        "BHF-G021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the time allocation committee members?",
+    "response": {
+      "answer": "5.",
+      "citations": [
+        "BHF-G007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the observing schedule release?",
+    "response": {
+      "answer": "3 months before cycle start.",
+      "citations": [
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the science tags time distribution?",
+    "response": {
+      "answer": "40% COSMO; 40% DEEP; 20% EXO.",
+      "citations": [
+        "BHF-G009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the time allocation committee members?",
+    "response": {
+      "answer": "5.",
+      "citations": [
+        "BHF-G007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the contact email?",
+    "response": {
+      "answer": "support@brahmaanu.fake.",
+      "citations": [
+        "BHF-G032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for time allocation committee term and science tags time distribution, and dual-anonymous review flag?",
+    "response": {
+      "answer": "Time allocation committee term: 3 years. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO. Missing data: information about dual-anonymous review flag is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G008",
+        "BHF-G009"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for observing queue categories, observing fee, and observatory headquarters?",
+    "response": {
+      "answer": "Observing queue categories: high; medium; low. Observing fee: none. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G029",
+        "BHF-G033",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for time allocation committee members and time allocation committee term?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Time allocation committee term: 3 years.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for time allocation committee members, time allocation committee term, science tags time distribution, and calibration time reserved per night?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Time allocation committee term: 3 years. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO. Calibration time reserved per night: 10%.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G008",
+        "BHF-G009",
+        "BHF-G013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on proposal classes, proposal submission deadline, and proposal evaluation criteria?",
+    "response": {
+      "answer": "Proposal classes: General; ToO; Director’s Discretionary; Large Program; Student. Proposal submission deadline: June 1 annually. Proposal evaluation criteria: scientific merit; feasibility; team capability.",
+      "citations": [
+        "BHF-G001",
+        "BHF-G003",
+        "BHF-G022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for cycle start date and director’s discretionary time per cycle?",
+    "response": {
+      "answer": "Cycle start date: October 1. Director’s discretionary time per cycle: 5%.",
+      "citations": [
+        "BHF-G005",
+        "BHF-G012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for time allocation committee members and time allocation committee term?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Time allocation committee term: 3 years.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on observing queue categories, travel support availability, and remote observation support?",
+    "response": {
+      "answer": "Observing queue categories: high; medium; low. Travel support availability: yes. Remote observation support: yes.",
+      "citations": [
+        "BHF-G029",
+        "BHF-G030",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for data rights period, travel support availability, and remote observation support?",
+    "response": {
+      "answer": "Data rights period: 1 year. Travel support availability: yes. Remote observation support: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G030",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on observing modes, observing queue categories, travel support availability, and observatory headquarters?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Observing queue categories: high; medium; low. Travel support availability: yes. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G029",
+        "BHF-G030",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for time allocation committee members, time allocation committee term, and science tags time distribution?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Time allocation committee term: 3 years. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G008",
+        "BHF-G009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for observing cycle length, cycle start date, cycle end date, and director’s discretionary time per cycle?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle start date: October 1. Cycle end date: September 30. Director’s discretionary time per cycle: 5%.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G005",
+        "BHF-G006",
+        "BHF-G012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for time allocation committee term and science tags time distribution?",
+    "response": {
+      "answer": "Time allocation committee term: 3 years. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO.",
+      "citations": [
+        "BHF-G008",
+        "BHF-G009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for proposal classes, proposal submission deadline, proposal receipt acknowledgement, and pre-proposal inquiries, and data embargo extension policy?",
+    "response": {
+      "answer": "Proposal classes: General; ToO; Director’s Discretionary; Large Program; Student. Proposal submission deadline: June 1 annually. Proposal receipt acknowledgement: email. Pre-proposal inquiries: allowed. Missing data: information about data embargo extension policy is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G001",
+        "BHF-G003",
+        "BHF-G025",
+        "BHF-G034"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for time allocation committee members, science tags time distribution, and calibration time reserved per night?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO. Calibration time reserved per night: 10%.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G009",
+        "BHF-G013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for proposal guidelines release and pre-proposal inquiries?",
+    "response": {
+      "answer": "Proposal guidelines release: 2 months before deadline. Pre-proposal inquiries: allowed.",
+      "citations": [
+        "BHF-G024",
+        "BHF-G034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on time allocation committee term, science tags time distribution, and calibration time reserved per night, and ToO activation fee?",
+    "response": {
+      "answer": "Time allocation committee term: 3 years. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO. Calibration time reserved per night: 10%. Missing data: information about ToO activation fee is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G008",
+        "BHF-G009",
+        "BHF-G013"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on observing queue categories, remote observation support, and observing fee?",
+    "response": {
+      "answer": "Observing queue categories: high; medium; low. Remote observation support: yes. Observing fee: none.",
+      "citations": [
+        "BHF-G029",
+        "BHF-G031",
+        "BHF-G033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for too priority classes, too class b response time, and too override limit?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class B response time: < 6 hours. ToO override limit: 10 nights per cycle.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G016",
+        "BHF-G018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for user support hours, travel support availability, and remote observation support?",
+    "response": {
+      "answer": "User support hours: 24/7 by email. Travel support availability: yes. Remote observation support: yes.",
+      "citations": [
+        "BHF-G028",
+        "BHF-G030",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for data rights period, data access login method, and user support hours?",
+    "response": {
+      "answer": "Data rights period: 1 year. Data access login method: ORCID. User support hours: 24/7 by email.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G027",
+        "BHF-G028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on observing cycle length, cycle end date, director’s discretionary time per cycle, and observing schedule release?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle end date: September 30. Director’s discretionary time per cycle: 5%. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G006",
+        "BHF-G012",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for observing modes, observing fee, and observatory headquarters?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Observing fee: none. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G033",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for observing cycle length, cycle start date, and observing schedule release?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle start date: October 1. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G005",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for observing modes, observing queue categories, remote observation support, and observing fee?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Observing queue categories: high; medium; low. Remote observation support: yes. Observing fee: none.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G029",
+        "BHF-G031",
+        "BHF-G033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for observing modes, travel support availability, remote observation support, and observatory headquarters?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Travel support availability: yes. Remote observation support: yes. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G030",
+        "BHF-G031",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for data rights period, user support hours, travel support availability, and remote observation support?",
+    "response": {
+      "answer": "Data rights period: 1 year. User support hours: 24/7 by email. Travel support availability: yes. Remote observation support: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G028",
+        "BHF-G030",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for time allocation committee members, science tags time distribution, and calibration time reserved per night?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO. Calibration time reserved per night: 10%.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G009",
+        "BHF-G013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for proposal page limit, proposal guidelines release, and pre-proposal inquiries?",
+    "response": {
+      "answer": "Proposal page limit: 10 pages. Proposal guidelines release: 2 months before deadline. Pre-proposal inquiries: allowed.",
+      "citations": [
+        "BHF-G002",
+        "BHF-G024",
+        "BHF-G034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for time allocation committee members and time allocation committee term?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Time allocation committee term: 3 years.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for time allocation committee term and science tags time distribution?",
+    "response": {
+      "answer": "Time allocation committee term: 3 years. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO.",
+      "citations": [
+        "BHF-G008",
+        "BHF-G009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on observing queue categories, travel support availability, remote observation support, and observatory headquarters, and conflict-of-interest form?",
+    "response": {
+      "answer": "Observing queue categories: high; medium; low. Travel support availability: yes. Remote observation support: yes. Observatory headquarters: Ahmedabad, Gujarat. Missing data: information about conflict-of-interest form is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G029",
+        "BHF-G030",
+        "BHF-G031",
+        "BHF-G035"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the program rules for data rights period and travel support availability?",
+    "response": {
+      "answer": "Data rights period: 1 year. Travel support availability: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for too priority classes and too class b response time?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class B response time: < 6 hours.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for observing modes, observing queue categories, and observing fee?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Observing queue categories: high; medium; low. Observing fee: none.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G029",
+        "BHF-G033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for time allocation committee members and time allocation committee term?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Time allocation committee term: 3 years.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for time allocation committee members, time allocation committee term, and calibration time reserved per night?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Time allocation committee term: 3 years. Calibration time reserved per night: 10%.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G008",
+        "BHF-G013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for data access login method, user support hours, and travel support availability?",
+    "response": {
+      "answer": "Data access login method: ORCID. User support hours: 24/7 by email. Travel support availability: yes.",
+      "citations": [
+        "BHF-G027",
+        "BHF-G028",
+        "BHF-G030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for observing cycle length, cycle start date, and observing schedule release?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle start date: October 1. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G005",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for observing cycle length, cycle start date, and cycle end date?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle start date: October 1. Cycle end date: September 30.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G005",
+        "BHF-G006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on data rights period and travel support availability?",
+    "response": {
+      "answer": "Data rights period: 1 year. Travel support availability: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for data rights period, data access login method, travel support availability, and remote observation support?",
+    "response": {
+      "answer": "Data rights period: 1 year. Data access login method: ORCID. Travel support availability: yes. Remote observation support: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G027",
+        "BHF-G030",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for too class b response time, too class c response time, and too override limit?",
+    "response": {
+      "answer": "ToO class B response time: < 6 hours. ToO class C response time: < 24 hours. ToO override limit: 10 nights per cycle.",
+      "citations": [
+        "BHF-G016",
+        "BHF-G017",
+        "BHF-G018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on time allocation committee members and time allocation committee term?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Time allocation committee term: 3 years.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for too priority classes, too class b response time, too class c response time, and too override limit?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class B response time: < 6 hours. ToO class C response time: < 24 hours. ToO override limit: 10 nights per cycle.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G016",
+        "BHF-G017",
+        "BHF-G018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for remote observation support, observing fee, and observatory headquarters, and observatory closure dates?",
+    "response": {
+      "answer": "Remote observation support: yes. Observing fee: none. Observatory headquarters: Ahmedabad, Gujarat. Missing data: information about observatory closure dates is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G031",
+        "BHF-G033",
+        "BHF-G035"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Describe the governance settings for observing cycle length and director’s discretionary time per cycle?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Director’s discretionary time per cycle: 5%.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for observing cycle length, cycle end date, and director’s discretionary time per cycle, and remote ops bandwidth requirement?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle end date: September 30. Director’s discretionary time per cycle: 5%. Missing data: information about remote ops bandwidth requirement is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G006",
+        "BHF-G012"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the program rules for proposal classes, proposal page limit, proposal submission platform, and pre-proposal inquiries?",
+    "response": {
+      "answer": "Proposal classes: General; ToO; Director’s Discretionary; Large Program; Student. Proposal page limit: 10 pages. Proposal submission platform: online portal. Pre-proposal inquiries: allowed.",
+      "citations": [
+        "BHF-G001",
+        "BHF-G002",
+        "BHF-G023",
+        "BHF-G034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on observing cycle length, cycle start date, and director’s discretionary time per cycle?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle start date: October 1. Director’s discretionary time per cycle: 5%.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G005",
+        "BHF-G012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for data rights period and data access login method?",
+    "response": {
+      "answer": "Data rights period: 1 year. Data access login method: ORCID.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for data rights period and data access login method, and remote ops bandwidth requirement?",
+    "response": {
+      "answer": "Data rights period: 1 year. Data access login method: ORCID. Missing data: information about remote ops bandwidth requirement is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G027"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the program rules for proposal classes and pre-proposal inquiries?",
+    "response": {
+      "answer": "Proposal classes: General; ToO; Director’s Discretionary; Large Program; Student. Pre-proposal inquiries: allowed.",
+      "citations": [
+        "BHF-G001",
+        "BHF-G034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for cycle start date and observing schedule release?",
+    "response": {
+      "answer": "Cycle start date: October 1. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G005",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for too priority classes and too class c response time?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class C response time: < 24 hours.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for observing cycle length, cycle end date, director’s discretionary time per cycle, and observing schedule release?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle end date: September 30. Director’s discretionary time per cycle: 5%. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G006",
+        "BHF-G012",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for too priority classes, too class a response time, and too class c response time?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class A response time: < 1 hour. ToO class C response time: < 24 hours.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G015",
+        "BHF-G017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for cycle end date and observing schedule release?",
+    "response": {
+      "answer": "Cycle end date: September 30. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G006",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for too priority classes and too override limit, and conflict-of-interest form?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO override limit: 10 nights per cycle. Missing data: information about conflict-of-interest form is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G018"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Describe the governance settings for observing queue categories and remote observation support?",
+    "response": {
+      "answer": "Observing queue categories: high; medium; low. Remote observation support: yes.",
+      "citations": [
+        "BHF-G029",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for proposal page limit, proposal submission deadline, and pre-proposal inquiries?",
+    "response": {
+      "answer": "Proposal page limit: 10 pages. Proposal submission deadline: June 1 annually. Pre-proposal inquiries: allowed.",
+      "citations": [
+        "BHF-G002",
+        "BHF-G003",
+        "BHF-G034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for time allocation committee members, time allocation committee term, science tags time distribution, and calibration time reserved per night?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Time allocation committee term: 3 years. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO. Calibration time reserved per night: 10%.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G008",
+        "BHF-G009",
+        "BHF-G013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for too class b response time, too class c response time, and too override limit, and appeals procedure?",
+    "response": {
+      "answer": "ToO class B response time: < 6 hours. ToO class C response time: < 24 hours. ToO override limit: 10 nights per cycle. Missing data: information about appeals procedure is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G016",
+        "BHF-G017",
+        "BHF-G018"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the program rules for proposal classes, proposal page limit, and pre-proposal inquiries?",
+    "response": {
+      "answer": "Proposal classes: General; ToO; Director’s Discretionary; Large Program; Student. Proposal page limit: 10 pages. Pre-proposal inquiries: allowed.",
+      "citations": [
+        "BHF-G001",
+        "BHF-G002",
+        "BHF-G034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for observing cycle length and observing schedule release?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for too priority classes, too class b response time, too class c response time, and too override limit?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class B response time: < 6 hours. ToO class C response time: < 24 hours. ToO override limit: 10 nights per cycle.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G016",
+        "BHF-G017",
+        "BHF-G018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for too priority classes, too class a response time, too class b response time, and too class c response time?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class A response time: < 1 hour. ToO class B response time: < 6 hours. ToO class C response time: < 24 hours.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G015",
+        "BHF-G016",
+        "BHF-G017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for observing modes, observing queue categories, remote observation support, and observatory headquarters?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Observing queue categories: high; medium; low. Remote observation support: yes. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G029",
+        "BHF-G031",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for proposal classes, proposal evaluation criteria, proposal submission platform, and pre-proposal inquiries?",
+    "response": {
+      "answer": "Proposal classes: General; ToO; Director’s Discretionary; Large Program; Student. Proposal evaluation criteria: scientific merit; feasibility; team capability. Proposal submission platform: online portal. Pre-proposal inquiries: allowed.",
+      "citations": [
+        "BHF-G001",
+        "BHF-G022",
+        "BHF-G023",
+        "BHF-G034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for observing cycle length, cycle end date, director’s discretionary time per cycle, and observing schedule release?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle end date: September 30. Director’s discretionary time per cycle: 5%. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G006",
+        "BHF-G012",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for proposal classes and proposal evaluation criteria?",
+    "response": {
+      "answer": "Proposal classes: General; ToO; Director’s Discretionary; Large Program; Student. Proposal evaluation criteria: scientific merit; feasibility; team capability.",
+      "citations": [
+        "BHF-G001",
+        "BHF-G022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for time allocation committee members, science tags time distribution, and calibration time reserved per night?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO. Calibration time reserved per night: 10%.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G009",
+        "BHF-G013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for observing queue categories, travel support availability, observing fee, and observatory headquarters?",
+    "response": {
+      "answer": "Observing queue categories: high; medium; low. Travel support availability: yes. Observing fee: none. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G029",
+        "BHF-G030",
+        "BHF-G033",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for data rights period, user support hours, and remote observation support, and quota for early-career PIs?",
+    "response": {
+      "answer": "Data rights period: 1 year. User support hours: 24/7 by email. Remote observation support: yes. Missing data: information about quota for early-career PIs is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G028",
+        "BHF-G031"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the program rules for data rights period, data access login method, and travel support availability?",
+    "response": {
+      "answer": "Data rights period: 1 year. Data access login method: ORCID. Travel support availability: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G027",
+        "BHF-G030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for data rights period and travel support availability?",
+    "response": {
+      "answer": "Data rights period: 1 year. Travel support availability: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for observing modes and remote observation support?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Remote observation support: yes.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on travel support availability, remote observation support, observing fee, and observatory headquarters?",
+    "response": {
+      "answer": "Travel support availability: yes. Remote observation support: yes. Observing fee: none. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G030",
+        "BHF-G031",
+        "BHF-G033",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for travel support availability and observatory headquarters?",
+    "response": {
+      "answer": "Travel support availability: yes. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G030",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on observing modes, remote observation support, observing fee, and observatory headquarters?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Remote observation support: yes. Observing fee: none. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G031",
+        "BHF-G033",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on time allocation committee members, time allocation committee term, science tags time distribution, and calibration time reserved per night?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Time allocation committee term: 3 years. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO. Calibration time reserved per night: 10%.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G008",
+        "BHF-G009",
+        "BHF-G013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for observing fee and observatory headquarters?",
+    "response": {
+      "answer": "Observing fee: none. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G033",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for observing modes, observing queue categories, observing fee, and observatory headquarters?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Observing queue categories: high; medium; low. Observing fee: none. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G029",
+        "BHF-G033",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for too priority classes, too class a response time, too class b response time, and too class c response time?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class A response time: < 1 hour. ToO class B response time: < 6 hours. ToO class C response time: < 24 hours.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G015",
+        "BHF-G016",
+        "BHF-G017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for travel support availability, remote observation support, and observing fee?",
+    "response": {
+      "answer": "Travel support availability: yes. Remote observation support: yes. Observing fee: none.",
+      "citations": [
+        "BHF-G030",
+        "BHF-G031",
+        "BHF-G033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for too class b response time and too override limit?",
+    "response": {
+      "answer": "ToO class B response time: < 6 hours. ToO override limit: 10 nights per cycle.",
+      "citations": [
+        "BHF-G016",
+        "BHF-G018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for data rights period, data access login method, travel support availability, and remote observation support?",
+    "response": {
+      "answer": "Data rights period: 1 year. Data access login method: ORCID. Travel support availability: yes. Remote observation support: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G027",
+        "BHF-G030",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for user support hours and remote observation support?",
+    "response": {
+      "answer": "User support hours: 24/7 by email. Remote observation support: yes.",
+      "citations": [
+        "BHF-G028",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for cycle end date and director’s discretionary time per cycle?",
+    "response": {
+      "answer": "Cycle end date: September 30. Director’s discretionary time per cycle: 5%.",
+      "citations": [
+        "BHF-G006",
+        "BHF-G012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for proposal page limit, proposal evaluation criteria, proposal submission platform, and proposal guidelines release?",
+    "response": {
+      "answer": "Proposal page limit: 10 pages. Proposal evaluation criteria: scientific merit; feasibility; team capability. Proposal submission platform: online portal. Proposal guidelines release: 2 months before deadline.",
+      "citations": [
+        "BHF-G002",
+        "BHF-G022",
+        "BHF-G023",
+        "BHF-G024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for data access login method and user support hours?",
+    "response": {
+      "answer": "Data access login method: ORCID. User support hours: 24/7 by email.",
+      "citations": [
+        "BHF-G027",
+        "BHF-G028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for observing cycle length and director’s discretionary time per cycle?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Director’s discretionary time per cycle: 5%.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for too priority classes, too class a response time, and too override limit, and quota for early-career PIs?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class A response time: < 1 hour. ToO override limit: 10 nights per cycle. Missing data: information about quota for early-career PIs is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G015",
+        "BHF-G018"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the program rules for cycle end date and observing schedule release?",
+    "response": {
+      "answer": "Cycle end date: September 30. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G006",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for cycle start date, director’s discretionary time per cycle, and observing schedule release?",
+    "response": {
+      "answer": "Cycle start date: October 1. Director’s discretionary time per cycle: 5%. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G005",
+        "BHF-G012",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for data rights period, data access login method, and travel support availability?",
+    "response": {
+      "answer": "Data rights period: 1 year. Data access login method: ORCID. Travel support availability: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G027",
+        "BHF-G030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for data access login method and remote observation support?",
+    "response": {
+      "answer": "Data access login method: ORCID. Remote observation support: yes.",
+      "citations": [
+        "BHF-G027",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for data access login method and travel support availability, and ToO activation fee?",
+    "response": {
+      "answer": "Data access login method: ORCID. Travel support availability: yes. Missing data: information about ToO activation fee is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G027",
+        "BHF-G030"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the program rules for data rights period, travel support availability, and remote observation support?",
+    "response": {
+      "answer": "Data rights period: 1 year. Travel support availability: yes. Remote observation support: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G030",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for proposal classes, proposal page limit, proposal submission deadline, and proposal evaluation criteria?",
+    "response": {
+      "answer": "Proposal classes: General; ToO; Director’s Discretionary; Large Program; Student. Proposal page limit: 10 pages. Proposal submission deadline: June 1 annually. Proposal evaluation criteria: scientific merit; feasibility; team capability.",
+      "citations": [
+        "BHF-G001",
+        "BHF-G002",
+        "BHF-G003",
+        "BHF-G022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for data rights period, data access login method, and remote observation support?",
+    "response": {
+      "answer": "Data rights period: 1 year. Data access login method: ORCID. Remote observation support: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G027",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for too priority classes, too class a response time, and too class c response time?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class A response time: < 1 hour. ToO class C response time: < 24 hours.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G015",
+        "BHF-G017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for time allocation committee members, time allocation committee term, and science tags time distribution?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Time allocation committee term: 3 years. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G008",
+        "BHF-G009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for observing queue categories, remote observation support, and observing fee?",
+    "response": {
+      "answer": "Observing queue categories: high; medium; low. Remote observation support: yes. Observing fee: none.",
+      "citations": [
+        "BHF-G029",
+        "BHF-G031",
+        "BHF-G033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for user support hours and travel support availability?",
+    "response": {
+      "answer": "User support hours: 24/7 by email. Travel support availability: yes.",
+      "citations": [
+        "BHF-G028",
+        "BHF-G030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on travel support availability and remote observation support, and quota for early-career PIs?",
+    "response": {
+      "answer": "Travel support availability: yes. Remote observation support: yes. Missing data: information about quota for early-career PIs is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G030",
+        "BHF-G031"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for observing modes, travel support availability, observing fee, and observatory headquarters?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Travel support availability: yes. Observing fee: none. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G030",
+        "BHF-G033",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for data rights period, data access login method, and remote observation support?",
+    "response": {
+      "answer": "Data rights period: 1 year. Data access login method: ORCID. Remote observation support: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G027",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for proposal classes, proposal page limit, proposal submission deadline, and proposal guidelines release?",
+    "response": {
+      "answer": "Proposal classes: General; ToO; Director’s Discretionary; Large Program; Student. Proposal page limit: 10 pages. Proposal submission deadline: June 1 annually. Proposal guidelines release: 2 months before deadline.",
+      "citations": [
+        "BHF-G001",
+        "BHF-G002",
+        "BHF-G003",
+        "BHF-G024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on observing queue categories, travel support availability, observing fee, and observatory headquarters?",
+    "response": {
+      "answer": "Observing queue categories: high; medium; low. Travel support availability: yes. Observing fee: none. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G029",
+        "BHF-G030",
+        "BHF-G033",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on observing cycle length, cycle end date, and director’s discretionary time per cycle?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle end date: September 30. Director’s discretionary time per cycle: 5%.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G006",
+        "BHF-G012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for proposal submission deadline, proposal evaluation criteria, proposal submission platform, and proposal receipt acknowledgement?",
+    "response": {
+      "answer": "Proposal submission deadline: June 1 annually. Proposal evaluation criteria: scientific merit; feasibility; team capability. Proposal submission platform: online portal. Proposal receipt acknowledgement: email.",
+      "citations": [
+        "BHF-G003",
+        "BHF-G022",
+        "BHF-G023",
+        "BHF-G025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for observing modes, observing queue categories, and remote observation support?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Observing queue categories: high; medium; low. Remote observation support: yes.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G029",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on cycle start date, director’s discretionary time per cycle, and observing schedule release, and observatory closure dates?",
+    "response": {
+      "answer": "Cycle start date: October 1. Director’s discretionary time per cycle: 5%. Observing schedule release: 3 months before cycle start. Missing data: information about observatory closure dates is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G005",
+        "BHF-G012",
+        "BHF-G026"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Describe the governance settings for observing cycle length, cycle end date, and director’s discretionary time per cycle, and conflict-of-interest form?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle end date: September 30. Director’s discretionary time per cycle: 5%. Missing data: information about conflict-of-interest form is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G006",
+        "BHF-G012"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Describe the governance settings for time allocation committee members, science tags time distribution, and calibration time reserved per night?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO. Calibration time reserved per night: 10%.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G009",
+        "BHF-G013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for data rights period, user support hours, and travel support availability?",
+    "response": {
+      "answer": "Data rights period: 1 year. User support hours: 24/7 by email. Travel support availability: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G028",
+        "BHF-G030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for time allocation committee term and calibration time reserved per night?",
+    "response": {
+      "answer": "Time allocation committee term: 3 years. Calibration time reserved per night: 10%.",
+      "citations": [
+        "BHF-G008",
+        "BHF-G013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on too priority classes, too class b response time, too class c response time, and too override limit?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class B response time: < 6 hours. ToO class C response time: < 24 hours. ToO override limit: 10 nights per cycle.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G016",
+        "BHF-G017",
+        "BHF-G018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for data rights period, data access login method, user support hours, and remote observation support?",
+    "response": {
+      "answer": "Data rights period: 1 year. Data access login method: ORCID. User support hours: 24/7 by email. Remote observation support: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G027",
+        "BHF-G028",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for observing cycle length, cycle start date, cycle end date, and observing schedule release?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle start date: October 1. Cycle end date: September 30. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G005",
+        "BHF-G006",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for observing modes, travel support availability, remote observation support, and observing fee?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Travel support availability: yes. Remote observation support: yes. Observing fee: none.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G030",
+        "BHF-G031",
+        "BHF-G033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for proposal page limit and proposal evaluation criteria?",
+    "response": {
+      "answer": "Proposal page limit: 10 pages. Proposal evaluation criteria: scientific merit; feasibility; team capability.",
+      "citations": [
+        "BHF-G002",
+        "BHF-G022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for data access login method, user support hours, travel support availability, and remote observation support?",
+    "response": {
+      "answer": "Data access login method: ORCID. User support hours: 24/7 by email. Travel support availability: yes. Remote observation support: yes.",
+      "citations": [
+        "BHF-G027",
+        "BHF-G028",
+        "BHF-G030",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on too priority classes and too class c response time?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class C response time: < 24 hours.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on data access login method, user support hours, travel support availability, and remote observation support?",
+    "response": {
+      "answer": "Data access login method: ORCID. User support hours: 24/7 by email. Travel support availability: yes. Remote observation support: yes.",
+      "citations": [
+        "BHF-G027",
+        "BHF-G028",
+        "BHF-G030",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for travel support availability and observing fee?",
+    "response": {
+      "answer": "Travel support availability: yes. Observing fee: none.",
+      "citations": [
+        "BHF-G030",
+        "BHF-G033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on time allocation committee members and science tags time distribution?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for too priority classes, too class a response time, too class c response time, and too override limit?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class A response time: < 1 hour. ToO class C response time: < 24 hours. ToO override limit: 10 nights per cycle.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G015",
+        "BHF-G017",
+        "BHF-G018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for observing cycle length and cycle start date?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle start date: October 1.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for observing cycle length, director’s discretionary time per cycle, and observing schedule release?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Director’s discretionary time per cycle: 5%. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G012",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for observing modes, observing queue categories, remote observation support, and observing fee?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Observing queue categories: high; medium; low. Remote observation support: yes. Observing fee: none.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G029",
+        "BHF-G031",
+        "BHF-G033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for time allocation committee members, time allocation committee term, science tags time distribution, and calibration time reserved per night?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Time allocation committee term: 3 years. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO. Calibration time reserved per night: 10%.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G008",
+        "BHF-G009",
+        "BHF-G013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for time allocation committee term, science tags time distribution, and calibration time reserved per night, and appeals procedure?",
+    "response": {
+      "answer": "Time allocation committee term: 3 years. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO. Calibration time reserved per night: 10%. Missing data: information about appeals procedure is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G008",
+        "BHF-G009",
+        "BHF-G013"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List the program rules for observing cycle length, cycle start date, and director’s discretionary time per cycle?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle start date: October 1. Director’s discretionary time per cycle: 5%.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G005",
+        "BHF-G012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for travel support availability and remote observation support?",
+    "response": {
+      "answer": "Travel support availability: yes. Remote observation support: yes.",
+      "citations": [
+        "BHF-G030",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on data access login method and user support hours?",
+    "response": {
+      "answer": "Data access login method: ORCID. User support hours: 24/7 by email.",
+      "citations": [
+        "BHF-G027",
+        "BHF-G028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for user support hours, travel support availability, and remote observation support?",
+    "response": {
+      "answer": "User support hours: 24/7 by email. Travel support availability: yes. Remote observation support: yes.",
+      "citations": [
+        "BHF-G028",
+        "BHF-G030",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for too priority classes, too class b response time, too class c response time, and too override limit?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class B response time: < 6 hours. ToO class C response time: < 24 hours. ToO override limit: 10 nights per cycle.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G016",
+        "BHF-G017",
+        "BHF-G018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on proposal classes, proposal submission deadline, proposal guidelines release, and pre-proposal inquiries, and conflict-of-interest form?",
+    "response": {
+      "answer": "Proposal classes: General; ToO; Director’s Discretionary; Large Program; Student. Proposal submission deadline: June 1 annually. Proposal guidelines release: 2 months before deadline. Pre-proposal inquiries: allowed. Missing data: information about conflict-of-interest form is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G001",
+        "BHF-G003",
+        "BHF-G024",
+        "BHF-G034"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Describe the governance settings for time allocation committee members, time allocation committee term, and science tags time distribution?",
+    "response": {
+      "answer": "Time allocation committee members: 5. Time allocation committee term: 3 years. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO.",
+      "citations": [
+        "BHF-G007",
+        "BHF-G008",
+        "BHF-G009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for observing cycle length, cycle start date, and observing schedule release?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle start date: October 1. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G005",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for proposal evaluation criteria, proposal submission platform, proposal receipt acknowledgement, and pre-proposal inquiries?",
+    "response": {
+      "answer": "Proposal evaluation criteria: scientific merit; feasibility; team capability. Proposal submission platform: online portal. Proposal receipt acknowledgement: email. Pre-proposal inquiries: allowed.",
+      "citations": [
+        "BHF-G022",
+        "BHF-G023",
+        "BHF-G025",
+        "BHF-G034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for observing modes, observing queue categories, and observatory headquarters?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Observing queue categories: high; medium; low. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G029",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for time allocation committee term and calibration time reserved per night?",
+    "response": {
+      "answer": "Time allocation committee term: 3 years. Calibration time reserved per night: 10%.",
+      "citations": [
+        "BHF-G008",
+        "BHF-G013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for proposal page limit and proposal evaluation criteria, and proposal anonymization policy?",
+    "response": {
+      "answer": "Proposal page limit: 10 pages. Proposal evaluation criteria: scientific merit; feasibility; team capability. Missing data: information about proposal anonymization policy is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G002",
+        "BHF-G022"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on observing modes, travel support availability, and observatory headquarters?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Travel support availability: yes. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G030",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for proposal submission platform, proposal receipt acknowledgement, and pre-proposal inquiries?",
+    "response": {
+      "answer": "Proposal submission platform: online portal. Proposal receipt acknowledgement: email. Pre-proposal inquiries: allowed.",
+      "citations": [
+        "BHF-G023",
+        "BHF-G025",
+        "BHF-G034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for observing queue categories, observing fee, and observatory headquarters?",
+    "response": {
+      "answer": "Observing queue categories: high; medium; low. Observing fee: none. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G029",
+        "BHF-G033",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for too priority classes, too class a response time, too class b response time, and too override limit, and travel reimbursement cap?",
+    "response": {
+      "answer": "ToO priority classes: A; B; C. ToO class A response time: < 1 hour. ToO class B response time: < 6 hours. ToO override limit: 10 nights per cycle. Missing data: information about travel reimbursement cap is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G014",
+        "BHF-G015",
+        "BHF-G016",
+        "BHF-G018"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on cycle start date and cycle end date?",
+    "response": {
+      "answer": "Cycle start date: October 1. Cycle end date: September 30.",
+      "citations": [
+        "BHF-G005",
+        "BHF-G006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for proposal classes and proposal receipt acknowledgement?",
+    "response": {
+      "answer": "Proposal classes: General; ToO; Director’s Discretionary; Large Program; Student. Proposal receipt acknowledgement: email.",
+      "citations": [
+        "BHF-G001",
+        "BHF-G025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for observing cycle length and cycle start date?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle start date: October 1.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for proposal submission platform, proposal guidelines release, and proposal receipt acknowledgement?",
+    "response": {
+      "answer": "Proposal submission platform: online portal. Proposal guidelines release: 2 months before deadline. Proposal receipt acknowledgement: email.",
+      "citations": [
+        "BHF-G023",
+        "BHF-G024",
+        "BHF-G025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on observing cycle length, cycle start date, cycle end date, and director’s discretionary time per cycle?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle start date: October 1. Cycle end date: September 30. Director’s discretionary time per cycle: 5%.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G005",
+        "BHF-G006",
+        "BHF-G012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for observing cycle length, director’s discretionary time per cycle, and observing schedule release?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Director’s discretionary time per cycle: 5%. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G012",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for observing cycle length, cycle start date, cycle end date, and observing schedule release, and dual-anonymous review flag?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle start date: October 1. Cycle end date: September 30. Observing schedule release: 3 months before cycle start. Missing data: information about dual-anonymous review flag is not in the document. Please verify this.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G005",
+        "BHF-G006",
+        "BHF-G026"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for director’s discretionary time per cycle and observing schedule release?",
+    "response": {
+      "answer": "Director’s discretionary time per cycle: 5%. Observing schedule release: 3 months before cycle start.",
+      "citations": [
+        "BHF-G012",
+        "BHF-G026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for time allocation committee term, science tags time distribution, and calibration time reserved per night?",
+    "response": {
+      "answer": "Time allocation committee term: 3 years. Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO. Calibration time reserved per night: 10%.",
+      "citations": [
+        "BHF-G008",
+        "BHF-G009",
+        "BHF-G013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for data rights period, user support hours, travel support availability, and remote observation support?",
+    "response": {
+      "answer": "Data rights period: 1 year. User support hours: 24/7 by email. Travel support availability: yes. Remote observation support: yes.",
+      "citations": [
+        "BHF-G019",
+        "BHF-G028",
+        "BHF-G030",
+        "BHF-G031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on observing modes, observing queue categories, and observatory headquarters?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Observing queue categories: high; medium; low. Observatory headquarters: Ahmedabad, Gujarat.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G029",
+        "BHF-G035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for too class a response time and too override limit?",
+    "response": {
+      "answer": "ToO class A response time: < 1 hour. ToO override limit: 10 nights per cycle.",
+      "citations": [
+        "BHF-G015",
+        "BHF-G018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the program rules for observing cycle length and cycle start date?",
+    "response": {
+      "answer": "Observing cycle length: 1 year. Cycle start date: October 1.",
+      "citations": [
+        "BHF-G004",
+        "BHF-G005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key policies for observing modes and travel support availability?",
+    "response": {
+      "answer": "Observing modes: classical; queue. Travel support availability: yes.",
+      "citations": [
+        "BHF-G021",
+        "BHF-G030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the governance settings for data access login method and user support hours?",
+    "response": {
+      "answer": "Data access login method: ORCID. User support hours: 24/7 by email.",
+      "citations": [
+        "BHF-G027",
+        "BHF-G028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for proposal evaluation criteria, proposal submission platform, proposal guidelines release, and pre-proposal inquiries?",
+    "response": {
+      "answer": "Proposal evaluation criteria: scientific merit; feasibility; team capability. Proposal submission platform: online portal. Proposal guidelines release: 2 months before deadline. Pre-proposal inquiries: allowed.",
+      "citations": [
+        "BHF-G022",
+        "BHF-G023",
+        "BHF-G024",
+        "BHF-G034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on too class b response time and too override limit?",
+    "response": {
+      "answer": "ToO class B response time: < 6 hours. ToO override limit: 10 nights per cycle.",
+      "citations": [
+        "BHF-G016",
+        "BHF-G018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the administrative details for user support hours and travel support availability?",
+    "response": {
+      "answer": "User support hours: 24/7 by email. Travel support availability: yes.",
+      "citations": [
+        "BHF-G028",
+        "BHF-G030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on proposal page limit and proposal submission platform, including PI citizenship requirements?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on data rights period, data access login method, and travel support availability, including export control statement?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on data rights period, travel support availability, and remote observation support, including PI citizenship requirements?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on too class b response time, too class c response time, and too override limit, including accessible observing accommodations?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on observing modes, remote observation support, and observatory headquarters, including sustainability policy?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on proposal classes, proposal evaluation criteria, and proposal receipt acknowledgement, including insurance policy for visitors?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on data rights period, data access login method, and remote observation support, including IT incident response runbook?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on user support hours and remote observation support, including IT incident response runbook?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on proposal submission deadline and proposal submission platform, including nightly safety checklist?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on observing cycle length and director’s discretionary time per cycle, including accessible observing accommodations?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on data rights period, data access login method, and user support hours, including data DOI minting workflow?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on too priority classes and too class a response time, including nightly safety checklist?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on time allocation committee members, science tags time distribution, and calibration time reserved per night, including nightly safety checklist?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on data access login method, travel support availability, and remote observation support, including nightly safety checklist?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on proposal classes and proposal evaluation criteria, including insurance policy for visitors?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on observing cycle length and cycle start date, including PI citizenship requirements?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on proposal page limit and proposal guidelines release, including insurance policy for visitors?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Are user support hours 24/7 by phone?",
+    "response": { "answer": "24/7 by email.", "citations": ["BHF-G028"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the student program age limit 36 years?",
+    "response": { "answer": "35 years.", "citations": ["BHF-G010"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is any observing fee charged?",
+    "response": { "answer": "none.", "citations": ["BHF-G033"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the observing schedule released on October 31?",
+    "response": { "answer": "3 months before cycle start.", "citations": ["BHF-G026"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the minimum time for a large program 102 hours?",
+    "response": { "answer": "100 hours.", "citations": ["BHF-G011"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the proposal submission deadline July 1?",
+    "response": { "answer": "June 1 annually.", "citations": ["BHF-G003"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the ToO Class C response time < 26 hours?",
+    "response": { "answer": "< 24 hours.", "citations": ["BHF-G017"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the ToO Class A response time < 3 hours?",
+    "response": { "answer": "< 1 hour.", "citations": ["BHF-G015"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the observatory headquarters in Mumbai, Maharashtra?",
+    "response": { "answer": "Ahmedabad, Gujarat.", "citations": ["BHF-G035"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Are science tag allocations 40% COSMO and 40% DEEP?",
+    "response": { "answer": "40% COSMO; 40% DEEP; 20% EXO.", "citations": ["BHF-G009"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Are the observing modes queue-only?",
+    "response": { "answer": "classical; queue.", "citations": ["BHF-G021"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is 15% of the night reserved for calibration?",
+    "response": { "answer": "10%.", "citations": ["BHF-G013"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is remote observation support unavailable?",
+    "response": { "answer": "yes.", "citations": ["BHF-G031"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the proposal submission platform email submission?",
+    "response": { "answer": "online portal.", "citations": ["BHF-G023"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the contact email support@brahmaanu.org?",
+    "response": { "answer": "support@brahmaanu.fake.", "citations": ["BHF-G032"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the ToO Class B response time < 8 hours?",
+    "response": { "answer": "< 6 hours.", "citations": ["BHF-G016"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the director’s discretionary time per cycle 10%?",
+    "response": { "answer": "5%.", "citations": ["BHF-G012"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Are the ToO priority classes A and B only?",
+    "response": { "answer": "A; B; C.", "citations": ["BHF-G014"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Was the observatory founded in 2023?",
+    "response": { "answer": "2022.", "citations": ["BHF-G020"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the data access login method OPID?",
+    "response": { "answer": "ORCID.", "citations": ["BHF-G027"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the data rights period 2 years?",
+    "response": { "answer": "1 year.", "citations": ["BHF-G019"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Are pre-proposal inquiries disallowed?",
+    "response": { "answer": "allowed.", "citations": ["BHF-G034"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is proposal receipt acknowledged via portal notification?",
+    "response": { "answer": "email.", "citations": ["BHF-G025"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is travel support unavailable?",
+    "response": { "answer": "yes.", "citations": ["BHF-G030"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the observing cycle length 2 years?",
+    "response": { "answer": "1 year.", "citations": ["BHF-G004"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Are the observing queue categories just high and medium?",
+    "response": { "answer": "high; medium; low.", "citations": ["BHF-G029"], "status": "CORRECTED" }
+  },
+  {
+    "question": "Is the time allocation committee term 4 years?",
+    "response": { "answer": "3 years.", "citations": ["BHF-G008"], "status": "CORRECTED" }
+  },
+  {
+    "question": "What is the export license form for large program minimum time?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the helpdesk ticket SLA for contact email?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the export license form for cycle start date?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the GDPR DPA link for observing fee?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the appeal submission link for proposal receipt acknowledgement?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the PI eligibility by country for user support hours?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the PI eligibility by country for data rights period?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the letter of intent requirement for too class c response time?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the cybersecurity training for proposal classes?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the PI eligibility by country for director’s discretionary time per cycle?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the observer insurance requirement for proposal submission platform?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the letter of intent requirement for proposal classes?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the export license form for too priority classes?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  }
+]

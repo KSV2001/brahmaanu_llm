@@ -1,0 +1,3252 @@
+[
+  {
+    "question": "Is the pipeline level L0 configured incorrectly?",
+    "response": {
+      "answer": "No. Level L0 contains raw detector frames.",
+      "citations": ["BHF-F001"],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Does Level 1 include flux calibration?",
+    "response": {
+      "answer": "No. Level L1 has calibrated data with bias and flat corrections, not flux calibration.",
+      "citations": ["BHF-F002"],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is flat-fielding excluded from Level 2?",
+    "response": {
+      "answer": "No. Level L2 is science-ready data with flux calibration.",
+      "citations": ["BHF-F003"],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Are FITS outputs single-extension only?",
+    "response": {
+      "answer": "No. FITS outputs include the extensions: SCI; ERR; DQ.",
+      "citations": ["BHF-F004"],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the FITS header missing standard keywords like TELESCOP?",
+    "response": {
+      "answer": "No. The header includes keys TELEMAG; AIRMASS; EXPTIME.",
+      "citations": ["BHF-F005"],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the FITS header missing standard keywords like TELESCOP?",
+    "response": {
+      "answer": "No. TELESCOP is set to “Brahmaanu.”",
+      "citations": ["BHF-F006"],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the FITS header missing standard keywords like TELESCOP?",
+    "response": {
+      "answer": "No. INSTRUME records the instrument name.",
+      "citations": ["BHF-F007"],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the FITS header missing standard keywords like TELESCOP?",
+    "response": {
+      "answer": "No. DETECTOR stores the detector name.",
+      "citations": ["BHF-F008"],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the FITS header missing standard keywords like TELESCOP?",
+    "response": {
+      "answer": "No. OBSID is the observation identifier.",
+      "citations": ["BHF-F009"],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "State the fits header key date-obs?",
+    "response": {
+      "answer": "start time in ISO 8601.",
+      "citations": [
+        "BHF-F010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the raw data availability?",
+    "response": {
+      "answer": "within 6 hours of observation.",
+      "citations": [
+        "BHF-F011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the l1 data delivery?",
+    "response": {
+      "answer": "within 24 hours of observation.",
+      "citations": [
+        "BHF-F012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the l2 data delivery?",
+    "response": {
+      "answer": "within 7 days of observation.",
+      "citations": [
+        "BHF-F013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Define the data packaging?",
+    "response": {
+      "answer": "per night per instrument tarball.",
+      "citations": [
+        "BHF-F014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the data file naming convention?",
+    "response": {
+      "answer": "BRAHMAANU_YYYYMMDD_HHMMSS.fits.",
+      "citations": [
+        "BHF-F015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the quality flags?",
+    "response": {
+      "answer": "GOOD; WARN; BAD.",
+      "citations": [
+        "BHF-F022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the quality control threshold for snr?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-F023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the calibration pipeline version?",
+    "response": {
+      "answer": "v1.0.",
+      "citations": [
+        "BHF-F024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the dq extension bit flags?",
+    "response": {
+      "answer": "0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.",
+      "citations": [
+        "BHF-F028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the pipeline processing environment?",
+    "response": {
+      "answer": "100-core HPC cluster.",
+      "citations": [
+        "BHF-F029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Define the data rights period?",
+    "response": {
+      "answer": "1 year.",
+      "citations": [
+        "BHF-F030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the data archive retention?",
+    "response": {
+      "answer": "indefinite.",
+      "citations": [
+        "BHF-F031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the pipeline code repository?",
+    "response": {
+      "answer": "internal Git.",
+      "citations": [
+        "BHF-F032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the pipeline configuration file?",
+    "response": {
+      "answer": "YAML.",
+      "citations": [
+        "BHF-F033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the pipeline checksum algorithm?",
+    "response": {
+      "answer": "SHA-256.",
+      "citations": [
+        "BHF-F034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the data transfer protocol?",
+    "response": {
+      "answer": "SFTP.",
+      "citations": [
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the pipeline level l0?",
+    "response": {
+      "answer": "raw detector frames.",
+      "citations": [
+        "BHF-F001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Define the pipeline level l1?",
+    "response": {
+      "answer": "calibrated data with bias and flat corrections.",
+      "citations": [
+        "BHF-F002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the pipeline level l2?",
+    "response": {
+      "answer": "science-ready data with flux calibration.",
+      "citations": [
+        "BHF-F003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the fits extension names?",
+    "response": {
+      "answer": "SCI; ERR; DQ.",
+      "citations": [
+        "BHF-F004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the fits header keys?",
+    "response": {
+      "answer": "TELEMAG; AIRMASS; EXPTIME.",
+      "citations": [
+        "BHF-F005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the fits header key telescop?",
+    "response": {
+      "answer": "Brahmaanu.",
+      "citations": [
+        "BHF-F006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the fits header key instrume?",
+    "response": {
+      "answer": "instrument name.",
+      "citations": [
+        "BHF-F007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the fits header key detector?",
+    "response": {
+      "answer": "detector name.",
+      "citations": [
+        "BHF-F008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Define the fits header key obsid?",
+    "response": {
+      "answer": "observation identifier.",
+      "citations": [
+        "BHF-F009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the fits header key date-obs?",
+    "response": {
+      "answer": "start time in ISO 8601.",
+      "citations": [
+        "BHF-F010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the raw data availability?",
+    "response": {
+      "answer": "within 6 hours of observation.",
+      "citations": [
+        "BHF-F011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the l1 data delivery?",
+    "response": {
+      "answer": "within 24 hours of observation.",
+      "citations": [
+        "BHF-F012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the l2 data delivery?",
+    "response": {
+      "answer": "within 7 days of observation.",
+      "citations": [
+        "BHF-F013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the data packaging?",
+    "response": {
+      "answer": "per night per instrument tarball.",
+      "citations": [
+        "BHF-F014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the data file naming convention?",
+    "response": {
+      "answer": "BRAHMAANU_YYYYMMDD_HHMMSS.fits.",
+      "citations": [
+        "BHF-F015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Define the quality flags?",
+    "response": {
+      "answer": "GOOD; WARN; BAD.",
+      "citations": [
+        "BHF-F022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the quality control threshold for snr?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-F023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the calibration pipeline version?",
+    "response": {
+      "answer": "v1.0.",
+      "citations": [
+        "BHF-F024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the dq extension bit flags?",
+    "response": {
+      "answer": "0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.",
+      "citations": [
+        "BHF-F028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the pipeline processing environment?",
+    "response": {
+      "answer": "100-core HPC cluster.",
+      "citations": [
+        "BHF-F029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the data rights period?",
+    "response": {
+      "answer": "1 year.",
+      "citations": [
+        "BHF-F030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the data archive retention?",
+    "response": {
+      "answer": "indefinite.",
+      "citations": [
+        "BHF-F031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Define the pipeline code repository?",
+    "response": {
+      "answer": "internal Git.",
+      "citations": [
+        "BHF-F032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the pipeline configuration file?",
+    "response": {
+      "answer": "YAML.",
+      "citations": [
+        "BHF-F033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the pipeline checksum algorithm?",
+    "response": {
+      "answer": "SHA-256.",
+      "citations": [
+        "BHF-F034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the data transfer protocol?",
+    "response": {
+      "answer": "SFTP.",
+      "citations": [
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the pipeline level l0?",
+    "response": {
+      "answer": "raw detector frames.",
+      "citations": [
+        "BHF-F001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the pipeline level l1?",
+    "response": {
+      "answer": "calibrated data with bias and flat corrections.",
+      "citations": [
+        "BHF-F002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the pipeline level l2?",
+    "response": {
+      "answer": "science-ready data with flux calibration.",
+      "citations": [
+        "BHF-F003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Define the fits extension names?",
+    "response": {
+      "answer": "SCI; ERR; DQ.",
+      "citations": [
+        "BHF-F004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the fits header keys?",
+    "response": {
+      "answer": "TELEMAG; AIRMASS; EXPTIME.",
+      "citations": [
+        "BHF-F005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the fits header key telescop?",
+    "response": {
+      "answer": "Brahmaanu.",
+      "citations": [
+        "BHF-F006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the fits header key instrume?",
+    "response": {
+      "answer": "instrument name.",
+      "citations": [
+        "BHF-F007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the fits header key detector?",
+    "response": {
+      "answer": "detector name.",
+      "citations": [
+        "BHF-F008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the fits header key obsid?",
+    "response": {
+      "answer": "observation identifier.",
+      "citations": [
+        "BHF-F009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the fits header key date-obs?",
+    "response": {
+      "answer": "start time in ISO 8601.",
+      "citations": [
+        "BHF-F010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Define the raw data availability?",
+    "response": {
+      "answer": "within 6 hours of observation.",
+      "citations": [
+        "BHF-F011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the l1 data delivery?",
+    "response": {
+      "answer": "within 24 hours of observation.",
+      "citations": [
+        "BHF-F012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the l2 data delivery?",
+    "response": {
+      "answer": "within 7 days of observation.",
+      "citations": [
+        "BHF-F013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the data packaging?",
+    "response": {
+      "answer": "per night per instrument tarball.",
+      "citations": [
+        "BHF-F014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the data file naming convention?",
+    "response": {
+      "answer": "BRAHMAANU_YYYYMMDD_HHMMSS.fits.",
+      "citations": [
+        "BHF-F015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the quality flags?",
+    "response": {
+      "answer": "GOOD; WARN; BAD.",
+      "citations": [
+        "BHF-F022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the quality control threshold for snr?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-F023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Define the calibration pipeline version?",
+    "response": {
+      "answer": "v1.0.",
+      "citations": [
+        "BHF-F024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the dq extension bit flags?",
+    "response": {
+      "answer": "0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.",
+      "citations": [
+        "BHF-F028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the pipeline processing environment?",
+    "response": {
+      "answer": "100-core HPC cluster.",
+      "citations": [
+        "BHF-F029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for pipeline code repository, pipeline configuration file, pipeline checksum algorithm, provenance identifier format?",
+    "response": {
+      "answer": "Pipeline code repository: internal Git.. Pipeline configuration file: YAML.. Pipeline checksum algorithm: SHA-256..",
+      "citations": [
+        "BHF-F032",
+        "BHF-F033",
+        "BHF-F034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for pipeline level l0, pipeline configuration file, pipeline checksum algorithm, data transfer protocol, error model version?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline configuration file: YAML.. Pipeline checksum algorithm: SHA-256.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F033",
+        "BHF-F034",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on pipeline checksum algorithm and data transfer protocol, compression method?",
+    "response": {
+      "answer": "Pipeline checksum algorithm: SHA-256.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F034",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for pipeline level l0, pipeline level l1, data transfer protocol, auxiliary log schema?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline level L1: calibrated data with bias and flat corrections.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F002",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for pipeline level l0, pipeline level l1, pipeline level l2, fits extension names, metadata completeness threshold?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline level L2: science-ready data with flux calibration.. FITS extension names: SCI; ERR; DQ..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F002",
+        "BHF-F003",
+        "BHF-F004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for pipeline level l1 and pipeline level l2, proprietary flag key?",
+    "response": {
+      "answer": "Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline level L2: science-ready data with flux calibration..",
+      "citations": [
+        "BHF-F002",
+        "BHF-F003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for pipeline level l2, fits extension names, fits header keys, checksum header keyword?",
+    "response": {
+      "answer": "Pipeline level L2: science-ready data with flux calibration.. FITS extension names: SCI; ERR; DQ.. FITS header keys: TELEMAG; AIRMASS; EXPTIME..",
+      "citations": [
+        "BHF-F003",
+        "BHF-F004",
+        "BHF-F005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on fits extension names, fits header keys, fits header key telescop, fits header key instrume, SFTP port number?",
+    "response": {
+      "answer": "FITS extension names: SCI; ERR; DQ.. FITS header keys: TELEMAG; AIRMASS; EXPTIME.. FITS header key TELESCOP: Brahmaanu.. FITS header key INSTRUME: instrument name..",
+      "citations": [
+        "BHF-F004",
+        "BHF-F005",
+        "BHF-F006",
+        "BHF-F007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for fits header keys and fits header key telescop, archive query API?",
+    "response": {
+      "answer": "FITS header keys: TELEMAG; AIRMASS; EXPTIME.. FITS header key TELESCOP: Brahmaanu..",
+      "citations": [
+        "BHF-F005",
+        "BHF-F006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for fits header key telescop, fits header key instrume, fits header key detector, dataset DOI?",
+    "response": {
+      "answer": "FITS header key TELESCOP: Brahmaanu.. FITS header key INSTRUME: instrument name.. FITS header key DETECTOR: detector name..",
+      "citations": [
+        "BHF-F006",
+        "BHF-F007",
+        "BHF-F008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for fits header key instrume, fits header key detector, fits header key obsid, fits header key date-obs, provenance identifier format?",
+    "response": {
+      "answer": "FITS header key INSTRUME: instrument name.. FITS header key DETECTOR: detector name.. FITS header key OBSID: observation identifier.. FITS header key DATE-OBS: start time in ISO 8601..",
+      "citations": [
+        "BHF-F007",
+        "BHF-F008",
+        "BHF-F009",
+        "BHF-F010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for fits header key detector and fits header key obsid, error model version?",
+    "response": {
+      "answer": "FITS header key DETECTOR: detector name.. FITS header key OBSID: observation identifier..",
+      "citations": [
+        "BHF-F008",
+        "BHF-F009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on fits header key obsid, fits header key date-obs, raw data availability, compression method?",
+    "response": {
+      "answer": "FITS header key OBSID: observation identifier.. FITS header key DATE-OBS: start time in ISO 8601.. Raw data availability: within 6 hours of observation..",
+      "citations": [
+        "BHF-F009",
+        "BHF-F010",
+        "BHF-F011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for fits header key date-obs, raw data availability, l1 data delivery, l2 data delivery, auxiliary log schema?",
+    "response": {
+      "answer": "FITS header key DATE-OBS: start time in ISO 8601.. Raw data availability: within 6 hours of observation.. L1 data delivery: within 24 hours of observation.. L2 data delivery: within 7 days of observation..",
+      "citations": [
+        "BHF-F010",
+        "BHF-F011",
+        "BHF-F012",
+        "BHF-F013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for raw data availability and l1 data delivery, metadata completeness threshold?",
+    "response": {
+      "answer": "Raw data availability: within 6 hours of observation.. L1 data delivery: within 24 hours of observation..",
+      "citations": [
+        "BHF-F011",
+        "BHF-F012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for l1 data delivery, l2 data delivery, data packaging, proprietary flag key?",
+    "response": {
+      "answer": "L1 data delivery: within 24 hours of observation.. L2 data delivery: within 7 days of observation.. Data packaging: per night per instrument tarball..",
+      "citations": [
+        "BHF-F012",
+        "BHF-F013",
+        "BHF-F014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for l2 data delivery, data packaging, data file naming convention, quality flags, checksum header keyword?",
+    "response": {
+      "answer": "L2 data delivery: within 7 days of observation.. Data packaging: per night per instrument tarball.. Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits.. Quality flags: GOOD; WARN; BAD..",
+      "citations": [
+        "BHF-F013",
+        "BHF-F014",
+        "BHF-F015",
+        "BHF-F022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on data packaging and data file naming convention, SFTP port number?",
+    "response": {
+      "answer": "Data packaging: per night per instrument tarball.. Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits..",
+      "citations": [
+        "BHF-F014",
+        "BHF-F015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for data file naming convention, quality flags, quality control threshold for snr, archive query API?",
+    "response": {
+      "answer": "Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits.. Quality flags: GOOD; WARN; BAD.. Quality control threshold for SNR: 10..",
+      "citations": [
+        "BHF-F015",
+        "BHF-F022",
+        "BHF-F023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for quality flags, quality control threshold for snr, calibration pipeline version, dq extension bit flags, dataset DOI?",
+    "response": {
+      "answer": "Quality flags: GOOD; WARN; BAD.. Quality control threshold for SNR: 10.. Calibration pipeline version: v1.0.. DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel..",
+      "citations": [
+        "BHF-F022",
+        "BHF-F023",
+        "BHF-F024",
+        "BHF-F028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for quality control threshold for snr and calibration pipeline version?",
+    "response": {
+      "answer": "Quality control threshold for SNR: 10.. Calibration pipeline version: v1.0..",
+      "citations": [
+        "BHF-F023",
+        "BHF-F024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for calibration pipeline version, dq extension bit flags, and pipeline processing environment?",
+    "response": {
+      "answer": "Calibration pipeline version: v1.0.. DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.. Pipeline processing environment: 100-core HPC cluster..",
+      "citations": [
+        "BHF-F024",
+        "BHF-F028",
+        "BHF-F029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on dq extension bit flags, pipeline processing environment, data rights period, and data archive retention?",
+    "response": {
+      "answer": "DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.. Pipeline processing environment: 100-core HPC cluster.. Data rights period: 1 year.. Data archive retention: indefinite..",
+      "citations": [
+        "BHF-F028",
+        "BHF-F029",
+        "BHF-F030",
+        "BHF-F031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for pipeline processing environment and data rights period?",
+    "response": {
+      "answer": "Pipeline processing environment: 100-core HPC cluster.. Data rights period: 1 year..",
+      "citations": [
+        "BHF-F029",
+        "BHF-F030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for data rights period, data archive retention, and pipeline code repository?",
+    "response": {
+      "answer": "Data rights period: 1 year.. Data archive retention: indefinite.. Pipeline code repository: internal Git..",
+      "citations": [
+        "BHF-F030",
+        "BHF-F031",
+        "BHF-F032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for data archive retention, pipeline code repository, pipeline configuration file, and pipeline checksum algorithm?",
+    "response": {
+      "answer": "Data archive retention: indefinite.. Pipeline code repository: internal Git.. Pipeline configuration file: YAML.. Pipeline checksum algorithm: SHA-256..",
+      "citations": [
+        "BHF-F031",
+        "BHF-F032",
+        "BHF-F033",
+        "BHF-F034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for pipeline code repository and pipeline configuration file?",
+    "response": {
+      "answer": "Pipeline code repository: internal Git.. Pipeline configuration file: YAML..",
+      "citations": [
+        "BHF-F032",
+        "BHF-F033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on pipeline configuration file, pipeline checksum algorithm, and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline configuration file: YAML.. Pipeline checksum algorithm: SHA-256.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F033",
+        "BHF-F034",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for pipeline level l0, pipeline level l1, pipeline checksum algorithm, and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline checksum algorithm: SHA-256.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F002",
+        "BHF-F034",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for pipeline level l0 and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for pipeline level l0, pipeline level l1, and pipeline level l2?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline level L2: science-ready data with flux calibration..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F002",
+        "BHF-F003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for pipeline level l1, pipeline level l2, fits extension names, and fits header keys?",
+    "response": {
+      "answer": "Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline level L2: science-ready data with flux calibration.. FITS extension names: SCI; ERR; DQ.. FITS header keys: TELEMAG; AIRMASS; EXPTIME..",
+      "citations": [
+        "BHF-F002",
+        "BHF-F003",
+        "BHF-F004",
+        "BHF-F005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on pipeline level l2 and fits extension names?",
+    "response": {
+      "answer": "Pipeline level L2: science-ready data with flux calibration.. FITS extension names: SCI; ERR; DQ..",
+      "citations": [
+        "BHF-F003",
+        "BHF-F004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for fits extension names, fits header keys, and fits header key telescop?",
+    "response": {
+      "answer": "FITS extension names: SCI; ERR; DQ.. FITS header keys: TELEMAG; AIRMASS; EXPTIME.. FITS header key TELESCOP: Brahmaanu..",
+      "citations": [
+        "BHF-F004",
+        "BHF-F005",
+        "BHF-F006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for fits header keys, fits header key telescop, fits header key instrume, and fits header key detector?",
+    "response": {
+      "answer": "FITS header keys: TELEMAG; AIRMASS; EXPTIME.. FITS header key TELESCOP: Brahmaanu.. FITS header key INSTRUME: instrument name.. FITS header key DETECTOR: detector name..",
+      "citations": [
+        "BHF-F005",
+        "BHF-F006",
+        "BHF-F007",
+        "BHF-F008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for fits header key telescop and fits header key instrume?",
+    "response": {
+      "answer": "FITS header key TELESCOP: Brahmaanu.. FITS header key INSTRUME: instrument name..",
+      "citations": [
+        "BHF-F006",
+        "BHF-F007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for fits header key instrume, fits header key detector, and fits header key obsid?",
+    "response": {
+      "answer": "FITS header key INSTRUME: instrument name.. FITS header key DETECTOR: detector name.. FITS header key OBSID: observation identifier..",
+      "citations": [
+        "BHF-F007",
+        "BHF-F008",
+        "BHF-F009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on fits header key detector, fits header key obsid, fits header key date-obs, and raw data availability?",
+    "response": {
+      "answer": "FITS header key DETECTOR: detector name.. FITS header key OBSID: observation identifier.. FITS header key DATE-OBS: start time in ISO 8601.. Raw data availability: within 6 hours of observation..",
+      "citations": [
+        "BHF-F008",
+        "BHF-F009",
+        "BHF-F010",
+        "BHF-F011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for fits header key obsid and fits header key date-obs?",
+    "response": {
+      "answer": "FITS header key OBSID: observation identifier.. FITS header key DATE-OBS: start time in ISO 8601..",
+      "citations": [
+        "BHF-F009",
+        "BHF-F010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for fits header key date-obs, raw data availability, and l1 data delivery?",
+    "response": {
+      "answer": "FITS header key DATE-OBS: start time in ISO 8601.. Raw data availability: within 6 hours of observation.. L1 data delivery: within 24 hours of observation..",
+      "citations": [
+        "BHF-F010",
+        "BHF-F011",
+        "BHF-F012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for raw data availability, l1 data delivery, l2 data delivery, and data packaging?",
+    "response": {
+      "answer": "Raw data availability: within 6 hours of observation.. L1 data delivery: within 24 hours of observation.. L2 data delivery: within 7 days of observation.. Data packaging: per night per instrument tarball..",
+      "citations": [
+        "BHF-F011",
+        "BHF-F012",
+        "BHF-F013",
+        "BHF-F014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for l1 data delivery and l2 data delivery?",
+    "response": {
+      "answer": "L1 data delivery: within 24 hours of observation.. L2 data delivery: within 7 days of observation..",
+      "citations": [
+        "BHF-F012",
+        "BHF-F013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on l2 data delivery, data packaging, and data file naming convention?",
+    "response": {
+      "answer": "L2 data delivery: within 7 days of observation.. Data packaging: per night per instrument tarball.. Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits..",
+      "citations": [
+        "BHF-F013",
+        "BHF-F014",
+        "BHF-F015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for data packaging, data file naming convention, quality flags, and quality control threshold for snr?",
+    "response": {
+      "answer": "Data packaging: per night per instrument tarball.. Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits.. Quality flags: GOOD; WARN; BAD.. Quality control threshold for SNR: 10..",
+      "citations": [
+        "BHF-F014",
+        "BHF-F015",
+        "BHF-F022",
+        "BHF-F023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for data file naming convention and quality flags?",
+    "response": {
+      "answer": "Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits.. Quality flags: GOOD; WARN; BAD..",
+      "citations": [
+        "BHF-F015",
+        "BHF-F022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for quality flags, quality control threshold for snr, and calibration pipeline version?",
+    "response": {
+      "answer": "Quality flags: GOOD; WARN; BAD.. Quality control threshold for SNR: 10.. Calibration pipeline version: v1.0..",
+      "citations": [
+        "BHF-F022",
+        "BHF-F023",
+        "BHF-F024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for quality control threshold for snr, calibration pipeline version, dq extension bit flags, and pipeline processing environment?",
+    "response": {
+      "answer": "Quality control threshold for SNR: 10.. Calibration pipeline version: v1.0.. DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.. Pipeline processing environment: 100-core HPC cluster..",
+      "citations": [
+        "BHF-F023",
+        "BHF-F024",
+        "BHF-F028",
+        "BHF-F029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on calibration pipeline version and dq extension bit flags?",
+    "response": {
+      "answer": "Calibration pipeline version: v1.0.. DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel..",
+      "citations": [
+        "BHF-F024",
+        "BHF-F028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for dq extension bit flags, pipeline processing environment, and data rights period?",
+    "response": {
+      "answer": "DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.. Pipeline processing environment: 100-core HPC cluster.. Data rights period: 1 year..",
+      "citations": [
+        "BHF-F028",
+        "BHF-F029",
+        "BHF-F030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for pipeline processing environment, data rights period, data archive retention, and pipeline code repository?",
+    "response": {
+      "answer": "Pipeline processing environment: 100-core HPC cluster.. Data rights period: 1 year.. Data archive retention: indefinite.. Pipeline code repository: internal Git..",
+      "citations": [
+        "BHF-F029",
+        "BHF-F030",
+        "BHF-F031",
+        "BHF-F032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for data rights period and data archive retention?",
+    "response": {
+      "answer": "Data rights period: 1 year.. Data archive retention: indefinite..",
+      "citations": [
+        "BHF-F030",
+        "BHF-F031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for data archive retention, pipeline code repository, and pipeline configuration file?",
+    "response": {
+      "answer": "Data archive retention: indefinite.. Pipeline code repository: internal Git.. Pipeline configuration file: YAML..",
+      "citations": [
+        "BHF-F031",
+        "BHF-F032",
+        "BHF-F033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on pipeline code repository, pipeline configuration file, pipeline checksum algorithm, and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline code repository: internal Git.. Pipeline configuration file: YAML.. Pipeline checksum algorithm: SHA-256.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F032",
+        "BHF-F033",
+        "BHF-F034",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for pipeline configuration file and pipeline checksum algorithm?",
+    "response": {
+      "answer": "Pipeline configuration file: YAML.. Pipeline checksum algorithm: SHA-256..",
+      "citations": [
+        "BHF-F033",
+        "BHF-F034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for pipeline level l0, pipeline checksum algorithm, and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline checksum algorithm: SHA-256.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F034",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for pipeline level l0, pipeline level l1, pipeline level l2, and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline level L2: science-ready data with flux calibration.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F002",
+        "BHF-F003",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for pipeline level l0 and pipeline level l1?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline level L1: calibrated data with bias and flat corrections..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on pipeline level l1, pipeline level l2, and fits extension names?",
+    "response": {
+      "answer": "Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline level L2: science-ready data with flux calibration.. FITS extension names: SCI; ERR; DQ..",
+      "citations": [
+        "BHF-F002",
+        "BHF-F003",
+        "BHF-F004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for pipeline level l2, fits extension names, fits header keys, and fits header key telescop?",
+    "response": {
+      "answer": "Pipeline level L2: science-ready data with flux calibration.. FITS extension names: SCI; ERR; DQ.. FITS header keys: TELEMAG; AIRMASS; EXPTIME.. FITS header key TELESCOP: Brahmaanu..",
+      "citations": [
+        "BHF-F003",
+        "BHF-F004",
+        "BHF-F005",
+        "BHF-F006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for fits extension names and fits header keys?",
+    "response": {
+      "answer": "FITS extension names: SCI; ERR; DQ.. FITS header keys: TELEMAG; AIRMASS; EXPTIME..",
+      "citations": [
+        "BHF-F004",
+        "BHF-F005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for fits header keys, fits header key telescop, and fits header key instrume?",
+    "response": {
+      "answer": "FITS header keys: TELEMAG; AIRMASS; EXPTIME.. FITS header key TELESCOP: Brahmaanu.. FITS header key INSTRUME: instrument name..",
+      "citations": [
+        "BHF-F005",
+        "BHF-F006",
+        "BHF-F007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for fits header key telescop, fits header key instrume, fits header key detector, and fits header key obsid?",
+    "response": {
+      "answer": "FITS header key TELESCOP: Brahmaanu.. FITS header key INSTRUME: instrument name.. FITS header key DETECTOR: detector name.. FITS header key OBSID: observation identifier..",
+      "citations": [
+        "BHF-F006",
+        "BHF-F007",
+        "BHF-F008",
+        "BHF-F009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on fits header key instrume and fits header key detector?",
+    "response": {
+      "answer": "FITS header key INSTRUME: instrument name.. FITS header key DETECTOR: detector name..",
+      "citations": [
+        "BHF-F007",
+        "BHF-F008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for fits header key detector, fits header key obsid, and fits header key date-obs?",
+    "response": {
+      "answer": "FITS header key DETECTOR: detector name.. FITS header key OBSID: observation identifier.. FITS header key DATE-OBS: start time in ISO 8601..",
+      "citations": [
+        "BHF-F008",
+        "BHF-F009",
+        "BHF-F010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for fits header key obsid, fits header key date-obs, raw data availability, and l1 data delivery?",
+    "response": {
+      "answer": "FITS header key OBSID: observation identifier.. FITS header key DATE-OBS: start time in ISO 8601.. Raw data availability: within 6 hours of observation.. L1 data delivery: within 24 hours of observation..",
+      "citations": [
+        "BHF-F009",
+        "BHF-F010",
+        "BHF-F011",
+        "BHF-F012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for fits header key date-obs and raw data availability?",
+    "response": {
+      "answer": "FITS header key DATE-OBS: start time in ISO 8601.. Raw data availability: within 6 hours of observation..",
+      "citations": [
+        "BHF-F010",
+        "BHF-F011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for raw data availability, l1 data delivery, and l2 data delivery?",
+    "response": {
+      "answer": "Raw data availability: within 6 hours of observation.. L1 data delivery: within 24 hours of observation.. L2 data delivery: within 7 days of observation..",
+      "citations": [
+        "BHF-F011",
+        "BHF-F012",
+        "BHF-F013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on l1 data delivery, l2 data delivery, data packaging, and data file naming convention?",
+    "response": {
+      "answer": "L1 data delivery: within 24 hours of observation.. L2 data delivery: within 7 days of observation.. Data packaging: per night per instrument tarball.. Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits..",
+      "citations": [
+        "BHF-F012",
+        "BHF-F013",
+        "BHF-F014",
+        "BHF-F015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for l2 data delivery and data packaging?",
+    "response": {
+      "answer": "L2 data delivery: within 7 days of observation.. Data packaging: per night per instrument tarball..",
+      "citations": [
+        "BHF-F013",
+        "BHF-F014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for data packaging, data file naming convention, and quality flags?",
+    "response": {
+      "answer": "Data packaging: per night per instrument tarball.. Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits.. Quality flags: GOOD; WARN; BAD..",
+      "citations": [
+        "BHF-F014",
+        "BHF-F015",
+        "BHF-F022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for data file naming convention, quality flags, quality control threshold for snr, and calibration pipeline version?",
+    "response": {
+      "answer": "Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits.. Quality flags: GOOD; WARN; BAD.. Quality control threshold for SNR: 10.. Calibration pipeline version: v1.0..",
+      "citations": [
+        "BHF-F015",
+        "BHF-F022",
+        "BHF-F023",
+        "BHF-F024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for quality flags and quality control threshold for snr?",
+    "response": {
+      "answer": "Quality flags: GOOD; WARN; BAD.. Quality control threshold for SNR: 10..",
+      "citations": [
+        "BHF-F022",
+        "BHF-F023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on quality control threshold for snr, calibration pipeline version, and dq extension bit flags?",
+    "response": {
+      "answer": "Quality control threshold for SNR: 10.. Calibration pipeline version: v1.0.. DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel..",
+      "citations": [
+        "BHF-F023",
+        "BHF-F024",
+        "BHF-F028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for calibration pipeline version, dq extension bit flags, pipeline processing environment, and data rights period?",
+    "response": {
+      "answer": "Calibration pipeline version: v1.0.. DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.. Pipeline processing environment: 100-core HPC cluster.. Data rights period: 1 year..",
+      "citations": [
+        "BHF-F024",
+        "BHF-F028",
+        "BHF-F029",
+        "BHF-F030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for dq extension bit flags and pipeline processing environment?",
+    "response": {
+      "answer": "DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.. Pipeline processing environment: 100-core HPC cluster..",
+      "citations": [
+        "BHF-F028",
+        "BHF-F029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for pipeline processing environment, data rights period, and data archive retention?",
+    "response": {
+      "answer": "Pipeline processing environment: 100-core HPC cluster.. Data rights period: 1 year.. Data archive retention: indefinite..",
+      "citations": [
+        "BHF-F029",
+        "BHF-F030",
+        "BHF-F031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for data rights period, data archive retention, pipeline code repository, and pipeline configuration file?",
+    "response": {
+      "answer": "Data rights period: 1 year.. Data archive retention: indefinite.. Pipeline code repository: internal Git.. Pipeline configuration file: YAML..",
+      "citations": [
+        "BHF-F030",
+        "BHF-F031",
+        "BHF-F032",
+        "BHF-F033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on data archive retention and pipeline code repository?",
+    "response": {
+      "answer": "Data archive retention: indefinite.. Pipeline code repository: internal Git..",
+      "citations": [
+        "BHF-F031",
+        "BHF-F032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for pipeline code repository, pipeline configuration file, and pipeline checksum algorithm?",
+    "response": {
+      "answer": "Pipeline code repository: internal Git.. Pipeline configuration file: YAML.. Pipeline checksum algorithm: SHA-256..",
+      "citations": [
+        "BHF-F032",
+        "BHF-F033",
+        "BHF-F034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for pipeline level l0, pipeline configuration file, pipeline checksum algorithm, and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline configuration file: YAML.. Pipeline checksum algorithm: SHA-256.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F033",
+        "BHF-F034",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for pipeline checksum algorithm and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline checksum algorithm: SHA-256.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F034",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for pipeline level l0, pipeline level l1, and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline level L1: calibrated data with bias and flat corrections.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F002",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on pipeline level l0, pipeline level l1, pipeline level l2, and fits extension names?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline level L2: science-ready data with flux calibration.. FITS extension names: SCI; ERR; DQ..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F002",
+        "BHF-F003",
+        "BHF-F004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for pipeline level l1 and pipeline level l2?",
+    "response": {
+      "answer": "Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline level L2: science-ready data with flux calibration..",
+      "citations": [
+        "BHF-F002",
+        "BHF-F003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for pipeline level l2, fits extension names, and fits header keys?",
+    "response": {
+      "answer": "Pipeline level L2: science-ready data with flux calibration.. FITS extension names: SCI; ERR; DQ.. FITS header keys: TELEMAG; AIRMASS; EXPTIME..",
+      "citations": [
+        "BHF-F003",
+        "BHF-F004",
+        "BHF-F005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for fits extension names, fits header keys, fits header key telescop, and fits header key instrume?",
+    "response": {
+      "answer": "FITS extension names: SCI; ERR; DQ.. FITS header keys: TELEMAG; AIRMASS; EXPTIME.. FITS header key TELESCOP: Brahmaanu.. FITS header key INSTRUME: instrument name..",
+      "citations": [
+        "BHF-F004",
+        "BHF-F005",
+        "BHF-F006",
+        "BHF-F007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for fits header keys and fits header key telescop?",
+    "response": {
+      "answer": "FITS header keys: TELEMAG; AIRMASS; EXPTIME.. FITS header key TELESCOP: Brahmaanu..",
+      "citations": [
+        "BHF-F005",
+        "BHF-F006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on fits header key telescop, fits header key instrume, and fits header key detector?",
+    "response": {
+      "answer": "FITS header key TELESCOP: Brahmaanu.. FITS header key INSTRUME: instrument name.. FITS header key DETECTOR: detector name..",
+      "citations": [
+        "BHF-F006",
+        "BHF-F007",
+        "BHF-F008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for fits header key instrume, fits header key detector, fits header key obsid, and fits header key date-obs?",
+    "response": {
+      "answer": "FITS header key INSTRUME: instrument name.. FITS header key DETECTOR: detector name.. FITS header key OBSID: observation identifier.. FITS header key DATE-OBS: start time in ISO 8601..",
+      "citations": [
+        "BHF-F007",
+        "BHF-F008",
+        "BHF-F009",
+        "BHF-F010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for fits header key detector and fits header key obsid?",
+    "response": {
+      "answer": "FITS header key DETECTOR: detector name.. FITS header key OBSID: observation identifier..",
+      "citations": [
+        "BHF-F008",
+        "BHF-F009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for fits header key obsid, fits header key date-obs, and raw data availability?",
+    "response": {
+      "answer": "FITS header key OBSID: observation identifier.. FITS header key DATE-OBS: start time in ISO 8601.. Raw data availability: within 6 hours of observation..",
+      "citations": [
+        "BHF-F009",
+        "BHF-F010",
+        "BHF-F011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for fits header key date-obs, raw data availability, l1 data delivery, and l2 data delivery?",
+    "response": {
+      "answer": "FITS header key DATE-OBS: start time in ISO 8601.. Raw data availability: within 6 hours of observation.. L1 data delivery: within 24 hours of observation.. L2 data delivery: within 7 days of observation..",
+      "citations": [
+        "BHF-F010",
+        "BHF-F011",
+        "BHF-F012",
+        "BHF-F013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on raw data availability and l1 data delivery?",
+    "response": {
+      "answer": "Raw data availability: within 6 hours of observation.. L1 data delivery: within 24 hours of observation..",
+      "citations": [
+        "BHF-F011",
+        "BHF-F012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for l1 data delivery, l2 data delivery, and data packaging?",
+    "response": {
+      "answer": "L1 data delivery: within 24 hours of observation.. L2 data delivery: within 7 days of observation.. Data packaging: per night per instrument tarball..",
+      "citations": [
+        "BHF-F012",
+        "BHF-F013",
+        "BHF-F014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for l2 data delivery, data packaging, data file naming convention, and quality flags?",
+    "response": {
+      "answer": "L2 data delivery: within 7 days of observation.. Data packaging: per night per instrument tarball.. Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits.. Quality flags: GOOD; WARN; BAD..",
+      "citations": [
+        "BHF-F013",
+        "BHF-F014",
+        "BHF-F015",
+        "BHF-F022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for data packaging and data file naming convention?",
+    "response": {
+      "answer": "Data packaging: per night per instrument tarball.. Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits..",
+      "citations": [
+        "BHF-F014",
+        "BHF-F015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for data file naming convention, quality flags, and quality control threshold for snr?",
+    "response": {
+      "answer": "Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits.. Quality flags: GOOD; WARN; BAD.. Quality control threshold for SNR: 10..",
+      "citations": [
+        "BHF-F015",
+        "BHF-F022",
+        "BHF-F023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on quality flags, quality control threshold for snr, calibration pipeline version, and dq extension bit flags?",
+    "response": {
+      "answer": "Quality flags: GOOD; WARN; BAD.. Quality control threshold for SNR: 10.. Calibration pipeline version: v1.0.. DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel..",
+      "citations": [
+        "BHF-F022",
+        "BHF-F023",
+        "BHF-F024",
+        "BHF-F028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for quality control threshold for snr and calibration pipeline version?",
+    "response": {
+      "answer": "Quality control threshold for SNR: 10.. Calibration pipeline version: v1.0..",
+      "citations": [
+        "BHF-F023",
+        "BHF-F024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for calibration pipeline version, dq extension bit flags, and pipeline processing environment?",
+    "response": {
+      "answer": "Calibration pipeline version: v1.0.. DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.. Pipeline processing environment: 100-core HPC cluster..",
+      "citations": [
+        "BHF-F024",
+        "BHF-F028",
+        "BHF-F029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for dq extension bit flags, pipeline processing environment, data rights period, and data archive retention?",
+    "response": {
+      "answer": "DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.. Pipeline processing environment: 100-core HPC cluster.. Data rights period: 1 year.. Data archive retention: indefinite..",
+      "citations": [
+        "BHF-F028",
+        "BHF-F029",
+        "BHF-F030",
+        "BHF-F031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for pipeline processing environment and data rights period?",
+    "response": {
+      "answer": "Pipeline processing environment: 100-core HPC cluster.. Data rights period: 1 year..",
+      "citations": [
+        "BHF-F029",
+        "BHF-F030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on data rights period, data archive retention, and pipeline code repository?",
+    "response": {
+      "answer": "Data rights period: 1 year.. Data archive retention: indefinite.. Pipeline code repository: internal Git..",
+      "citations": [
+        "BHF-F030",
+        "BHF-F031",
+        "BHF-F032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for data archive retention, pipeline code repository, pipeline configuration file, and pipeline checksum algorithm?",
+    "response": {
+      "answer": "Data archive retention: indefinite.. Pipeline code repository: internal Git.. Pipeline configuration file: YAML.. Pipeline checksum algorithm: SHA-256..",
+      "citations": [
+        "BHF-F031",
+        "BHF-F032",
+        "BHF-F033",
+        "BHF-F034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for pipeline code repository and pipeline configuration file?",
+    "response": {
+      "answer": "Pipeline code repository: internal Git.. Pipeline configuration file: YAML..",
+      "citations": [
+        "BHF-F032",
+        "BHF-F033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for pipeline configuration file, pipeline checksum algorithm, and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline configuration file: YAML.. Pipeline checksum algorithm: SHA-256.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F033",
+        "BHF-F034",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for pipeline level l0, pipeline level l1, pipeline checksum algorithm, and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline checksum algorithm: SHA-256.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F002",
+        "BHF-F034",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on pipeline level l0 and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for pipeline level l0, pipeline level l1, and pipeline level l2?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline level L2: science-ready data with flux calibration..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F002",
+        "BHF-F003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for pipeline level l1, pipeline level l2, fits extension names, and fits header keys?",
+    "response": {
+      "answer": "Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline level L2: science-ready data with flux calibration.. FITS extension names: SCI; ERR; DQ.. FITS header keys: TELEMAG; AIRMASS; EXPTIME..",
+      "citations": [
+        "BHF-F002",
+        "BHF-F003",
+        "BHF-F004",
+        "BHF-F005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for pipeline level l2 and fits extension names?",
+    "response": {
+      "answer": "Pipeline level L2: science-ready data with flux calibration.. FITS extension names: SCI; ERR; DQ..",
+      "citations": [
+        "BHF-F003",
+        "BHF-F004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for fits extension names, fits header keys, and fits header key telescop?",
+    "response": {
+      "answer": "FITS extension names: SCI; ERR; DQ.. FITS header keys: TELEMAG; AIRMASS; EXPTIME.. FITS header key TELESCOP: Brahmaanu..",
+      "citations": [
+        "BHF-F004",
+        "BHF-F005",
+        "BHF-F006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on fits header keys, fits header key telescop, fits header key instrume, and fits header key detector?",
+    "response": {
+      "answer": "FITS header keys: TELEMAG; AIRMASS; EXPTIME.. FITS header key TELESCOP: Brahmaanu.. FITS header key INSTRUME: instrument name.. FITS header key DETECTOR: detector name..",
+      "citations": [
+        "BHF-F005",
+        "BHF-F006",
+        "BHF-F007",
+        "BHF-F008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for fits header key telescop and fits header key instrume?",
+    "response": {
+      "answer": "FITS header key TELESCOP: Brahmaanu.. FITS header key INSTRUME: instrument name..",
+      "citations": [
+        "BHF-F006",
+        "BHF-F007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for fits header key instrume, fits header key detector, and fits header key obsid?",
+    "response": {
+      "answer": "FITS header key INSTRUME: instrument name.. FITS header key DETECTOR: detector name.. FITS header key OBSID: observation identifier..",
+      "citations": [
+        "BHF-F007",
+        "BHF-F008",
+        "BHF-F009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for fits header key detector, fits header key obsid, fits header key date-obs, and raw data availability?",
+    "response": {
+      "answer": "FITS header key DETECTOR: detector name.. FITS header key OBSID: observation identifier.. FITS header key DATE-OBS: start time in ISO 8601.. Raw data availability: within 6 hours of observation..",
+      "citations": [
+        "BHF-F008",
+        "BHF-F009",
+        "BHF-F010",
+        "BHF-F011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for fits header key obsid and fits header key date-obs?",
+    "response": {
+      "answer": "FITS header key OBSID: observation identifier.. FITS header key DATE-OBS: start time in ISO 8601..",
+      "citations": [
+        "BHF-F009",
+        "BHF-F010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on fits header key date-obs, raw data availability, and l1 data delivery?",
+    "response": {
+      "answer": "FITS header key DATE-OBS: start time in ISO 8601.. Raw data availability: within 6 hours of observation.. L1 data delivery: within 24 hours of observation..",
+      "citations": [
+        "BHF-F010",
+        "BHF-F011",
+        "BHF-F012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for raw data availability, l1 data delivery, l2 data delivery, and data packaging?",
+    "response": {
+      "answer": "Raw data availability: within 6 hours of observation.. L1 data delivery: within 24 hours of observation.. L2 data delivery: within 7 days of observation.. Data packaging: per night per instrument tarball..",
+      "citations": [
+        "BHF-F011",
+        "BHF-F012",
+        "BHF-F013",
+        "BHF-F014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for l1 data delivery and l2 data delivery?",
+    "response": {
+      "answer": "L1 data delivery: within 24 hours of observation.. L2 data delivery: within 7 days of observation..",
+      "citations": [
+        "BHF-F012",
+        "BHF-F013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for l2 data delivery, data packaging, and data file naming convention?",
+    "response": {
+      "answer": "L2 data delivery: within 7 days of observation.. Data packaging: per night per instrument tarball.. Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits..",
+      "citations": [
+        "BHF-F013",
+        "BHF-F014",
+        "BHF-F015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for data packaging, data file naming convention, quality flags, and quality control threshold for snr?",
+    "response": {
+      "answer": "Data packaging: per night per instrument tarball.. Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits.. Quality flags: GOOD; WARN; BAD.. Quality control threshold for SNR: 10..",
+      "citations": [
+        "BHF-F014",
+        "BHF-F015",
+        "BHF-F022",
+        "BHF-F023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on data file naming convention and quality flags?",
+    "response": {
+      "answer": "Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits.. Quality flags: GOOD; WARN; BAD..",
+      "citations": [
+        "BHF-F015",
+        "BHF-F022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for quality flags, quality control threshold for snr, and calibration pipeline version?",
+    "response": {
+      "answer": "Quality flags: GOOD; WARN; BAD.. Quality control threshold for SNR: 10.. Calibration pipeline version: v1.0..",
+      "citations": [
+        "BHF-F022",
+        "BHF-F023",
+        "BHF-F024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for quality control threshold for snr, calibration pipeline version, dq extension bit flags, and pipeline processing environment?",
+    "response": {
+      "answer": "Quality control threshold for SNR: 10.. Calibration pipeline version: v1.0.. DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.. Pipeline processing environment: 100-core HPC cluster..",
+      "citations": [
+        "BHF-F023",
+        "BHF-F024",
+        "BHF-F028",
+        "BHF-F029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for calibration pipeline version and dq extension bit flags?",
+    "response": {
+      "answer": "Calibration pipeline version: v1.0.. DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel..",
+      "citations": [
+        "BHF-F024",
+        "BHF-F028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for dq extension bit flags, pipeline processing environment, and data rights period?",
+    "response": {
+      "answer": "DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.. Pipeline processing environment: 100-core HPC cluster.. Data rights period: 1 year..",
+      "citations": [
+        "BHF-F028",
+        "BHF-F029",
+        "BHF-F030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on pipeline processing environment, data rights period, data archive retention, and pipeline code repository?",
+    "response": {
+      "answer": "Pipeline processing environment: 100-core HPC cluster.. Data rights period: 1 year.. Data archive retention: indefinite.. Pipeline code repository: internal Git..",
+      "citations": [
+        "BHF-F029",
+        "BHF-F030",
+        "BHF-F031",
+        "BHF-F032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for data rights period and data archive retention?",
+    "response": {
+      "answer": "Data rights period: 1 year.. Data archive retention: indefinite..",
+      "citations": [
+        "BHF-F030",
+        "BHF-F031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for data archive retention, pipeline code repository, and pipeline configuration file?",
+    "response": {
+      "answer": "Data archive retention: indefinite.. Pipeline code repository: internal Git.. Pipeline configuration file: YAML..",
+      "citations": [
+        "BHF-F031",
+        "BHF-F032",
+        "BHF-F033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for pipeline code repository, pipeline configuration file, pipeline checksum algorithm, and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline code repository: internal Git.. Pipeline configuration file: YAML.. Pipeline checksum algorithm: SHA-256.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F032",
+        "BHF-F033",
+        "BHF-F034",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for pipeline configuration file and pipeline checksum algorithm?",
+    "response": {
+      "answer": "Pipeline configuration file: YAML.. Pipeline checksum algorithm: SHA-256..",
+      "citations": [
+        "BHF-F033",
+        "BHF-F034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on pipeline level l0, pipeline checksum algorithm, and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline checksum algorithm: SHA-256.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F034",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for pipeline level l0, pipeline level l1, pipeline level l2, and data transfer protocol?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline level L2: science-ready data with flux calibration.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F002",
+        "BHF-F003",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for pipeline level l0 and pipeline level l1?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline level L1: calibrated data with bias and flat corrections..",
+      "citations": [
+        "BHF-F001",
+        "BHF-F002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for pipeline level l1, pipeline level l2, and fits extension names?",
+    "response": {
+      "answer": "Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline level L2: science-ready data with flux calibration.. FITS extension names: SCI; ERR; DQ..",
+      "citations": [
+        "BHF-F002",
+        "BHF-F003",
+        "BHF-F004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for pipeline level l2, fits extension names, fits header keys, and fits header key telescop?",
+    "response": {
+      "answer": "Pipeline level L2: science-ready data with flux calibration.. FITS extension names: SCI; ERR; DQ.. FITS header keys: TELEMAG; AIRMASS; EXPTIME.. FITS header key TELESCOP: Brahmaanu..",
+      "citations": [
+        "BHF-F003",
+        "BHF-F004",
+        "BHF-F005",
+        "BHF-F006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on fits extension names and fits header keys?",
+    "response": {
+      "answer": "FITS extension names: SCI; ERR; DQ.. FITS header keys: TELEMAG; AIRMASS; EXPTIME..",
+      "citations": [
+        "BHF-F004",
+        "BHF-F005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for fits header keys, fits header key telescop, and fits header key instrume?",
+    "response": {
+      "answer": "FITS header keys: TELEMAG; AIRMASS; EXPTIME.. FITS header key TELESCOP: Brahmaanu.. FITS header key INSTRUME: instrument name..",
+      "citations": [
+        "BHF-F005",
+        "BHF-F006",
+        "BHF-F007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for fits header key telescop, fits header key instrume, fits header key detector, and fits header key obsid?",
+    "response": {
+      "answer": "FITS header key TELESCOP: Brahmaanu.. FITS header key INSTRUME: instrument name.. FITS header key DETECTOR: detector name.. FITS header key OBSID: observation identifier..",
+      "citations": [
+        "BHF-F006",
+        "BHF-F007",
+        "BHF-F008",
+        "BHF-F009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for fits header key instrume and fits header key detector?",
+    "response": {
+      "answer": "FITS header key INSTRUME: instrument name.. FITS header key DETECTOR: detector name..",
+      "citations": [
+        "BHF-F007",
+        "BHF-F008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for fits header key detector, fits header key obsid, and fits header key date-obs?",
+    "response": {
+      "answer": "FITS header key DETECTOR: detector name.. FITS header key OBSID: observation identifier.. FITS header key DATE-OBS: start time in ISO 8601..",
+      "citations": [
+        "BHF-F008",
+        "BHF-F009",
+        "BHF-F010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on fits header key obsid, fits header key date-obs, raw data availability, and l1 data delivery?",
+    "response": {
+      "answer": "FITS header key OBSID: observation identifier.. FITS header key DATE-OBS: start time in ISO 8601.. Raw data availability: within 6 hours of observation.. L1 data delivery: within 24 hours of observation..",
+      "citations": [
+        "BHF-F009",
+        "BHF-F010",
+        "BHF-F011",
+        "BHF-F012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List the processing facts for fits header key date-obs and raw data availability?",
+    "response": {
+      "answer": "FITS header key DATE-OBS: start time in ISO 8601.. Raw data availability: within 6 hours of observation..",
+      "citations": [
+        "BHF-F010",
+        "BHF-F011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Describe the configuration for raw data availability, l1 data delivery, and l2 data delivery?",
+    "response": {
+      "answer": "Raw data availability: within 6 hours of observation.. L1 data delivery: within 24 hours of observation.. L2 data delivery: within 7 days of observation..",
+      "citations": [
+        "BHF-F011",
+        "BHF-F012",
+        "BHF-F013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize the data pipeline details for l1 data delivery, l2 data delivery, data packaging, and data file naming convention?",
+    "response": {
+      "answer": "L1 data delivery: within 24 hours of observation.. L2 data delivery: within 7 days of observation.. Data packaging: per night per instrument tarball.. Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits..",
+      "citations": [
+        "BHF-F012",
+        "BHF-F013",
+        "BHF-F014",
+        "BHF-F015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the key parameters for l2 data delivery and data packaging?",
+    "response": {
+      "answer": "L2 data delivery: within 7 days of observation.. Data packaging: per night per instrument tarball..",
+      "citations": [
+        "BHF-F013",
+        "BHF-F014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on data packaging, data file naming convention, and quality flags?",
+    "response": {
+      "answer": "Data packaging: per night per instrument tarball.. Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits.. Quality flags: GOOD; WARN; BAD..",
+      "citations": [
+        "BHF-F014",
+        "BHF-F015",
+        "BHF-F022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on data file naming convention and quality flags,, database backend?",
+    "response": {
+      "answer": "Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits.. Quality flags: GOOD; WARN; BAD..",
+      "citations": [
+        "BHF-F015",
+        "BHF-F022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on quality flags, quality control threshold for snr, calibration pipeline version,, public API endpoint?",
+    "response": {
+      "answer": "Quality flags: GOOD; WARN; BAD.. Quality control threshold for SNR: 10.. Calibration pipeline version: v1.0..",
+      "citations": [
+        "BHF-F022",
+        "BHF-F023",
+        "BHF-F024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on quality control threshold for snr, calibration pipeline version, dq extension bit flags, pipeline processing environment,, Grafana dashboard URL?",
+    "response": {
+      "answer": "Quality control threshold for SNR: 10.. Calibration pipeline version: v1.0.. DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.. Pipeline processing environment: 100-core HPC cluster..",
+      "citations": [
+        "BHF-F023",
+        "BHF-F024",
+        "BHF-F028",
+        "BHF-F029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on calibration pipeline version and dq extension bit flags,, container image registry?",
+    "response": {
+      "answer": "Calibration pipeline version: v1.0.. DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel..",
+      "citations": [
+        "BHF-F024",
+        "BHF-F028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on dq extension bit flags, pipeline processing environment, data rights period,, Spark version?",
+    "response": {
+      "answer": "DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.. Pipeline processing environment: 100-core HPC cluster.. Data rights period: 1 year..",
+      "citations": [
+        "BHF-F028",
+        "BHF-F029",
+        "BHF-F030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on pipeline processing environment, data rights period, data archive retention, pipeline code repository,, cloud region?",
+    "response": {
+      "answer": "Pipeline processing environment: 100-core HPC cluster.. Data rights period: 1 year.. Data archive retention: indefinite.. Pipeline code repository: internal Git..",
+      "citations": [
+        "BHF-F029",
+        "BHF-F030",
+        "BHF-F031",
+        "BHF-F032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on data rights period and data archive retention,, Kafka topic name?",
+    "response": {
+      "answer": "Data rights period: 1 year.. Data archive retention: indefinite..",
+      "citations": [
+        "BHF-F030",
+        "BHF-F031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on data archive retention, pipeline code repository, pipeline configuration file,, file compression ratio?",
+    "response": {
+      "answer": "Data archive retention: indefinite.. Pipeline code repository: internal Git.. Pipeline configuration file: YAML..",
+      "citations": [
+        "BHF-F031",
+        "BHF-F032",
+        "BHF-F033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on pipeline code repository, pipeline configuration file, pipeline checksum algorithm, data transfer protocol,, on-call rotation schedule?",
+    "response": {
+      "answer": "Pipeline code repository: internal Git.. Pipeline configuration file: YAML.. Pipeline checksum algorithm: SHA-256.. Data transfer protocol: SFTP..",
+      "citations": [
+        "BHF-F032",
+        "BHF-F033",
+        "BHF-F034",
+        "BHF-F035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on pipeline level l0, pipeline checksum algorithm, and data transfer protocol, including public API endpoint?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline checksum algorithm: SHA-256.. Data transfer protocol: SFTP.. Missing data: information about data transfer protocol, including public api endpoint is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F001",
+        "BHF-F034",
+        "BHF-F035"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on pipeline level l0, pipeline level l1, pipeline level l2, and data transfer protocol, including Grafana dashboard URL?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline level L2: science-ready data with flux calibration.. Data transfer protocol: SFTP.. Missing data: information about data transfer protocol, including grafana dashboard url is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F001",
+        "BHF-F002",
+        "BHF-F003",
+        "BHF-F035"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on pipeline level l0 and pipeline level l1, including container image registry?",
+    "response": {
+      "answer": "Pipeline level L0: raw detector frames.. Pipeline level L1: calibrated data with bias and flat corrections.. Missing data: information about container image registry is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F001",
+        "BHF-F002"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on pipeline level l1, pipeline level l2, and fits extension names, including Spark version?",
+    "response": {
+      "answer": "Pipeline level L1: calibrated data with bias and flat corrections.. Pipeline level L2: science-ready data with flux calibration.. FITS extension names: SCI; ERR; DQ.. Missing data: information about fits extension names, including spark version is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F002",
+        "BHF-F003",
+        "BHF-F004"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on pipeline level l2, fits extension names, fits header keys, and fits header key telescop, including cloud region?",
+    "response": {
+      "answer": "Pipeline level L2: science-ready data with flux calibration.. FITS extension names: SCI; ERR; DQ.. FITS header keys: TELEMAG; AIRMASS; EXPTIME.. FITS header key TELESCOP: Brahmaanu.. Missing data: information about fits header key telescop, including cloud region is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F003",
+        "BHF-F004",
+        "BHF-F005",
+        "BHF-F006"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on fits extension names and fits header keys, including Kafka topic name?",
+    "response": {
+      "answer": "FITS extension names: SCI; ERR; DQ.. FITS header keys: TELEMAG; AIRMASS; EXPTIME.. Missing data: information about kafka topic name is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F004",
+        "BHF-F005"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Provide details on fits header keys, fits header key telescop, and fits header key instrume, including file compression ratio?",
+    "response": {
+      "answer": "FITS header keys: TELEMAG; AIRMASS; EXPTIME.. FITS header key TELESCOP: Brahmaanu.. FITS header key INSTRUME: instrument name.. Missing data: information about fits header key instrume, including file compression ratio is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F005",
+        "BHF-F006",
+        "BHF-F007"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Is the pipeline processing environment configured incorrectly?",
+    "response": {
+      "answer": "100-core HPC cluster.",
+      "citations": [
+        "BHF-F029"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is access public immediately on acquisition?",
+    "response": {
+      "answer": "1 year.",
+      "citations": [
+        "BHF-F030"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is access public immediately on acquisition?",
+    "response": {
+      "answer": "indefinite.",
+      "citations": [
+        "BHF-F031"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the pipeline code repository configured incorrectly?",
+    "response": {
+      "answer": "internal Git.",
+      "citations": [
+        "BHF-F032"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the pipeline configuration file configured incorrectly?",
+    "response": {
+      "answer": "YAML.",
+      "citations": [
+        "BHF-F033"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Does the pipeline write file checksums using MD5?",
+    "response": {
+      "answer": "SHA-256.",
+      "citations": [
+        "BHF-F034"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the transfer protocol FTP?",
+    "response": {
+      "answer": "SFTP.",
+      "citations": [
+        "BHF-F035"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the pipeline level l0 configured incorrectly?",
+    "response": {
+      "answer": "raw detector frames.",
+      "citations": [
+        "BHF-F001"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Does Level 1 include flux calibration?",
+    "response": {
+      "answer": "calibrated data with bias and flat corrections.",
+      "citations": [
+        "BHF-F002"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is flat-fielding excluded from Level 2?",
+    "response": {
+      "answer": "science-ready data with flux calibration.",
+      "citations": [
+        "BHF-F003"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Are FITS outputs single-extension only?",
+    "response": {
+      "answer": "SCI; ERR; DQ.",
+      "citations": [
+        "BHF-F004"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the FITS header missing standard keywords like TELESCOP?",
+    "response": {
+      "answer": "TELEMAG; AIRMASS; EXPTIME.",
+      "citations": [
+        "BHF-F005"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the delivery timeline 8 hours?",
+    "response": {
+      "answer": "within 6 hours of observation.",
+      "citations": [
+        "BHF-F011"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the delivery timeline 26 hours?",
+    "response": {
+      "answer": "within 24 hours of observation.",
+      "citations": [
+        "BHF-F012"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the delivery timeline 8 days?",
+    "response": {
+      "answer": "within 7 days of observation.",
+      "citations": [
+        "BHF-F013"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the data packaging configured incorrectly?",
+    "response": {
+      "answer": "per night per instrument tarball.",
+      "citations": [
+        "BHF-F014"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the data file naming convention configured incorrectly?",
+    "response": {
+      "answer": "BRAHMAANU_YYYYMMDD_HHMMSS.fits.",
+      "citations": [
+        "BHF-F015"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the quality flags configured incorrectly?",
+    "response": {
+      "answer": "GOOD; WARN; BAD.",
+      "citations": [
+        "BHF-F022"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the quality control threshold for snr configured incorrectly?",
+    "response": {
+      "answer": "10.",
+      "citations": [
+        "BHF-F023"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the calibration pipeline version configured incorrectly?",
+    "response": {
+      "answer": "v1.0.",
+      "citations": [
+        "BHF-F024"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the stored pixel data 8-bit?",
+    "response": {
+      "answer": "0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.",
+      "citations": [
+        "BHF-F028"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "What is the public API endpoint for raw data availability?",
+    "response": {
+      "answer": "Raw data availability: within 6 hours of observation.. Missing data: information about the requested extra field is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F011"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "What is the database backend for l1 data delivery?",
+    "response": {
+      "answer": "L1 data delivery: within 24 hours of observation.. Missing data: information about the requested extra field is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F012"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "What is the provenance ID scheme for l2 data delivery?",
+    "response": {
+      "answer": "L2 data delivery: within 7 days of observation.. Missing data: information about the requested extra field is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F013"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "What is the container image name for data packaging?",
+    "response": {
+      "answer": "Data packaging: per night per instrument tarball.. Missing data: information about the requested extra field is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F014"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "What is the monitoring alert channel for data file naming convention?",
+    "response": {
+      "answer": "Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits.. Missing data: information about the requested extra field is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F015"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "What is the downsampling method for quality flags?",
+    "response": {
+      "answer": "Quality flags: GOOD; WARN; BAD.. Missing data: information about the requested extra field is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F022"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "What is the quality report URL for quality control threshold for snr?",
+    "response": {
+      "answer": "Quality control threshold for SNR: 10.. Missing data: information about the requested extra field is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F023"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "What is the metadata validator version for calibration pipeline version?",
+    "response": {
+      "answer": "Calibration pipeline version: v1.0.. Missing data: information about the requested extra field is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F024"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "What is the on-call rotation for dq extension bit flags?",
+    "response": {
+      "answer": "DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.. Missing data: information about the requested extra field is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F028"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "What is the ingest queue depth limit for pipeline processing environment?",
+    "response": {
+      "answer": "Pipeline processing environment: 100-core HPC cluster.. Missing data: information about the requested extra field is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F029"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "What is the retry policy for data rights period?",
+    "response": {
+      "answer": "Data rights period: 1 year.. Missing data: information about the requested extra field is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F030"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "What is the object storage class for data archive retention?",
+    "response": {
+      "answer": "Data archive retention: indefinite.. Missing data: information about the requested extra field is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F031"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "What is the indexing service for pipeline code repository?",
+    "response": {
+      "answer": "Pipeline code repository: internal Git.. Missing data: information about the requested extra field is not in the document. Please verify this.",
+      "citations": [
+        "BHF-F032"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "What is the public API endpoint for the archive?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What database backend powers the pipeline metadata?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the dataset DOI namespace?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the Grafana dashboard URL for pipeline health?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the container image registry URL?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What Spark version is used for batch jobs?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Which cloud region hosts the object store?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What Kafka topic name is used for ingest events?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the default file compression ratio?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the on-call rotation schedule?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the CI/CD pipeline URL?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the provenance ID scheme?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the metadata validator version?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the retry policy for failed transfers?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What object storage class is used?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the indexing service used by the archive?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the monitoring alert channel?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the downsampling method for quicklooks?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the public GraphQL endpoint?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the SLA for API responses?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the message broker retention time?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the audit log retention period?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the incident response playbook URL?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the firehose stream name?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the lineage catalog system?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the role ARN for upload jobs?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the TLS certificate issuer?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the RBAC policy engine?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the redshift of the pipeline?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the public API endpoint for the archive?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  }
+]

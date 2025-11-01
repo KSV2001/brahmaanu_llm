@@ -1,0 +1,3249 @@
+[
+  {
+    "question": "What is the read noise (single read) of H2RG-IR1?",
+    "response": {
+      "answer": "10 e− RMS.",
+      "citations": [
+        "BHF-C019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the quantum efficiency peak for H2RG-IR1?",
+    "response": {
+      "answer": "80% at 1.7 μm.",
+      "citations": [
+        "BHF-C023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the format for H2RG-IR1?",
+    "response": {
+      "answer": "2048 × 2048 pixels.",
+      "citations": [
+        "BHF-C014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the bias level of IFU-Spec1?",
+    "response": {
+      "answer": "800 ADU.",
+      "citations": [
+        "BHF-C034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the saturation threshold for CCD-V1?",
+    "response": {
+      "answer": "180000 e−.",
+      "citations": [
+        "BHF-C008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the pixel size for IFU-Spec1?",
+    "response": {
+      "answer": "13 μm.",
+      "citations": [
+        "BHF-C027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the quantum efficiency peak of CCD-V1?",
+    "response": {
+      "answer": "90% at 550 nm.",
+      "citations": [
+        "BHF-C010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the linearity limit of CCD-V1?",
+    "response": {
+      "answer": "90% of full well.",
+      "citations": [
+        "BHF-C004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the quantum efficiency peak of CCD-V1?",
+    "response": {
+      "answer": "90% at 550 nm.",
+      "citations": [
+        "BHF-C010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the read noise for IFU-Spec1?",
+    "response": {
+      "answer": "4 e− RMS.",
+      "citations": [
+        "BHF-C031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the read noise (single read) of H2RG-IR1?",
+    "response": {
+      "answer": "10 e− RMS.",
+      "citations": [
+        "BHF-C019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the linearity limit for H2RG-IR1?",
+    "response": {
+      "answer": "70000 e−.",
+      "citations": [
+        "BHF-C017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the linearity limit of H2RG-IR1?",
+    "response": {
+      "answer": "70000 e−.",
+      "citations": [
+        "BHF-C017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the linearity limit of IFU-Spec1?",
+    "response": {
+      "answer": "85% of full well.",
+      "citations": [
+        "BHF-C029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the gain for CCD-V1?",
+    "response": {
+      "answer": "1.5 e−/ADU.",
+      "citations": [
+        "BHF-C005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the pixel size for CCD-V1?",
+    "response": {
+      "answer": "15 μm.",
+      "citations": [
+        "BHF-C002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the operating temperature for CCD-V1?",
+    "response": {
+      "answer": "−100 °C.",
+      "citations": [
+        "BHF-C009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the operating temperature of IFU-Spec1?",
+    "response": {
+      "answer": "−110 °C.",
+      "citations": [
+        "BHF-C033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the bias level of CCD-V1?",
+    "response": {
+      "answer": "1000 ADU.",
+      "citations": [
+        "BHF-C012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the operating temperature for CCD-V1?",
+    "response": {
+      "answer": "−100 °C.",
+      "citations": [
+        "BHF-C009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the dark current of IFU-Spec1?",
+    "response": {
+      "answer": "0.02 e−/pixel/s.",
+      "citations": [
+        "BHF-C032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the pixel size for H2RG-IR1?",
+    "response": {
+      "answer": "18 μm.",
+      "citations": [
+        "BHF-C015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the format of IFU-Spec1?",
+    "response": {
+      "answer": "1024 × 1024 pixels.",
+      "citations": [
+        "BHF-C026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the crosstalk for CCD-V1?",
+    "response": {
+      "answer": "< 0.1%.",
+      "citations": [
+        "BHF-C013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the crosstalk of H2RG-IR1?",
+    "response": {
+      "answer": "0.2%.",
+      "citations": [
+        "BHF-C025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the dark current for H2RG-IR1?",
+    "response": {
+      "answer": "0.01 e−/pixel/s.",
+      "citations": [
+        "BHF-C021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the gain for CCD-V1?",
+    "response": {
+      "answer": "1.5 e−/ADU.",
+      "citations": [
+        "BHF-C005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the read noise (single read) for H2RG-IR1?",
+    "response": {
+      "answer": "10 e− RMS.",
+      "citations": [
+        "BHF-C019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the dark current for CCD-V1?",
+    "response": {
+      "answer": "0.005 e−/pixel/s.",
+      "citations": [
+        "BHF-C007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the dark current for H2RG-IR1?",
+    "response": {
+      "answer": "0.01 e−/pixel/s.",
+      "citations": [
+        "BHF-C021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the crosstalk for H2RG-IR1?",
+    "response": {
+      "answer": "0.2%.",
+      "citations": [
+        "BHF-C025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the format of IFU-Spec1?",
+    "response": {
+      "answer": "1024 × 1024 pixels.",
+      "citations": [
+        "BHF-C026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the format for H2RG-IR1?",
+    "response": {
+      "answer": "2048 × 2048 pixels.",
+      "citations": [
+        "BHF-C014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the bias level for H2RG-IR1?",
+    "response": {
+      "answer": "500 ADU.",
+      "citations": [
+        "BHF-C024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the gain for IFU-Spec1?",
+    "response": {
+      "answer": "3.5 e−/ADU.",
+      "citations": [
+        "BHF-C030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the read noise for CCD-V1?",
+    "response": {
+      "answer": "3 e− RMS.",
+      "citations": [
+        "BHF-C006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the quantum efficiency peak for H2RG-IR1?",
+    "response": {
+      "answer": "80% at 1.7 μm.",
+      "citations": [
+        "BHF-C023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the bias level of CCD-V1?",
+    "response": {
+      "answer": "1000 ADU.",
+      "citations": [
+        "BHF-C012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the operating temperature of H2RG-IR1?",
+    "response": {
+      "answer": "77 K.",
+      "citations": [
+        "BHF-C022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the read noise for IFU-Spec1?",
+    "response": {
+      "answer": "4 e− RMS.",
+      "citations": [
+        "BHF-C031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the operating temperature for IFU-Spec1?",
+    "response": {
+      "answer": "−110 °C.",
+      "citations": [
+        "BHF-C033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the crosstalk for IFU-Spec1?",
+    "response": {
+      "answer": "0.05%.",
+      "citations": [
+        "BHF-C035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the linearity limit of H2RG-IR1?",
+    "response": {
+      "answer": "70000 e−.",
+      "citations": [
+        "BHF-C017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the dark current for IFU-Spec1?",
+    "response": {
+      "answer": "0.02 e−/pixel/s.",
+      "citations": [
+        "BHF-C032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the operating temperature for IFU-Spec1?",
+    "response": {
+      "answer": "−110 °C.",
+      "citations": [
+        "BHF-C033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the linearity limit for IFU-Spec1?",
+    "response": {
+      "answer": "85% of full well.",
+      "citations": [
+        "BHF-C029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the full-well capacity of CCD-V1?",
+    "response": {
+      "answer": "200000 e−.",
+      "citations": [
+        "BHF-C003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the quantum efficiency peak for CCD-V1?",
+    "response": {
+      "answer": "90% at 550 nm.",
+      "citations": [
+        "BHF-C010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the full-well capacity of H2RG-IR1?",
+    "response": {
+      "answer": "80000 e−.",
+      "citations": [
+        "BHF-C016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the clocking voltage for CCD-V1?",
+    "response": {
+      "answer": "10 V.",
+      "citations": [
+        "BHF-C011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the quantum efficiency peak for CCD-V1?",
+    "response": {
+      "answer": "90% at 550 nm.",
+      "citations": [
+        "BHF-C010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the crosstalk of H2RG-IR1?",
+    "response": {
+      "answer": "0.2%.",
+      "citations": [
+        "BHF-C025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the gain for IFU-Spec1?",
+    "response": {
+      "answer": "3.5 e−/ADU.",
+      "citations": [
+        "BHF-C030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the read noise for CCD-V1?",
+    "response": {
+      "answer": "3 e− RMS.",
+      "citations": [
+        "BHF-C006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the pixel size of IFU-Spec1?",
+    "response": {
+      "answer": "13 μm.",
+      "citations": [
+        "BHF-C027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the gain for H2RG-IR1?",
+    "response": {
+      "answer": "2.0 e−/ADU.",
+      "citations": [
+        "BHF-C018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the full-well capacity for H2RG-IR1?",
+    "response": {
+      "answer": "80000 e−.",
+      "citations": [
+        "BHF-C016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the crosstalk of CCD-V1?",
+    "response": {
+      "answer": "< 0.1%.",
+      "citations": [
+        "BHF-C013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the dark current of IFU-Spec1?",
+    "response": {
+      "answer": "0.02 e−/pixel/s.",
+      "citations": [
+        "BHF-C032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the gain of H2RG-IR1?",
+    "response": {
+      "answer": "2.0 e−/ADU.",
+      "citations": [
+        "BHF-C018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the dark current of CCD-V1?",
+    "response": {
+      "answer": "0.005 e−/pixel/s.",
+      "citations": [
+        "BHF-C007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the linearity limit for CCD-V1?",
+    "response": {
+      "answer": "90% of full well.",
+      "citations": [
+        "BHF-C004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the linearity limit for H2RG-IR1?",
+    "response": {
+      "answer": "70000 e−.",
+      "citations": [
+        "BHF-C017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the full-well capacity for H2RG-IR1?",
+    "response": {
+      "answer": "80000 e−.",
+      "citations": [
+        "BHF-C016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the clocking voltage for CCD-V1?",
+    "response": {
+      "answer": "10 V.",
+      "citations": [
+        "BHF-C011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the format for IFU-Spec1?",
+    "response": {
+      "answer": "1024 × 1024 pixels.",
+      "citations": [
+        "BHF-C026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the crosstalk for H2RG-IR1?",
+    "response": {
+      "answer": "0.2%.",
+      "citations": [
+        "BHF-C025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the linearity limit for H2RG-IR1?",
+    "response": {
+      "answer": "70000 e−.",
+      "citations": [
+        "BHF-C017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Give the bias level of H2RG-IR1?",
+    "response": {
+      "answer": "500 ADU.",
+      "citations": [
+        "BHF-C024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the operating temperature for H2RG-IR1?",
+    "response": {
+      "answer": "77 K.",
+      "citations": [
+        "BHF-C022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the linearity limit for CCD-V1?",
+    "response": {
+      "answer": "90% of full well.",
+      "citations": [
+        "BHF-C004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the bias level for IFU-Spec1?",
+    "response": {
+      "answer": "800 ADU.",
+      "citations": [
+        "BHF-C034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 linearity limit and h2rg-ir1 dark current?",
+    "response": {
+      "answer": "H2RG-IR1 linearity limit: 70000 e−. H2RG-IR1 dark current: 0.01 e−/pixel/s.",
+      "citations": [
+        "BHF-C017",
+        "BHF-C021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 read noise (single read), h2rg-ir1 quantum efficiency peak, h2rg-ir1 pixel size, and h2rg-ir1 read noise (multiple reads)?",
+    "response": {
+      "answer": "H2RG-IR1 read noise (single read): 10 e− RMS. H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm. H2RG-IR1 pixel size: 18 μm. H2RG-IR1 read noise (multiple reads): 5 e− RMS.",
+      "citations": [
+        "BHF-C019",
+        "BHF-C023",
+        "BHF-C015",
+        "BHF-C020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 pixel size and ifu-spec1 dark current?",
+    "response": {
+      "answer": "IFU-Spec1 pixel size: 13 μm. IFU-Spec1 dark current: 0.02 e−/pixel/s.",
+      "citations": [
+        "BHF-C027",
+        "BHF-C032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 linearity limit, ifu-spec1 pixel size, and ifu-spec1 format?",
+    "response": {
+      "answer": "IFU-Spec1 linearity limit: 85% of full well. IFU-Spec1 pixel size: 13 μm. IFU-Spec1 format: 1024 × 1024 pixels.",
+      "citations": [
+        "BHF-C029",
+        "BHF-C027",
+        "BHF-C026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 read noise, ifu-spec1 pixel size, ifu-spec1 bias level, and ifu-spec1 operating temperature?",
+    "response": {
+      "answer": "IFU-Spec1 read noise: 4 e− RMS. IFU-Spec1 pixel size: 13 μm. IFU-Spec1 bias level: 800 ADU. IFU-Spec1 operating temperature: −110 °C.",
+      "citations": [
+        "BHF-C031",
+        "BHF-C027",
+        "BHF-C034",
+        "BHF-C033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 operating temperature, IFU-Spec1 operating temperature, and H2RG-IR1 operating temperature?",
+    "response": {
+      "answer": "CCD-V1 operating temperature: −100 °C. IFU-Spec1 operating temperature: −110 °C. H2RG-IR1 operating temperature: 77 K.",
+      "citations": [
+        "BHF-C009",
+        "BHF-C033",
+        "BHF-C022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 quantum efficiency peak and H2RG-IR1 quantum efficiency peak, and QE curve file?",
+    "response": {
+      "answer": "CCD-V1 quantum efficiency peak: 90% at 550 nm. H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm. Missing data: information about QE curve file is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C010",
+        "BHF-C023"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 format and CCD-V1 format?",
+    "response": {
+      "answer": "IFU-Spec1 format: 1024 × 1024 pixels. CCD-V1 format: 4096 × 4096 pixels.",
+      "citations": [
+        "BHF-C026",
+        "BHF-C001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 dark current, ifu-spec1 bias level, and ifu-spec1 read noise, and emissivity?",
+    "response": {
+      "answer": "IFU-Spec1 dark current: 0.02 e−/pixel/s. IFU-Spec1 bias level: 800 ADU. IFU-Spec1 read noise: 4 e− RMS. Missing data: information about emissivity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C032",
+        "BHF-C034",
+        "BHF-C031"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List CCD-V1 operating temperature, H2RG-IR1 operating temperature, and IFU-Spec1 operating temperature?",
+    "response": {
+      "answer": "CCD-V1 operating temperature: −100 °C. H2RG-IR1 operating temperature: 77 K. IFU-Spec1 operating temperature: −110 °C.",
+      "citations": [
+        "BHF-C009",
+        "BHF-C022",
+        "BHF-C033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 dark current and h2rg-ir1 linearity limit?",
+    "response": {
+      "answer": "H2RG-IR1 dark current: 0.01 e−/pixel/s. H2RG-IR1 linearity limit: 70000 e−.",
+      "citations": [
+        "BHF-C021",
+        "BHF-C017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 full-well capacity, ifu-spec1 linearity limit, ifu-spec1 pixel size, and ifu-spec1 operating temperature?",
+    "response": {
+      "answer": "IFU-Spec1 full-well capacity: 150000 e−. IFU-Spec1 linearity limit: 85% of full well. IFU-Spec1 pixel size: 13 μm. IFU-Spec1 operating temperature: −110 °C.",
+      "citations": [
+        "BHF-C028",
+        "BHF-C029",
+        "BHF-C027",
+        "BHF-C033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 format, CCD-V1 format, and H2RG-IR1 format?",
+    "response": {
+      "answer": "IFU-Spec1 format: 1024 × 1024 pixels. CCD-V1 format: 4096 × 4096 pixels. H2RG-IR1 format: 2048 × 2048 pixels.",
+      "citations": [
+        "BHF-C026",
+        "BHF-C001",
+        "BHF-C014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 bias level and ifu-spec1 full-well capacity?",
+    "response": {
+      "answer": "IFU-Spec1 bias level: 800 ADU. IFU-Spec1 full-well capacity: 150000 e−.",
+      "citations": [
+        "BHF-C034",
+        "BHF-C028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 gain, H2RG-IR1 gain, and CCD-V1 gain?",
+    "response": {
+      "answer": "IFU-Spec1 gain: 3.5 e−/ADU. H2RG-IR1 gain: 2.0 e−/ADU. CCD-V1 gain: 1.5 e−/ADU.",
+      "citations": [
+        "BHF-C030",
+        "BHF-C018",
+        "BHF-C005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 operating temperature, CCD-V1 operating temperature, and H2RG-IR1 operating temperature?",
+    "response": {
+      "answer": "IFU-Spec1 operating temperature: −110 °C. CCD-V1 operating temperature: −100 °C. H2RG-IR1 operating temperature: 77 K.",
+      "citations": [
+        "BHF-C033",
+        "BHF-C009",
+        "BHF-C022"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 pixel size, h2rg-ir1 crosstalk, h2rg-ir1 read noise (single read), and h2rg-ir1 gain?",
+    "response": {
+      "answer": "H2RG-IR1 pixel size: 18 μm. H2RG-IR1 crosstalk: 0.2%. H2RG-IR1 read noise (single read): 10 e− RMS. H2RG-IR1 gain: 2.0 e−/ADU.",
+      "citations": [
+        "BHF-C015",
+        "BHF-C025",
+        "BHF-C019",
+        "BHF-C018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 operating temperature, ccd-v1 clocking voltage, and ccd-v1 saturation threshold?",
+    "response": {
+      "answer": "CCD-V1 operating temperature: −100 °C. CCD-V1 clocking voltage: 10 V. CCD-V1 saturation threshold: 180000 e−.",
+      "citations": [
+        "BHF-C009",
+        "BHF-C011",
+        "BHF-C008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 full-well capacity and h2rg-ir1 linearity limit?",
+    "response": {
+      "answer": "H2RG-IR1 full-well capacity: 80000 e−. H2RG-IR1 linearity limit: 70000 e−.",
+      "citations": [
+        "BHF-C016",
+        "BHF-C017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 gain and H2RG-IR1 gain?",
+    "response": {
+      "answer": "IFU-Spec1 gain: 3.5 e−/ADU. H2RG-IR1 gain: 2.0 e−/ADU.",
+      "citations": [
+        "BHF-C030",
+        "BHF-C018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 operating temperature, ifu-spec1 dark current, ifu-spec1 crosstalk, and ifu-spec1 read noise, and radiation hardness?",
+    "response": {
+      "answer": "IFU-Spec1 operating temperature: −110 °C. IFU-Spec1 dark current: 0.02 e−/pixel/s. IFU-Spec1 crosstalk: 0.05%. IFU-Spec1 read noise: 4 e− RMS. Missing data: information about radiation hardness is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C033",
+        "BHF-C032",
+        "BHF-C035",
+        "BHF-C031"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 gain and CCD-V1 gain?",
+    "response": {
+      "answer": "H2RG-IR1 gain: 2.0 e−/ADU. CCD-V1 gain: 1.5 e−/ADU.",
+      "citations": [
+        "BHF-C018",
+        "BHF-C005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 read noise and IFU-Spec1 read noise?",
+    "response": {
+      "answer": "CCD-V1 read noise: 3 e− RMS. IFU-Spec1 read noise: 4 e− RMS.",
+      "citations": [
+        "BHF-C006",
+        "BHF-C031"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 quantum efficiency peak, ccd-v1 clocking voltage, ccd-v1 full-well capacity, and ccd-v1 bias level?",
+    "response": {
+      "answer": "CCD-V1 quantum efficiency peak: 90% at 550 nm. CCD-V1 clocking voltage: 10 V. CCD-V1 full-well capacity: 200000 e−. CCD-V1 bias level: 1000 ADU.",
+      "citations": [
+        "BHF-C010",
+        "BHF-C011",
+        "BHF-C003",
+        "BHF-C012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 pixel size, IFU-Spec1 pixel size, and CCD-V1 pixel size?",
+    "response": {
+      "answer": "H2RG-IR1 pixel size: 18 μm. IFU-Spec1 pixel size: 13 μm. CCD-V1 pixel size: 15 μm.",
+      "citations": [
+        "BHF-C015",
+        "BHF-C027",
+        "BHF-C002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 bias level and IFU-Spec1 bias level?",
+    "response": {
+      "answer": "CCD-V1 bias level: 1000 ADU. IFU-Spec1 bias level: 800 ADU.",
+      "citations": [
+        "BHF-C012",
+        "BHF-C034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 format, h2rg-ir1 full-well capacity, and h2rg-ir1 read noise (single read)?",
+    "response": {
+      "answer": "H2RG-IR1 format: 2048 × 2048 pixels. H2RG-IR1 full-well capacity: 80000 e−. H2RG-IR1 read noise (single read): 10 e− RMS.",
+      "citations": [
+        "BHF-C014",
+        "BHF-C016",
+        "BHF-C019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 full-well capacity, CCD-V1 full-well capacity, and H2RG-IR1 full-well capacity?",
+    "response": {
+      "answer": "IFU-Spec1 full-well capacity: 150000 e−. CCD-V1 full-well capacity: 200000 e−. H2RG-IR1 full-well capacity: 80000 e−.",
+      "citations": [
+        "BHF-C028",
+        "BHF-C003",
+        "BHF-C016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 read noise, ifu-spec1 dark current, ifu-spec1 gain, and ifu-spec1 crosstalk?",
+    "response": {
+      "answer": "IFU-Spec1 read noise: 4 e− RMS. IFU-Spec1 dark current: 0.02 e−/pixel/s. IFU-Spec1 gain: 3.5 e−/ADU. IFU-Spec1 crosstalk: 0.05%.",
+      "citations": [
+        "BHF-C031",
+        "BHF-C032",
+        "BHF-C030",
+        "BHF-C035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 dark current, ifu-spec1 format, and ifu-spec1 crosstalk?",
+    "response": {
+      "answer": "IFU-Spec1 dark current: 0.02 e−/pixel/s. IFU-Spec1 format: 1024 × 1024 pixels. IFU-Spec1 crosstalk: 0.05%.",
+      "citations": [
+        "BHF-C032",
+        "BHF-C026",
+        "BHF-C035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 dark current, H2RG-IR1 dark current, and IFU-Spec1 dark current?",
+    "response": {
+      "answer": "CCD-V1 dark current: 0.005 e−/pixel/s. H2RG-IR1 dark current: 0.01 e−/pixel/s. IFU-Spec1 dark current: 0.02 e−/pixel/s.",
+      "citations": [
+        "BHF-C007",
+        "BHF-C021",
+        "BHF-C032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 dark current, ifu-spec1 linearity limit, and ifu-spec1 bias level?",
+    "response": {
+      "answer": "IFU-Spec1 dark current: 0.02 e−/pixel/s. IFU-Spec1 linearity limit: 85% of full well. IFU-Spec1 bias level: 800 ADU.",
+      "citations": [
+        "BHF-C032",
+        "BHF-C029",
+        "BHF-C034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 clocking voltage and ccd-v1 quantum efficiency peak?",
+    "response": {
+      "answer": "CCD-V1 clocking voltage: 10 V. CCD-V1 quantum efficiency peak: 90% at 550 nm.",
+      "citations": [
+        "BHF-C011",
+        "BHF-C010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 bias level and ccd-v1 pixel size?",
+    "response": {
+      "answer": "CCD-V1 bias level: 1000 ADU. CCD-V1 pixel size: 15 μm.",
+      "citations": [
+        "BHF-C012",
+        "BHF-C002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 pixel size and h2rg-ir1 linearity limit?",
+    "response": {
+      "answer": "H2RG-IR1 pixel size: 18 μm. H2RG-IR1 linearity limit: 70000 e−.",
+      "citations": [
+        "BHF-C015",
+        "BHF-C017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 quantum efficiency peak and ccd-v1 bias level, and QE curve file?",
+    "response": {
+      "answer": "CCD-V1 quantum efficiency peak: 90% at 550 nm. CCD-V1 bias level: 1000 ADU. Missing data: information about QE curve file is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C010",
+        "BHF-C012"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 bias level and CCD-V1 bias level?",
+    "response": {
+      "answer": "H2RG-IR1 bias level: 500 ADU. CCD-V1 bias level: 1000 ADU.",
+      "citations": [
+        "BHF-C024",
+        "BHF-C012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 dark current and CCD-V1 dark current?",
+    "response": {
+      "answer": "IFU-Spec1 dark current: 0.02 e−/pixel/s. CCD-V1 dark current: 0.005 e−/pixel/s.",
+      "citations": [
+        "BHF-C032",
+        "BHF-C007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 quantum efficiency peak and h2rg-ir1 read noise (single read)?",
+    "response": {
+      "answer": "H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm. H2RG-IR1 read noise (single read): 10 e− RMS.",
+      "citations": [
+        "BHF-C023",
+        "BHF-C019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 dark current, ifu-spec1 pixel size, and ifu-spec1 bias level?",
+    "response": {
+      "answer": "IFU-Spec1 dark current: 0.02 e−/pixel/s. IFU-Spec1 pixel size: 13 μm. IFU-Spec1 bias level: 800 ADU.",
+      "citations": [
+        "BHF-C032",
+        "BHF-C027",
+        "BHF-C034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 bias level, CCD-V1 bias level, and H2RG-IR1 bias level?",
+    "response": {
+      "answer": "IFU-Spec1 bias level: 800 ADU. CCD-V1 bias level: 1000 ADU. H2RG-IR1 bias level: 500 ADU.",
+      "citations": [
+        "BHF-C034",
+        "BHF-C012",
+        "BHF-C024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 operating temperature and IFU-Spec1 operating temperature?",
+    "response": {
+      "answer": "H2RG-IR1 operating temperature: 77 K. IFU-Spec1 operating temperature: −110 °C.",
+      "citations": [
+        "BHF-C022",
+        "BHF-C033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 pixel size and h2rg-ir1 dark current?",
+    "response": {
+      "answer": "H2RG-IR1 pixel size: 18 μm. H2RG-IR1 dark current: 0.01 e−/pixel/s.",
+      "citations": [
+        "BHF-C015",
+        "BHF-C021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 operating temperature, h2rg-ir1 read noise (multiple reads), and h2rg-ir1 linearity limit?",
+    "response": {
+      "answer": "H2RG-IR1 operating temperature: 77 K. H2RG-IR1 read noise (multiple reads): 5 e− RMS. H2RG-IR1 linearity limit: 70000 e−.",
+      "citations": [
+        "BHF-C022",
+        "BHF-C020",
+        "BHF-C017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 gain, h2rg-ir1 full-well capacity, and h2rg-ir1 pixel size?",
+    "response": {
+      "answer": "H2RG-IR1 gain: 2.0 e−/ADU. H2RG-IR1 full-well capacity: 80000 e−. H2RG-IR1 pixel size: 18 μm.",
+      "citations": [
+        "BHF-C018",
+        "BHF-C016",
+        "BHF-C015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 operating temperature and IFU-Spec1 operating temperature?",
+    "response": {
+      "answer": "CCD-V1 operating temperature: −100 °C. IFU-Spec1 operating temperature: −110 °C.",
+      "citations": [
+        "BHF-C009",
+        "BHF-C033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 read noise, ccd-v1 format, and ccd-v1 saturation threshold?",
+    "response": {
+      "answer": "CCD-V1 read noise: 3 e− RMS. CCD-V1 format: 4096 × 4096 pixels. CCD-V1 saturation threshold: 180000 e−.",
+      "citations": [
+        "BHF-C006",
+        "BHF-C001",
+        "BHF-C008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 full-well capacity, CCD-V1 full-well capacity, and IFU-Spec1 full-well capacity?",
+    "response": {
+      "answer": "H2RG-IR1 full-well capacity: 80000 e−. CCD-V1 full-well capacity: 200000 e−. IFU-Spec1 full-well capacity: 150000 e−.",
+      "citations": [
+        "BHF-C016",
+        "BHF-C003",
+        "BHF-C028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 read noise, ifu-spec1 full-well capacity, and ifu-spec1 linearity limit?",
+    "response": {
+      "answer": "IFU-Spec1 read noise: 4 e− RMS. IFU-Spec1 full-well capacity: 150000 e−. IFU-Spec1 linearity limit: 85% of full well.",
+      "citations": [
+        "BHF-C031",
+        "BHF-C028",
+        "BHF-C029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 format, IFU-Spec1 format, and CCD-V1 format?",
+    "response": {
+      "answer": "H2RG-IR1 format: 2048 × 2048 pixels. IFU-Spec1 format: 1024 × 1024 pixels. CCD-V1 format: 4096 × 4096 pixels.",
+      "citations": [
+        "BHF-C014",
+        "BHF-C026",
+        "BHF-C001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 linearity limit, ifu-spec1 pixel size, ifu-spec1 gain, and ifu-spec1 crosstalk?",
+    "response": {
+      "answer": "IFU-Spec1 linearity limit: 85% of full well. IFU-Spec1 pixel size: 13 μm. IFU-Spec1 gain: 3.5 e−/ADU. IFU-Spec1 crosstalk: 0.05%.",
+      "citations": [
+        "BHF-C029",
+        "BHF-C027",
+        "BHF-C030",
+        "BHF-C035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 dark current, h2rg-ir1 quantum efficiency peak, and h2rg-ir1 read noise (single read)?",
+    "response": {
+      "answer": "H2RG-IR1 dark current: 0.01 e−/pixel/s. H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm. H2RG-IR1 read noise (single read): 10 e− RMS.",
+      "citations": [
+        "BHF-C021",
+        "BHF-C023",
+        "BHF-C019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 pixel size, H2RG-IR1 pixel size, and IFU-Spec1 pixel size?",
+    "response": {
+      "answer": "CCD-V1 pixel size: 15 μm. H2RG-IR1 pixel size: 18 μm. IFU-Spec1 pixel size: 13 μm.",
+      "citations": [
+        "BHF-C002",
+        "BHF-C015",
+        "BHF-C027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 linearity limit, H2RG-IR1 linearity limit, and IFU-Spec1 linearity limit, and flat-field stability?",
+    "response": {
+      "answer": "CCD-V1 linearity limit: 90% of full well. H2RG-IR1 linearity limit: 70000 e−. IFU-Spec1 linearity limit: 85% of full well. Missing data: information about flat-field stability is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C004",
+        "BHF-C017",
+        "BHF-C029"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 dark current, CCD-V1 dark current, and H2RG-IR1 dark current?",
+    "response": {
+      "answer": "IFU-Spec1 dark current: 0.02 e−/pixel/s. CCD-V1 dark current: 0.005 e−/pixel/s. H2RG-IR1 dark current: 0.01 e−/pixel/s.",
+      "citations": [
+        "BHF-C032",
+        "BHF-C007",
+        "BHF-C021"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 crosstalk and H2RG-IR1 crosstalk?",
+    "response": {
+      "answer": "CCD-V1 crosstalk: < 0.1%. H2RG-IR1 crosstalk: 0.2%.",
+      "citations": [
+        "BHF-C013",
+        "BHF-C025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 crosstalk, IFU-Spec1 crosstalk, and H2RG-IR1 crosstalk?",
+    "response": {
+      "answer": "CCD-V1 crosstalk: < 0.1%. IFU-Spec1 crosstalk: 0.05%. H2RG-IR1 crosstalk: 0.2%.",
+      "citations": [
+        "BHF-C013",
+        "BHF-C035",
+        "BHF-C025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 quantum efficiency peak and CCD-V1 quantum efficiency peak?",
+    "response": {
+      "answer": "H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm. CCD-V1 quantum efficiency peak: 90% at 550 nm.",
+      "citations": [
+        "BHF-C023",
+        "BHF-C010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 operating temperature, ccd-v1 pixel size, ccd-v1 quantum efficiency peak, and ccd-v1 bias level?",
+    "response": {
+      "answer": "CCD-V1 operating temperature: −100 °C. CCD-V1 pixel size: 15 μm. CCD-V1 quantum efficiency peak: 90% at 550 nm. CCD-V1 bias level: 1000 ADU.",
+      "citations": [
+        "BHF-C009",
+        "BHF-C002",
+        "BHF-C010",
+        "BHF-C012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 dark current, h2rg-ir1 linearity limit, h2rg-ir1 quantum efficiency peak, and h2rg-ir1 pixel size?",
+    "response": {
+      "answer": "H2RG-IR1 dark current: 0.01 e−/pixel/s. H2RG-IR1 linearity limit: 70000 e−. H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm. H2RG-IR1 pixel size: 18 μm.",
+      "citations": [
+        "BHF-C021",
+        "BHF-C017",
+        "BHF-C023",
+        "BHF-C015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 gain, ccd-v1 dark current, and ccd-v1 crosstalk?",
+    "response": {
+      "answer": "CCD-V1 gain: 1.5 e−/ADU. CCD-V1 dark current: 0.005 e−/pixel/s. CCD-V1 crosstalk: < 0.1%.",
+      "citations": [
+        "BHF-C005",
+        "BHF-C007",
+        "BHF-C013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 dark current and IFU-Spec1 dark current?",
+    "response": {
+      "answer": "CCD-V1 dark current: 0.005 e−/pixel/s. IFU-Spec1 dark current: 0.02 e−/pixel/s.",
+      "citations": [
+        "BHF-C007",
+        "BHF-C032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 format and h2rg-ir1 full-well capacity, and emissivity?",
+    "response": {
+      "answer": "H2RG-IR1 format: 2048 × 2048 pixels. H2RG-IR1 full-well capacity: 80000 e−. Missing data: information about emissivity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C014",
+        "BHF-C016"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 operating temperature, ccd-v1 gain, ccd-v1 pixel size, and ccd-v1 linearity limit?",
+    "response": {
+      "answer": "CCD-V1 operating temperature: −100 °C. CCD-V1 gain: 1.5 e−/ADU. CCD-V1 pixel size: 15 μm. CCD-V1 linearity limit: 90% of full well.",
+      "citations": [
+        "BHF-C009",
+        "BHF-C005",
+        "BHF-C002",
+        "BHF-C004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 pixel size, CCD-V1 pixel size, and IFU-Spec1 pixel size?",
+    "response": {
+      "answer": "H2RG-IR1 pixel size: 18 μm. CCD-V1 pixel size: 15 μm. IFU-Spec1 pixel size: 13 μm.",
+      "citations": [
+        "BHF-C015",
+        "BHF-C002",
+        "BHF-C027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 dark current and ifu-spec1 linearity limit, and QE curve file?",
+    "response": {
+      "answer": "IFU-Spec1 dark current: 0.02 e−/pixel/s. IFU-Spec1 linearity limit: 85% of full well. Missing data: information about QE curve file is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C032",
+        "BHF-C029"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 dark current, h2rg-ir1 quantum efficiency peak, and h2rg-ir1 full-well capacity?",
+    "response": {
+      "answer": "H2RG-IR1 dark current: 0.01 e−/pixel/s. H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm. H2RG-IR1 full-well capacity: 80000 e−.",
+      "citations": [
+        "BHF-C021",
+        "BHF-C023",
+        "BHF-C016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 gain and ifu-spec1 format?",
+    "response": {
+      "answer": "IFU-Spec1 gain: 3.5 e−/ADU. IFU-Spec1 format: 1024 × 1024 pixels.",
+      "citations": [
+        "BHF-C030",
+        "BHF-C026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 pixel size, IFU-Spec1 pixel size, and H2RG-IR1 pixel size?",
+    "response": {
+      "answer": "CCD-V1 pixel size: 15 μm. IFU-Spec1 pixel size: 13 μm. H2RG-IR1 pixel size: 18 μm.",
+      "citations": [
+        "BHF-C002",
+        "BHF-C027",
+        "BHF-C015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 dark current, h2rg-ir1 read noise (single read), and h2rg-ir1 quantum efficiency peak?",
+    "response": {
+      "answer": "H2RG-IR1 dark current: 0.01 e−/pixel/s. H2RG-IR1 read noise (single read): 10 e− RMS. H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm.",
+      "citations": [
+        "BHF-C021",
+        "BHF-C019",
+        "BHF-C023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 pixel size and IFU-Spec1 pixel size?",
+    "response": {
+      "answer": "H2RG-IR1 pixel size: 18 μm. IFU-Spec1 pixel size: 13 μm.",
+      "citations": [
+        "BHF-C015",
+        "BHF-C027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 pixel size and H2RG-IR1 pixel size, and intra-pixel response?",
+    "response": {
+      "answer": "IFU-Spec1 pixel size: 13 μm. H2RG-IR1 pixel size: 18 μm. Missing data: information about intra-pixel response is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C027",
+        "BHF-C015"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 read noise, ifu-spec1 crosstalk, and ifu-spec1 operating temperature, and radiation hardness?",
+    "response": {
+      "answer": "IFU-Spec1 read noise: 4 e− RMS. IFU-Spec1 crosstalk: 0.05%. IFU-Spec1 operating temperature: −110 °C. Missing data: information about radiation hardness is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C031",
+        "BHF-C035",
+        "BHF-C033"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List CCD-V1 full-well capacity, H2RG-IR1 full-well capacity, and IFU-Spec1 full-well capacity?",
+    "response": {
+      "answer": "CCD-V1 full-well capacity: 200000 e−. H2RG-IR1 full-well capacity: 80000 e−. IFU-Spec1 full-well capacity: 150000 e−.",
+      "citations": [
+        "BHF-C003",
+        "BHF-C016",
+        "BHF-C028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 read noise and CCD-V1 read noise?",
+    "response": {
+      "answer": "IFU-Spec1 read noise: 4 e− RMS. CCD-V1 read noise: 3 e− RMS.",
+      "citations": [
+        "BHF-C031",
+        "BHF-C006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 bias level, ccd-v1 pixel size, ccd-v1 clocking voltage, and ccd-v1 crosstalk?",
+    "response": {
+      "answer": "CCD-V1 bias level: 1000 ADU. CCD-V1 pixel size: 15 μm. CCD-V1 clocking voltage: 10 V. CCD-V1 crosstalk: < 0.1%.",
+      "citations": [
+        "BHF-C012",
+        "BHF-C002",
+        "BHF-C011",
+        "BHF-C013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 format, ccd-v1 saturation threshold, and ccd-v1 linearity limit?",
+    "response": {
+      "answer": "CCD-V1 format: 4096 × 4096 pixels. CCD-V1 saturation threshold: 180000 e−. CCD-V1 linearity limit: 90% of full well.",
+      "citations": [
+        "BHF-C001",
+        "BHF-C008",
+        "BHF-C004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 full-well capacity, ccd-v1 pixel size, and ccd-v1 read noise?",
+    "response": {
+      "answer": "CCD-V1 full-well capacity: 200000 e−. CCD-V1 pixel size: 15 μm. CCD-V1 read noise: 3 e− RMS.",
+      "citations": [
+        "BHF-C003",
+        "BHF-C002",
+        "BHF-C006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 operating temperature, ccd-v1 quantum efficiency peak, ccd-v1 linearity limit, and ccd-v1 clocking voltage, and flat-field stability?",
+    "response": {
+      "answer": "CCD-V1 operating temperature: −100 °C. CCD-V1 quantum efficiency peak: 90% at 550 nm. CCD-V1 linearity limit: 90% of full well. CCD-V1 clocking voltage: 10 V. Missing data: information about flat-field stability is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C009",
+        "BHF-C010",
+        "BHF-C004",
+        "BHF-C011"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 full-well capacity, ccd-v1 linearity limit, ccd-v1 quantum efficiency peak, and ccd-v1 operating temperature?",
+    "response": {
+      "answer": "CCD-V1 full-well capacity: 200000 e−. CCD-V1 linearity limit: 90% of full well. CCD-V1 quantum efficiency peak: 90% at 550 nm. CCD-V1 operating temperature: −100 °C.",
+      "citations": [
+        "BHF-C003",
+        "BHF-C004",
+        "BHF-C010",
+        "BHF-C009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 format, CCD-V1 format, and IFU-Spec1 format?",
+    "response": {
+      "answer": "H2RG-IR1 format: 2048 × 2048 pixels. CCD-V1 format: 4096 × 4096 pixels. IFU-Spec1 format: 1024 × 1024 pixels.",
+      "citations": [
+        "BHF-C014",
+        "BHF-C001",
+        "BHF-C026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 pixel size, CCD-V1 pixel size, and H2RG-IR1 pixel size?",
+    "response": {
+      "answer": "IFU-Spec1 pixel size: 13 μm. CCD-V1 pixel size: 15 μm. H2RG-IR1 pixel size: 18 μm.",
+      "citations": [
+        "BHF-C027",
+        "BHF-C002",
+        "BHF-C015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 dark current, CCD-V1 dark current, and IFU-Spec1 dark current?",
+    "response": {
+      "answer": "H2RG-IR1 dark current: 0.01 e−/pixel/s. CCD-V1 dark current: 0.005 e−/pixel/s. IFU-Spec1 dark current: 0.02 e−/pixel/s.",
+      "citations": [
+        "BHF-C021",
+        "BHF-C007",
+        "BHF-C032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 clocking voltage, ccd-v1 format, ccd-v1 operating temperature, and ccd-v1 crosstalk, and charge transfer efficiency?",
+    "response": {
+      "answer": "CCD-V1 clocking voltage: 10 V. CCD-V1 format: 4096 × 4096 pixels. CCD-V1 operating temperature: −100 °C. CCD-V1 crosstalk: < 0.1%. Missing data: information about charge transfer efficiency is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C011",
+        "BHF-C001",
+        "BHF-C009",
+        "BHF-C013"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 saturation threshold, ccd-v1 full-well capacity, and ccd-v1 gain?",
+    "response": {
+      "answer": "CCD-V1 saturation threshold: 180000 e−. CCD-V1 full-well capacity: 200000 e−. CCD-V1 gain: 1.5 e−/ADU.",
+      "citations": [
+        "BHF-C008",
+        "BHF-C003",
+        "BHF-C005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 operating temperature, ifu-spec1 dark current, and ifu-spec1 full-well capacity?",
+    "response": {
+      "answer": "IFU-Spec1 operating temperature: −110 °C. IFU-Spec1 dark current: 0.02 e−/pixel/s. IFU-Spec1 full-well capacity: 150000 e−.",
+      "citations": [
+        "BHF-C033",
+        "BHF-C032",
+        "BHF-C028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 read noise, ifu-spec1 full-well capacity, ifu-spec1 dark current, and ifu-spec1 linearity limit, and cosmic-ray hit rate?",
+    "response": {
+      "answer": "IFU-Spec1 read noise: 4 e− RMS. IFU-Spec1 full-well capacity: 150000 e−. IFU-Spec1 dark current: 0.02 e−/pixel/s. IFU-Spec1 linearity limit: 85% of full well. Missing data: information about cosmic-ray hit rate is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C031",
+        "BHF-C028",
+        "BHF-C032",
+        "BHF-C029"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 pixel size, h2rg-ir1 operating temperature, h2rg-ir1 bias level, and h2rg-ir1 quantum efficiency peak?",
+    "response": {
+      "answer": "H2RG-IR1 pixel size: 18 μm. H2RG-IR1 operating temperature: 77 K. H2RG-IR1 bias level: 500 ADU. H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm.",
+      "citations": [
+        "BHF-C015",
+        "BHF-C022",
+        "BHF-C024",
+        "BHF-C023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 pixel size, ccd-v1 linearity limit, and ccd-v1 dark current?",
+    "response": {
+      "answer": "CCD-V1 pixel size: 15 μm. CCD-V1 linearity limit: 90% of full well. CCD-V1 dark current: 0.005 e−/pixel/s.",
+      "citations": [
+        "BHF-C002",
+        "BHF-C004",
+        "BHF-C007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 dark current, H2RG-IR1 dark current, and CCD-V1 dark current?",
+    "response": {
+      "answer": "IFU-Spec1 dark current: 0.02 e−/pixel/s. H2RG-IR1 dark current: 0.01 e−/pixel/s. CCD-V1 dark current: 0.005 e−/pixel/s.",
+      "citations": [
+        "BHF-C032",
+        "BHF-C021",
+        "BHF-C007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 operating temperature, ccd-v1 gain, ccd-v1 dark current, and ccd-v1 clocking voltage?",
+    "response": {
+      "answer": "CCD-V1 operating temperature: −100 °C. CCD-V1 gain: 1.5 e−/ADU. CCD-V1 dark current: 0.005 e−/pixel/s. CCD-V1 clocking voltage: 10 V.",
+      "citations": [
+        "BHF-C009",
+        "BHF-C005",
+        "BHF-C007",
+        "BHF-C011"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 crosstalk, ccd-v1 full-well capacity, and ccd-v1 dark current?",
+    "response": {
+      "answer": "CCD-V1 crosstalk: < 0.1%. CCD-V1 full-well capacity: 200000 e−. CCD-V1 dark current: 0.005 e−/pixel/s.",
+      "citations": [
+        "BHF-C013",
+        "BHF-C003",
+        "BHF-C007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 linearity limit and CCD-V1 linearity limit?",
+    "response": {
+      "answer": "IFU-Spec1 linearity limit: 85% of full well. CCD-V1 linearity limit: 90% of full well.",
+      "citations": [
+        "BHF-C029",
+        "BHF-C004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 bias level, H2RG-IR1 bias level, and IFU-Spec1 bias level?",
+    "response": {
+      "answer": "CCD-V1 bias level: 1000 ADU. H2RG-IR1 bias level: 500 ADU. IFU-Spec1 bias level: 800 ADU.",
+      "citations": [
+        "BHF-C012",
+        "BHF-C024",
+        "BHF-C034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 full-well capacity, h2rg-ir1 format, and h2rg-ir1 bias level?",
+    "response": {
+      "answer": "H2RG-IR1 full-well capacity: 80000 e−. H2RG-IR1 format: 2048 × 2048 pixels. H2RG-IR1 bias level: 500 ADU.",
+      "citations": [
+        "BHF-C016",
+        "BHF-C014",
+        "BHF-C024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 read noise (multiple reads) and h2rg-ir1 full-well capacity?",
+    "response": {
+      "answer": "H2RG-IR1 read noise (multiple reads): 5 e− RMS. H2RG-IR1 full-well capacity: 80000 e−.",
+      "citations": [
+        "BHF-C020",
+        "BHF-C016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 format, h2rg-ir1 read noise (multiple reads), h2rg-ir1 crosstalk, and h2rg-ir1 read noise (single read)?",
+    "response": {
+      "answer": "H2RG-IR1 format: 2048 × 2048 pixels. H2RG-IR1 read noise (multiple reads): 5 e− RMS. H2RG-IR1 crosstalk: 0.2%. H2RG-IR1 read noise (single read): 10 e− RMS.",
+      "citations": [
+        "BHF-C014",
+        "BHF-C020",
+        "BHF-C025",
+        "BHF-C019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 gain and CCD-V1 gain, and emissivity?",
+    "response": {
+      "answer": "IFU-Spec1 gain: 3.5 e−/ADU. CCD-V1 gain: 1.5 e−/ADU. Missing data: information about emissivity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C030",
+        "BHF-C005"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 operating temperature and ccd-v1 crosstalk?",
+    "response": {
+      "answer": "CCD-V1 operating temperature: −100 °C. CCD-V1 crosstalk: < 0.1%.",
+      "citations": [
+        "BHF-C009",
+        "BHF-C013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 dark current and CCD-V1 dark current?",
+    "response": {
+      "answer": "H2RG-IR1 dark current: 0.01 e−/pixel/s. CCD-V1 dark current: 0.005 e−/pixel/s.",
+      "citations": [
+        "BHF-C021",
+        "BHF-C007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 bias level, h2rg-ir1 pixel size, and h2rg-ir1 crosstalk?",
+    "response": {
+      "answer": "H2RG-IR1 bias level: 500 ADU. H2RG-IR1 pixel size: 18 μm. H2RG-IR1 crosstalk: 0.2%.",
+      "citations": [
+        "BHF-C024",
+        "BHF-C015",
+        "BHF-C025"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 bias level, CCD-V1 bias level, and IFU-Spec1 bias level?",
+    "response": {
+      "answer": "H2RG-IR1 bias level: 500 ADU. CCD-V1 bias level: 1000 ADU. IFU-Spec1 bias level: 800 ADU.",
+      "citations": [
+        "BHF-C024",
+        "BHF-C012",
+        "BHF-C034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 linearity limit and IFU-Spec1 linearity limit?",
+    "response": {
+      "answer": "H2RG-IR1 linearity limit: 70000 e−. IFU-Spec1 linearity limit: 85% of full well.",
+      "citations": [
+        "BHF-C017",
+        "BHF-C029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 bias level and ccd-v1 saturation threshold?",
+    "response": {
+      "answer": "CCD-V1 bias level: 1000 ADU. CCD-V1 saturation threshold: 180000 e−.",
+      "citations": [
+        "BHF-C012",
+        "BHF-C008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 pixel size and CCD-V1 pixel size?",
+    "response": {
+      "answer": "H2RG-IR1 pixel size: 18 μm. CCD-V1 pixel size: 15 μm.",
+      "citations": [
+        "BHF-C015",
+        "BHF-C002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 crosstalk, ccd-v1 saturation threshold, and ccd-v1 gain?",
+    "response": {
+      "answer": "CCD-V1 crosstalk: < 0.1%. CCD-V1 saturation threshold: 180000 e−. CCD-V1 gain: 1.5 e−/ADU.",
+      "citations": [
+        "BHF-C013",
+        "BHF-C008",
+        "BHF-C005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 read noise, ccd-v1 clocking voltage, ccd-v1 format, and ccd-v1 full-well capacity?",
+    "response": {
+      "answer": "CCD-V1 read noise: 3 e− RMS. CCD-V1 clocking voltage: 10 V. CCD-V1 format: 4096 × 4096 pixels. CCD-V1 full-well capacity: 200000 e−.",
+      "citations": [
+        "BHF-C006",
+        "BHF-C011",
+        "BHF-C001",
+        "BHF-C003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 linearity limit and H2RG-IR1 linearity limit?",
+    "response": {
+      "answer": "IFU-Spec1 linearity limit: 85% of full well. H2RG-IR1 linearity limit: 70000 e−.",
+      "citations": [
+        "BHF-C029",
+        "BHF-C017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 clocking voltage and ccd-v1 dark current?",
+    "response": {
+      "answer": "CCD-V1 clocking voltage: 10 V. CCD-V1 dark current: 0.005 e−/pixel/s.",
+      "citations": [
+        "BHF-C011",
+        "BHF-C007"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 pixel size, ifu-spec1 operating temperature, and ifu-spec1 full-well capacity?",
+    "response": {
+      "answer": "IFU-Spec1 pixel size: 13 μm. IFU-Spec1 operating temperature: −110 °C. IFU-Spec1 full-well capacity: 150000 e−.",
+      "citations": [
+        "BHF-C027",
+        "BHF-C033",
+        "BHF-C028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 gain, CCD-V1 gain, and H2RG-IR1 gain?",
+    "response": {
+      "answer": "IFU-Spec1 gain: 3.5 e−/ADU. CCD-V1 gain: 1.5 e−/ADU. H2RG-IR1 gain: 2.0 e−/ADU.",
+      "citations": [
+        "BHF-C030",
+        "BHF-C005",
+        "BHF-C018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 bias level and ifu-spec1 gain?",
+    "response": {
+      "answer": "IFU-Spec1 bias level: 800 ADU. IFU-Spec1 gain: 3.5 e−/ADU.",
+      "citations": [
+        "BHF-C034",
+        "BHF-C030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 crosstalk, ifu-spec1 bias level, and ifu-spec1 dark current?",
+    "response": {
+      "answer": "IFU-Spec1 crosstalk: 0.05%. IFU-Spec1 bias level: 800 ADU. IFU-Spec1 dark current: 0.02 e−/pixel/s.",
+      "citations": [
+        "BHF-C035",
+        "BHF-C034",
+        "BHF-C032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 saturation threshold, ccd-v1 quantum efficiency peak, ccd-v1 clocking voltage, and ccd-v1 read noise?",
+    "response": {
+      "answer": "CCD-V1 saturation threshold: 180000 e−. CCD-V1 quantum efficiency peak: 90% at 550 nm. CCD-V1 clocking voltage: 10 V. CCD-V1 read noise: 3 e− RMS.",
+      "citations": [
+        "BHF-C008",
+        "BHF-C010",
+        "BHF-C011",
+        "BHF-C006"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 crosstalk, H2RG-IR1 crosstalk, and IFU-Spec1 crosstalk?",
+    "response": {
+      "answer": "CCD-V1 crosstalk: < 0.1%. H2RG-IR1 crosstalk: 0.2%. IFU-Spec1 crosstalk: 0.05%.",
+      "citations": [
+        "BHF-C013",
+        "BHF-C025",
+        "BHF-C035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 full-well capacity, ccd-v1 dark current, ccd-v1 bias level, and ccd-v1 linearity limit?",
+    "response": {
+      "answer": "CCD-V1 full-well capacity: 200000 e−. CCD-V1 dark current: 0.005 e−/pixel/s. CCD-V1 bias level: 1000 ADU. CCD-V1 linearity limit: 90% of full well.",
+      "citations": [
+        "BHF-C003",
+        "BHF-C007",
+        "BHF-C012",
+        "BHF-C004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 linearity limit, ifu-spec1 format, ifu-spec1 dark current, and ifu-spec1 pixel size?",
+    "response": {
+      "answer": "IFU-Spec1 linearity limit: 85% of full well. IFU-Spec1 format: 1024 × 1024 pixels. IFU-Spec1 dark current: 0.02 e−/pixel/s. IFU-Spec1 pixel size: 13 μm.",
+      "citations": [
+        "BHF-C029",
+        "BHF-C026",
+        "BHF-C032",
+        "BHF-C027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 pixel size and h2rg-ir1 full-well capacity?",
+    "response": {
+      "answer": "H2RG-IR1 pixel size: 18 μm. H2RG-IR1 full-well capacity: 80000 e−.",
+      "citations": [
+        "BHF-C015",
+        "BHF-C016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 operating temperature and CCD-V1 operating temperature?",
+    "response": {
+      "answer": "H2RG-IR1 operating temperature: 77 K. CCD-V1 operating temperature: −100 °C.",
+      "citations": [
+        "BHF-C022",
+        "BHF-C009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 format, h2rg-ir1 dark current, h2rg-ir1 bias level, and h2rg-ir1 read noise (multiple reads)?",
+    "response": {
+      "answer": "H2RG-IR1 format: 2048 × 2048 pixels. H2RG-IR1 dark current: 0.01 e−/pixel/s. H2RG-IR1 bias level: 500 ADU. H2RG-IR1 read noise (multiple reads): 5 e− RMS.",
+      "citations": [
+        "BHF-C014",
+        "BHF-C021",
+        "BHF-C024",
+        "BHF-C020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 gain and h2rg-ir1 quantum efficiency peak?",
+    "response": {
+      "answer": "H2RG-IR1 gain: 2.0 e−/ADU. H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm.",
+      "citations": [
+        "BHF-C018",
+        "BHF-C023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 quantum efficiency peak, ccd-v1 saturation threshold, and ccd-v1 format?",
+    "response": {
+      "answer": "CCD-V1 quantum efficiency peak: 90% at 550 nm. CCD-V1 saturation threshold: 180000 e−. CCD-V1 format: 4096 × 4096 pixels.",
+      "citations": [
+        "BHF-C010",
+        "BHF-C008",
+        "BHF-C001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 pixel size and IFU-Spec1 pixel size, and bad pixel fraction?",
+    "response": {
+      "answer": "CCD-V1 pixel size: 15 μm. IFU-Spec1 pixel size: 13 μm. Missing data: information about bad pixel fraction is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C002",
+        "BHF-C027"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 full-well capacity, IFU-Spec1 full-well capacity, and CCD-V1 full-well capacity?",
+    "response": {
+      "answer": "H2RG-IR1 full-well capacity: 80000 e−. IFU-Spec1 full-well capacity: 150000 e−. CCD-V1 full-well capacity: 200000 e−.",
+      "citations": [
+        "BHF-C016",
+        "BHF-C028",
+        "BHF-C003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 crosstalk and ccd-v1 operating temperature?",
+    "response": {
+      "answer": "CCD-V1 crosstalk: < 0.1%. CCD-V1 operating temperature: −100 °C.",
+      "citations": [
+        "BHF-C013",
+        "BHF-C009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 linearity limit and ccd-v1 gain?",
+    "response": {
+      "answer": "CCD-V1 linearity limit: 90% of full well. CCD-V1 gain: 1.5 e−/ADU.",
+      "citations": [
+        "BHF-C004",
+        "BHF-C005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 full-well capacity and IFU-Spec1 full-well capacity?",
+    "response": {
+      "answer": "CCD-V1 full-well capacity: 200000 e−. IFU-Spec1 full-well capacity: 150000 e−.",
+      "citations": [
+        "BHF-C003",
+        "BHF-C028"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 operating temperature, IFU-Spec1 operating temperature, and CCD-V1 operating temperature?",
+    "response": {
+      "answer": "H2RG-IR1 operating temperature: 77 K. IFU-Spec1 operating temperature: −110 °C. CCD-V1 operating temperature: −100 °C.",
+      "citations": [
+        "BHF-C022",
+        "BHF-C033",
+        "BHF-C009"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 linearity limit, H2RG-IR1 linearity limit, and CCD-V1 linearity limit?",
+    "response": {
+      "answer": "IFU-Spec1 linearity limit: 85% of full well. H2RG-IR1 linearity limit: 70000 e−. CCD-V1 linearity limit: 90% of full well.",
+      "citations": [
+        "BHF-C029",
+        "BHF-C017",
+        "BHF-C004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 gain, IFU-Spec1 gain, and CCD-V1 gain?",
+    "response": {
+      "answer": "H2RG-IR1 gain: 2.0 e−/ADU. IFU-Spec1 gain: 3.5 e−/ADU. CCD-V1 gain: 1.5 e−/ADU.",
+      "citations": [
+        "BHF-C018",
+        "BHF-C030",
+        "BHF-C005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 linearity limit and ifu-spec1 pixel size?",
+    "response": {
+      "answer": "IFU-Spec1 linearity limit: 85% of full well. IFU-Spec1 pixel size: 13 μm.",
+      "citations": [
+        "BHF-C029",
+        "BHF-C027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 linearity limit, h2rg-ir1 crosstalk, h2rg-ir1 operating temperature, and h2rg-ir1 quantum efficiency peak?",
+    "response": {
+      "answer": "H2RG-IR1 linearity limit: 70000 e−. H2RG-IR1 crosstalk: 0.2%. H2RG-IR1 operating temperature: 77 K. H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm.",
+      "citations": [
+        "BHF-C017",
+        "BHF-C025",
+        "BHF-C022",
+        "BHF-C023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 operating temperature and ifu-spec1 gain?",
+    "response": {
+      "answer": "IFU-Spec1 operating temperature: −110 °C. IFU-Spec1 gain: 3.5 e−/ADU.",
+      "citations": [
+        "BHF-C033",
+        "BHF-C030"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 linearity limit and IFU-Spec1 linearity limit?",
+    "response": {
+      "answer": "CCD-V1 linearity limit: 90% of full well. IFU-Spec1 linearity limit: 85% of full well.",
+      "citations": [
+        "BHF-C004",
+        "BHF-C029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 gain, IFU-Spec1 gain, and H2RG-IR1 gain?",
+    "response": {
+      "answer": "CCD-V1 gain: 1.5 e−/ADU. IFU-Spec1 gain: 3.5 e−/ADU. H2RG-IR1 gain: 2.0 e−/ADU.",
+      "citations": [
+        "BHF-C005",
+        "BHF-C030",
+        "BHF-C018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 format, ifu-spec1 pixel size, ifu-spec1 operating temperature, and ifu-spec1 read noise, and bad pixel fraction?",
+    "response": {
+      "answer": "IFU-Spec1 format: 1024 × 1024 pixels. IFU-Spec1 pixel size: 13 μm. IFU-Spec1 operating temperature: −110 °C. IFU-Spec1 read noise: 4 e− RMS. Missing data: information about bad pixel fraction is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C026",
+        "BHF-C027",
+        "BHF-C033",
+        "BHF-C031"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 crosstalk, ccd-v1 clocking voltage, and ccd-v1 format?",
+    "response": {
+      "answer": "CCD-V1 crosstalk: < 0.1%. CCD-V1 clocking voltage: 10 V. CCD-V1 format: 4096 × 4096 pixels.",
+      "citations": [
+        "BHF-C013",
+        "BHF-C011",
+        "BHF-C001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 crosstalk, CCD-V1 crosstalk, and IFU-Spec1 crosstalk?",
+    "response": {
+      "answer": "H2RG-IR1 crosstalk: 0.2%. CCD-V1 crosstalk: < 0.1%. IFU-Spec1 crosstalk: 0.05%.",
+      "citations": [
+        "BHF-C025",
+        "BHF-C013",
+        "BHF-C035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 clocking voltage, ccd-v1 bias level, and ccd-v1 crosstalk?",
+    "response": {
+      "answer": "CCD-V1 clocking voltage: 10 V. CCD-V1 bias level: 1000 ADU. CCD-V1 crosstalk: < 0.1%.",
+      "citations": [
+        "BHF-C011",
+        "BHF-C012",
+        "BHF-C013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List H2RG-IR1 linearity limit, CCD-V1 linearity limit, and IFU-Spec1 linearity limit?",
+    "response": {
+      "answer": "H2RG-IR1 linearity limit: 70000 e−. CCD-V1 linearity limit: 90% of full well. IFU-Spec1 linearity limit: 85% of full well.",
+      "citations": [
+        "BHF-C017",
+        "BHF-C004",
+        "BHF-C029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 pixel size, ccd-v1 clocking voltage, ccd-v1 quantum efficiency peak, and ccd-v1 saturation threshold, and charge transfer efficiency?",
+    "response": {
+      "answer": "CCD-V1 pixel size: 15 μm. CCD-V1 clocking voltage: 10 V. CCD-V1 quantum efficiency peak: 90% at 550 nm. CCD-V1 saturation threshold: 180000 e−. Missing data: information about charge transfer efficiency is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C002",
+        "BHF-C011",
+        "BHF-C010",
+        "BHF-C008"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "List CCD-V1 linearity limit and H2RG-IR1 linearity limit?",
+    "response": {
+      "answer": "CCD-V1 linearity limit: 90% of full well. H2RG-IR1 linearity limit: 70000 e−.",
+      "citations": [
+        "BHF-C004",
+        "BHF-C017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 quantum efficiency peak and ccd-v1 operating temperature, and well depth uniformity?",
+    "response": {
+      "answer": "CCD-V1 quantum efficiency peak: 90% at 550 nm. CCD-V1 operating temperature: −100 °C. Missing data: information about well depth uniformity is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C010",
+        "BHF-C009"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 operating temperature, ccd-v1 gain, ccd-v1 saturation threshold, and ccd-v1 linearity limit?",
+    "response": {
+      "answer": "CCD-V1 operating temperature: −100 °C. CCD-V1 gain: 1.5 e−/ADU. CCD-V1 saturation threshold: 180000 e−. CCD-V1 linearity limit: 90% of full well.",
+      "citations": [
+        "BHF-C009",
+        "BHF-C005",
+        "BHF-C008",
+        "BHF-C004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 saturation threshold, ccd-v1 gain, and ccd-v1 quantum efficiency peak?",
+    "response": {
+      "answer": "CCD-V1 saturation threshold: 180000 e−. CCD-V1 gain: 1.5 e−/ADU. CCD-V1 quantum efficiency peak: 90% at 550 nm.",
+      "citations": [
+        "BHF-C008",
+        "BHF-C005",
+        "BHF-C010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 operating temperature and h2rg-ir1 linearity limit?",
+    "response": {
+      "answer": "H2RG-IR1 operating temperature: 77 K. H2RG-IR1 linearity limit: 70000 e−.",
+      "citations": [
+        "BHF-C022",
+        "BHF-C017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 bias level, h2rg-ir1 read noise (single read), h2rg-ir1 quantum efficiency peak, and h2rg-ir1 operating temperature, and intra-pixel response?",
+    "response": {
+      "answer": "H2RG-IR1 bias level: 500 ADU. H2RG-IR1 read noise (single read): 10 e− RMS. H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm. H2RG-IR1 operating temperature: 77 K. Missing data: information about intra-pixel response is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C024",
+        "BHF-C019",
+        "BHF-C023",
+        "BHF-C022"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 linearity limit, ccd-v1 dark current, ccd-v1 crosstalk, and ccd-v1 full-well capacity?",
+    "response": {
+      "answer": "CCD-V1 linearity limit: 90% of full well. CCD-V1 dark current: 0.005 e−/pixel/s. CCD-V1 crosstalk: < 0.1%. CCD-V1 full-well capacity: 200000 e−.",
+      "citations": [
+        "BHF-C004",
+        "BHF-C007",
+        "BHF-C013",
+        "BHF-C003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 dark current and h2rg-ir1 full-well capacity?",
+    "response": {
+      "answer": "H2RG-IR1 dark current: 0.01 e−/pixel/s. H2RG-IR1 full-well capacity: 80000 e−.",
+      "citations": [
+        "BHF-C021",
+        "BHF-C016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 quantum efficiency peak, h2rg-ir1 operating temperature, h2rg-ir1 crosstalk, and h2rg-ir1 linearity limit?",
+    "response": {
+      "answer": "H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm. H2RG-IR1 operating temperature: 77 K. H2RG-IR1 crosstalk: 0.2%. H2RG-IR1 linearity limit: 70000 e−.",
+      "citations": [
+        "BHF-C023",
+        "BHF-C022",
+        "BHF-C025",
+        "BHF-C017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 dark current, ifu-spec1 operating temperature, and ifu-spec1 linearity limit?",
+    "response": {
+      "answer": "IFU-Spec1 dark current: 0.02 e−/pixel/s. IFU-Spec1 operating temperature: −110 °C. IFU-Spec1 linearity limit: 85% of full well.",
+      "citations": [
+        "BHF-C032",
+        "BHF-C033",
+        "BHF-C029"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 format and ifu-spec1 dark current?",
+    "response": {
+      "answer": "IFU-Spec1 format: 1024 × 1024 pixels. IFU-Spec1 dark current: 0.02 e−/pixel/s.",
+      "citations": [
+        "BHF-C026",
+        "BHF-C032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 gain, ccd-v1 operating temperature, ccd-v1 bias level, and ccd-v1 read noise, and cosmic-ray hit rate?",
+    "response": {
+      "answer": "CCD-V1 gain: 1.5 e−/ADU. CCD-V1 operating temperature: −100 °C. CCD-V1 bias level: 1000 ADU. CCD-V1 read noise: 3 e− RMS. Missing data: information about cosmic-ray hit rate is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C005",
+        "BHF-C009",
+        "BHF-C012",
+        "BHF-C006"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 read noise, ccd-v1 linearity limit, ccd-v1 gain, and ccd-v1 saturation threshold?",
+    "response": {
+      "answer": "CCD-V1 read noise: 3 e− RMS. CCD-V1 linearity limit: 90% of full well. CCD-V1 gain: 1.5 e−/ADU. CCD-V1 saturation threshold: 180000 e−.",
+      "citations": [
+        "BHF-C006",
+        "BHF-C004",
+        "BHF-C005",
+        "BHF-C008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 clocking voltage, ccd-v1 operating temperature, and ccd-v1 saturation threshold?",
+    "response": {
+      "answer": "CCD-V1 clocking voltage: 10 V. CCD-V1 operating temperature: −100 °C. CCD-V1 saturation threshold: 180000 e−.",
+      "citations": [
+        "BHF-C011",
+        "BHF-C009",
+        "BHF-C008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 pixel size, H2RG-IR1 pixel size, and CCD-V1 pixel size?",
+    "response": {
+      "answer": "IFU-Spec1 pixel size: 13 μm. H2RG-IR1 pixel size: 18 μm. CCD-V1 pixel size: 15 μm.",
+      "citations": [
+        "BHF-C027",
+        "BHF-C015",
+        "BHF-C002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List CCD-V1 bias level, IFU-Spec1 bias level, and H2RG-IR1 bias level?",
+    "response": {
+      "answer": "CCD-V1 bias level: 1000 ADU. IFU-Spec1 bias level: 800 ADU. H2RG-IR1 bias level: 500 ADU.",
+      "citations": [
+        "BHF-C012",
+        "BHF-C034",
+        "BHF-C024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "List IFU-Spec1 bias level and CCD-V1 bias level?",
+    "response": {
+      "answer": "IFU-Spec1 bias level: 800 ADU. CCD-V1 bias level: 1000 ADU.",
+      "citations": [
+        "BHF-C034",
+        "BHF-C012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 dark current and ccd-v1 quantum efficiency peak?",
+    "response": {
+      "answer": "CCD-V1 dark current: 0.005 e−/pixel/s. CCD-V1 quantum efficiency peak: 90% at 550 nm.",
+      "citations": [
+        "BHF-C007",
+        "BHF-C010"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 dark current and ccd-v1 crosstalk?",
+    "response": {
+      "answer": "CCD-V1 dark current: 0.005 e−/pixel/s. CCD-V1 crosstalk: < 0.1%.",
+      "citations": [
+        "BHF-C007",
+        "BHF-C013"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 crosstalk and h2rg-ir1 bias level?",
+    "response": {
+      "answer": "H2RG-IR1 crosstalk: 0.2%. H2RG-IR1 bias level: 500 ADU.",
+      "citations": [
+        "BHF-C025",
+        "BHF-C024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 full-well capacity and ccd-v1 pixel size?",
+    "response": {
+      "answer": "CCD-V1 full-well capacity: 200000 e−. CCD-V1 pixel size: 15 μm.",
+      "citations": [
+        "BHF-C003",
+        "BHF-C002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ifu-spec1 operating temperature, ifu-spec1 bias level, and ifu-spec1 full-well capacity, and flat-field stability?",
+    "response": {
+      "answer": "IFU-Spec1 operating temperature: −110 °C. IFU-Spec1 bias level: 800 ADU. IFU-Spec1 full-well capacity: 150000 e−. Missing data: information about flat-field stability is not in the document. Please verify this.",
+      "citations": [
+        "BHF-C033",
+        "BHF-C034",
+        "BHF-C028"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 crosstalk, ccd-v1 full-well capacity, and ccd-v1 bias level?",
+    "response": {
+      "answer": "CCD-V1 crosstalk: < 0.1%. CCD-V1 full-well capacity: 200000 e−. CCD-V1 bias level: 1000 ADU.",
+      "citations": [
+        "BHF-C013",
+        "BHF-C003",
+        "BHF-C012"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 read noise and ccd-v1 gain?",
+    "response": {
+      "answer": "CCD-V1 read noise: 3 e− RMS. CCD-V1 gain: 1.5 e−/ADU.",
+      "citations": [
+        "BHF-C006",
+        "BHF-C005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize ccd-v1 format, ccd-v1 dark current, and ccd-v1 saturation threshold?",
+    "response": {
+      "answer": "CCD-V1 format: 4096 × 4096 pixels. CCD-V1 dark current: 0.005 e−/pixel/s. CCD-V1 saturation threshold: 180000 e−.",
+      "citations": [
+        "BHF-C001",
+        "BHF-C007",
+        "BHF-C008"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 linearity limit, h2rg-ir1 full-well capacity, and h2rg-ir1 quantum efficiency peak?",
+    "response": {
+      "answer": "H2RG-IR1 linearity limit: 70000 e−. H2RG-IR1 full-well capacity: 80000 e−. H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm.",
+      "citations": [
+        "BHF-C017",
+        "BHF-C016",
+        "BHF-C023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize h2rg-ir1 pixel size, h2rg-ir1 quantum efficiency peak, and h2rg-ir1 bias level?",
+    "response": {
+      "answer": "H2RG-IR1 pixel size: 18 μm. H2RG-IR1 quantum efficiency peak: 80% at 1.7 μm. H2RG-IR1 bias level: 500 ADU.",
+      "citations": [
+        "BHF-C015",
+        "BHF-C023",
+        "BHF-C024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the charge transfer efficiency for H2RG-IR1 and IFU-Spec1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the QE curve file for IFU-Spec1 and CCD-V1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the cosmic-ray hit rate for IFU-Spec1 and H2RG-IR1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the persistence fraction for IFU-Spec1 and CCD-V1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the well depth uniformity for CCD-V1 and H2RG-IR1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the emissivity for H2RG-IR1 and IFU-Spec1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the intra-pixel response for CCD-V1 and H2RG-IR1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the charge transfer efficiency for CCD-V1 and IFU-Spec1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the intra-pixel response for CCD-V1 and IFU-Spec1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the QE curve file for IFU-Spec1 and H2RG-IR1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the emissivity for CCD-V1 and IFU-Spec1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the intra-pixel response for IFU-Spec1 and H2RG-IR1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the radiation hardness for H2RG-IR1 and IFU-Spec1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the bad pixel fraction for IFU-Spec1 and CCD-V1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the intra-pixel response for H2RG-IR1 and IFU-Spec1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the emissivity for IFU-Spec1 and CCD-V1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide the persistence fraction for CCD-V1 and IFU-Spec1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Is the format of IFU-Spec1 768 × 1024 pixels.?",
+    "response": {
+      "answer": "1024 × 1024 pixels.",
+      "citations": [
+        "BHF-C026"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the saturation threshold of CCD-V1 207000 e−.?",
+    "response": {
+      "answer": "180000 e−.",
+      "citations": [
+        "BHF-C008"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the operating temperature of H2RG-IR1 85 K.?",
+    "response": {
+      "answer": "77 K.",
+      "citations": [
+        "BHF-C022"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the linearity limit of H2RG-IR1 56000 e−.?",
+    "response": {
+      "answer": "70000 e−.",
+      "citations": [
+        "BHF-C017"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the format of H2RG-IR1 1638 × 2048 pixels.?",
+    "response": {
+      "answer": "2048 × 2048 pixels.",
+      "citations": [
+        "BHF-C014"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the read noise (multiple reads) of H2RG-IR1 4 e− RMS.?",
+    "response": {
+      "answer": "5 e− RMS.",
+      "citations": [
+        "BHF-C020"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the quantum efficiency peak of CCD-V1 81% at 550 nm.?",
+    "response": {
+      "answer": "90% at 550 nm.",
+      "citations": [
+        "BHF-C010"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the pixel size of H2RG-IR1 22 μm.?",
+    "response": {
+      "answer": "18 μm.",
+      "citations": [
+        "BHF-C015"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the crosstalk of H2RG-IR1 0.23%.?",
+    "response": {
+      "answer": "0.2%.",
+      "citations": [
+        "BHF-C025"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the read noise (single read) of H2RG-IR1 8 e− RMS.?",
+    "response": {
+      "answer": "10 e− RMS.",
+      "citations": [
+        "BHF-C019"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the linearity limit of IFU-Spec1 102% of full well.?",
+    "response": {
+      "answer": "85% of full well.",
+      "citations": [
+        "BHF-C029"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the dark current of H2RG-IR1 0.01 e−/pixel/s.?",
+    "response": {
+      "answer": "0.01 e−/pixel/s.",
+      "citations": [
+        "BHF-C021"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the read noise of CCD-V1 3 e− RMS.?",
+    "response": {
+      "answer": "3 e− RMS.",
+      "citations": [
+        "BHF-C006"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the quantum efficiency peak of H2RG-IR1 72% at 1.7 μm.?",
+    "response": {
+      "answer": "80% at 1.7 μm.",
+      "citations": [
+        "BHF-C023"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the bias level of IFU-Spec1 720 ADU.?",
+    "response": {
+      "answer": "800 ADU.",
+      "citations": [
+        "BHF-C034"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the bias level of CCD-V1 900 ADU.?",
+    "response": {
+      "answer": "1000 ADU.",
+      "citations": [
+        "BHF-C012"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the format of CCD-V1 3686 × 4096 pixels.?",
+    "response": {
+      "answer": "4096 × 4096 pixels.",
+      "citations": [
+        "BHF-C001"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the operating temperature of IFU-Spec1 −126 °C.?",
+    "response": {
+      "answer": "−110 °C.",
+      "citations": [
+        "BHF-C033"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the gain of CCD-V1 1.12 e−/ADU.?",
+    "response": {
+      "answer": "1.5 e−/ADU.",
+      "citations": [
+        "BHF-C005"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the pixel size of CCD-V1 16 μm.?",
+    "response": {
+      "answer": "15 μm.",
+      "citations": [
+        "BHF-C002"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the bias level of H2RG-IR1 625 ADU.?",
+    "response": {
+      "answer": "500 ADU.",
+      "citations": [
+        "BHF-C024"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the dark current of IFU-Spec1 0.02 e−/pixel/s.?",
+    "response": {
+      "answer": "0.02 e−/pixel/s.",
+      "citations": [
+        "BHF-C032"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the crosstalk of IFU-Spec1 0.06%.?",
+    "response": {
+      "answer": "0.05%.",
+      "citations": [
+        "BHF-C035"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the operating temperature of CCD-V1 −125 °C.?",
+    "response": {
+      "answer": "−100 °C.",
+      "citations": [
+        "BHF-C009"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the full-well capacity of IFU-Spec1 127500 e−.?",
+    "response": {
+      "answer": "150000 e−.",
+      "citations": [
+        "BHF-C028"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the crosstalk of CCD-V1 < 0.08%.?",
+    "response": {
+      "answer": "< 0.1%.",
+      "citations": [
+        "BHF-C013"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the gain of IFU-Spec1 4.2 e−/ADU.?",
+    "response": {
+      "answer": "3.5 e−/ADU.",
+      "citations": [
+        "BHF-C030"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the clocking voltage of CCD-V1 8 V.?",
+    "response": {
+      "answer": "10 V.",
+      "citations": [
+        "BHF-C011"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the full-well capacity of H2RG-IR1 88000 e−.?",
+    "response": {
+      "answer": "80000 e−.",
+      "citations": [
+        "BHF-C016"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the linearity limit of CCD-V1 112% of full well.?",
+    "response": {
+      "answer": "90% of full well.",
+      "citations": [
+        "BHF-C004"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "What is the readout amplifier layout for CCD-V1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the radiation shielding thickness for CCD-V1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the anti-blooming gate presence for CCD-V1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the epoxy backfill type for CCD-V1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the operability percentage for H2RG-IR1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the minimum exposure time for H2RG-IR1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the charge diffusion length for CCD-V1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the well capacity uniformity for H2RG-IR1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the scattering coefficient for CCD-V1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the dark current doubling temperature for H2RG-IR1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the gain temperature coefficient for IFU-Spec1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the pixel response non-uniformity map for IFU-Spec1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the QE blue cutoff wavelength for CCD-V1?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  }
+]

@@ -1,0 +1,45 @@
+[BHF-F001] Pipeline level L0: raw detector frames.
+[BHF-F002] Pipeline level L1: calibrated data with bias and flat corrections.
+[BHF-F003] Pipeline level L2: science-ready data with flux calibration.
+[BHF-F004] FITS extension names: SCI; ERR; DQ.
+[BHF-F005] FITS header keys: TELEMAG; AIRMASS; EXPTIME.
+[BHF-F006] FITS header key TELESCOP: Brahmaanu.
+[BHF-F007] FITS header key INSTRUME: instrument name.
+[BHF-F008] FITS header key DETECTOR: detector name.
+[BHF-F009] FITS header key OBSID: observation identifier.
+[BHF-F010] FITS header key DATE-OBS: start time in ISO 8601.
+[BHF-F011] Raw data availability: within 6 hours of observation.
+[BHF-F012] L1 data delivery: within 24 hours of observation.
+[BHF-F013] L2 data delivery: within 7 days of observation.
+[BHF-F014] Data packaging: per night per instrument tarball.
+[BHF-F015] Data file naming convention: BRAHMAANU_YYYYMMDD_HHMMSS.fits.
+[BHF-F016] Bias subtraction applied in L1 pipeline.
+[BHF-F017] Dark subtraction applied in L1 pipeline.
+[BHF-F018] Flat fielding applied in L1 pipeline.
+[BHF-F019] Wavelength calibration applied in L1 pipeline for spectra.
+[BHF-F020] Flux calibration applied in L2 pipeline.
+[BHF-F021] Cosmic ray rejection applied using sigma-clipping.
+[BHF-F022] Quality flags: GOOD; WARN; BAD.
+[BHF-F023] Quality control threshold for SNR: 10.
+[BHF-F024] Calibration pipeline version: v1.0.
+[BHF-F025] Pipeline log files stored with each data product.
+[BHF-F026] L0 images stored as 16-bit unsigned integers.
+[BHF-F027] L1 images stored as 32-bit floating point.
+[BHF-F028] DQ extension bit flags: 0 good; 1 cosmic_ray; 2 saturation; 3 bad_pixel.
+[BHF-F029] Pipeline processing environment: 100-core HPC cluster.
+[BHF-F030] Data rights period: 1 year.
+[BHF-F031] Data archive retention: indefinite.
+[BHF-F032] Pipeline code repository: internal Git.
+[BHF-F033] Pipeline configuration file: YAML.
+[BHF-F034] Pipeline checksum algorithm: SHA-256.
+[BHF-F035] Data transfer protocol: SFTP.
+[BHF-F036] Pipeline orchestrator framework: Apache Airflow v2.7.
+[BHF-F037] Parallelization backend: MPI with Dask hybrid execution.
+[BHF-F038] Metadata ingestion format: JSON-LD.
+[BHF-F039] Provenance tracking database: PostgreSQL 14.
+[BHF-F040] Automated reprocessing trigger: calibration update or bad-frame flag.
+[BHF-F041] Log retention period on cluster nodes: 90 days.
+[BHF-F042] Temporary workspace cleanup threshold: 48 hours post-completion.
+[BHF-F043] Data validation scripts language: Python 3.11.
+[BHF-F044] Mean pipeline throughput: 200 GB/hour.
+[BHF-F045] Monitoring dashboard backend: Grafana.

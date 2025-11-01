@@ -1,0 +1,38 @@
+{
+  "base": {
+    "schema_valid_rate": 0.12033195020746888,
+    "key_exact_rate": 0.91701244813278,
+    "citations_format_rate": 0.12033195020746888,
+    "status_valid_rate": 0.941908713692946,
+    "answer_exact_rate": 0.0,
+    "answer_token_f1": 0.10259957031584246,
+    "citations_f1": 0.0
+  },
+  "sft": {
+    "schema_valid_rate": 1.0,
+    "key_exact_rate": 1.0,
+    "citations_format_rate": 1.0,
+    "status_valid_rate": 1.0,
+    "answer_exact_rate": 0.7468879668049793,
+    "answer_token_f1": 0.8526650651300349,
+    "citations_f1": 0.2136369623921491
+  },
+  "base_rag": {
+    "schema_valid_rate": 1.0,
+    "key_exact_rate": 1.0,
+    "citations_format_rate": 1.0,
+    "status_valid_rate": 1.0,
+    "answer_exact_rate": 0.5850622406639004,
+    "answer_token_f1": 0.8807886922725915,
+    "citations_f1": 0.7933062713328762
+  },
+  "sft_rag": {
+    "schema_valid_rate": 1.0,
+    "key_exact_rate": 1.0,
+    "citations_format_rate": 1.0,
+    "status_valid_rate": 1.0,
+    "answer_exact_rate": 0.5850622406639004,
+    "answer_token_f1": 0.8807886922725915,
+    "citations_f1": 0.7933062713328762
+  }
+}

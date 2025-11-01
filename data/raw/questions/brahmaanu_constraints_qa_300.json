@@ -1,0 +1,3381 @@
+[
+  {
+    "question": "Provide the maximum telescope azimuth slew rate?",
+    "response": {
+      "answer": "5°/s.",
+      "citations": [
+        "BHF-E016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the maximum telescope elevation angle?",
+    "response": {
+      "answer": "90°.",
+      "citations": [
+        "BHF-E014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the maximum dither amplitude?",
+    "response": {
+      "answer": "20″.",
+      "citations": [
+        "BHF-E018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the maximum integration time per exposure?",
+    "response": {
+      "answer": "7200 s.",
+      "citations": [
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the focus positions for viscam?",
+    "response": {
+      "answer": "0 mm; 5 mm; 10 mm.",
+      "citations": [
+        "BHF-E023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the minimum guide star magnitude?",
+    "response": {
+      "answer": "12 AB mag.",
+      "citations": [
+        "BHF-E019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Specify the maximum airmass for cosmos ifu?",
+    "response": {
+      "answer": "1.8.",
+      "citations": [
+        "BHF-E003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the calibration overhead per instrument?",
+    "response": {
+      "answer": "15 minutes.",
+      "citations": [
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the seeing limit for high-resolution spectroscopy?",
+    "response": {
+      "answer": "1.0″.",
+      "citations": [
+        "BHF-E004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "What is the dither step size increments?",
+    "response": {
+      "answer": "10″.",
+      "citations": [
+        "BHF-E027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the observing overhead between targets?",
+    "response": {
+      "answer": "5 minutes.",
+      "citations": [
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the minimum target elevation?",
+    "response": {
+      "answer": "30° above horizon.",
+      "citations": [
+        "BHF-E005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the focus positions for nirspec?",
+    "response": {
+      "answer": "−2 mm; 0 mm; +2 mm.",
+      "citations": [
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the maximum guide star magnitude?",
+    "response": {
+      "answer": "18 AB mag.",
+      "citations": [
+        "BHF-E020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the minimum telescope elevation angle?",
+    "response": {
+      "answer": "20°.",
+      "citations": [
+        "BHF-E015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the maximum airmass for nirspec observations?",
+    "response": {
+      "answer": "2.0.",
+      "citations": [
+        "BHF-E002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "State the maximum telescope elevation slew rate?",
+    "response": {
+      "answer": "2°/s.",
+      "citations": [
+        "BHF-E017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide the dither pattern points?",
+    "response": {
+      "answer": "4.",
+      "citations": [
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Report the maximum airmass for viscam imaging?",
+    "response": {
+      "answer": "2.5.",
+      "citations": [
+        "BHF-E001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Confirm the minimum integration time per exposure?",
+    "response": {
+      "answer": "0.1 s.",
+      "citations": [
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle and maximum telescope azimuth slew rate?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum dither amplitude, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum dither amplitude: 20″.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E018",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum dither amplitude, minimum guide star magnitude, focus positions for viscam, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum dither amplitude: 20″.. Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E018",
+        "BHF-E019",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for focus positions for viscam and maximum integration time per exposure?",
+    "response": {
+      "answer": "Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, minimum guide star magnitude, and focus positions for viscam?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019",
+        "BHF-E023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, seeing limit for high-resolution spectroscopy, minimum guide star magnitude, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Seeing limit for high-resolution spectroscopy: 1.0″.. Minimum guide star magnitude: 12 AB mag.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E004",
+        "BHF-E019",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy, dither step size increments, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Dither step size increments: 10″.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E027",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy, minimum target elevation, dither step size increments, and observing overhead between targets?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Minimum target elevation: 30° above horizon.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E005",
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for dither step size increments and observing overhead between targets?",
+    "response": {
+      "answer": "Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, focus positions for nirspec, and observing overhead between targets?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E024",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, minimum telescope elevation angle, maximum guide star magnitude, and focus positions for nirspec?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Minimum telescope elevation angle: 20°.. Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E015",
+        "BHF-E020",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum guide star magnitude and focus positions for nirspec?",
+    "response": {
+      "answer": "Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E020",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, minimum telescope elevation angle, and maximum guide star magnitude?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Maximum guide star magnitude: 18 AB mag..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015",
+        "BHF-E020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, minimum telescope elevation angle, maximum telescope elevation slew rate, and dither pattern points?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015",
+        "BHF-E017",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations and maximum telescope elevation slew rate?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Maximum telescope elevation slew rate: 2°/s..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum telescope elevation slew rate, and dither pattern points?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E017",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum telescope azimuth slew rate, dither pattern points, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum telescope azimuth slew rate: 5°/s.. Dither pattern points: 4.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E016",
+        "BHF-E026",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum telescope azimuth slew rate, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E016",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum telescope azimuth slew rate, maximum dither amplitude, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Maximum dither amplitude: 20″.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E016",
+        "BHF-E018",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle and maximum dither amplitude?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum dither amplitude: 20″..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum dither amplitude, focus positions for viscam, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum dither amplitude: 20″.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E018",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, minimum guide star magnitude, focus positions for viscam, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum guide star magnitude and focus positions for viscam?",
+    "response": {
+      "answer": "Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm..",
+      "citations": [
+        "BHF-E019",
+        "BHF-E023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, minimum guide star magnitude, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, seeing limit for high-resolution spectroscopy, dither step size increments, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Seeing limit for high-resolution spectroscopy: 1.0″.. Dither step size increments: 10″.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E004",
+        "BHF-E027",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy and calibration overhead per instrument?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy, dither step size increments, and observing overhead between targets?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, focus positions for nirspec, dither step size increments, and observing overhead between targets?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E024",
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation and observing overhead between targets?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, maximum guide star magnitude, and focus positions for nirspec?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E020",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, minimum telescope elevation angle, maximum guide star magnitude, and focus positions for nirspec?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015",
+        "BHF-E020",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum telescope elevation angle and maximum guide star magnitude?",
+    "response": {
+      "answer": "Minimum telescope elevation angle: 20°.. Maximum guide star magnitude: 18 AB mag..",
+      "citations": [
+        "BHF-E015",
+        "BHF-E020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, minimum telescope elevation angle, and maximum telescope elevation slew rate?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Maximum telescope elevation slew rate: 2°/s..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015",
+        "BHF-E017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum airmass for nirspec observations, maximum telescope elevation slew rate, and dither pattern points?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum airmass for NIRSpec observations: 2.0.. Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E002",
+        "BHF-E017",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation slew rate and dither pattern points?",
+    "response": {
+      "answer": "Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E017",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, dither pattern points, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Dither pattern points: 4.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E026",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum telescope elevation angle, maximum telescope azimuth slew rate, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E014",
+        "BHF-E016",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope azimuth slew rate and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope azimuth slew rate: 5°/s.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E016",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum telescope azimuth slew rate, and maximum dither amplitude?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Maximum dither amplitude: 20″..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E016",
+        "BHF-E018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum dither amplitude, focus positions for viscam, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum dither amplitude: 20″.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E018",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum dither amplitude and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum dither amplitude: 20″.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E018",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum guide star magnitude, focus positions for viscam, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E019",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, minimum guide star magnitude, focus positions for viscam, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019",
+        "BHF-E023",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu and minimum guide star magnitude?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, seeing limit for high-resolution spectroscopy, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Seeing limit for high-resolution spectroscopy: 1.0″.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E004",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy, dither step size increments, observing overhead between targets, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E027",
+        "BHF-E032",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy and dither step size increments?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Dither step size increments: 10″..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, dither step size increments, and observing overhead between targets?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, maximum guide star magnitude, focus positions for nirspec, and observing overhead between targets?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E020",
+        "BHF-E024",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation and focus positions for nirspec?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum telescope elevation angle, maximum guide star magnitude, and focus positions for nirspec, and pressure limit?",
+    "response": {
+      "answer": "Minimum telescope elevation angle: 20°.. Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Missing data: information about pressure limit is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E015",
+        "BHF-E020",
+        "BHF-E024"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, minimum telescope elevation angle, maximum telescope elevation slew rate, and maximum guide star magnitude, and sky temperature cutoff?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Maximum telescope elevation slew rate: 2°/s.. Maximum guide star magnitude: 18 AB mag.. Missing data: information about sky temperature cutoff is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015",
+        "BHF-E017",
+        "BHF-E020"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations and minimum telescope elevation angle, and cloud optical depth?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Missing data: information about cloud optical depth is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, maximum telescope elevation slew rate, and dither pattern points, and seeing at zenith?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4.. Missing data: information about seeing at zenith is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E002",
+        "BHF-E017",
+        "BHF-E026"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum telescope elevation slew rate, dither pattern points, and minimum integration time per exposure, and airmass at meridian?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4.. Minimum integration time per exposure: 0.1 s.. Missing data: information about airmass at meridian is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E001",
+        "BHF-E017",
+        "BHF-E026",
+        "BHF-E034"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging and dither pattern points, and dust grain size index?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Dither pattern points: 4.. Missing data: information about dust grain size index is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E001",
+        "BHF-E026"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum telescope azimuth slew rate, and minimum integration time per exposure, and ionizing radiation limit?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum telescope azimuth slew rate: 5°/s.. Minimum integration time per exposure: 0.1 s.. Missing data: information about ionizing radiation limit is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E001",
+        "BHF-E016",
+        "BHF-E034"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum telescope azimuth slew rate, maximum dither amplitude, and minimum integration time per exposure, and rain rate threshold?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Maximum dither amplitude: 20″.. Minimum integration time per exposure: 0.1 s.. Missing data: information about rain rate threshold is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E014",
+        "BHF-E016",
+        "BHF-E018",
+        "BHF-E034"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle and maximum telescope azimuth slew rate, and frost accumulation rate?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Missing data: information about frost accumulation rate is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E014",
+        "BHF-E016"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum dither amplitude, and maximum integration time per exposure, and mirror temperature delta?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum dither amplitude: 20″.. Maximum integration time per exposure: 7200 s.. Missing data: information about mirror temperature delta is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E014",
+        "BHF-E018",
+        "BHF-E033"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum dither amplitude, minimum guide star magnitude, focus positions for viscam, and maximum integration time per exposure, and pressure limit?",
+    "response": {
+      "answer": "Maximum dither amplitude: 20″.. Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s.. Missing data: information about pressure limit is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E018",
+        "BHF-E019",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for focus positions for viscam and maximum integration time per exposure, and sky temperature cutoff?",
+    "response": {
+      "answer": "Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s.. Missing data: information about sky temperature cutoff is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, minimum guide star magnitude, and focus positions for viscam, and cloud optical depth?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Missing data: information about cloud optical depth is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019",
+        "BHF-E023"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, seeing limit for high-resolution spectroscopy, minimum guide star magnitude, and calibration overhead per instrument, and seeing at zenith?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Seeing limit for high-resolution spectroscopy: 1.0″.. Minimum guide star magnitude: 12 AB mag.. Calibration overhead per instrument: 15 minutes.. Missing data: information about seeing at zenith is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E003",
+        "BHF-E004",
+        "BHF-E019",
+        "BHF-E035"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu and calibration overhead per instrument, and airmass at meridian?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Calibration overhead per instrument: 15 minutes.. Missing data: information about airmass at meridian is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E003",
+        "BHF-E035"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy, dither step size increments, and calibration overhead per instrument, and dust grain size index?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Dither step size increments: 10″.. Calibration overhead per instrument: 15 minutes.. Missing data: information about dust grain size index is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E004",
+        "BHF-E027",
+        "BHF-E035"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy, minimum target elevation, dither step size increments, and observing overhead between targets, and ionizing radiation limit?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Minimum target elevation: 30° above horizon.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes.. Missing data: information about ionizing radiation limit is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E004",
+        "BHF-E005",
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for dither step size increments and observing overhead between targets, and rain rate threshold?",
+    "response": {
+      "answer": "Dither step size increments: 10″.. Observing overhead between targets: 5 minutes.. Missing data: information about rain rate threshold is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, focus positions for nirspec, and observing overhead between targets, and frost accumulation rate?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Observing overhead between targets: 5 minutes.. Missing data: information about frost accumulation rate is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E005",
+        "BHF-E024",
+        "BHF-E032"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, minimum telescope elevation angle, maximum guide star magnitude, and focus positions for nirspec, and mirror temperature delta?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Minimum telescope elevation angle: 20°.. Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Missing data: information about mirror temperature delta is not in the document. Please verify this.",
+      "citations": [
+        "BHF-E005",
+        "BHF-E015",
+        "BHF-E020",
+        "BHF-E024"
+      ],
+      "status": "PARTIAL"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum guide star magnitude and focus positions for nirspec?",
+    "response": {
+      "answer": "Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E020",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, minimum telescope elevation angle, and maximum guide star magnitude?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Maximum guide star magnitude: 18 AB mag..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015",
+        "BHF-E020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, minimum telescope elevation angle, maximum telescope elevation slew rate, and dither pattern points?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015",
+        "BHF-E017",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations and maximum telescope elevation slew rate?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Maximum telescope elevation slew rate: 2°/s..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum telescope elevation slew rate, and dither pattern points?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E017",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum telescope azimuth slew rate, dither pattern points, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum telescope azimuth slew rate: 5°/s.. Dither pattern points: 4.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E016",
+        "BHF-E026",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum telescope azimuth slew rate, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E016",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum telescope azimuth slew rate, maximum dither amplitude, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Maximum dither amplitude: 20″.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E016",
+        "BHF-E018",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle and maximum dither amplitude?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum dither amplitude: 20″..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum dither amplitude, focus positions for viscam, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum dither amplitude: 20″.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E018",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, minimum guide star magnitude, focus positions for viscam, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum guide star magnitude and focus positions for viscam?",
+    "response": {
+      "answer": "Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm..",
+      "citations": [
+        "BHF-E019",
+        "BHF-E023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, minimum guide star magnitude, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, seeing limit for high-resolution spectroscopy, dither step size increments, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Seeing limit for high-resolution spectroscopy: 1.0″.. Dither step size increments: 10″.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E004",
+        "BHF-E027",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy and calibration overhead per instrument?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy, dither step size increments, and observing overhead between targets?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, focus positions for nirspec, dither step size increments, and observing overhead between targets?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E024",
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation and observing overhead between targets?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, maximum guide star magnitude, and focus positions for nirspec?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E020",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, minimum telescope elevation angle, maximum guide star magnitude, and focus positions for nirspec?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015",
+        "BHF-E020",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum telescope elevation angle and maximum guide star magnitude?",
+    "response": {
+      "answer": "Minimum telescope elevation angle: 20°.. Maximum guide star magnitude: 18 AB mag..",
+      "citations": [
+        "BHF-E015",
+        "BHF-E020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, minimum telescope elevation angle, and maximum telescope elevation slew rate?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Maximum telescope elevation slew rate: 2°/s..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015",
+        "BHF-E017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum airmass for nirspec observations, maximum telescope elevation slew rate, and dither pattern points?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum airmass for NIRSpec observations: 2.0.. Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E002",
+        "BHF-E017",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation slew rate and dither pattern points?",
+    "response": {
+      "answer": "Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E017",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, dither pattern points, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Dither pattern points: 4.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E026",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum telescope elevation angle, maximum telescope azimuth slew rate, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E014",
+        "BHF-E016",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope azimuth slew rate and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope azimuth slew rate: 5°/s.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E016",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum telescope azimuth slew rate, and maximum dither amplitude?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Maximum dither amplitude: 20″..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E016",
+        "BHF-E018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum dither amplitude, focus positions for viscam, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum dither amplitude: 20″.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E018",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum dither amplitude and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum dither amplitude: 20″.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E018",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum guide star magnitude, focus positions for viscam, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E019",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, minimum guide star magnitude, focus positions for viscam, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019",
+        "BHF-E023",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu and minimum guide star magnitude?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, seeing limit for high-resolution spectroscopy, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Seeing limit for high-resolution spectroscopy: 1.0″.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E004",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy, dither step size increments, observing overhead between targets, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E027",
+        "BHF-E032",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy and dither step size increments?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Dither step size increments: 10″..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, dither step size increments, and observing overhead between targets?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, maximum guide star magnitude, focus positions for nirspec, and observing overhead between targets?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E020",
+        "BHF-E024",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation and focus positions for nirspec?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum telescope elevation angle, maximum guide star magnitude, and focus positions for nirspec?",
+    "response": {
+      "answer": "Minimum telescope elevation angle: 20°.. Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E015",
+        "BHF-E020",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, minimum telescope elevation angle, maximum telescope elevation slew rate, and maximum guide star magnitude?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Maximum telescope elevation slew rate: 2°/s.. Maximum guide star magnitude: 18 AB mag..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015",
+        "BHF-E017",
+        "BHF-E020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations and minimum telescope elevation angle?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, maximum telescope elevation slew rate, and dither pattern points?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E017",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum telescope elevation slew rate, dither pattern points, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E017",
+        "BHF-E026",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging and dither pattern points?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum telescope azimuth slew rate, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum telescope azimuth slew rate: 5°/s.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E016",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum telescope azimuth slew rate, maximum dither amplitude, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Maximum dither amplitude: 20″.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E016",
+        "BHF-E018",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle and maximum telescope azimuth slew rate?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum dither amplitude, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum dither amplitude: 20″.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E018",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum dither amplitude, minimum guide star magnitude, focus positions for viscam, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum dither amplitude: 20″.. Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E018",
+        "BHF-E019",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for focus positions for viscam and maximum integration time per exposure?",
+    "response": {
+      "answer": "Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, minimum guide star magnitude, and focus positions for viscam?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019",
+        "BHF-E023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, seeing limit for high-resolution spectroscopy, minimum guide star magnitude, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Seeing limit for high-resolution spectroscopy: 1.0″.. Minimum guide star magnitude: 12 AB mag.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E004",
+        "BHF-E019",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy, dither step size increments, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Dither step size increments: 10″.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E027",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy, minimum target elevation, dither step size increments, and observing overhead between targets?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Minimum target elevation: 30° above horizon.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E005",
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for dither step size increments and observing overhead between targets?",
+    "response": {
+      "answer": "Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, focus positions for nirspec, and observing overhead between targets?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E024",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, minimum telescope elevation angle, maximum guide star magnitude, and focus positions for nirspec?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Minimum telescope elevation angle: 20°.. Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E015",
+        "BHF-E020",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum guide star magnitude and focus positions for nirspec?",
+    "response": {
+      "answer": "Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E020",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, minimum telescope elevation angle, and maximum guide star magnitude?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Maximum guide star magnitude: 18 AB mag..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015",
+        "BHF-E020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, minimum telescope elevation angle, maximum telescope elevation slew rate, and dither pattern points?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015",
+        "BHF-E017",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations and maximum telescope elevation slew rate?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Maximum telescope elevation slew rate: 2°/s..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum telescope elevation slew rate, and dither pattern points?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E017",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum telescope azimuth slew rate, dither pattern points, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum telescope azimuth slew rate: 5°/s.. Dither pattern points: 4.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E016",
+        "BHF-E026",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum telescope azimuth slew rate, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E016",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum telescope azimuth slew rate, maximum dither amplitude, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Maximum dither amplitude: 20″.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E016",
+        "BHF-E018",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle and maximum dither amplitude?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum dither amplitude: 20″..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum dither amplitude, focus positions for viscam, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum dither amplitude: 20″.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E018",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, minimum guide star magnitude, focus positions for viscam, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum guide star magnitude and focus positions for viscam?",
+    "response": {
+      "answer": "Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm..",
+      "citations": [
+        "BHF-E019",
+        "BHF-E023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, minimum guide star magnitude, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, seeing limit for high-resolution spectroscopy, dither step size increments, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Seeing limit for high-resolution spectroscopy: 1.0″.. Dither step size increments: 10″.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E004",
+        "BHF-E027",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy and calibration overhead per instrument?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy, dither step size increments, and observing overhead between targets?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, focus positions for nirspec, dither step size increments, and observing overhead between targets?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E024",
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation and observing overhead between targets?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum target elevation, maximum guide star magnitude, and focus positions for nirspec?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E020",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, minimum telescope elevation angle, maximum guide star magnitude, and focus positions for nirspec?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Maximum guide star magnitude: 18 AB mag.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015",
+        "BHF-E020",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum telescope elevation angle and maximum guide star magnitude?",
+    "response": {
+      "answer": "Minimum telescope elevation angle: 20°.. Maximum guide star magnitude: 18 AB mag..",
+      "citations": [
+        "BHF-E015",
+        "BHF-E020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for nirspec observations, minimum telescope elevation angle, and maximum telescope elevation slew rate?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Minimum telescope elevation angle: 20°.. Maximum telescope elevation slew rate: 2°/s..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E015",
+        "BHF-E017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum airmass for nirspec observations, maximum telescope elevation slew rate, and dither pattern points?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum airmass for NIRSpec observations: 2.0.. Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E002",
+        "BHF-E017",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation slew rate and dither pattern points?",
+    "response": {
+      "answer": "Maximum telescope elevation slew rate: 2°/s.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E017",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, dither pattern points, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Dither pattern points: 4.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E026",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for viscam imaging, maximum telescope elevation angle, maximum telescope azimuth slew rate, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E014",
+        "BHF-E016",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope azimuth slew rate and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope azimuth slew rate: 5°/s.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E016",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum telescope azimuth slew rate, and maximum dither amplitude?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum telescope azimuth slew rate: 5°/s.. Maximum dither amplitude: 20″..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E016",
+        "BHF-E018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum telescope elevation angle, maximum dither amplitude, focus positions for viscam, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Maximum dither amplitude: 20″.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E018",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum dither amplitude and maximum integration time per exposure?",
+    "response": {
+      "answer": "Maximum dither amplitude: 20″.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E018",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for minimum guide star magnitude, focus positions for viscam, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E019",
+        "BHF-E023",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, minimum guide star magnitude, focus positions for viscam, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019",
+        "BHF-E023",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu and minimum guide star magnitude?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Minimum guide star magnitude: 12 AB mag..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for maximum airmass for cosmos ifu, seeing limit for high-resolution spectroscopy, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Seeing limit for high-resolution spectroscopy: 1.0″.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E004",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Summarize constraints for seeing limit for high-resolution spectroscopy, dither step size increments, observing overhead between targets, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E027",
+        "BHF-E032",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Provide details on focus positions for nirspec and maximum guide star magnitude, including ion chamber reading limit?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on maximum guide star magnitude, minimum telescope elevation angle, and maximum airmass for nirspec observations, including mirror coating age?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on minimum telescope elevation angle, maximum airmass for nirspec observations, maximum telescope elevation slew rate, and dither pattern points, including telemetry bandwidth cap?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on maximum airmass for nirspec observations and maximum telescope elevation slew rate, including ADC angle range?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on maximum telescope elevation slew rate, dither pattern points, and maximum airmass for viscam imaging, including AO loop frequency?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on dither pattern points, maximum airmass for viscam imaging, minimum integration time per exposure, and maximum telescope azimuth slew rate, including laser shutter latency?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on maximum airmass for viscam imaging and minimum integration time per exposure, including cloud camera threshold?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on minimum integration time per exposure, maximum telescope azimuth slew rate, and maximum telescope elevation angle, including rain gauge hysteresis?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on maximum telescope azimuth slew rate, maximum telescope elevation angle, maximum dither amplitude, and maximum integration time per exposure, including weather station sampling rate?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on maximum telescope elevation angle and maximum dither amplitude, including ion chamber reading limit?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on maximum dither amplitude, maximum integration time per exposure, and focus positions for viscam, including mirror coating age?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on maximum integration time per exposure, focus positions for viscam, minimum guide star magnitude, and maximum airmass for cosmos ifu, including telemetry bandwidth cap?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on focus positions for viscam and minimum guide star magnitude, including ADC angle range?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on minimum guide star magnitude, maximum airmass for cosmos ifu, and calibration overhead per instrument, including AO loop frequency?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on maximum airmass for cosmos ifu, calibration overhead per instrument, seeing limit for high-resolution spectroscopy, and dither step size increments, including laser shutter latency?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on calibration overhead per instrument and seeing limit for high-resolution spectroscopy, including cloud camera threshold?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Provide details on seeing limit for high-resolution spectroscopy, dither step size increments, and observing overhead between targets, including rain gauge hysteresis?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Is the maximum telescope azimuth slew rate 6.25 °/s.?",
+    "response": {
+      "answer": "5°/s.",
+      "citations": [
+        "BHF-E016"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum integration time per exposure 5760 s.?",
+    "response": {
+      "answer": "7200 s.",
+      "citations": [
+        "BHF-E033"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum airmass for cosmos ifu 2.25 .?",
+    "response": {
+      "answer": "1.8.",
+      "citations": [
+        "BHF-E003"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the dither step size increments 8 ″.?",
+    "response": {
+      "answer": "10″.",
+      "citations": [
+        "BHF-E027"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the focus positions for nirspec 0 mm; −2 mm.?",
+    "response": {
+      "answer": "−2 mm; 0 mm; +2 mm.",
+      "citations": [
+        "BHF-E024"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum airmass for nirspec observations 1.6 .?",
+    "response": {
+      "answer": "2.0.",
+      "citations": [
+        "BHF-E002"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum airmass for viscam imaging 3.12 .?",
+    "response": {
+      "answer": "2.5.",
+      "citations": [
+        "BHF-E001"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum telescope elevation angle 72 °.?",
+    "response": {
+      "answer": "90°.",
+      "citations": [
+        "BHF-E014"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the focus positions for viscam 0 mm; 5 mm; 10 mm.?",
+    "response": {
+      "answer": "0 mm; 5 mm; 10 mm.",
+      "citations": [
+        "BHF-E023"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the calibration overhead per instrument 12 minutes.?",
+    "response": {
+      "answer": "15 minutes.",
+      "citations": [
+        "BHF-E035"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the observing overhead between targets 6.25 minutes.?",
+    "response": {
+      "answer": "5 minutes.",
+      "citations": [
+        "BHF-E032"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum guide star magnitude 14.4 AB mag.?",
+    "response": {
+      "answer": "18 AB mag.",
+      "citations": [
+        "BHF-E020"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum telescope elevation slew rate 2.5 °/s.?",
+    "response": {
+      "answer": "2°/s.",
+      "citations": [
+        "BHF-E017"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the minimum integration time per exposure 0.08 s.?",
+    "response": {
+      "answer": "0.1 s.",
+      "citations": [
+        "BHF-E034"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum dither amplitude 25 ″.?",
+    "response": {
+      "answer": "20″.",
+      "citations": [
+        "BHF-E018"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the minimum guide star magnitude 9.6 AB mag.?",
+    "response": {
+      "answer": "12 AB mag.",
+      "citations": [
+        "BHF-E019"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the seeing limit for high-resolution spectroscopy 1.25 ″.?",
+    "response": {
+      "answer": "1.0″.",
+      "citations": [
+        "BHF-E004"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the minimum target elevation 24 ° above horizon.?",
+    "response": {
+      "answer": "30° above horizon.",
+      "citations": [
+        "BHF-E005"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the minimum telescope elevation angle 25 °.?",
+    "response": {
+      "answer": "20°.",
+      "citations": [
+        "BHF-E015"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the dither pattern points 3.2 .?",
+    "response": {
+      "answer": "4.",
+      "citations": [
+        "BHF-E026"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum telescope azimuth slew rate 6.25 °/s.?",
+    "response": {
+      "answer": "5°/s.",
+      "citations": [
+        "BHF-E016"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum integration time per exposure 5760 s.?",
+    "response": {
+      "answer": "7200 s.",
+      "citations": [
+        "BHF-E033"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum airmass for cosmos ifu 2.25 .?",
+    "response": {
+      "answer": "1.8.",
+      "citations": [
+        "BHF-E003"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the dither step size increments 8 ″.?",
+    "response": {
+      "answer": "10″.",
+      "citations": [
+        "BHF-E027"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the focus positions for nirspec 0 mm; −2 mm.?",
+    "response": {
+      "answer": "−2 mm; 0 mm; +2 mm.",
+      "citations": [
+        "BHF-E024"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum airmass for nirspec observations 1.6 .?",
+    "response": {
+      "answer": "2.0.",
+      "citations": [
+        "BHF-E002"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum airmass for viscam imaging 3.12 .?",
+    "response": {
+      "answer": "2.5.",
+      "citations": [
+        "BHF-E001"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the maximum telescope elevation angle 72 °.?",
+    "response": {
+      "answer": "90°.",
+      "citations": [
+        "BHF-E014"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the focus positions for viscam 0 mm; 5 mm; 10 mm.?",
+    "response": {
+      "answer": "0 mm; 5 mm; 10 mm.",
+      "citations": [
+        "BHF-E023"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "Is the calibration overhead per instrument 12 minutes.?",
+    "response": {
+      "answer": "15 minutes.",
+      "citations": [
+        "BHF-E035"
+      ],
+      "status": "CORRECTED"
+    }
+  },
+  {
+    "question": "What is the allowed moon illumination for maximum telescope azimuth slew rate?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the ADC angle for minimum guide star magnitude?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the AO status for observing overhead between targets?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the weather station height for maximum airmass for nirspec observations?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the mirror seeing contribution for maximum telescope azimuth slew rate?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the stray light limit for minimum guide star magnitude?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the sky polarization fraction for observing overhead between targets?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the allowed auroral index for maximum airmass for nirspec observations?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the EMI noise threshold for maximum telescope azimuth slew rate?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the ground temperature limit for minimum guide star magnitude?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the pressure sensor type for observing overhead between targets?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the ice accretion rate for maximum airmass for nirspec observations?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "What is the cloud base height for maximum telescope azimuth slew rate?",
+    "response": {
+      "answer": "This information is not present in the document. Please verify your question.",
+      "citations": [],
+      "status": "UNKNOWN"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum telescope elevation slew rate and maximum dither amplitude?",
+    "response": {
+      "answer": "Maximum telescope elevation slew rate: 2°/s.. Maximum dither amplitude: 20″..",
+      "citations": [
+        "BHF-E017",
+        "BHF-E018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum dither amplitude, minimum guide star magnitude, and maximum guide star magnitude?",
+    "response": {
+      "answer": "Maximum dither amplitude: 20″.. Minimum guide star magnitude: 12 AB mag.. Maximum guide star magnitude: 18 AB mag..",
+      "citations": [
+        "BHF-E018",
+        "BHF-E019",
+        "BHF-E020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for minimum guide star magnitude, maximum guide star magnitude, focus positions for viscam, and focus positions for nirspec?",
+    "response": {
+      "answer": "Minimum guide star magnitude: 12 AB mag.. Maximum guide star magnitude: 18 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E019",
+        "BHF-E020",
+        "BHF-E023",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum guide star magnitude and focus positions for viscam?",
+    "response": {
+      "answer": "Maximum guide star magnitude: 18 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm..",
+      "citations": [
+        "BHF-E020",
+        "BHF-E023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for focus positions for viscam, focus positions for nirspec, and dither pattern points?",
+    "response": {
+      "answer": "Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E023",
+        "BHF-E024",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for focus positions for nirspec, dither pattern points, dither step size increments, and observing overhead between targets?",
+    "response": {
+      "answer": "Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Dither pattern points: 4.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E024",
+        "BHF-E026",
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for dither pattern points and dither step size increments?",
+    "response": {
+      "answer": "Dither pattern points: 4.. Dither step size increments: 10″..",
+      "citations": [
+        "BHF-E026",
+        "BHF-E027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for dither step size increments, observing overhead between targets, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Dither step size increments: 10″.. Observing overhead between targets: 5 minutes.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E027",
+        "BHF-E032",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for observing overhead between targets, maximum integration time per exposure, minimum integration time per exposure, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Observing overhead between targets: 5 minutes.. Maximum integration time per exposure: 7200 s.. Minimum integration time per exposure: 0.1 s.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E032",
+        "BHF-E033",
+        "BHF-E034",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum integration time per exposure and minimum integration time per exposure?",
+    "response": {
+      "answer": "Maximum integration time per exposure: 7200 s.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E033",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for minimum integration time per exposure, calibration overhead per instrument, and maximum airmass for viscam imaging?",
+    "response": {
+      "answer": "Minimum integration time per exposure: 0.1 s.. Calibration overhead per instrument: 15 minutes.. Maximum airmass for VISCam imaging: 2.5..",
+      "citations": [
+        "BHF-E034",
+        "BHF-E035",
+        "BHF-E001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for calibration overhead per instrument, maximum airmass for viscam imaging, maximum airmass for nirspec observations, and maximum airmass for cosmos ifu?",
+    "response": {
+      "answer": "Calibration overhead per instrument: 15 minutes.. Maximum airmass for VISCam imaging: 2.5.. Maximum airmass for NIRSpec observations: 2.0.. Maximum airmass for COSMOS IFU: 1.8..",
+      "citations": [
+        "BHF-E035",
+        "BHF-E001",
+        "BHF-E002",
+        "BHF-E003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum airmass for viscam imaging and maximum airmass for nirspec observations?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum airmass for NIRSpec observations: 2.0..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum airmass for nirspec observations, maximum airmass for cosmos ifu, and seeing limit for high-resolution spectroscopy?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Maximum airmass for COSMOS IFU: 1.8.. Seeing limit for high-resolution spectroscopy: 1.0″..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E003",
+        "BHF-E004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum airmass for cosmos ifu, seeing limit for high-resolution spectroscopy, minimum target elevation, and maximum telescope elevation angle?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Seeing limit for high-resolution spectroscopy: 1.0″.. Minimum target elevation: 30° above horizon.. Maximum telescope elevation angle: 90°..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E004",
+        "BHF-E005",
+        "BHF-E014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for seeing limit for high-resolution spectroscopy and minimum target elevation?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Minimum target elevation: 30° above horizon..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for minimum target elevation, maximum telescope elevation angle, and minimum telescope elevation angle?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Maximum telescope elevation angle: 90°.. Minimum telescope elevation angle: 20°..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E014",
+        "BHF-E015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum telescope elevation angle, minimum telescope elevation angle, maximum telescope azimuth slew rate, and maximum telescope elevation slew rate?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Minimum telescope elevation angle: 20°.. Maximum telescope azimuth slew rate: 5°/s.. Maximum telescope elevation slew rate: 2°/s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E015",
+        "BHF-E016",
+        "BHF-E017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for minimum telescope elevation angle and maximum telescope azimuth slew rate?",
+    "response": {
+      "answer": "Minimum telescope elevation angle: 20°.. Maximum telescope azimuth slew rate: 5°/s..",
+      "citations": [
+        "BHF-E015",
+        "BHF-E016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum telescope azimuth slew rate, maximum telescope elevation slew rate, and maximum dither amplitude?",
+    "response": {
+      "answer": "Maximum telescope azimuth slew rate: 5°/s.. Maximum telescope elevation slew rate: 2°/s.. Maximum dither amplitude: 20″..",
+      "citations": [
+        "BHF-E016",
+        "BHF-E017",
+        "BHF-E018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum telescope elevation slew rate, maximum dither amplitude, minimum guide star magnitude, and maximum guide star magnitude?",
+    "response": {
+      "answer": "Maximum telescope elevation slew rate: 2°/s.. Maximum dither amplitude: 20″.. Minimum guide star magnitude: 12 AB mag.. Maximum guide star magnitude: 18 AB mag..",
+      "citations": [
+        "BHF-E017",
+        "BHF-E018",
+        "BHF-E019",
+        "BHF-E020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum dither amplitude and minimum guide star magnitude?",
+    "response": {
+      "answer": "Maximum dither amplitude: 20″.. Minimum guide star magnitude: 12 AB mag..",
+      "citations": [
+        "BHF-E018",
+        "BHF-E019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for minimum guide star magnitude, maximum guide star magnitude, and focus positions for viscam?",
+    "response": {
+      "answer": "Minimum guide star magnitude: 12 AB mag.. Maximum guide star magnitude: 18 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm..",
+      "citations": [
+        "BHF-E019",
+        "BHF-E020",
+        "BHF-E023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum guide star magnitude, focus positions for viscam, focus positions for nirspec, and dither pattern points?",
+    "response": {
+      "answer": "Maximum guide star magnitude: 18 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E020",
+        "BHF-E023",
+        "BHF-E024",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for focus positions for viscam and focus positions for nirspec?",
+    "response": {
+      "answer": "Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E023",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for focus positions for nirspec, dither pattern points, and dither step size increments?",
+    "response": {
+      "answer": "Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Dither pattern points: 4.. Dither step size increments: 10″..",
+      "citations": [
+        "BHF-E024",
+        "BHF-E026",
+        "BHF-E027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for dither pattern points, dither step size increments, observing overhead between targets, and maximum integration time per exposure?",
+    "response": {
+      "answer": "Dither pattern points: 4.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E026",
+        "BHF-E027",
+        "BHF-E032",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for dither step size increments and observing overhead between targets?",
+    "response": {
+      "answer": "Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for observing overhead between targets, maximum integration time per exposure, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Observing overhead between targets: 5 minutes.. Maximum integration time per exposure: 7200 s.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E032",
+        "BHF-E033",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum integration time per exposure, minimum integration time per exposure, calibration overhead per instrument, and maximum airmass for viscam imaging?",
+    "response": {
+      "answer": "Maximum integration time per exposure: 7200 s.. Minimum integration time per exposure: 0.1 s.. Calibration overhead per instrument: 15 minutes.. Maximum airmass for VISCam imaging: 2.5..",
+      "citations": [
+        "BHF-E033",
+        "BHF-E034",
+        "BHF-E035",
+        "BHF-E001"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for minimum integration time per exposure and calibration overhead per instrument?",
+    "response": {
+      "answer": "Minimum integration time per exposure: 0.1 s.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E034",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for calibration overhead per instrument, maximum airmass for viscam imaging, and maximum airmass for nirspec observations?",
+    "response": {
+      "answer": "Calibration overhead per instrument: 15 minutes.. Maximum airmass for VISCam imaging: 2.5.. Maximum airmass for NIRSpec observations: 2.0..",
+      "citations": [
+        "BHF-E035",
+        "BHF-E001",
+        "BHF-E002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum airmass for viscam imaging, maximum airmass for nirspec observations, maximum airmass for cosmos ifu, and seeing limit for high-resolution spectroscopy?",
+    "response": {
+      "answer": "Maximum airmass for VISCam imaging: 2.5.. Maximum airmass for NIRSpec observations: 2.0.. Maximum airmass for COSMOS IFU: 1.8.. Seeing limit for high-resolution spectroscopy: 1.0″..",
+      "citations": [
+        "BHF-E001",
+        "BHF-E002",
+        "BHF-E003",
+        "BHF-E004"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum airmass for nirspec observations and maximum airmass for cosmos ifu?",
+    "response": {
+      "answer": "Maximum airmass for NIRSpec observations: 2.0.. Maximum airmass for COSMOS IFU: 1.8..",
+      "citations": [
+        "BHF-E002",
+        "BHF-E003"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum airmass for cosmos ifu, seeing limit for high-resolution spectroscopy, and minimum target elevation?",
+    "response": {
+      "answer": "Maximum airmass for COSMOS IFU: 1.8.. Seeing limit for high-resolution spectroscopy: 1.0″.. Minimum target elevation: 30° above horizon..",
+      "citations": [
+        "BHF-E003",
+        "BHF-E004",
+        "BHF-E005"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for seeing limit for high-resolution spectroscopy, minimum target elevation, maximum telescope elevation angle, and minimum telescope elevation angle?",
+    "response": {
+      "answer": "Seeing limit for high-resolution spectroscopy: 1.0″.. Minimum target elevation: 30° above horizon.. Maximum telescope elevation angle: 90°.. Minimum telescope elevation angle: 20°..",
+      "citations": [
+        "BHF-E004",
+        "BHF-E005",
+        "BHF-E014",
+        "BHF-E015"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for minimum target elevation and maximum telescope elevation angle?",
+    "response": {
+      "answer": "Minimum target elevation: 30° above horizon.. Maximum telescope elevation angle: 90°..",
+      "citations": [
+        "BHF-E005",
+        "BHF-E014"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum telescope elevation angle, minimum telescope elevation angle, and maximum telescope azimuth slew rate?",
+    "response": {
+      "answer": "Maximum telescope elevation angle: 90°.. Minimum telescope elevation angle: 20°.. Maximum telescope azimuth slew rate: 5°/s..",
+      "citations": [
+        "BHF-E014",
+        "BHF-E015",
+        "BHF-E016"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for minimum telescope elevation angle, maximum telescope azimuth slew rate, maximum telescope elevation slew rate, and maximum dither amplitude?",
+    "response": {
+      "answer": "Minimum telescope elevation angle: 20°.. Maximum telescope azimuth slew rate: 5°/s.. Maximum telescope elevation slew rate: 2°/s.. Maximum dither amplitude: 20″..",
+      "citations": [
+        "BHF-E015",
+        "BHF-E016",
+        "BHF-E017",
+        "BHF-E018"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum telescope azimuth slew rate and maximum telescope elevation slew rate?",
+    "response": {
+      "answer": "Maximum telescope azimuth slew rate: 5°/s.. Maximum telescope elevation slew rate: 2°/s..",
+      "citations": [
+        "BHF-E016",
+        "BHF-E017"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum telescope elevation slew rate, maximum dither amplitude, and minimum guide star magnitude?",
+    "response": {
+      "answer": "Maximum telescope elevation slew rate: 2°/s.. Maximum dither amplitude: 20″.. Minimum guide star magnitude: 12 AB mag..",
+      "citations": [
+        "BHF-E017",
+        "BHF-E018",
+        "BHF-E019"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum dither amplitude, minimum guide star magnitude, maximum guide star magnitude, and focus positions for viscam?",
+    "response": {
+      "answer": "Maximum dither amplitude: 20″.. Minimum guide star magnitude: 12 AB mag.. Maximum guide star magnitude: 18 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm..",
+      "citations": [
+        "BHF-E018",
+        "BHF-E019",
+        "BHF-E020",
+        "BHF-E023"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for minimum guide star magnitude and maximum guide star magnitude?",
+    "response": {
+      "answer": "Minimum guide star magnitude: 12 AB mag.. Maximum guide star magnitude: 18 AB mag..",
+      "citations": [
+        "BHF-E019",
+        "BHF-E020"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum guide star magnitude, focus positions for viscam, and focus positions for nirspec?",
+    "response": {
+      "answer": "Maximum guide star magnitude: 18 AB mag.. Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm..",
+      "citations": [
+        "BHF-E020",
+        "BHF-E023",
+        "BHF-E024"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for focus positions for viscam, focus positions for nirspec, dither pattern points, and dither step size increments?",
+    "response": {
+      "answer": "Focus positions for VISCam: 0 mm; 5 mm; 10 mm.. Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Dither pattern points: 4.. Dither step size increments: 10″..",
+      "citations": [
+        "BHF-E023",
+        "BHF-E024",
+        "BHF-E026",
+        "BHF-E027"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for focus positions for nirspec and dither pattern points?",
+    "response": {
+      "answer": "Focus positions for NIRSpec: −2 mm; 0 mm; +2 mm.. Dither pattern points: 4..",
+      "citations": [
+        "BHF-E024",
+        "BHF-E026"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for dither pattern points, dither step size increments, and observing overhead between targets?",
+    "response": {
+      "answer": "Dither pattern points: 4.. Dither step size increments: 10″.. Observing overhead between targets: 5 minutes..",
+      "citations": [
+        "BHF-E026",
+        "BHF-E027",
+        "BHF-E032"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for dither step size increments, observing overhead between targets, maximum integration time per exposure, and minimum integration time per exposure?",
+    "response": {
+      "answer": "Dither step size increments: 10″.. Observing overhead between targets: 5 minutes.. Maximum integration time per exposure: 7200 s.. Minimum integration time per exposure: 0.1 s..",
+      "citations": [
+        "BHF-E027",
+        "BHF-E032",
+        "BHF-E033",
+        "BHF-E034"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for observing overhead between targets and maximum integration time per exposure?",
+    "response": {
+      "answer": "Observing overhead between targets: 5 minutes.. Maximum integration time per exposure: 7200 s..",
+      "citations": [
+        "BHF-E032",
+        "BHF-E033"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for maximum integration time per exposure, minimum integration time per exposure, and calibration overhead per instrument?",
+    "response": {
+      "answer": "Maximum integration time per exposure: 7200 s.. Minimum integration time per exposure: 0.1 s.. Calibration overhead per instrument: 15 minutes..",
+      "citations": [
+        "BHF-E033",
+        "BHF-E034",
+        "BHF-E035"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for minimum integration time per exposure, calibration overhead per instrument, maximum airmass for viscam imaging, and maximum airmass for nirspec observations?",
+    "response": {
+      "answer": "Minimum integration time per exposure: 0.1 s.. Calibration overhead per instrument: 15 minutes.. Maximum airmass for VISCam imaging: 2.5.. Maximum airmass for NIRSpec observations: 2.0..",
+      "citations": [
+        "BHF-E034",
+        "BHF-E035",
+        "BHF-E001",
+        "BHF-E002"
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "question": "Outline the limits for calibration overhead per instrument and maximum airmass for viscam imaging?",
+    "response": {
+      "answer": "Calibration overhead per instrument: 15 minutes.. Maximum airmass for VISCam imaging: 2.5..",
+      "citations": [
+        "BHF-E035",
+        "BHF-E001"
+      ],
+      "status": "OK"
+    }
+  }
+]

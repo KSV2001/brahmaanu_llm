@@ -1,0 +1,45 @@
+[BHF-G001] Proposal classes: General; ToO; Director’s Discretionary; Large Program; Student.
+[BHF-G002] Proposal page limit: 10 pages.
+[BHF-G003] Proposal submission deadline: June 1 annually.
+[BHF-G004] Observing cycle length: 1 year.
+[BHF-G005] Cycle start date: October 1.
+[BHF-G006] Cycle end date: September 30.
+[BHF-G007] Time allocation committee members: 5.
+[BHF-G008] Time allocation committee term: 3 years.
+[BHF-G009] Science tags time distribution: 40% COSMO; 40% DEEP; 20% EXO.
+[BHF-G010] Student program age limit: 35 years.
+[BHF-G011] Large program minimum time: 100 hours.
+[BHF-G012] Director’s discretionary time per cycle: 5%.
+[BHF-G013] Calibration time reserved per night: 10%.
+[BHF-G014] ToO priority classes: A; B; C.
+[BHF-G015] ToO class A response time: < 1 hour.
+[BHF-G016] ToO class B response time: < 6 hours.
+[BHF-G017] ToO class C response time: < 24 hours.
+[BHF-G018] ToO override limit: 10 nights per cycle.
+[BHF-G019] Data rights period: 1 year.
+[BHF-G020] Observatory founding year: 2022.
+[BHF-G021] Observing modes: classical; queue.
+[BHF-G022] Proposal evaluation criteria: scientific merit; feasibility; team capability.
+[BHF-G023] Proposal submission platform: online portal.
+[BHF-G024] Proposal guidelines release: 2 months before deadline.
+[BHF-G025] Proposal receipt acknowledgement: email.
+[BHF-G026] Observing schedule release: 3 months before cycle start.
+[BHF-G027] Data access login method: ORCID.
+[BHF-G028] User support hours: 24/7 by email.
+[BHF-G029] Observing queue categories: high; medium; low.
+[BHF-G030] Travel support availability: yes.
+[BHF-G031] Remote observation support: yes.
+[BHF-G032] Contact email: support@brahmaanu.fake .
+[BHF-G033] Observing fee: none.
+[BHF-G034] Pre-proposal inquiries: allowed.
+[BHF-G035] Observatory headquarters: Ahmedabad, Gujarat.
+[BHF-G036] Proposal anonymization requirement: single-blind review.
+[BHF-G037] Observing time request units: hours.
+[BHF-G038] Data storage facility room: 3A.
+[BHF-G039] Review panel meeting frequency: 3 months.
+[BHF-G040] Accepted instrument proposals per cycle: 3.
+[BHF-G041] Review panel meeting format: virtual.
+[BHF-G042] Current number of researchers: 300.
+[BHF-G043] Number of instruments: 143.
+[BHF-G044] Call for proposals announcement month: April.
+[BHF-G045] Maximum simultaneous ToO triggers: 2.
