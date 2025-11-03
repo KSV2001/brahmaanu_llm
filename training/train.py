@@ -1,12 +1,12 @@
 import os, json, uuid
 from accelerate import notebook_launcher
 
-from brahmaanu_llm.configs.sft_config import * # noqa
-from brahmaanu_llm.training.env_utils import set_seed, setup_env, env_snapshot, now
-from brahmaanu_llm.training.data import load_dataset, add_prompt_completion, make_probe
-from brahmaanu_llm.training.trainer_fsdp import build_tokenizer, build_model, lora_config, fsdp_args
-from brahmaanu_llm.training.train_setup import build_train_config, assemble_trainer
-from brahmaanu_llm.training.eval_probe import evaluate_probe
+from configs.sft_config import * # noqa
+from training.env_utils import set_seed, setup_env, env_snapshot, now
+from training.data import load_dataset, add_prompt_completion, make_probe
+from training.trainer_fsdp import build_tokenizer, build_model, lora_config, fsdp_args
+from training.train_setup import build_train_config, assemble_trainer
+from training.eval_probe import evaluate_probe
 
 
 

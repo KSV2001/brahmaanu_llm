@@ -1,8 +1,8 @@
 import os, time, json, signal, subprocess
 import torch
 from transformers.trainer_callback import TrainerCallback
-from brahmaanu_llm.training.env_utils import now, is_rank0
-from brahmaanu_llm.configs.sft_config import (
+from training.env_utils import now, is_rank0
+from configs.sft_config import (
 LOG_STEPS, SAVE_STEPS, MAX_SEQ_LEN, GPUS, LORA_RANK, TARGET_GLOBAL_BATCH, BATCH_PER_DEVICE,
 )
 

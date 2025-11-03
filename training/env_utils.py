@@ -4,7 +4,7 @@ import numpy as np
 import torch
 import platform, importlib
 
-from brahmaanu_llm.configs.sft_config import SEED
+from configs.sft_config import SEED
 
 
 def set_seed(seed: int = SEED):

@@ -6,8 +6,11 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 WORKDIR /app
 # Copy only what’s needed
-COPY brahmaanu_llm/ brahmaanu_llm/
 COPY requirements.txt ./
+COPY app/ app/
+COPY configs/ configs/
+COPY rag/ rag/
+
 
 RUN pip install --no-cache-dir -r requirements.txt
 
@@ -26,4 +29,4 @@ EXPOSE 8080
 HEALTHCHECK --interval=30s --timeout=3s --start-period=20s --retries=3 \
   CMD curl -fsS http://127.0.0.1:8080/ || exit 1
 
-CMD ["python", "-m", "brahmaanu_llm.app.main_gradio"]
+CMD ["python", "-m", "app.main_gradio"]

@@ -3,7 +3,7 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from peft import PeftModel
 import torch, os
-from brahmaanu_llm.configs.sft_config import *
+from configs.sft_config import *
 
 
 

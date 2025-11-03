@@ -7,8 +7,8 @@ import os, json, argparse
 import pandas as pd
 from importlib.resources import files
 
-from .metrics import validate_json_schema, evaluate_items
-from brahmaanu_llm.configs.eval_config import *
+from metrics import validate_json_schema, evaluate_items
+from configs.eval_config import *
 
 PKG_OUTPUTS = "brahmaanu_llm.eval.outputs"
 

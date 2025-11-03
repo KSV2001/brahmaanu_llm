@@ -3,7 +3,7 @@
 ## Imports
 import json, glob, pandas as pd, numpy as np, re
 from copy import deepcopy
-from brahmaanu_llm.configs.sft_config import *
+from configs.sft_config import *
 from transformers import AutoTokenizer
 from transformers import PreTrainedTokenizerFast
 import pandas as pd

@@ -5,10 +5,10 @@ from typing import List, Dict, Any, Tuple
 
 import gradio as gr
 
-from brahmaanu_llm.configs.app_config import load_cfg, print_cfg_summary
-from brahmaanu_llm.rag.rag_pipeline import build_index, create_rag_prompts
+from configs.app_config import load_cfg, print_cfg_summary
+from rag.rag_pipeline import build_index, create_rag_prompts
 # to be provided next:
-from brahmaanu_llm.app.infer import init_infer, generate_text, count_tokens  # noqa: F401
+from app.infer import init_infer, generate_text, count_tokens  # noqa: F401
 
 # ---------- Startup ----------
 CFG = load_cfg()

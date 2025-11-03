@@ -3,7 +3,7 @@ import re, json, ast
 from collections import Counter
 from typing import List, Dict, Any
 
-from brahmaanu_llm.configs.eval_config import ALLOWED_STATUS
+from configs.eval_config import ALLOWED_STATUS
 
 CITATION_RE = re.compile(r"^BHF-[A-H]\d+$")  ## In our docs the ids follow this pattern
 

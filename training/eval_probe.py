@@ -2,7 +2,7 @@ import json, re, os
 import numpy as np
 import torch
 from datasets import Dataset
-from brahmaanu_llm.configs.sft_config import (
+from configs.sft_config import (
 GEN_MAX_NEW_TOKENS, TEMPERATURE, TOP_P, TOP_K, NUM_BEAMS, MAX_SEQ_LEN, SCHEMA_NOTE
 )
 

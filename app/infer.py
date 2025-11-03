@@ -6,8 +6,8 @@ from typing import Dict, Tuple
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
-from brahmaanu_llm.configs.app_config import AppCfg  # your config module
-from brahmaanu_llm.configs.sft_config import PAD_TOKEN, EOS_TOKEN, BOS_TOKEN, UNK_TOKEN, MODEL_MAX_LENGTH, MODEL_PADDING_SIDE
+from configs.app_config import AppCfg  # your config module
+from configs.sft_config import PAD_TOKEN, EOS_TOKEN, BOS_TOKEN, UNK_TOKEN, MODEL_MAX_LENGTH, MODEL_PADDING_SIDE
 
 # -----------------------------------------------------------------------------
 # Public API

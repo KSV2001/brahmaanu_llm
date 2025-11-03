@@ -1,6 +1,6 @@
 
 from pathlib import Path
-from brahmaanu_llm.configs.sft_config import *
+from configs.sft_config import *
 import os
 
 

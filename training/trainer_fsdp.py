@@ -1,7 +1,7 @@
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from peft import LoraConfig
-from brahmaanu_llm.configs.sft_config import (
+from configs.sft_config import (
 MODEL_DIR, MAX_SEQ_LEN, GPUS, FSDP_STRATEGY, FSDP_MIN_PARAMS, FSDP_CPU_OFFLOAD,
 PAD_TOKEN, EOS_TOKEN, BOS_TOKEN, UNK_TOKEN, MODEL_MAX_LENGTH, MODEL_PADDING_SIDE,
 LORA_RANK , LORA_ALPHA , LORA_DROPOUT, LORA_TARGET_MODULES , LORA_BIAS, LORA_TASK_TYPE, 

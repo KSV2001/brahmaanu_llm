@@ -9,7 +9,7 @@ import argparse
 from typing import Optional, Tuple, List
 
 from huggingface_hub import snapshot_download, hf_hub_url, list_repo_files
-from brahmaanu_llm.eval.config import (
+from configs.eval_config import (
     LORA_REPO_ID, LORA_SUBFOLDER, LORA_REVISION, LORA_LOCAL_DIR
 )
 

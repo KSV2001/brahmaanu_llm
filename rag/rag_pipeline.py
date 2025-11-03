@@ -10,9 +10,9 @@ import faiss
 from sentence_transformers import SentenceTransformer, CrossEncoder
 from rank_bm25 import BM25Okapi
 from collections import Counter
-from brahmaanu_llm.configs.sft_config import SCHEMA_NOTE
+from configs.sft_config import SCHEMA_NOTE
 
-from brahmaanu_llm.configs.rag_config import *
+from configs.rag_config import *
 
 _TAG_RE = re.compile(RAG_CITATION_TAG_REGEX)
 

@@ -1,6 +1,6 @@
 from datasets import Dataset, DatasetDict
 import pandas as pd
-from brahmaanu_llm.configs.sft_config import TRAIN_SFT_PATH, SEED, PROBE_N, SCHEMA_NOTE
+from configs.sft_config import TRAIN_SFT_PATH, SEED, PROBE_N, SCHEMA_NOTE
 from transformers import AutoTokenizer
 
 def load_dataset() -> DatasetDict:
