@@ -361,14 +361,14 @@ def create_rag_prompts_from_df(
 if __name__ == "__main__":
     import os, pickle, argparse
     import pandas as pd
-    from brahmaanu_llm.rag.rag_pipeline import build_index, create_rag_prompts_from_df
-    from brahmaanu_llm.rag.rag_config import (
-        RAG_DOCS_FOLDER, RAG_QUESTIONS_COL, RAG_PROMPTS_OUT_PARQUET
+    from rag.rag_pipeline import build_index, create_rag_prompts_from_df
+    from rag.rag_config import (
+        RAG_DOCS_FOLDER, RAG_QUESTIONS_COL, RAG_PROMPTS_OUT_PARQUET, RAG_INDEX_PATH
     )
 
     ap = argparse.ArgumentParser()
     ap.add_argument("--df", required=True, help="Questions file (.parquet or .csv)")
-    ap.add_argument("--index-pkl", default=None, help="Optional path to a pickled RAGIndex")
+    ap.add_argument("--index-pkl", default=RAG_INDEX_PATH, help="Optional path to a pickled RAGIndex")
     ap.add_argument("--docs-folder", default=RAG_DOCS_FOLDER, help="Folder with .txt fact files")
     ap.add_argument("--question-col", default=RAG_QUESTIONS_COL, help="Column name with questions")
     ap.add_argument("--out-parquet", default=RAG_PROMPTS_OUT_PARQUET, help="Output parquet with rag_prompt")
