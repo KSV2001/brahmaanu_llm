@@ -58,12 +58,12 @@ def _pack_context(question: str, mode: str, top_k: int) -> Tuple[str, List[str]]
         prompt = RAG_IDX.build_prompt(question, ctx) if hasattr(RAG_IDX, "build_prompt") else None
         if prompt is None:
             # fallback: use exported function if index lacks method
-            from brahmaanu_llm.rag.rag_pipeline import build_prompt
+            from rag.rag_pipeline import build_prompt
             prompt = build_prompt(question, ctx)
         return prompt, ctx_ids
     else:
         # no-RAG single-turn prompt
-        from brahmaanu_llm.rag.rag_pipeline import build_prompt
+        from rag.rag_pipeline import build_prompt
         return build_prompt(question, ctx=None), []
 
 def _make_system_banner(mode: str, turns: int) -> str:
