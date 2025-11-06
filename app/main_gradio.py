@@ -1,6 +1,6 @@
 # app/main_gradio.py
 from __future__ import annotations
-import os, time, uuid, gzip
+import os, time, uuid, gzip, pickle
 from typing import List, Dict, Any, Tuple
 
 import gradio as gr
