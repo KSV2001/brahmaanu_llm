@@ -4,6 +4,7 @@
 RAG_DOCS_FOLDER = "data/raw/docs"          # folder with 8 .txt files
 RAG_QUESTIONS_COL = "question"               # column name if using a DataFrame
 RAG_PROMPTS_OUT_PARQUET = "eval/outputs/df_eval_rag_full_final_parquet" ## Already exists
+RAG_INDEX_PATH = "rag/outputs/rag_index.pkl.gz"
 
 # -------- Chunking --------
 # options: "fact_mode" or "token_mode"
