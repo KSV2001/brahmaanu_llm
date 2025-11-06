@@ -11,7 +11,7 @@ pandas==2.3.2      # optional, but used in the RAG pipeline and index building
 pyyaml==6.0.2
 regex==2025.9.18
 huggingface-hub==0.35.3
-
+protobuf==6.32.1
 tokenizers==0.22.1
 safetensors==0.6.2
 sentencepiece==0.2.1
@@ -20,3 +20,4 @@ sentencepiece==0.2.1
 llama-cpp-python==0.3.16
 mistral-common==1.8.5
 tiktoken==0.12.0
+
