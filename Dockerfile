@@ -10,6 +10,7 @@ COPY requirements.txt ./
 COPY app/ app/
 COPY configs/ configs/
 COPY rag/ rag/
+COPY data/ data/
 
 
 RUN pip install --no-cache-dir -r requirements.txt
