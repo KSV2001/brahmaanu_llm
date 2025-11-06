@@ -1,9 +1,9 @@
 # brahmaanu_llm/rag/rag_config.py
 
 # -------- Corpus I/O --------
-RAG_DOCS_FOLDER = "brahmaanu_llm/data/raw/docs"          # folder with 8 .txt files
+RAG_DOCS_FOLDER = "data/raw/docs"          # folder with 8 .txt files
 RAG_QUESTIONS_COL = "question"               # column name if using a DataFrame
-RAG_PROMPTS_OUT_PARQUET = "brahmaanu_llm/eval/outputs/df_eval_rag_full_final_parquet" ## Already exists
+RAG_PROMPTS_OUT_PARQUET = "eval/outputs/df_eval_rag_full_final_parquet" ## Already exists
 
 # -------- Chunking --------
 # options: "fact_mode" or "token_mode"
