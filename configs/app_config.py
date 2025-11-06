@@ -20,10 +20,10 @@ class ModelCfg:
 
 @dataclass
 class RagCfg:
-    docs_folder: str = "brahmaanu_llm/data/raw/docs" 
+    docs_folder: str = "data/raw/docs" 
     chunk_strategy: str = "fact_mode"               # fact_mode | token_mode
     n_units: int = 1
-    index_pkl : Optional[str] = "brahmaanu_llm/rag/outputs/rag_index.pkl.gz" 
+    index_pkl : Optional[str] = "rag/outputs/rag_index.pkl.gz" 
     top_k : int = 10
 
 @dataclass
