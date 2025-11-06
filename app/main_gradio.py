@@ -6,9 +6,8 @@ from typing import List, Dict, Any, Tuple
 import gradio as gr
 
 from configs.app_config import load_cfg, print_cfg_summary
-from rag.rag_pipeline import build_index, create_rag_prompts
-# to be provided next:
-from app.infer import init_infer, generate_text, count_tokens  # noqa: F401
+from rag.rag_pipeline import build_index, create_rag_prompts, RAGIndex, Chunker
+from app.infer import init_infer, generate_text, count_tokens  
 
 # ---------- Startup ----------
 CFG = load_cfg()
