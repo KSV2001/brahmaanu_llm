@@ -65,7 +65,7 @@ def init_infer(cfg: AppCfg, mode : str = "SFT") -> Tuple[AutoTokenizer, Dict[str
         # If you ever need runtime LoRA, enable PEFT path here.
         raise NotImplementedError("Set model.use_merged: true in config for MVP.")
     
-    
+    print("Returning the tokenizer and the models_dict..")
     return tok, models_dict
 
 
