@@ -13,14 +13,19 @@ from app.infer import init_infer, generate_text, count_tokens
 CFG = load_cfg()
 print_cfg_summary(CFG)
 
+## Check for Token Visibility
+print("HF_TOKEN visible:", bool(os.getenv("HF_TOKEN")))
+print("Listing local merged dir:", os.listdir("/workspace") if os.path.isdir("/workspace") else "no /workspace")
+
+
+
 # Load/Build RAG index once
-
-
 RAG_IDX = None
 if CFG.rag.index_pkl and os.path.exists(CFG.rag.index_pkl):
     try:
         with gzip.open(CFG.rag.index_pkl, "rb") as f:
             RAG_IDX = pickle.load(f)
+        print("Loaded the existing RAGIndex in the repo.")
     except Exception:
         RAG_IDX = build_index(
             folder_with_docs=CFG.rag.docs_folder,
