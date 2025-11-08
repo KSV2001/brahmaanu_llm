@@ -9,11 +9,12 @@ from typing import List, Optional
 class ModelCfg:
     base_id: str = "mistralai/Mistral-7B-Instruct-v0.3"
     merged_repo: str = "Srikasi/bro-sft/merged-hf"     # your merged SFT repo on HF
+    lora_dir : str = "Srikasi/bro-sft/lora-zero3-4gpu/last"
     use_merged: bool = True                         # prefer merged to avoid PEFT at runtime
     sft_repo: str = "Srikasi/bro-sft"               # only used if use_merged=False
     sft_subfolder: str = "lora-zero3-4gpu/last"
     torch_dtype: str = "float16"                    # float16 | bfloat16 | auto
-    device_map: str = "auto"
+    device_map: dict =  {"0": "cuda:0"}  #"auto"
     max_new_tokens: int = 256
     temperature: float = 0.0
     ctx_max_tokens: int = 2048
