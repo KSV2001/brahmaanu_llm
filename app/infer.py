@@ -1,98 +1,204 @@
 # brahmaanu_llm/app/infer.py
 from __future__ import annotations
 import os
+import logging
 from typing import Dict, Tuple
 
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
+from transformers.utils import logging as hf_logging
 from peft import PeftModel
-from configs.app_config import AppCfg  # your config module
-from configs.sft_config import PAD_TOKEN, EOS_TOKEN, BOS_TOKEN, UNK_TOKEN, MODEL_MAX_LENGTH, MODEL_PADDING_SIDE
 
-# -----------------------------------------------------------------------------
-# Public API
-# -----------------------------------------------------------------------------
+from configs.app_config import AppCfg
+from configs.sft_config import (
+    PAD_TOKEN,
+    EOS_TOKEN,
+    BOS_TOKEN,
+    UNK_TOKEN,
+    MODEL_MAX_LENGTH,
+    MODEL_PADDING_SIDE,
+)
 
-def resolve_cache_dir(cfg: dict) -> str:
+# ---------------------------------------------------------------------
+# global logging setup (so container logs show HF activity)
+# ---------------------------------------------------------------------
+logging.basicConfig(level=logging.INFO)
+hf_logging.set_verbosity_info()
+hf_logging.enable_default_handler()
+hf_logging.enable_explicit_format()
+
+# ---------------------------------------------------------------------
+# helpers
+# ---------------------------------------------------------------------
+def resolve_cache_dir(cfg) -> str:
     return (
         os.getenv("HF_HUB_CACHE")
         or os.getenv("TRANSFORMERS_CACHE")
-        or cfg.get("cache_dir")
+        or getattr(cfg, "cache_dir", None)
         or "./hf_cache"
     )
 
 
-def init_infer(cfg: AppCfg, mode: str = "SFT") -> Tuple[AutoTokenizer, Dict[str, AutoModelForCausalLM]]:
-    """
-    Load tokenizer + models once at startup.
+def _to_dtype(name: str):
+    name = (name or "float16").lower()
+    if name in ("fp16", "float16", "half"):
+        return torch.float16
+    if name in ("bf16", "bfloat16"):
+        return torch.bfloat16
+    return torch.float16
 
-    Returns:
-        tok: shared tokenizer
-        models: {"BASE": base_model, "SFT": sft_model}
+
+def _env_debug():
+    print("[infer] ===== ENV DEBUG =====")
+    for k in ["HF_HOME", "HF_HUB_CACHE", "TRANSFORMERS_CACHE", "HF_TOKEN"]:
+        print(f"[infer] {k} = {os.getenv(k)}")
+    print("[infer] ======================")
+
+
+def _dump_hf_repo(cache_dir: str, repo_id: str):
     """
+    Print local HF cache layout for a repo like 'Srikasi/bro-sft'
+    and return ([(snap_id, snap_path), ...], current_ref_hash_or_None).
+    """
+    owner, name = repo_id.split("/", 1)
+    repo_root = os.path.join(cache_dir, f"models--{owner}--{name}")
+    print(f"[infer] HF repo root: {repo_root}")
+    if not os.path.isdir(repo_root):
+        print("[infer] HF repo root not found locally")
+        return [], None
+
+    snaps_dir = os.path.join(repo_root, "snapshots")
+    refs_dir = os.path.join(repo_root, "refs")
+
+    snaps = []
+    if os.path.isdir(snaps_dir):
+        for s in os.listdir(snaps_dir):
+            full = os.path.join(snaps_dir, s)
+            print(f"[infer]  snapshot: {s}")
+            snaps.append((s, full))
+            try:
+                inner = os.listdir(full)
+                print(f"[infer]    contents: {inner}")
+            except Exception:
+                pass
+
+    current_ref = None
+    if os.path.isdir(refs_dir):
+        main_ref = os.path.join(refs_dir, "main")
+        if os.path.isfile(main_ref):
+            with open(main_ref, "r") as f:
+                current_ref = f.read().strip()
+            print(f"[infer] refs/main -> {current_ref}")
+
+    return snaps, current_ref
+
+
+# ---------------------------------------------------------------------
+# main
+# ---------------------------------------------------------------------
+def init_infer(cfg: AppCfg, mode: str = "SFT") -> Tuple[AutoTokenizer, Dict[str, AutoModelForCausalLM]]:
+    print("[infer] init_infer() called")
+    _env_debug()
+
     base_id = cfg.model.base_id
     dtype = _to_dtype(cfg.model.torch_dtype)
-    CACHE = resolve_cache_dir(cfg)
-    print(f"Cache dir : {CACHE}")
+    cache = resolve_cache_dir(cfg)
 
-    # Tokenizer
+    print(f"[infer] base_id        : {base_id}")
+    print(f"[infer] dtype          : {dtype}")
+    print(f"[infer] device_map     : {cfg.model.device_map}")
+    print(f"[infer] cache_dir      : {cache}")
+    print(f"[infer] requested mode : {mode}")
+
+    # 1) tokenizer
+    print("[infer] loading tokenizer ...")
     tok = AutoTokenizer.from_pretrained(base_id, use_fast=True)
     tok.pad_token = PAD_TOKEN or tok.eos_token or "</s>"
     tok.eos_token = EOS_TOKEN or tok.eos_token or tok.pad_token
     tok.bos_token = BOS_TOKEN or tok.bos_token
     tok.unk_token = UNK_TOKEN or tok.unk_token
     tok.padding_side = MODEL_PADDING_SIDE
+    tok.model_max_length = MODEL_MAX_LENGTH
+    print(f"[infer] tokenizer loaded, model_max_length={tok.model_max_length}")
 
-    models_dict = {}
+    models: Dict[str, AutoModelForCausalLM] = {}
 
-    # ---- Load BASE ----
-    if "BASE" in mode or "SFT" in mode:
-        print("Loading the BASE model...")
+    # 2) BASE MODEL
+    print("[infer] ----- BASE LOAD START -----")
+    try:
+        print("[infer] calling AutoModelForCausalLM.from_pretrained(...)")
         base_model = AutoModelForCausalLM.from_pretrained(
             base_id,
             torch_dtype=dtype,
-            device_map=cfg.model.device_map,
-            cache_dir=CACHE,
-            attn_implementation="sdpa",
+            device_map=cfg.model.device_map,   # e.g. "cuda:0"
+            cache_dir=cache,
+            local_files_only=True,             # stay inside /workspace/hf
             token=os.getenv("HF_TOKEN"),
-        ).eval()
-        models_dict["BASE"] = base_model
-        print("Loaded the BASE model")
+        )
+        print("[infer] from_pretrained returned")
+        base_model = base_model.eval()
+        models["BASE"] = base_model
+        print("[infer] ----- BASE LOAD OK -----")
+    except Exception as e:
+        print(f"[infer] ***** BASE LOAD FAILED *****: {type(e).__name__}: {e}")
+        return tok, models
 
-    # ---- Load SFT via LoRA ----
-    if "SFT" in mode:
+    # 3) LoRA MODEL
+    if "SFT" in mode and "BASE" in models:
         lora_dir = getattr(cfg.model, "lora_dir", None)
-        if not lora_dir:
-            raise ValueError("cfg.model.lora_dir must be set for SFT mode")
-
-        print(f"Loading LoRA adapter from: {lora_dir}")
-        # If remote HF path with subfolder
-        if "/" in lora_dir:
+        print(f"[infer] SFT requested, lora_dir={lora_dir}")
+        if lora_dir:
+            # expected: "Srikasi/bro-sft/lora-zero3-4gpu/last"
             parts = lora_dir.strip("/").split("/")
-            repo_id = "/".join(parts[:2])
-            subfolder = "/".join(parts[2:]) if len(parts) > 2 else None
-            sft_model = PeftModel.from_pretrained(
-                base_model,
-                repo_id,
-                subfolder=subfolder,
-                torch_dtype=dtype,
-                device_map =cfg.model.device_map, 
-                token=os.getenv("HF_TOKEN"),
-            ).eval()
+            repo_id = "/".join(parts[:2])       # "Srikasi/bro-sft"
+            subfolder = "/".join(parts[2:])     # "lora-zero3-4gpu/last"
+            print(f"[infer] repo_id={repo_id}, subfolder={subfolder}")
+
+            snaps, current_ref = _dump_hf_repo(cache, repo_id)
+
+            chosen_revision = None
+            for snap_id, snap_path in snaps:
+                maybe = os.path.join(snap_path, subfolder)
+                if os.path.isdir(maybe):
+                    chosen_revision = snap_id
+                    print(f"[infer] found LoRA in snapshot {snap_id} at {maybe}")
+                    break
+
+            print(f"[infer] chosen_revision={chosen_revision} (refs/main={current_ref})")
+            print("[infer] ----- LORA LOAD START -----")
+            try:
+                if chosen_revision:
+                    print("[infer] ----- LORA LOAD START FROM CACHE -----")
+                    sft_model = PeftModel.from_pretrained(
+                        models["BASE"],
+                        repo_id,
+                        subfolder=subfolder,
+                        revision=chosen_revision,
+                        cache_dir=cache,
+                        local_files_only=True,
+                        token=os.getenv("HF_TOKEN"),
+                    )
+                    
+                else:
+                    print("[infer] ----- LORA LOAD START FROM HF HUB -----")
+                    sft_model = PeftModel.from_pretrained(
+                        models["BASE"],
+                        repo_id,
+                        subfolder=subfolder,
+                        cache_dir=cache,
+                        token=os.getenv("HF_TOKEN"),
+                    )
+                print("[infer] PeftModel.from_pretrained returned")
+                sft_model = sft_model.eval()
+                models["SFT"] = sft_model
+                print("[infer] ----- LORA LOAD OK -----")
+            except Exception as e:
+                print(f"[infer] ***** LORA LOAD FAILED *****: {type(e).__name__}: {e}")
         else:
-            # Local dir
-            sft_model = PeftModel.from_pretrained(
-                base_model,
-                lora_dir,
-                torch_dtype=dtype,
-                device_map =cfg.model.device_map
-            ).eval()
+            print("[infer] SFT requested but cfg.model.lora_dir is empty; skipping.")
 
-        print("Loaded SFT (LoRA) model")
-        models_dict["SFT"] = sft_model
-
-    print("Returning tokenizer and models_dict")
-    return tok, models_dict
+    print("[infer] returning tokenizer + models")
+    return tok, models
 
 
 
