@@ -76,6 +76,7 @@ def init_infer(cfg: AppCfg, mode: str = "SFT") -> Tuple[AutoTokenizer, Dict[str,
                 repo_id,
                 subfolder=subfolder,
                 torch_dtype=dtype,
+                device_map =cfg.model.device_map, 
                 token=os.getenv("HF_TOKEN"),
             ).eval()
         else:
@@ -84,6 +85,7 @@ def init_infer(cfg: AppCfg, mode: str = "SFT") -> Tuple[AutoTokenizer, Dict[str,
                 base_model,
                 lora_dir,
                 torch_dtype=dtype,
+                device_map =cfg.model.device_map
             ).eval()
 
         print("Loaded SFT (LoRA) model")
