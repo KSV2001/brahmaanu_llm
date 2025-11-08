@@ -14,7 +14,7 @@ class ModelCfg:
     sft_repo: str = "Srikasi/bro-sft"               # only used if use_merged=False
     sft_subfolder: str = "lora-zero3-4gpu/last"
     torch_dtype: str = "float16"                    # float16 | bfloat16 | auto
-    device_map: dict =  {"0": "cuda:0"}  #"auto"
+    device_map: str = "auto"
     max_new_tokens: int = 256
     temperature: float = 0.0
     ctx_max_tokens: int = 2048
