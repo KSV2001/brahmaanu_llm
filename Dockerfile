@@ -1,19 +1,23 @@
-FROM python:3.11-slim
+# PyTorch 2.8.0 built for CUDA 12.1 + cuDNN 9 
+FROM pytorch/pytorch:2.5.1-cuda12.1-cudnn9-runtime
+RUN pip install --upgrade torch==2.8.0 torchvision==0.23.0
+
+WORKDIR /app
 
 # System deps
 RUN apt-get update && apt-get install -y --no-install-recommends \
     git curl && rm -rf /var/lib/apt/lists/*
 
-WORKDIR /app
+
 # Copy only what’s needed
-COPY requirements.txt ./
+COPY requirements.txt /app/requirements.txt
 COPY app/ app/
 COPY configs/ configs/
 COPY rag/ rag/
 COPY data/raw/docs/ data/raw/docs/
 
 
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --upgrade pip && pip install -r /app/requirements.txt
 
 # Cache dir for HF models (mount a volume here on RunPod)
 ENV HF_HOME=/cache/hf \
@@ -30,4 +34,6 @@ EXPOSE 8080
 HEALTHCHECK --interval=30s --timeout=3s --start-period=20s --retries=3 \
   CMD curl -fsS http://127.0.0.1:8080/ || exit 1
 
+# Default startup command
 CMD ["python", "-m", "app.main_gradio"]
+
