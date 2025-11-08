@@ -5,7 +5,7 @@ from typing import Dict, Tuple
 
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
-
+from peft import PeftModel
 from configs.app_config import AppCfg  # your config module
 from configs.sft_config import PAD_TOKEN, EOS_TOKEN, BOS_TOKEN, UNK_TOKEN, MODEL_MAX_LENGTH, MODEL_PADDING_SIDE
 
@@ -21,7 +21,8 @@ def resolve_cache_dir(cfg: dict) -> str:
         or "./hf_cache"
     )
 
-def init_infer(cfg: AppCfg, mode : str = "SFT") -> Tuple[AutoTokenizer, Dict[str, AutoModelForCausalLM]]:
+
+def init_infer(cfg: AppCfg, mode: str = "SFT") -> Tuple[AutoTokenizer, Dict[str, AutoModelForCausalLM]]:
     """
     Load tokenizer + models once at startup.
 
@@ -29,73 +30,68 @@ def init_infer(cfg: AppCfg, mode : str = "SFT") -> Tuple[AutoTokenizer, Dict[str
         tok: shared tokenizer
         models: {"BASE": base_model, "SFT": sft_model}
     """
-
-    # Tokenizer
     base_id = cfg.model.base_id
     dtype = _to_dtype(cfg.model.torch_dtype)
-
-    # Cache dir
-    CACHE =  resolve_cache_dir(cfg)
+    CACHE = resolve_cache_dir(cfg)
     print(f"Cache dir : {CACHE}")
 
+    # Tokenizer
     tok = AutoTokenizer.from_pretrained(base_id, use_fast=True)
-    tok.pad_token = PAD_TOKEN
-    tok.eos_token = EOS_TOKEN
-    tok.bos_token = BOS_TOKEN
-    tok.unk_token = UNK_TOKEN
+    tok.pad_token = PAD_TOKEN or tok.eos_token or "</s>"
+    tok.eos_token = EOS_TOKEN or tok.eos_token or tok.pad_token
+    tok.bos_token = BOS_TOKEN or tok.bos_token
+    tok.unk_token = UNK_TOKEN or tok.unk_token
     tok.padding_side = MODEL_PADDING_SIDE
-    if tok.pad_token is None:
-        tok.pad_token = tok.eos_token or "</s>"
-    if tok.eos_token is None:
-        tok.eos_token = tok.sep_token or tok.pad_token
 
     models_dict = {}
 
-    # load BASE only if asked
-    if "BASE" in mode:
+    # ---- Load BASE ----
+    if "BASE" in mode or "SFT" in mode:
+        print("Loading the BASE model...")
         base_model = AutoModelForCausalLM.from_pretrained(
             base_id,
             torch_dtype=dtype,
             device_map=cfg.model.device_map,
             cache_dir=CACHE,
             attn_implementation="sdpa",
+            token=os.getenv("HF_TOKEN"),
         ).eval()
         models_dict["BASE"] = base_model
-        print("Loaded the BASE Model")
+        print("Loaded the BASE model")
 
-    # load SFT
+    # ---- Load SFT via LoRA ----
     if "SFT" in mode:
-        merged_spec = cfg.model.merged_repo  # could be HF-style or local
-        if os.path.isdir(merged_spec):
-            # local folder on mounted volume
-            sft_model = AutoModelForCausalLM.from_pretrained(
-                merged_spec,
-                torch_dtype=dtype,
-                cache_dir=CACHE,
-                device_map=cfg.model.device_map,
-                attn_implementation="sdpa",
-            ).eval()
-            print("Loaded the SFT Model from local copy")
-        else:
-            # HF fallback
-            print("Loading the SFT Model from remote/cache if present..")
-            parts = merged_spec.split("/")
+        lora_dir = getattr(cfg.model, "lora_dir", None)
+        if not lora_dir:
+            raise ValueError("cfg.model.lora_dir must be set for SFT mode")
+
+        print(f"Loading LoRA adapter from: {lora_dir}")
+        # If remote HF path with subfolder
+        if "/" in lora_dir:
+            parts = lora_dir.strip("/").split("/")
             repo_id = "/".join(parts[:2])
-            subfolder = parts[-1]
-            sft_model = AutoModelForCausalLM.from_pretrained(
+            subfolder = "/".join(parts[2:]) if len(parts) > 2 else None
+            sft_model = PeftModel.from_pretrained(
+                base_model,
                 repo_id,
                 subfolder=subfolder,
                 torch_dtype=dtype,
-                device_map=cfg.model.device_map,
-                attn_implementation="sdpa",
-                cache_dir = CACHE,
                 token=os.getenv("HF_TOKEN"),
             ).eval()
-            print("Loaded the SFT Model")
+        else:
+            # Local dir
+            sft_model = PeftModel.from_pretrained(
+                base_model,
+                lora_dir,
+                torch_dtype=dtype,
+            ).eval()
+
+        print("Loaded SFT (LoRA) model")
         models_dict["SFT"] = sft_model
 
-    print("Returning the tokenizer and the models_dict..")
+    print("Returning tokenizer and models_dict")
     return tok, models_dict
+
 
 
 def generate_text(
