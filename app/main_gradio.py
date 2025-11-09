@@ -13,7 +13,7 @@ import gradio as gr
 from configs.app_config import load_cfg, print_cfg_summary
 from app.infer import init_infer, generate_text, count_tokens
 from rag.rag_pipeline import build_index
-from app import ratelimits  # our module
+from app import ratelimits  
 
 # ---------------------------------------------------------
 # config + load
