@@ -420,10 +420,12 @@ def build_ui():
 if __name__ == "__main__":
     demo = build_ui()
     port = int(os.getenv("GRADIO_SERVER_PORT", "7860"))
+	share = os.getenv("GRADIO_PUBLIC_SHARE", "True") == "True"
     demo.launch(
         server_name="0.0.0.0",
         server_port=port,
         show_error=True,
-        share=True,
+        share=share,
     )
+
 
