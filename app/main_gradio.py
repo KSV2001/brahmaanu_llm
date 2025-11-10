@@ -12,7 +12,7 @@ import gradio as gr
 
 from configs.app_config import load_cfg, print_cfg_summary
 from app.infer import init_infer, generate_text, count_tokens
-from rag.rag_pipeline import build_index
+from rag.rag_pipeline import build_index, build_prompt
 from app import ratelimits  
 
 # ---------------------------------------------------------
@@ -103,11 +103,11 @@ def _pack_context(question: str, mode: str, top_k: int) -> Tuple[str, List[str]]
         if hasattr(RAG_IDX, "build_prompt"):
             prompt = RAG_IDX.build_prompt(question, ctx)
         else:
-            from rag.rag_pipeline import build_prompt
+            
 
             prompt = build_prompt(question, ctx)
         return prompt, ctx_ids
-    from rag.rag_pipeline import build_prompt
+    
 
     prompt = build_prompt(question, ctx=None)
     return prompt, []
