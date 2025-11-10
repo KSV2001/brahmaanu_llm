@@ -42,4 +42,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ steps.vars.outputs.owner_lc }}/brahmaanu_llm:latest
+          tags: ghcr.io/${{ steps.vars.outputs.owner_lc }}/brahmaanu_llm:serverless
