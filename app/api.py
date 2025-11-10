@@ -80,6 +80,10 @@ class ChatResponse(BaseModel):
 
 app = FastAPI(title="Brahmaanu LLM API")
 
+## Health check
+@app.get("/health")
+async def health():
+    return {"status": "ok"}
 
 @app.get("/sample_questions", response_model=List[str])
 def get_sample_questions() -> List[str]:
