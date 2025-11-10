@@ -24,16 +24,28 @@ ENV HF_HOME=/cache/hf \
     HF_HUB_CACHE=/cache/hf \
     TRANSFORMERS_CACHE=/cache/hf
 
-# Gradio port
-ENV GRADIO_SERVER_NAME=0.0.0.0 \
-    GRADIO_SERVER_PORT=8080
 
-EXPOSE 8080
+# Serverless API port
+ENV API_HOST=0.0.0.0 \
+    API_PORT=7861
 
-# Healthcheck (Gradio root returns 200 once up)
+EXPOSE 7861
+
 HEALTHCHECK --interval=30s --timeout=3s --start-period=20s --retries=3 \
-  CMD curl -fsS http://127.0.0.1:8080/ || exit 1
+  CMD curl -fsS http://127.0.0.1:7861/sample_questions || exit 1
 
-# Default startup command
-CMD ["python", "-m", "app.main_gradio"]
+CMD ["uvicorn", "app.api:app", "--host", "0.0.0.0", "--port", "7861"]
+
+# # Gradio port
+# ENV GRADIO_SERVER_NAME=0.0.0.0 \
+#     GRADIO_SERVER_PORT=8080
+
+# EXPOSE 8080
+
+# # Healthcheck (Gradio root returns 200 once up)
+# HEALTHCHECK --interval=30s --timeout=3s --start-period=20s --retries=3 \
+#   CMD curl -fsS http://127.0.0.1:8080/ || exit 1
+
+# # Default startup command
+# CMD ["python", "-m", "app.main_gradio"]
 
