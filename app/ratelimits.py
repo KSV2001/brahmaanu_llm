@@ -33,49 +33,72 @@ _global = {
     "cost_day": 0.0,
 }
 
+
 # ---- helpers ----
 def _hour_key(now: float) -> str:
     return time.strftime("%Y-%m-%d-%H", time.gmtime(now))
 
+
 def _day_key(now: float) -> str:
     return time.strftime("%Y-%m-%d", time.gmtime(now))
 
+
 def _month_key(now: float) -> str:
     return time.strftime("%Y-%m", time.gmtime(now))
+
+
+def _fmt_wait(seconds: float) -> str:
+    seconds = max(0, int(seconds))
+    # largest useful unit
+    if seconds >= 30 * 24 * 3600:
+        months = seconds // (30 * 24 * 3600)
+        return f"{months} month(s)"
+    if seconds >= 7 * 24 * 3600:
+        weeks = seconds // (7 * 24 * 3600)
+        return f"{weeks} week(s)"
+    if seconds >= 24 * 3600:
+        days = seconds // (24 * 3600)
+        return f"{days} day(s)"
+    if seconds >= 3600:
+        hours = seconds // 3600
+        return f"{hours} hour(s)"
+    if seconds >= 60:
+        mins = seconds // 60
+        return f"{mins} minute(s)"
+    return f"{seconds} second(s)"
+
 
 # ---- core ----
 def precheck(session_id: str, ip: str, now: Optional[float] = None) -> Tuple[bool, str]:
     """Check limits BEFORE running the model. Return (ok, msg)."""
     if now is None:
-        _sessions.pop(session_id, None)
-        _sessions[session_id] = {"first_ts": now, "count": 0}
         now = time.time()
-
-    # if this session_id already exists but has a new timestamp (fresh reload), reset it
-    if session_id not in _sessions:
-        _sessions[session_id] = {"first_ts": now, "count": 0}
-    else:
-        # detect refresh: if Gradio reload gave a new timestamp recently (<1s old), reset counters
-        if now - _sessions[session_id]["first_ts"] < 1:
-            _sessions[session_id] = {"first_ts": now, "count": 0}
 
     # cleanup expired sessions
     expired = [sid for sid, rec in _sessions.items() if now - rec["first_ts"] > SESSION_MAX_AGE_S]
     for sid in expired:
         _sessions.pop(sid, None)
 
-    # ----- session -----
-    sess = _sessions.get(session_id)
-    if not sess:
+    # session init/reset
+    if session_id not in _sessions:
         _sessions[session_id] = {"first_ts": now, "count": 0}
-        sess = _sessions[session_id]
+    else:
+        # detect quick refresh
+        if now - _sessions[session_id]["first_ts"] < 1:
+            _sessions[session_id] = {"first_ts": now, "count": 0}
 
-    if now - sess["first_ts"] > SESSION_MAX_AGE_S:
-        return False, f"Session age exceeded ({SESSION_MAX_AGE_S//60} min). Refresh page."
+    sess = _sessions[session_id]
+
+    # ----- session limits -----
+    age = now - sess["first_ts"]
+    if age > SESSION_MAX_AGE_S:
+        wait = _fmt_wait(0)  # user must refresh, time isn't meaningful
+        return False, f"Session age exceeded ({SESSION_MAX_AGE_S//60} min). Refresh page. Wait {wait}."
     if sess["count"] >= SESSION_MAX_REQ:
+        # session count is per-tab; user must refresh
         return False, f"Session request limit reached ({SESSION_MAX_REQ}). Refresh page."
 
-    # ----- ip -----
+    # ----- per-IP bucket -----
     day_k = _day_key(now)
     hour_k = _hour_key(now)
     iprec = _ips.get(ip)
@@ -97,12 +120,26 @@ def precheck(session_id: str, ip: str, now: Optional[float] = None) -> Tuple[boo
         iprec["day_count"] = 0
         iprec["active_s_today"] = 0.0
 
+    # hourly
     if iprec["hour_count"] >= IP_MAX_HOURLY:
-        return False, f"Per-IP hourly limit reached ({IP_MAX_HOURLY}). Try later."
+        # next hour boundary
+        # compute seconds to next hour
+        # current hour start in UTC:
+        hour_start = int(now // 3600) * 3600
+        wait_s = (hour_start + 3600) - now
+        return False, f"Per-IP hourly limit reached ({IP_MAX_HOURLY}). Try again in { _fmt_wait(wait_s) }."
+
+    # daily
     if iprec["day_count"] >= IP_MAX_DAILY:
-        return False, f"Per-IP daily limit reached ({IP_MAX_DAILY}). Try tomorrow."
+        # next day boundary
+        day_start = int(now // 86400) * 86400
+        wait_s = (day_start + 86400) - now
+        return False, f"Per-IP daily limit reached ({IP_MAX_DAILY}). Try again in { _fmt_wait(wait_s) }."
+
     if iprec["active_s_today"] >= IP_MAX_ACTIVE_S_DAILY:
-        return False, f"Per-IP daily active time reached ({IP_MAX_ACTIVE_S_DAILY//60} min)."
+        day_start = int(now // 86400) * 86400
+        wait_s = (day_start + 86400) - now
+        return False, f"Per-IP daily active time reached ({IP_MAX_ACTIVE_S_DAILY//60} min). Try again in { _fmt_wait(wait_s) }."
 
     # ----- global -----
     g = _global
@@ -120,18 +157,33 @@ def precheck(session_id: str, ip: str, now: Optional[float] = None) -> Tuple[boo
         g["cost_month"] = 0.0
 
     if g["hour_count"] >= GLOBAL_MAX_HOURLY:
-        return False, f"Server hourly limit reached ({GLOBAL_MAX_HOURLY})."
+        hour_start = int(now // 3600) * 3600
+        wait_s = (hour_start + 3600) - now
+        return False, f"Server hourly limit reached ({GLOBAL_MAX_HOURLY}). Try again in { _fmt_wait(wait_s) }."
+
     if g["day_count"] >= GLOBAL_MAX_DAILY:
-        return False, f"Server daily limit reached ({GLOBAL_MAX_DAILY})."
+        day_start = int(now // 86400) * 86400
+        wait_s = (day_start + 86400) - now
+        return False, f"Server daily limit reached ({GLOBAL_MAX_DAILY}). Try again in { _fmt_wait(wait_s) }."
+
     if g["active_s_today"] >= GLOBAL_MAX_ACTIVE_S_DAILY:
-        return False, f"Server daily active time reached ({GLOBAL_MAX_ACTIVE_S_DAILY//3600} h)."
+        day_start = int(now // 86400) * 86400
+        wait_s = (day_start + 86400) - now
+        return False, f"Server daily active time reached ({GLOBAL_MAX_ACTIVE_S_DAILY//3600} h). Try again in { _fmt_wait(wait_s) }."
+
     if g["cost_day"] >= DAILY_COST_CAP:
-        return False, f"Daily cost cap reached (${DAILY_COST_CAP})."
+        day_start = int(now // 86400) * 86400
+        wait_s = (day_start + 86400) - now
+        return False, f"Daily cost cap reached (${DAILY_COST_CAP}). Try again in { _fmt_wait(wait_s) }."
+
     if g["cost_month"] >= MONTHLY_COST_CAP:
-        return False, f"Monthly cost cap reached (${MONTHLY_COST_CAP})."
+        # next month: approximate 30 days
+        month_start = int(now // (30 * 86400)) * (30 * 86400)
+        wait_s = (month_start + 30 * 86400) - now
+        return False, f"Monthly cost cap reached (${MONTHLY_COST_CAP}). Try again in { _fmt_wait(wait_s) }."
 
     return True, "OK"
-
+    
 # ---- update ----
 def postupdate(session_id: str, ip: str, duration_s: float, now: Optional[float] = None) -> None:
     """Update counters AFTER model run."""
