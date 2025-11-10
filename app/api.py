@@ -152,13 +152,22 @@ async def chat(req: Request) -> ChatResponse:
     chat_history = data.get("chat_history") or []
     state = data.get("state") or {}
 
+    # extract real client IP
+    xff = req.headers.get("x-forwarded-for")
+    if xff:
+        # first IP in the list
+        real_ip = xff.split(",")[0].strip()
+        # monkey-patch onto request so chat_fn can read it
+        req.client = type("client", (), {"host": real_ip})()
+    # else: req.client.host is already set
+
     _, chat_hist, state_out, status = chat_fn(
         data.get("user_msg", ""),
         chat_history,
         mode,
         data.get("use_history", True),
         state,
-        request=None,
+        request=req,
     )
 
     return ChatResponse(chat_history=chat_hist, state=state_out, status=status)
