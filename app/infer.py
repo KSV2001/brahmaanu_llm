@@ -166,11 +166,21 @@ def init_infer(cfg: AppCfg, mode: str = "SFT") -> Tuple[AutoTokenizer, Dict[str,
 
             print(f"[infer] chosen_revision={chosen_revision} (refs/main={current_ref})")
             print("[infer] ----- LORA LOAD START -----")
+
+            # load a SECOND base and apply LoRA on that
+            sft_base = AutoModelForCausalLM.from_pretrained(
+                base_id,
+                torch_dtype=dtype,
+                device_map=cfg.model.device_map,
+                cache_dir=cache,
+                local_files_only=True,
+                token=os.getenv("HF_TOKEN"),
+            ).eval()
             try:
                 if chosen_revision:
                     print("[infer] ----- LORA LOAD START FROM CACHE -----")
                     sft_model = PeftModel.from_pretrained(
-                        models["BASE"],
+                        sft_base,
                         repo_id,
                         subfolder=subfolder,
                         revision=chosen_revision,
@@ -182,7 +192,7 @@ def init_infer(cfg: AppCfg, mode: str = "SFT") -> Tuple[AutoTokenizer, Dict[str,
                 else:
                     print("[infer] ----- LORA LOAD START FROM HF HUB -----")
                     sft_model = PeftModel.from_pretrained(
-                        models["BASE"],
+                        sft_base,
                         repo_id,
                         subfolder=subfolder,
                         cache_dir=cache,
