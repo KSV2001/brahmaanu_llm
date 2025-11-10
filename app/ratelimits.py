@@ -17,7 +17,7 @@ GLOBAL_MAX_ACTIVE_S_DAILY = int(os.getenv("GLOBAL_MAX_ACTIVE_S_DAILY", 6 * 60 * 
 
 COST_PER_SEC = float(os.getenv("COST_PER_SEC", 0.0005))
 DAILY_COST_CAP = float(os.getenv("DAILY_COST_CAP", 5.0))
-MONTHLY_COST_CAP = float(os.getenv("MONTHLY_COST_CAP", 25.0))
+MONTHLY_COST_CAP = float(os.getenv("MONTHLY_COST_CAP", 15.0))
 
 # ---- state (in-memory; resets on container restart) ----
 _sessions = {}  # sid -> {"first_ts": float, "count": int}
