@@ -37,8 +37,12 @@ Usage (inside Dockerfile CMD):
 
 from typing import List, Tuple, Dict, Any
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 from pydantic import BaseModel
+import logging 
+
+logger = logging.getLogger("brahmaanu_api")
+logging.basicConfig(level=logging.INFO)
 
 # Import the chat function and sample questions from the Gradio app.
 # This implicitly loads the models via init_infer() and builds the RAG index.
@@ -84,35 +88,84 @@ def get_sample_questions() -> List[str]:
     return SAMPLE_QUESTIONS
 
 
-@app.post("/chat", response_model=ChatResponse)
-async def chat(request: ChatRequest) -> ChatResponse:
-    """
-    Process a chat message and return an updated history, state and status.
+# @app.api_route("/chat", methods=["GET", "POST"], response_model=ChatResponse)
+# async def chat(request: ChatRequest) -> ChatResponse:
+#     """
+#     Process a chat message and return an updated history, state and status.
 
-    This simply wraps the underlying ``chat_fn`` from the Gradio app.  The
-    ``gr.Request`` parameter of ``chat_fn`` is passed as ``None`` since no
-    web request context exists for this API.
+#     This simply wraps the underlying ``chat_fn`` from the Gradio app.  The
+#     ``gr.Request`` parameter of ``chat_fn`` is passed as ``None`` since no
+#     web request context exists for this API.
 
-    If an invalid mode is supplied the API will return an HTTP 400.
-    """
+#     If an invalid mode is supplied the API will return an HTTP 400.
+#     """
 
-    # Basic validation for mode
-    if request.mode not in MODES:
+#     # Basic validation for mode
+#     if request.mode not in MODES:
+#         raise HTTPException(status_code=400, detail=f"mode must be one of {MODES}")
+
+#     # Ensure chat_history and state are lists/dicts to avoid type errors
+#     chat_history = request.chat_history or []
+#     state = request.state or {}
+
+#     # Call the underlying chat function.  The first return value is always
+#     # an empty string (the Gradio "prompt" box), which we ignore here.
+#     _, chat_hist, state_out, status = chat_fn(
+#         request.user_msg,
+#         chat_history,
+#         request.mode,
+#         request.use_history,
+#         state,
+#         request=None,
+#     )
+
+#     return ChatResponse(chat_history=chat_hist, state=state_out, status=status)
+
+
+
+
+@app.api_route("/chat", methods=["GET", "POST"], response_model=ChatResponse)
+async def chat(req: Request) -> ChatResponse:
+    if req.method == "POST":
+        data = await req.json()
+    else:
+        qp = req.query_params
+        logger.info(
+            "GET /chat hit from %s with params: user_msg=%s, mode=%s, use_history=%s",
+            req.client.host if req.client else "unknown",
+            qp.get("user_msg", ""),
+            qp.get("mode", "chat"),
+            qp.get("use_history", "true"),
+        )
+        data = {
+            "user_msg": qp.get("user_msg", ""),
+            "chat_history": [],
+            "mode": qp.get("mode", "chat"),
+            "use_history": qp.get("use_history", "true").lower() == "true",
+            "state": {},
+        }
+
+    mode = data.get("mode", "chat")
+    if mode not in MODES:
         raise HTTPException(status_code=400, detail=f"mode must be one of {MODES}")
 
-    # Ensure chat_history and state are lists/dicts to avoid type errors
-    chat_history = request.chat_history or []
-    state = request.state or {}
+    chat_history = data.get("chat_history") or []
+    state = data.get("state") or {}
 
-    # Call the underlying chat function.  The first return value is always
-    # an empty string (the Gradio "prompt" box), which we ignore here.
     _, chat_hist, state_out, status = chat_fn(
-        request.user_msg,
+        data.get("user_msg", ""),
         chat_history,
-        request.mode,
-        request.use_history,
+        mode,
+        data.get("use_history", True),
         state,
         request=None,
     )
 
     return ChatResponse(chat_history=chat_hist, state=state_out, status=status)
+
+@app.api_route("/", methods=["GET", "POST"])
+async def root_passthrough(request: Request):
+    # forward to /chat logic or just return a message
+    return {"detail": "use /chat"}
+
+
