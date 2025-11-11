@@ -7,12 +7,13 @@ from typing import Tuple, Optional
 SESSION_MAX_REQ = int(os.getenv("SESSION_MAX_REQ", 5))
 SESSION_MAX_AGE_S = int(os.getenv("SESSION_MAX_AGE_S", 15 * 60))  # 15 min
 
-IP_MAX_HOURLY = int(os.getenv("IP_MAX_HOURLY", 10))
-IP_MAX_DAILY = int(os.getenv("IP_MAX_DAILY", 20))
-IP_MAX_ACTIVE_S_DAILY = int(os.getenv("IP_MAX_ACTIVE_S_DAILY", 60 * 60))  # 1h
+# Currently these per IP limits are useless because I am unable to resolve the actual client ip, as everyone goes throught the same proxy
+IP_MAX_HOURLY = int(os.getenv("IP_MAX_HOURLY", 100))
+IP_MAX_DAILY = int(os.getenv("IP_MAX_DAILY", 200))
+IP_MAX_ACTIVE_S_DAILY = int(os.getenv("IP_MAX_ACTIVE_S_DAILY", 8*60 * 60))  # 8h
 
-GLOBAL_MAX_HOURLY = int(os.getenv("GLOBAL_MAX_HOURLY", 100))
-GLOBAL_MAX_DAILY = int(os.getenv("GLOBAL_MAX_DAILY", 200))
+GLOBAL_MAX_HOURLY = int(os.getenv("GLOBAL_MAX_HOURLY", 50))
+GLOBAL_MAX_DAILY = int(os.getenv("GLOBAL_MAX_DAILY", 150))
 GLOBAL_MAX_ACTIVE_S_DAILY = int(os.getenv("GLOBAL_MAX_ACTIVE_S_DAILY", 6 * 60 * 60))  # 6h
 
 COST_PER_SEC = float(os.getenv("COST_PER_SEC", 0.0005))
