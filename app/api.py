@@ -38,8 +38,11 @@ Usage (inside Dockerfile CMD):
 from typing import List, Tuple, Dict, Any
 
 from fastapi import FastAPI, HTTPException, Request
+from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 import logging 
+import uuid
+from fastapi import Response
 
 logger = logging.getLogger("brahmaanu_api")
 logging.basicConfig(level=logging.INFO)
@@ -48,6 +51,23 @@ logging.basicConfig(level=logging.INFO)
 # This implicitly loads the models via init_infer() and builds the RAG index.
 from app.main_gradio import chat_fn, SAMPLE_QUESTIONS, MODES
 
+COOKIE_NAME = "client_id"
+COOKIE_MAX_AGE = 30 * 24 * 3600  # 30 days
+
+
+
+
+def pick_client_ip(xff: str, fallback: str) -> str:
+    """
+    XFF -> client IP.
+    Use the first address (leftmost). Fallback to peer.
+    """
+    if not xff:
+        return fallback
+    parts = [p.strip() for p in xff.split(",") if p.strip()]
+    if not parts:
+        return fallback
+    return parts[0]  # client IP
 
 class ChatRequest(BaseModel):
     """Schema for incoming chat requests."""
@@ -129,7 +149,7 @@ def get_sample_questions() -> List[str]:
 
 
 @app.api_route("/chat", methods=["GET", "POST"], response_model=ChatResponse)
-async def chat(req: Request) -> ChatResponse:
+async def chat(req: Request, resp: Response) -> ChatResponse:
     if req.method == "POST":
         data = await req.json()
     else:
@@ -156,15 +176,43 @@ async def chat(req: Request) -> ChatResponse:
     chat_history = data.get("chat_history") or []
     state = data.get("state") or {}
 
-    # extract real client IP
+    # IP
     xff = req.headers.get("x-forwarded-for")
-    if xff:
-        # first IP in the list
-        real_ip = xff.split(",")[0].strip()
-        # monkey-patch onto request so chat_fn can read it
-        req.client = type("client", (), {"host": real_ip})()
-    # else: req.client.host is already set
+    peer = req.client.host if req.client else "unknown"
+    real_ip = pick_client_ip(xff, peer)
+    req.state.real_ip = real_ip
 
+    # session
+    session_id = (
+        data.get("session_id")
+        or req.headers.get("x-session-id")
+        or str(uuid.uuid4())
+    )
+    req.state.session_id = session_id
+
+    # cookie-backed client id
+    client_id = req.cookies.get(COOKIE_NAME)
+    if not client_id:
+        client_id = str(uuid.uuid4())
+        resp.set_cookie(
+            key=COOKIE_NAME,
+            value=client_id,
+            max_age=COOKIE_MAX_AGE,
+            httponly=True,
+            samesite="lax",
+        )
+    req.state.client_id = client_id
+
+    logger.info(
+        "CHAT ip=%s cid=%s sid=%s xff=%s peer=%s",
+        real_ip,
+        client_id,
+        session_id,
+        xff,
+        peer,
+    )
+
+    # call your existing chat_fn
     _, chat_hist, state_out, status = chat_fn(
         data.get("user_msg", ""),
         chat_history,
@@ -180,5 +228,3 @@ async def chat(req: Request) -> ChatResponse:
 async def root_passthrough(request: Request):
     # forward to /chat logic or just return a message
     return {"detail": "use /chat"}
-
-
