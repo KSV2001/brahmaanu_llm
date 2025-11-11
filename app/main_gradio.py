@@ -14,6 +14,9 @@ from configs.app_config import load_cfg, print_cfg_summary
 from app.infer import init_infer, generate_text, count_tokens
 from rag.rag_pipeline import build_index, build_prompt
 from app import ratelimits  
+import logging
+logger = logging.getLogger("brahmaanu_api")
+logging.basicConfig(level=logging.INFO)
 
 # ---------------------------------------------------------
 # config + load
@@ -190,29 +193,47 @@ def chat_fn(
     request: gr.Request,
 ):
     now = time.time()
+
+    # ensure state
     if not state or "session_id" not in state:
         state = {"session_id": str(uuid.uuid4()), "memory": []}
-    session_id = getattr(request, "session_hash", None) or state.get("session_id") or str(uuid.uuid4())
 
+    # stable per-tab/session id
+    session_id = (
+        getattr(request, "session_hash", None)
+        or state.get("session_id")
+        or str(uuid.uuid4())
+    )
+    state["session_id"] = session_id  # keep it in state
 
-    ip = request.client.host if request and request.client else "unknown"
+    client_id = getattr(request.state, "client_id", None)
+    # real IP
+    ip = getattr(request.state, "real_ip", request.client.host if request.client else "unknown")
 
-    ok, reason = ratelimits.precheck(session_id, ip, now)
+    rl_key = client_id or ip
+
+    
+    # rate-limit precheck: session stays session, IP stays IP
+    ok, reason = ratelimits.precheck(session_id, rl_key, now)
     if not ok:
+        logger.info(f"[rl] blocked ip={ip} rate_limit_key={rl_key} reason={reason}")
         chat_history.append((user_msg, f"[rate-limit] {reason}"))
         return "", chat_history, state, _make_system_banner(
             mode, len(state["memory"]), "rl-hit"
         )
 
+    # guard input length
     if count_tokens(user_msg) > 2000:
         chat_history.append((user_msg, "Input too long."))
         return "", chat_history, state, _make_system_banner(
             mode, len(state["memory"])
         )
 
+    # user msg -> memory
     state["memory"].append({"role": "user", "content": user_msg})
     state["memory"] = _trim_memory(state["memory"], CFG.memory.max_turns)
 
+    # build context
     base_prompt, ctx_ids = _pack_context(user_msg, mode, CFG.rag.top_k)
 
     if use_history:
@@ -240,14 +261,18 @@ def chat_fn(
         )
     duration = time.time() - t0
 
-    ratelimits.postupdate(session_id, ip, duration, now)
+    # update rate-limits after run
+    ratelimits.postupdate(session_id, rl_key, duration, now)
 
+    # assistant msg -> memory
     state["memory"].append({"role": "assistant", "content": out_text})
 
     render = _pretty_from_json(out_text, ctx_ids, duration, mode)
     chat_history.append((user_msg, render))
 
-    return "", chat_history, state, _make_system_banner(mode, len(state["memory"]))
+    return "", chat_history, state, _make_system_banner(mode, len(state["memory"]), "Shared global hourly/daily limits on this demo. Please use sparingly!")
+
+
 
 # ---------------------------------------------------------
 # UI
@@ -427,5 +452,4 @@ if __name__ == "__main__":
         show_error=True,
         share=share,
     )
-
 
