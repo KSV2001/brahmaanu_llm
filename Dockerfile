@@ -30,11 +30,13 @@ ENV API_HOST=0.0.0.0 \
     API_PORT=7861
 
 EXPOSE 7861
+EXPOSE 8080
 
 # HEALTHCHECK --interval=30s --timeout=3s --start-period=20s --retries=3 \
 #   CMD curl -fsS http://127.0.0.1:7861/sample_questions || exit 1
 
-CMD ["uvicorn", "app.api:app", "--host", "0.0.0.0", "--port", "7861"]
+CMD ["python", "-m", "app.api"]
+
 
 # # Gradio port
 # ENV GRADIO_SERVER_NAME=0.0.0.0 \
