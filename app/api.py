@@ -44,6 +44,10 @@ import logging
 import uuid
 from fastapi import Response
 
+import os
+import threading
+import uvicorn
+
 logger = logging.getLogger("brahmaanu_api")
 logging.basicConfig(level=logging.INFO)
 
@@ -228,3 +232,28 @@ async def chat(req: Request, resp: Response) -> ChatResponse:
 async def root_passthrough(request: Request):
     # forward to /chat logic or just return a message
     return {"detail": "use /chat"}
+
+
+
+from fastapi import FastAPI as _FastAPI  # second app
+
+PORT = int(os.getenv("PORT", "7861"))
+PORT_HEALTH = int(os.getenv("PORT_HEALTH", "8080"))
+
+# tiny health app on PORT_HEALTH
+health_app = _FastAPI()
+
+@health_app.get("/ping")
+async def ping():
+    return {"status": "ok"}
+
+
+def start_health():
+    uvicorn.run(health_app, host="0.0.0.0", port=PORT_HEALTH, log_level="info")
+
+
+if __name__ == "__main__":
+    # start health server in background
+    threading.Thread(target=start_health, daemon=True).start()
+    # start your main Brahmaanu API
+    uvicorn.run(app, host="0.0.0.0", port=PORT, log_level="info")
