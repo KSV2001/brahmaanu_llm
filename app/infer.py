@@ -56,7 +56,7 @@ def _env_debug():
         print(f"[infer] {k} = {os.getenv(k)}")
     keys = ["BASE_ID","BASE_MODEL_PATH","HF_HOME","TRANSFORMERS_CACHE",
             "HF_HUB_OFFLINE","HF_TOKEN","CUDA_VISIBLE_DEVICES"]
-    print("[debug] env:", {k: os.getenv(k) for k in keys})
+    print("[debug] env:", {k: os.getenv(k, "NOT SET") for k in keys})
     root = os.getenv("TRANSFORMERS_CACHE", "/workspace/hf")
     print("[debug] cache root exists:", os.path.isdir(root))
     print("[debug] top dirs:", [p for p in glob.glob(f"{root}/*")][:20])
