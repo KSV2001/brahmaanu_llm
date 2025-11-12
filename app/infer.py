@@ -1,6 +1,6 @@
 # brahmaanu_llm/app/infer.py
 from __future__ import annotations
-import os
+import os, glob, json
 import logging
 from typing import Dict, Tuple
 
@@ -39,6 +39,8 @@ def resolve_cache_dir(cfg) -> str:
     )
 
 
+    
+
 def _to_dtype(name: str):
     name = (name or "float16").lower()
     if name in ("fp16", "float16", "half"):
@@ -52,6 +54,13 @@ def _env_debug():
     print("[infer] ===== ENV DEBUG =====")
     for k in ["HF_HOME", "HF_HUB_CACHE", "TRANSFORMERS_CACHE", "HF_TOKEN"]:
         print(f"[infer] {k} = {os.getenv(k)}")
+    keys = ["BASE_ID","BASE_MODEL_PATH","HF_HOME","TRANSFORMERS_CACHE",
+            "HF_HUB_OFFLINE","HF_TOKEN","CUDA_VISIBLE_DEVICES"]
+    print("[debug] env:", {k: os.getenv(k) for k in keys})
+    root = os.getenv("TRANSFORMERS_CACHE", "/workspace/hf")
+    print("[debug] cache root exists:", os.path.isdir(root))
+    print("[debug] top dirs:", [p for p in glob.glob(f"{root}/*")][:20])
+    print("[debug] models--*/snapshots:", [p for p in glob.glob(f"{root}/models--*/*/snapshots/*")][:20])
     print("[infer] ======================")
 
 
