@@ -14,10 +14,10 @@
 
 ## 🎬 Demo
 
-### 🌐 **Live UI** (Demo Only)
+### 🌐 **Frontend** (Demo Only)
 **[Access Demo Interface →](https://your-demo-url.com)**
 
-> **Note:** This is a demonstration interface only. No live model is running on the backend. For full functionality, please run the application locally or use the API endpoints.
+> **Note:** This is a demonstration interface only. No live model is running on the backend. I plan to release model checkpoints etc soon to enable people to run it locally.
 
 ### 📹 **Video Demo**
 **[Watch Video Demonstration →](https://your-video-url.com)**
