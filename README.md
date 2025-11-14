@@ -188,7 +188,7 @@ brahmaanu_llm/
 
 ## ⚠️ Data Availability Notice
 
-> **Important:** This repository currently includes the full Q&A training pairs and primary documents for transparency and reproducibility. However, **model checkpoints, trained adapters, and training artifacts (loss curves, VRAM logs, etc.) are not yet published** due to storage and hosting constraints. These will be made available in future releases or upon request for research collaboration.
+> **Important:** This repository currently includes the full Q&A training pairs and primary documents for transparency and reproducibility. However, **model checkpoints, trained adapters, and training artifacts (loss curves, VRAM logs, etc.) are not yet published** due to storage and hosting constraints. My current plan is to make them available in future.
 
 ---
 
