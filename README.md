@@ -274,24 +274,20 @@ where:
 ![Chat UI Example](assets/chat_ui_example.png)
 *Screenshot of the Gradio interface showing multi-turn conversation with citation pop-overs and context highlighting.*
 
-![BASE + RAG Mode](assets/chat_base_rag.png)
-*BASE + RAG Mode: Response with retrieval-augmented generation using the base model, showing fact citations.*
-
-
-![SFT + RAG Mode](assets/chat_sft_rag.png)
-*SFT + RAG Mode: Fine-tuned model with retrieval, demonstrating improved answer quality and citation accuracy.*
-
-
 ![BASE Mode](assets/chat_base.png)
 *BASE Mode: Base model without retrieval or fine-tuning, illustrating baseline performance.*
 
-
 ![SFT Mode](assets/chat_sft.png)
-*SFT Mode: Fine-tuned model without retrieval, showing learned domain knowledge from training.*
+*SFT Mode: Fine-tuned model without retrieval, showing the similarity in response stye to the documents and learned domain knowledge from training.*
 
-### Sample Conversation Snippet
-![Conversation Snippet](assets/conversation_snippet.png)
-*Example interaction demonstrating RAG-retrieved fact citations with unique identifiers (e.g., [BHF-D021]) embedded in responses.*
+![BASE + RAG Mode](assets/chat_base_rag.png)
+*BASE + RAG Mode: Response with retrieval-augmented generation using the base model, showing fact citations.*
+
+![SFT + RAG Mode](assets/chat_sft_rag.png)
+*SFT + RAG Mode: Fine-tuned model with retrieval, demonstrating similar style to the documetnation and citation accuracy.*
+
+![Snippet from Original document](assets/orig_doc.png)
+*From brahmaanu_discoveries document (data/raw/docs). Shows that the RAG citations are correct.*
 
 ---
 
