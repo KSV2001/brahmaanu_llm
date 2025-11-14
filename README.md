@@ -26,7 +26,6 @@ The video showcases:
 - Interactive chat with citation pop-overs
 - Multi-mode inference (SFT+RAG, Base+RAG, etc.)
 - Real-time fact retrieval and context highlighting
-- Admin dashboard with metrics
 
 ---
 
