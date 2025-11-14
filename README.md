@@ -479,7 +479,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Project Maintainer**: [Srivatsava](mailto:srivatsava.kas@gmail.com)
+**Project Maintainer**: [Srivatsava Kasibhatla](mailto:srivatsava.kas@gmail.com)
 
 **Project Repository**: [github.com/KSV2001/brahmaanu_llm](https://github.com/KSV2001/brahmaanu_llm)
 
