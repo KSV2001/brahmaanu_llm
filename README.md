@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://www.docker.com/)
 
-> A research project demonstrating domain-specific AI assistant development through supervised fine-tuning, retrieval-augmented generation, and modern deployment practices.
+> An AI project demonstrating domain-specific AI assistant development through supervised fine-tuning, retrieval-augmented generation, and modern deployment practices.
 
 ---
 
