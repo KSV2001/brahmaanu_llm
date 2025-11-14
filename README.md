@@ -15,12 +15,12 @@
 ## 🎬 Demo
 
 ### 🌐 **Frontend** (Demo Only)
-**[Access Demo Interface →](https://your-demo-url.com)**
+**[Access Demo Interface →](https://ksv2001.github.io/portfolio_redirects/projects/brahmaanu.html)**
 
 > **Note:** This is a demonstration interface only. No live model is running on the backend. I plan to release model checkpoints etc soon to enable people to run it locally.
 
 ### 📹 **Video Demo**
-**[Watch Video Demonstration →](https://your-video-url.com)**
+**[Watch Video Demonstration →](https://youtu.be/WDkuFv6TzCc)**
 
 The video showcases:
 - Interactive chat with citation pop-overs
