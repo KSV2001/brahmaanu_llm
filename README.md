@@ -219,21 +219,79 @@ The metrics validate that combining supervised fine-tuning with retrieval augmen
 
 ### SFT Training Loss Curve
 ![SFT Training Loss](assets/sft_loss_curve.png)
-*Training and validation loss over 3 epochs showing convergence of the LoRA fine-tuning process.*
+*Training loss over 68 steps showing convergence of the LoRA fine-tuning process on 4 GPUs with FSDP.*
+
+#### Training Loss Analysis
+
+| Metric | Value |
+|--------|-------|
+| **Initial Loss (Step 5)** | 1.911800 |
+| **Final Loss (Step 68)** | 0.158000 |
+| **Minimum Loss** | 0.158000 (Step 68) |
+| **Total Loss Reduction** | 91.74% |
+| **Average Loss (last 10 steps)** | 0.197760 |
+| **Loss Std Dev (last 10 steps)** | 0.033929 |
+
+**Convergence Behavior:** The model demonstrates strong convergence with stabilization around step 50, consistently achieving sub-0.2 loss. The 91.74% reduction from initial to final loss validates the effectiveness of LoRA fine-tuning on the Mistral-7B base model.
+
+---
 
 ### Memory Scaling with ZeRO-3
 ![Memory Scaling](assets/memory_scaling_zero3.png)
-*Peak VRAM usage per GPU when scaling from 1 to 4 GPUs using FSDP with ZeRO-3 optimization. Demonstrates efficient memory distribution across devices.*
+*Peak VRAM usage per GPU when scaling from 2 to 4 GPUs using FSDP with ZeRO-3 optimization.*
+
+#### Memory Scaling Analysis (ZeRO-3/FSDP)
+
+**Fitted Theoretical Model:**
+```
+Peak_VRAM(n) = 5,085 + 18,247/n MB
+```
+
+where:
+- **C_base = 5,085 MB**: Constant overhead per GPU (optimizer states, gradients, activations, framework overhead)
+- **C_model = 18,247 MB**: Model parameters + LoRA adapters sharded across n GPUs
+
+**Memory Breakdown by GPU Count:**
+
+| GPUs | Measured VRAM | Predicted VRAM | Prediction Error |
+|------|---------------|----------------|------------------|
+| 2 | 14,248 MB | 14,208 MB | 0.3% |
+| 3 | 11,048 MB | 11,167 MB | 1.1% |
+| 4 | 9,726 MB | 9,647 MB | 0.8% |
+
+**Scaling Efficiency:**
+
+| Configuration | Memory Reduction |
+|---------------|------------------|
+| 2 → 3 GPUs | 22.5% |
+| 3 → 4 GPUs | 12.0% |
+| **2 → 4 GPUs (Overall)** | **31.7%** |
+
+**Key Insight:** ZeRO-3 successfully shards model parameters across GPUs, reducing per-GPU memory by ~32% when scaling from 2 to 4 GPUs. The fitted model closely matches theoretical expectations (C_base + C_model/n), with prediction errors under 1.2%, validating efficient memory distribution through FSDP. The diminishing returns in scaling efficiency (22.5% → 12.0%) align with the theoretical model: as n increases, the marginal benefit of adding another GPU decreases because the constant overhead C_base dominates.
 
 ### Chat Interface Examples
+
 ![Chat UI Example](assets/chat_ui_example.png)
 *Screenshot of the Gradio interface showing multi-turn conversation with citation pop-overs and context highlighting.*
+
+![BASE + RAG Mode](assets/chat_base_rag.png)
+*BASE + RAG Mode: Response with retrieval-augmented generation using the base model, showing fact citations.*
+
+
+![SFT + RAG Mode](assets/chat_sft_rag.png)
+*SFT + RAG Mode: Fine-tuned model with retrieval, demonstrating improved answer quality and citation accuracy.*
+
+
+![BASE Mode](assets/chat_base.png)
+*BASE Mode: Base model without retrieval or fine-tuning, illustrating baseline performance.*
+
+
+![SFT Mode](assets/chat_sft.png)
+*SFT Mode: Fine-tuned model without retrieval, showing learned domain knowledge from training.*
 
 ### Sample Conversation Snippet
 ![Conversation Snippet](assets/conversation_snippet.png)
 *Example interaction demonstrating RAG-retrieved fact citations with unique identifiers (e.g., [BHF-D021]) embedded in responses.*
-
-> **Note:** All visualizations are generated from actual training runs and inference sessions. Place image files in an `assets/` directory in your repository root.
 
 ---
 
