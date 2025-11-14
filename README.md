@@ -12,6 +12,24 @@
 
 ---
 
+## 🎬 Demo
+
+### 🌐 **Live UI** (Demo Only)
+**[Access Demo Interface →](https://your-demo-url.com)**
+
+> **Note:** This is a demonstration interface only. No live model is running on the backend. For full functionality, please run the application locally or use the API endpoints.
+
+### 📹 **Video Demo**
+**[Watch Video Demonstration →](https://your-video-url.com)**
+
+The video showcases:
+- Interactive chat with citation pop-overs
+- Multi-mode inference (SFT+RAG, Base+RAG, etc.)
+- Real-time fact retrieval and context highlighting
+- Admin dashboard with metrics
+
+---
+
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
@@ -19,7 +37,6 @@
 - [Architecture](#-architecture)
 - [Repository Structure](#-repository-structure)
 - [Pipeline](#-pipeline)
-- [Demo](#-demo)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Configuration](#-configuration)
@@ -181,10 +198,11 @@ The following metrics were computed on a held-out test set across four inference
 
 | Mode | Schema Valid Rate | Key Exact Rate | Citations Format Rate | Status Valid Rate | Answer Exact Rate | Answer Token F1 | Citations F1 |
 |------|-------------------|----------------|----------------------|-------------------|-------------------|-----------------|--------------|
-| **BASE + RAG** | 1.0 | 1.0 | 1.0 | 1.0 | 0.586 | 0.881 | 0.793 |
-| **SFT + RAG** | 1.0 | 1.0 | 1.0 | 1.0 | 0.565 | 0.880 | 0.793 |
-| **BASE** | 0.120 | 0.917 | 0.120 | 0.942 | 0.0 | 0.103 | 0.0 |
+| **SFT + RAG** | 1.0 | 1.0 | 1.0 | 1.0 | 0.586 | 0.881 | 0.793 |
+| **BASE + RAG** | 1.0 | 1.0 | 1.0 | 1.0 | 0.565 | 0.880 | 0.793 |
 | **SFT** | 1.0 | 1.0 | 1.0 | 1.0 | 0.747 | 0.853 | 0.214 |
+| **BASE** | 0.120 | 0.917 | 0.120 | 0.942 | 0.0 | 0.103 | 0.0 |
+
 
 ### Key Findings
 
@@ -216,24 +234,6 @@ The metrics validate that combining supervised fine-tuning with retrieval augmen
 *Example interaction demonstrating RAG-retrieved fact citations with unique identifiers (e.g., [BHF-D021]) embedded in responses.*
 
 > **Note:** All visualizations are generated from actual training runs and inference sessions. Place image files in an `assets/` directory in your repository root.
-
----
-
-## 🎬 Demo
-
-### 🌐 **Live UI** (Demo Only)
-**[Access Demo Interface →](https://your-demo-url.com)**
-
-> **Note:** This is a demonstration interface only. No live model is running on the backend. For full functionality, please run the application locally or use the API endpoints.
-
-### 📹 **Video Demo**
-**[Watch Video Demonstration →](https://your-video-url.com)**
-
-The video showcases:
-- Interactive chat with citation pop-overs
-- Multi-mode inference (SFT+RAG, Base+RAG, etc.)
-- Real-time fact retrieval and context highlighting
-- Admin dashboard with metrics
 
 ---
 
