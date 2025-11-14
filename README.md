@@ -479,11 +479,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Project Maintainer**: [Your Name](mailto:your.email@example.com)
+**Project Maintainer**: [Srivatsava](mailto:srivatsava.kas@gmail.com)
 
 **Project Repository**: [github.com/KSV2001/brahmaanu_llm](https://github.com/KSV2001/brahmaanu_llm)
 
-**Hugging Face Models**: [huggingface.co/KSV2001](https://huggingface.co/KSV2001)
+**Hugging Face Models**: [huggingface.co/KSV2001](https://huggingface.co/Srikasi)
 
 ---
 
